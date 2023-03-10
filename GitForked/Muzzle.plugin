@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Plugin>
+    <Information>
+        <Name>Muzzle</Name>
+        <Author>Git-Forked</Author>
+        <Version>1.0.0</Version>
+        <Description>Muzzle trolls, spam, and keywords.</Description>
+    </Information>
+    <Package>GitForked.Muzzle.Main</Package>
+</Plugin>
