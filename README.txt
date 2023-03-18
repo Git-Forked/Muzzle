@@ -28,3 +28,9 @@ Special Thanks:
 
 To Geramond for suggesting the working title "Troll Muzzle";
 (later shortened to just Muzzle.)
+
+
+Available from:
+
+https://github.com/Git-Forked/Muzzle        <--(LATEST UPDATES)
+https://www.lotrointerface.com/downloads/info1212-Muzzle.html
