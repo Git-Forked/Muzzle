@@ -6,9 +6,6 @@
 # Hand editing the Muzzle.lua file is also possible.
 # This script may make it easier by not having to worry about quotes, commas, and tabs.
 
-# NOTE:
-# Muzzle.lua should be moved from the Extra folder into the Muzzle folder if created with this script.
-
 # Sort file and remove duplicates.
 sort --unique Muzzle.txt > Muzzle.lua
 
@@ -28,3 +25,8 @@ sed -i '$ s/.$//' Muzzle.lua
 # Append } to the end of the file:
 # $ selects the end of file, and the a tells it to append.
 sed -i '$ a }' Muzzle.lua
+
+# Move Muzzle.lua to the Muzzle folder.
+mv Muzzle.lua ../
+
+echo "Process Complete!"
