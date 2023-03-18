@@ -5,7 +5,7 @@
         <Author>Git-Forked</Author>
         <Version>1.0.0</Version>
         <Description>Muzzle trolls, spam, and keywords.</Description>
-        <Image>Gitforked/Muzzle/Extra/Muzzle.tga</Image>
+        <Image>Gitforked/Muzzle/Resources/Muzzle.tga</Image>
     </Information>
     <Package>GitForked.Muzzle.Main</Package>
 </Plugin>
