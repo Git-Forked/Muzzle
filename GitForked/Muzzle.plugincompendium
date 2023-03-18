@@ -7,7 +7,7 @@
   <InfoUrl>https://www.lotrointerface.com/downloads/info1212</InfoUrl>
   <DownloadUrl>http://www.lotrointerface.com/downloads/download1212</DownloadUrl>
   <Descriptors>
-    <descriptor>Git-Forked\Muzzle.plugin</descriptor>
+    <descriptor>GitForked\Muzzle.plugin</descriptor>
   </Descriptors>
   <Dependencies />
 </PluginConfig>
