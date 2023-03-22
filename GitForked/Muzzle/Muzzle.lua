@@ -4,7 +4,6 @@
 -- or with the provided BASH script "/Extra/Muzzle.sh" & "Muzzle.txt":
 
 Muzzle = {
-	'',
 	'/',
 	'Aduilwyn',
 	'Aloriendel',
