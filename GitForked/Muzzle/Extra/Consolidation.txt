@@ -24,6 +24,12 @@ Larkenarrow
 Larkenlore
 }
 
+Loss {
+Losse
+Lossewen
+Lossriel
+}
+
 May {
 May
 Mayalin
@@ -37,9 +43,15 @@ Maylea
 Mayori
 Mayre
 Mayshootyou
+Maysie
 Maystab
 Mayuki
 Mayzap
+}
+
+Podz {
+Podzila
+Podzzilla
 }
 
 Scott {
@@ -47,6 +59,11 @@ Scottbraw
 Scottem
 Scottshighelfchamp
 Scottsminihob
+}
+
+Spyd {
+Spydarin
+Spyden
 }
 
 Stormi {
@@ -62,6 +79,24 @@ Syndurin
 Syndyr
 }
 
+Toe {
+Toecap
+Toenailed
+}
+
+Tre {
+Trefolia
+Tremare
+Trephine
+Tresriel
+Tresylia
+}
+
+Tur {
+Turinthi
+Turjinbar
+}
+
 Vanim {
 Vanimeere
 Vanimere
@@ -71,4 +106,9 @@ Wato {
 Watoburg
 Watomage
 Watowiz
+}
+
+Wingy {
+Wingyili
+Wingylas
 }
