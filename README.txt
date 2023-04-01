@@ -31,6 +31,24 @@ the chat. On the menu choose 'Output Channel'
 and tick on 'World'.
 
 
+Installation:
+
+Unzip or 'Extact All' of the Muzzle*.zip into the proper plugin folder as described below.
+
+Installation folder for Linux or Steam:
+.steam/steam/steamapps/compatdata/212500/pfx/dosdevices/c:/users/steamuser/My Documents/The Lord of the Rings Online/Plugins/
+
+Installation folder for Windows:
+c:/users/<USERNAME>/My Documents/The Lord of the Rings Online/Plugins/
+
+If the 'Plugins' folder does not exist, create it.
+
+Log in to the LOTRO game and your server, and on the right side of the character select screen click the button for 'Manage Plugins'.
+Click the green refresh arrow to refresh the list of plugins installed.
+Find 'Muzzle' in the list and left click it.
+Under 'About', change 'Automatically Load For' to 'All Characters'.
+
+
 Special Thanks:
 
 To Geramond for suggesting the working title "Troll Muzzle";
