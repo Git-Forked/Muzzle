@@ -43,6 +43,9 @@ c:/users/<USERNAME>/My Documents/The Lord of the Rings Online/Plugins/
 
 If the 'Plugins' folder does not exist, create it.
 
+The folder structure should look like:
+../Plugins/GitForked/Muzzle
+
 Log in to the LOTRO game and your server, and on the right side of the character select screen click the button for 'Manage Plugins'.
 Click the green refresh arrow to refresh the list of plugins installed.
 Find 'Muzzle' in the list and left click it.
