@@ -7,6 +7,7 @@ Bellamythebold
 Benson {
 Bensonarrow
 Bensonbear
+Bensonbook
 Bensonsong
 Bensonspear
 Bensonstaff
@@ -47,6 +48,13 @@ Maysie
 Maystab
 Mayuki
 Mayzap
+}
+
+Mel {
+Melithas
+Mellidhroth
+Melonii
+Meluthuilas
 }
 
 Podz {

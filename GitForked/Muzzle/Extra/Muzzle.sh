@@ -6,8 +6,11 @@
 # Hand editing the Muzzle.lua file is also possible.
 # This script may make it easier by not having to worry about quotes, commas, and tabs.
 
-# Sort file and remove duplicates.
-sort --unique Muzzle.txt > Muzzle.lua
+# Sort and remove duplicates.
+sort --unique --output=Muzzle.txt Muzzle.txt
+
+# Copy Muzzle.txt to Muzzle.lua
+cp Muzzle.txt Muzzle.lua
 
 # Add single quotes around lines and a comma.
 # -i tells it to do it inline (overwriting the same file).
