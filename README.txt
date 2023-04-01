@@ -18,10 +18,17 @@ Suggested Usage:
 Create a new chat tab for World chat.
 It's recommended to rename this tab to '.',
 and not pay any attention to this tab.
+Right-click this tab. On the menu choose 'Change Filters',
+and tick on 'World'.
 
 Create another new tab for Standard.
 It's recommended to rename this tab to 'Main',
 to signify that this is the tab you will want to read the chat from.
+Right-click this tab. On the menu choose 'Change Filters',
+and tick on 'Standard'.
+Then left click the Chat Bubble icon to the bottom left of
+the chat. On the menu choose 'Output Channel'
+and tick on 'World'.
 
 
 Special Thanks:
