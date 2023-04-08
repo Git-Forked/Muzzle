@@ -7,6 +7,7 @@ Andricorn
 Anklebyter
 Anubelf
 Aoelithe
+Aphora
 Aranfeleos
 Ardandriel
 Ariezen
@@ -14,10 +15,13 @@ Arjunelle
 Arrivo
 Artyzan
 Astanya
+Aswifeth
 Aumnydaria
 Aurblodyn
 Azruthor
+Baccara
 bacon
+Bacon
 Baheeby
 Balkund
 Bantwen
@@ -45,11 +49,13 @@ Bruenyn
 Bryetwulf
 Bunnydemon
 Bwalon
+Calendulla
 Carianor
 Catallaxy
 Cathonriel
 Catryona
 Celebecthel
+Cenedrilra
 Chantall
 Chesnutpuck
 Chunindia
@@ -83,6 +89,7 @@ Dnarthur
 Druando
 Dumbledorf
 Dwazabella
+Dwaziriel
 Dyin
 Earthanor
 Ecathil
@@ -108,6 +115,7 @@ Ethiwaen
 Everlin
 Eyogentandre
 Fairewind
+Faithie
 Fennthicc
 Fidiler
 Fighty
@@ -118,6 +126,7 @@ Flitfo
 Florntnargg
 Fordiel
 Foreignoakenshield
+Fraeyaa
 Freaya
 Freyakkyn
 Fulgram
@@ -131,6 +140,7 @@ Gandorael
 Garyscalf
 Gelinwar
 Ghellar
+Glicious
 Glorfinmart
 Glyngil
 Goldiloss
@@ -146,10 +156,12 @@ Grimhelde
 Grippa
 Grumbleguth
 Gundurwarth
+Gurdorin
 Gwinne
 Gyrvor
 Haidel
 Haliriel
+Halmil
 Halv
 Hanarrad
 Hanaryn
@@ -215,6 +227,7 @@ Lachallun
 Laithriel
 Larken
 Larkspur
+Laurelinarien
 Lengethmorn
 LF
 Limelemon
@@ -240,10 +253,13 @@ Malcolm
 Malythorr
 Mameren
 Manodepiedra
+Manwithswords
 Marcusrahl
 Mareko
 Marewell
+Marfedelom
 Marlagarth
+Martadan
 May
 Mcgavan
 Medumam
@@ -264,6 +280,7 @@ Myffanway
 Nahtazu
 Nanduinuir
 Naneldel
+Narangren
 Naranthor
 Negativeglow
 Nenaured
@@ -291,6 +308,7 @@ Olirya
 Ollurin
 Oraenne
 Orthond
+Ostoril
 Ovnya
 Owaysis
 Papidonk
@@ -299,6 +317,7 @@ Pebbles
 Peluso
 Phtrod
 Podz
+Poffer
 Poyzonoak
 Quinmin
 Quixothir
@@ -306,8 +325,11 @@ Radamdam
 Rakshathul
 Raymiond
 Reinadis
+Reinarieth
 Reiyanor
+Rennia
 Revofruin
+Rhubraig
 Rhyya
 Ridderroy
 Robezhood
@@ -334,6 +356,7 @@ Sethamond
 sex
 Sexyandiknowit
 Shadori
+Shelbe
 Shieranor
 Shrekinator
 Shrubb
@@ -370,6 +393,7 @@ T7
 T8
 T9
 taco
+Taco
 Taenthann
 Tairii
 Tanyia
@@ -392,6 +416,7 @@ Tochihimo
 Toe
 Torenmir
 Tormur
+Torvalar
 Trajjin
 Trappyflaps
 Tre
@@ -403,6 +428,7 @@ Ualoria
 Uandan
 Uhaul
 Unglarion
+Urakad
 Urzaminor
 Vaidaran
 Valorgard
