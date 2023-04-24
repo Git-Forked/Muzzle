@@ -48,6 +48,7 @@ Blackrabbitking
 Bonappetit
 Boral
 Branderen
+Brandoch
 Brawlbo
 Brograw
 Broimsosaucy
@@ -126,6 +127,7 @@ Emretnuh
 Eorlhunts
 Eothaine
 Erass
+Erinti
 Ethelmath
 Ethiwaen
 Everlin
@@ -303,6 +305,7 @@ Minethos
 Minniscott
 Mirdirneth
 Mirelhach
+Mirillin
 Mithreindeer
 Mocuishle
 Mogstar
@@ -355,6 +358,7 @@ Pasionaria
 Pebbles
 Peluso
 Phtrod
+Plowpete
 Podz
 Poffer
 popcorn
@@ -388,6 +392,7 @@ Rytharius
 Saarthronah
 Saashay
 Sabennchamp
+Saerothir
 Salliboo
 Saltyoldcurmudgeon
 Samieth
@@ -428,6 +433,7 @@ Starrili
 Stickcaster
 Stoneformbis
 Stormi
+Stouthands
 Strothalion
 Studbeefpile
 Sublemonal
@@ -460,6 +466,7 @@ Thelhild
 Thenever
 TheNeverEndingStories
 Thengo
+Thidfinn
 Thorbosi
 Thorgrimar
 Thunderbyte
@@ -481,6 +488,7 @@ Tur
 Turinthi
 Tuxtormona
 Tynhierl
+Typpo
 Ualoria
 Uandan
 Uhaul
@@ -490,6 +498,7 @@ Urakad
 Urzaminor
 Vaidaran
 Valorgard
+Vanbulwark
 Vanbulwark2
 Vanim
 Vannoppie
@@ -506,6 +515,7 @@ Wingy
 Wulfius
 Wynohna
 Xaxarrien
+Xenaela
 Xennobia
 Xethias
 Xintrea
