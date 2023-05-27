@@ -39,9 +39,12 @@ Maybearie
 Mayble
 Maybrawl
 Maydena
+Mayechcin
 Mayghan
+Maylanna
 Maylea
 Mayori
+Mayphire
 Mayre
 Mayshootyou
 Maysie
@@ -92,13 +95,6 @@ Toecap
 Toenailed
 }
 
-Tre {
-Trefolia
-Tremare
-Trephine
-Tresriel
-Tresylia
-}
 
 Tur {
 Turinthi
