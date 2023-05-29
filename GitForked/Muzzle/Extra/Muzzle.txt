@@ -47,6 +47,7 @@ Barardir
 Beetz
 Beirodren
 Bella
+Belligerence
 Benson
 Beoregan
 Beornagayn
@@ -128,6 +129,7 @@ Dvoin
 Dwazabella
 Dwaziriel
 Dyin
+Earlindk
 Earthanor
 Ecathil
 Eetazz
@@ -136,6 +138,7 @@ Efbryt
 Egralin
 Eharlen
 Einstonr
+Eladuial
 Elenas
 Ellieraen
 Eloreah
@@ -156,6 +159,7 @@ Ethelmath
 Ethiwaen
 Everlin
 Eyogentandre
+Faefnir
 Fairewind
 Faithfull
 Faithie
@@ -275,9 +279,11 @@ Kambotoast
 Karalalla
 Karalena
 Karamina
+Karlovar
 Kashbold
 Katiey
 Kaye
+Keerito
 Keilee
 Kelembore
 Kellinore
@@ -300,6 +306,7 @@ Larken
 Larkspur
 Laurelinarien
 Lazywulf
+Legolambchops
 Lengethmorn
 LF
 Lillas
