@@ -60,6 +60,7 @@ Blackrabbitking
 Blerpolas
 Bonappetit
 Boral
+Boudicar
 Branderen
 Brandoch
 Brawlbo
@@ -84,6 +85,7 @@ Cenedrilra
 Chantall
 Cheeseburgler
 Chesnutpuck
+Chrysalis
 Chunindia
 Cilwen
 Cirelborn
@@ -220,6 +222,7 @@ Handiofair
 Haoleboy
 Hardfist
 Healrod
+Helgrenze
 Hermand
 Herullion
 Hervit
@@ -355,6 +358,7 @@ Mithreindeer
 Mocuishle
 Mogstar
 Mohobbit
+Moriaen
 Moxxley
 Moxxyma
 Mycouchpullsoutidont
@@ -522,6 +526,7 @@ Taenthann
 Tafrara
 Tairii
 Takomah
+Talyanda
 Tanyia
 Tappo
 Tarbel
@@ -541,6 +546,7 @@ Thengo
 Thidfinn
 Thorbosi
 Thorgrimar
+Thorinmaplehammah
 Thunderbyte
 Tiffanyandco
 Tikarah
