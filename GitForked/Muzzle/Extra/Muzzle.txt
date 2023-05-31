@@ -402,6 +402,7 @@ Odyros
 Ofallan
 Ofrelyan
 Ogdarcstar
+Oglo
 Oguard
 Ohmsderp
 Oimate
@@ -421,6 +422,7 @@ Papidonk
 Pasionaria
 Pebbles
 Peluso
+Philophone
 Phtrod
 Pismo
 Plowpete
@@ -443,6 +445,7 @@ Reinarieth
 Reiyanor
 Rennia
 Revofruin
+Rhea
 Rhubraig
 Rhyya
 Ridbeorn
@@ -457,6 +460,7 @@ Rormurori
 Rrandgrid
 Rudalla
 Rugad
+Runkhulruk
 Ruthadan
 Rytharius
 Saarthronah
@@ -504,6 +508,7 @@ spam
 Spannis
 Spiffyy
 Spyd
+Squatz
 Squishyelfthing
 Stannlas
 Starrili
@@ -625,6 +630,7 @@ Xennobia
 Xethias
 Xintrea
 Xirella
+Yaruzuk
 Yaulinde
 Ynarriel
 Yrrigfrid
