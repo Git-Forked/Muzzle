@@ -65,6 +65,7 @@ Boudicar
 Branderen
 Brandoch
 Brawlbo
+Brawlur
 Britthild
 Brograw
 Broimsosaucy
@@ -81,6 +82,7 @@ Catallaxy
 Cathonriel
 Catryona
 Celebecthel
+Cempynn
 Cendrya
 Cenedrilra
 Chantall
@@ -100,6 +102,7 @@ Crazy
 Creepygoat
 Curumaril
 Cutang
+Cuz
 Cwilla
 Cwynith
 Cyldene
@@ -149,6 +152,7 @@ Eltiner
 Elunis
 Elwys
 Elyviel
+Emillina
 Emretnuh
 Eorlhunts
 Eothaine
@@ -206,6 +210,7 @@ Gorimli
 Gosvallen
 Goudacheese
 Graelaf
+Gramhere
 Gramorin
 Grimhelde
 Grippa
@@ -253,11 +258,13 @@ Ilyamenielot
 Imdris
 Improvisation
 Inittowinit
+Inlerah
 Iowedhir
 Irohmako
 Isenshire
 Isotropic
 Itkurgat
+Izzybelle
 Jaarne
 Jabson
 Jalberto
@@ -281,6 +288,7 @@ Karalena
 Karamina
 Karlovar
 Kashbold
+Katarinah
 Katiey
 Kaye
 Keerito
@@ -320,6 +328,7 @@ Lokea
 Lonekk
 Longpig
 Lordevileyes
+Lorossi
 Lorrek
 Loss
 Lowelar
@@ -366,6 +375,7 @@ Mocuishle
 Mogstar
 Mohobbit
 Moriaen
+Moxxey
 Moxxley
 Moxxyma
 Mycouchpullsoutidont
@@ -423,6 +433,7 @@ Pasionaria
 Pebbles
 Peluso
 Philophone
+Philothera
 Phtrod
 Pismo
 Plowpete
@@ -430,6 +441,7 @@ Podz
 Poffer
 popcorn
 Poyzonoak
+Praelas
 Puremetal
 Quinmin
 Quinngon
@@ -440,6 +452,7 @@ Rakshathul
 Ranken
 Raymiond
 Redmender
+Redstonne
 Reinadis
 Reinarieth
 Reiyanor
@@ -491,6 +504,7 @@ Shieras
 Shrekinator
 Shrubb
 Shtisel
+Sibmar
 Siborin
 Sifrael
 Sifraen
@@ -559,6 +573,7 @@ Thidfinn
 Thorbosi
 Thorgrimar
 Thorinmaplehammah
+Thrarr
 Thunderbyte
 Tiffanyandco
 Tikarah
@@ -632,6 +647,7 @@ Xintrea
 Xirella
 Yaruzuk
 Yaulinde
+Yavon
 Ynarriel
 Yrrigfrid
 Zalanara
