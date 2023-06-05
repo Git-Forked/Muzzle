@@ -54,6 +54,7 @@ Beornagayn
 Beornunderabadsign
 Beravelda
 Berratul
+Berrazul
 bez
 Bez
 Birsa
@@ -82,6 +83,7 @@ Catallaxy
 Cathonriel
 Catryona
 Celebecthel
+Celebwind
 Cempynn
 Cendrya
 Cenedrilra
@@ -132,6 +134,7 @@ Dvoin
 Dwazabella
 Dwaziriel
 Dyin
+Eadrithe
 Earlindk
 Earthanor
 Ecathil
@@ -189,6 +192,7 @@ Fundir
 Fuzzywuzzey
 Fyrefleur
 Fyrno
+Gaelerian
 Gakomir
 Gallinir
 Gandorael
@@ -336,6 +340,7 @@ Lumelgar
 Lunazlir
 Luntauil
 Macroom
+Maerchellung
 Maevea
 Maevynn
 Maganwen
@@ -450,6 +455,7 @@ Rachelbarry
 Radamdam
 Rakshathul
 Ranken
+Rapunchel
 Raymiond
 Redmender
 Redstonne
@@ -486,6 +492,7 @@ Saltyoldcurmudgeon
 Samieth
 Sarcastard
 Sarradoc
+Sathbeo
 Saxmunn
 Scalanis
 Scott
@@ -586,6 +593,7 @@ Tochihimo
 Toe
 Tokuz
 Torenmir
+Torja
 Tormur
 Torvalar
 Tosmod
@@ -635,6 +643,7 @@ Whillow
 Whippet
 Wildie
 Wingy
+Wreckhelm
 Wulfius
 Wynanor
 Wynohna
