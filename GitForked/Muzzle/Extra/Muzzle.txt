@@ -78,6 +78,7 @@ Bwalon
 Calencam
 Calendulla
 Calililda
+Callevir
 Carianor
 Catallaxy
 Cathonriel
@@ -102,6 +103,7 @@ Craadro
 Crabwarth
 Crazy
 Creepygoat
+Cryspea
 Curumaril
 Cutang
 Cuz
@@ -111,6 +113,7 @@ Cyldene
 Cyrildor
 Cyrissjr
 Dagadaen
+Dagreth
 Dalongar
 Darduipher
 Darwarz
@@ -232,6 +235,7 @@ Halv
 Hanarrad
 Hanaryn
 Handiofair
+Hangermar
 Haoleboy
 Hardfist
 Healrod
@@ -428,6 +432,7 @@ Olirya
 Ollurin
 Onuaku
 Oraenne
+Ordinaryfool
 Orenwen
 Orthond
 Ostoril
@@ -440,6 +445,7 @@ Peluso
 Philophone
 Philothera
 Phtrod
+Pinkerbelle
 Pismo
 Plowpete
 Podz
@@ -559,6 +565,7 @@ Taenthann
 Tafrara
 Tairii
 Takomah
+Talliel
 Talyanda
 Tanyia
 Tappo
