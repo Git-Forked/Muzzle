@@ -6,6 +6,7 @@ Adredh
 Aduilwyn
 Aenglas
 Akillezee
+Akonivess
 Alengwen
 Aleriadh
 Aloriel
@@ -38,6 +39,7 @@ Ataniatur
 Aumnydaria
 Aurblodyn
 Avarima
+Avriela
 Aythalion
 Azruthor
 Baccara
@@ -82,6 +84,7 @@ Bruenyn
 Bryetwulf
 Bunnydemon
 Bwalon
+Cairwen
 Calencam
 Calendulla
 Calililda
@@ -210,6 +213,7 @@ Fuzzywuzzey
 Fyrefleur
 Fyrno
 Gaelerian
+Gaisras
 Gakomir
 Gallinir
 Gandorael
@@ -251,7 +255,9 @@ Hanaryn
 Handiofair
 Hangermar
 Haoleboy
+Hardanna
 Hardfist
+Hazzahs
 Healrod
 Helgrenze
 Hermand
@@ -260,6 +266,7 @@ Hervit
 Hingana
 Hiperbole
 Hiroladh
+Hlodrof
 Holiel
 Holmms
 Holmun
@@ -272,6 +279,7 @@ Hunterngather
 Hyanisse
 Hyssjostanob
 Iamq
+Ieseult
 Iic
 Ijsil
 Ilirwar
@@ -285,6 +293,7 @@ Inlerah
 Iowedhir
 Irohmako
 Isenshire
+Isoldeh
 Isotropic
 Itkurgat
 Izzybelle
@@ -459,6 +468,7 @@ Orenwen
 Orney
 Orthond
 Ostoril
+Otterohm
 Ovnya
 Owaysis
 Paladion
@@ -551,6 +561,8 @@ Sifraen
 Sigmodi
 Silnia
 Silverbree
+Sinead
+Sinring
 Siswaiaman
 Sitkia
 Skiffs
@@ -630,6 +642,7 @@ Tirwyn
 Tochihimo
 Toe
 Tokuz
+Toranduil
 Torenmir
 Torja
 Tormur
@@ -681,9 +694,11 @@ Wencliff
 Whillow
 Whippet
 Wildie
+Wildorf
 Wingy
 Wreckhelm
 Wulfius
+Wulfwend
 Wynanor
 Wynohna
 Xanawen
