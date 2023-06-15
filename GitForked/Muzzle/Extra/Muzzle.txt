@@ -32,6 +32,7 @@ Artyzan
 Arvithion
 Arwenya
 Asglorgor
+Asina
 Asorn
 Astanya
 Aswifeth
@@ -142,6 +143,7 @@ Direclaw
 Dissonance
 Dixiesky
 Dnarthur
+Dodorad
 Doobedat
 Druando
 Dulciana
@@ -246,6 +248,7 @@ Gwinne
 Gyrvor
 Haidel
 Haidwyn
+Haldaroc
 Halick
 Haliriel
 Halmil
@@ -488,6 +491,7 @@ popcorn
 Poyzonoak
 Praelas
 Presmer
+Punchatizemecap
 Puremetal
 Quinmin
 Quinngon
@@ -589,6 +593,7 @@ Sunnydragon
 Surreal
 Sustrai
 Syn
+Synwe
 T1
 T2
 T3
@@ -630,6 +635,7 @@ Thobrin
 Thorbosi
 Thorgrimar
 Thorinmaplehammah
+Thornuidhil
 Thrarr
 Thunderbyte
 Tiffanyandco
@@ -682,6 +688,7 @@ Vannoppie
 Varamphor
 Vathwen
 Veilo
+Velonia
 Verjibeorn
 Vethelion
 Vilette
