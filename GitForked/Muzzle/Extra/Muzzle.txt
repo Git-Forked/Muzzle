@@ -36,6 +36,7 @@ Arwenya
 Asglorgor
 Asina
 Asorn
+Astabao
 Astanya
 Aswifeth
 Ataniatur
@@ -157,7 +158,9 @@ Druando
 Dulciana
 Dumbledorf
 Dvoin
+Dvorako
 Dwazabella
+Dwazanazak
 Dwaziriel
 Dyin
 Eadrithe
@@ -172,6 +175,7 @@ Egralin
 Eharlen
 Einstonr
 Eladuial
+Eldaered
 Elenas
 Ellieraen
 Ellisary
@@ -357,6 +361,7 @@ Kendrablake
 Khalilah
 Khalilrandir
 Khurm
+Khwalilahbear
 Kirea
 Kitrael
 Konaran
@@ -380,6 +385,7 @@ Limelemon
 Linchino
 Lindahad
 Linkinlog
+Linnon
 Linthanel
 Lisandir
 Littlewhitedove
@@ -392,6 +398,7 @@ Lorossi
 Lorrek
 Loss
 Lowelar
+Loxodonta
 Lumelgar
 Lunazlir
 Luntalbor
@@ -718,6 +725,7 @@ Unglarion
 Urakad
 Ursalynn
 Urzaminor
+Vahndetta
 Vahnya
 Vaidaran
 Valorgard
