@@ -9,6 +9,7 @@ Akillezee
 Akonivess
 Alengwen
 Aleriadh
+Aljeron
 Aloriel
 Aloriendel
 Alwaysfadingecho
@@ -23,6 +24,7 @@ Aphora
 Aqiqo
 Aradaen
 Aranfeleos
+Archalion
 Ardandriel
 Ariezen
 Arjunelle
@@ -51,6 +53,7 @@ Baheeby
 Balkund
 Bantwen
 Baosli
+Baragonn
 Barardir
 Beetz
 Beirodren
@@ -119,6 +122,7 @@ Cryspea
 Curumaril
 Cutang
 Cuz
+Cwenmoda
 Cwilla
 Cwynith
 Cyldene
@@ -131,10 +135,12 @@ Darduipher
 Darwarz
 Deathmetalrabbit
 Decimater
+Delhad
 Delyssia
 Demiors
 Denothan
 Derdaran
+Deregorn
 Deserose
 Dhargard
 Didalera
@@ -177,6 +183,7 @@ Elwys
 Elyviel
 Emillina
 Emretnuh
+Emylraeb
 Eorlhunts
 Eothaine
 Erass
@@ -185,6 +192,7 @@ Erythron
 Ethelmath
 Ethiwaen
 Everlin
+Eyal
 Eyogentandre
 Faefnir
 Fairewind
@@ -209,6 +217,7 @@ Foreignoakenshield
 Fraeyaa
 Freaya
 Freyakkyn
+Frostedcupcake
 Fulgram
 Fundir
 Fuzzywuzzey
@@ -239,10 +248,12 @@ Goudacheese
 Graelaf
 Gramhere
 Gramorin
+Grep
 Grimhelde
 Grippa
 Grumbleguth
 Gundurwarth
+Gunnlodh
 Gurdorin
 Gwinne
 Gyrvor
@@ -260,6 +271,8 @@ Hangermar
 Haoleboy
 Hardanna
 Hardfist
+Harvain
+Hasadiga
 Hazzahs
 Healrod
 Helgrenze
@@ -300,6 +313,7 @@ Irohmako
 Isenshire
 Isoldeh
 Isotropic
+Ithrindiel
 Itkurgat
 Izzybelle
 Jaarne
@@ -333,6 +347,7 @@ Keerito
 Keilee
 Kelembore
 Kellinore
+Kenanier
 Kendis
 Kendrablake
 Khalilah
@@ -374,6 +389,7 @@ Loss
 Lowelar
 Lumelgar
 Lunazlir
+Luntalbor
 Luntauil
 Macroom
 Maerchellung
@@ -404,6 +420,7 @@ Medumam
 Mel
 Menglindril
 Merhedrith
+Mertensia
 Mesco
 Milkyshot
 Minethos
@@ -476,16 +493,19 @@ Ostoril
 Otterohm
 Ovnya
 Owaysis
+Owlbear
 Paladion
 Papidonk
 Pasionaria
 Pebbles
 Peluso
+Phaint
 Philophone
 Philothera
 Phtrod
 Pinkerbelle
 Pismo
+Plowman
 Plowpete
 Podz
 Poffer
@@ -505,6 +525,7 @@ Rakshathul
 Ranken
 Rapunchel
 Raymiond
+Razoin
 Redmender
 Redstonne
 Reinadis
@@ -585,6 +606,7 @@ Squatz
 Squishyelfthing
 Stannlas
 Starrili
+Steathstinger
 Stickcaster
 Stoneformbis
 Stormi
@@ -673,7 +695,9 @@ Tremare
 Trephine
 Tresriel
 Tresylia
+Trulo
 Tsugilist
+Tuoz
 Tuppo
 Tur
 Turinthi
@@ -710,6 +734,7 @@ Voruuk
 Waatwan
 Wato
 Waxxon
+Welmund
 Wencliff
 Whillow
 Whippet
@@ -734,6 +759,7 @@ Yavon
 Ynarriel
 Yrgest
 Yrrigfrid
+Ysmoll
 Zalanara
 Zephyriel
 Zifnyy
