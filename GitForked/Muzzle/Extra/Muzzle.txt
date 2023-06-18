@@ -40,6 +40,7 @@ Astanya
 Aswifeth
 Ataniatur
 Aumnydaria
+Auraith
 Aurblodyn
 Avarima
 Avriela
@@ -50,6 +51,7 @@ bacon
 Bacon
 Badbrad
 Baheeby
+Balephorion
 Balkund
 Bantwen
 Baosli
@@ -220,6 +222,7 @@ Freyakkyn
 Frostedcupcake
 Fulgram
 Fundir
+Furbaby
 Fuzzywuzzey
 Fyrefleur
 Fyrno
@@ -262,6 +265,7 @@ Haidwyn
 Haldaroc
 Halick
 Haliriel
+Halladr
 Halmil
 Halv
 Hanarrad
@@ -375,6 +379,7 @@ Lillas
 Limelemon
 Linchino
 Lindahad
+Linkinlog
 Linthanel
 Lisandir
 Littlewhitedove
