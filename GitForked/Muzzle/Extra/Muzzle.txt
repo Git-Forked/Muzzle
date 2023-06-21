@@ -7,6 +7,7 @@ Aduilwyn
 Aenglas
 Akillezee
 Akonivess
+Alectronia
 Alengwen
 Aleriadh
 Aljeron
@@ -43,7 +44,9 @@ Ataniatur
 Aumnydaria
 Auraith
 Aurblodyn
+Aurelianna
 Avarima
+Avjori
 Avriela
 Aythalion
 Azruthor
@@ -58,6 +61,7 @@ Bantwen
 Baosli
 Baragonn
 Barardir
+Bardindal
 Beetz
 Beirodren
 Belegurion
@@ -66,6 +70,7 @@ Belligerence
 Benson
 Beoregan
 Beornagayn
+Beorntobewylde
 Beornunderabadsign
 Beravelda
 Berratul
@@ -75,6 +80,7 @@ Bez
 Birsa
 Blackrabbitking
 Blerpolas
+boi
 Bonappetit
 Boral
 Boudicar
@@ -96,11 +102,13 @@ Calencam
 Calendulla
 Calililda
 Callevir
+Cantheriel
 Carianor
 Catallaxy
 Cathonriel
 Catryona
 Cayleigh
+Celeathe
 Celebecthel
 Celebwind
 Cempynn
@@ -116,6 +124,7 @@ Cirelborn
 Clamnog
 Claudein
 Clawrond
+Clemie
 Compassionate
 Craadro
 Crabwarth
@@ -136,6 +145,7 @@ Dagreth
 Dalongar
 Darduipher
 Darwarz
+Death
 Deathmetalrabbit
 Decimater
 Delhad
@@ -144,6 +154,7 @@ Demiors
 Denothan
 Derdaran
 Deregorn
+derp
 Deserose
 Dhargard
 Didalera
@@ -197,6 +208,7 @@ Erinti
 Erythron
 Ethelmath
 Ethiwaen
+Everkev
 Everlin
 Eyal
 Eyogentandre
@@ -211,6 +223,7 @@ Farralorm
 Feahyndanor
 Fennthicc
 Fidiler
+Fieri
 Fighty
 Finti
 Fireass
@@ -218,6 +231,7 @@ Firemyst
 Flitfo
 Florntnargg
 Fluffymcgee
+Fonzzie
 Fordiel
 Foreignoakenshield
 Fraeyaa
@@ -231,8 +245,10 @@ Fuzzywuzzey
 Fyrefleur
 Fyrno
 Gaelerian
+Gairabor
 Gaisras
 Gakomir
+Galabrandt
 Gallinir
 Gandorael
 Garyscalf
@@ -329,6 +345,7 @@ Jabson
 Jalberto
 Jalormur
 Jarusaran
+Jarzung
 Jashobeamnzl
 Jaxandil
 Jebaited
@@ -362,6 +379,7 @@ Khalilah
 Khalilrandir
 Khurm
 Khwalilahbear
+Kiputtyto
 Kirea
 Kitrael
 Konaran
@@ -413,6 +431,7 @@ Mairobhar
 Malastel
 Malcolm
 Malhaldor
+Malvegold
 Malythorr
 Mameren
 Manodepiedra
@@ -571,6 +590,7 @@ Salahaddin
 Salliboo
 Saltyoldcurmudgeon
 Samieth
+Sampaguita
 Sarcastard
 Sarradoc
 Sathbeo
@@ -707,8 +727,10 @@ Tremare
 Trephine
 Tresriel
 Tresylia
+Tromdir
 Trulo
 Tsugilist
+Tubbious
 Tuoz
 Tuppo
 Tur
@@ -719,7 +741,9 @@ Typpo
 Tywaz
 Ualoria
 Uandan
+Uberfool
 Uhaul
+Ulvghar
 Unbearables
 Unglarion
 Urakad
@@ -764,6 +788,7 @@ Xaxarrien
 Xenaela
 Xennobia
 Xethias
+Xial
 Xintrea
 Xirella
 Yaruzuk
