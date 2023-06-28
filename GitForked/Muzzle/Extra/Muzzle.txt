@@ -10,6 +10,7 @@ Akonivess
 Alectronia
 Alengwen
 Aleriadh
+Algim
 Aljeron
 Aloriel
 Aloriendel
@@ -19,6 +20,7 @@ Andricorn
 Anklebyter
 Annihilation
 Anorgalen
+Antellion
 Anubelf
 Aoelithe
 Aphora
@@ -52,7 +54,7 @@ Aythalion
 Azruthor
 Baccara
 bacon
-Bacon
+BACON
 Badbrad
 Baheeby
 Balephorion
@@ -83,6 +85,7 @@ Blerpolas
 boi
 Bonappetit
 Boral
+Bossmoss
 Boudicar
 Branderen
 Brandoch
@@ -191,6 +194,7 @@ Elenas
 Ellieraen
 Ellisary
 Eloreah
+Elowambur
 Elqueso
 Elsavere
 Elthiram
@@ -290,6 +294,7 @@ Halmil
 Halv
 Hanarrad
 Hanaryn
+Handegorn
 Handiofair
 Hangermar
 Haoleboy
@@ -354,10 +359,12 @@ Jennariel
 Jewlalt
 Johnnytookamongo
 Joyrien
+Jozadak
 Jurelle
 Kaird
 Kalarana
 Kalibrea
+Kalidah
 Kalkinzin
 Kambotoast
 Karalalla
@@ -415,12 +422,14 @@ Lordevileyes
 Lorossi
 Lorrek
 Loss
+Lothun
 Lowelar
 Loxodonta
 Lumelgar
 Lunazlir
 Luntalbor
 Luntauil
+Luthiell
 Macroom
 Maerchellung
 Maevea
@@ -450,6 +459,7 @@ Mcgavan
 Medumam
 Mel
 Menglindril
+Mereliss
 Merhedrith
 Mertensia
 Mesco
@@ -469,6 +479,7 @@ Motlo
 Moxxey
 Moxxley
 Moxxyma
+Munches
 Mycouchpullsoutidont
 Myearsarepointy
 Myffanway
@@ -484,7 +495,9 @@ Negativeglow
 Nenaured
 Nichichi
 Nidland
+Nightmare
 Nilthrandir
+Nimraenoriel
 Ninebones
 Niskaru
 Nitzz
@@ -540,6 +553,7 @@ Plowman
 Plowpete
 Podz
 Poffer
+Polycarp
 popcorn
 Poyzonoak
 Praelas
@@ -629,6 +643,7 @@ Skuldjorna
 Smaulder
 Snappdragon
 Sneekypeekus
+Snorik
 Solveiga
 spam
 Spannis
@@ -649,6 +664,7 @@ Sublemonal
 Sunnydragon
 Surreal
 Sustrai
+Swordbilliam
 Syn
 Synwe
 t1
@@ -743,6 +759,7 @@ Ualoria
 Uandan
 Uberfool
 Uhaul
+Ulfthryth
 Ulvghar
 Unbearables
 Unglarion
