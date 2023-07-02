@@ -1,1 +1,2 @@
-3/3/23 - First release v1.0.0
+3/3/23 - v1.0.0 - First release
+7/2/23 - v1.1.0 - Add command for reload

@@ -9,7 +9,7 @@ import "GitForked.Muzzle.Configuration";
 import "GitForked.Muzzle.Muzzle";
 
 
-Turbine.Shell.WriteLine("<rgb=#008080>Muzzle</rgb> " .. Plugins.Muzzle:GetVersion() .. " loaded.");
+Turbine.Shell.WriteLine("<rgb=#008080>Muzzle</rgb> " .. Plugins.Muzzle:GetVersion() .. " by <rgb=#008080>Git-Forked</rgb> loaded.");
 
 function AddCallback(object, event, callback)
     if (object[event] == nil) then
@@ -39,3 +39,40 @@ function chatHandler(sender, args)
 end
 
 AddCallback(Turbine.Chat, "Received", chatHandler);
+
+-- Muzzle Reload
+function Reload()
+    Turbine.PluginManager.LoadPlugin('Muzzle Reload');
+end
+
+-- Muzzle Commands
+MuzzleCommand = Turbine.ShellCommand();
+
+function MuzzleCommand:Execute(command, arguments)
+    if (arguments == "reload") then
+        Turbine.Shell.WriteLine("Muzzle Reloading.");
+        Reload();
+    end
+end
+
+Turbine.Shell.AddCommand("Muzzle;muzzle", MuzzleCommand);
+
+-- Check if Muzzle Reload is loaded and if so unload it
+function ReloadCheck()
+    Turbine.PluginManager.RefreshAvailablePlugins();
+    loaded_plugins = Turbine.PluginManager.GetLoadedPlugins();
+
+    ReloadChecker = Turbine.UI.Control();
+    ReloadChecker:SetWantsUpdates(true);
+
+    ReloadChecker.Update = function(sender, args)
+        for k,v in pairs(loaded_plugins) do
+            if v.Name == "Muzzle Reload" then
+                Turbine.PluginManager.UnloadScriptState("MuzzleReload");
+            end
+        end
+        ReloadChecker:SetWantsUpdates(false);
+    end
+end
+
+ReloadCheck();

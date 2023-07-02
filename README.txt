@@ -52,6 +52,12 @@ Find 'Muzzle' in the list and left click it.
 Under 'About', change 'Automatically Load For' to 'All Characters'.
 
 
+Commands:
+
+/Muzzle reload
+Will reload the Muzzle plugin. This is useful if you have added names or keywords, since a reload is required for the new names or keywords to take effect.  This command prevents having to log your character out and back in, as in the previous version.
+
+
 Special Thanks:
 
 To Geramond for suggesting the working title "Troll Muzzle";
