@@ -49,6 +49,7 @@ Asina
 Asorn
 Astabao
 Astanya
+Astrewyn
 Aswifeth
 Ataniatur
 Aumnydaria
@@ -124,6 +125,7 @@ Callevir
 Cantheriel
 Captainsparrow
 Carianor
+Carrick
 Catallaxy
 Cathonriel
 Catryona
@@ -190,6 +192,7 @@ Direclaw
 Dissonance
 Dithrygg
 Dixiesky
+Djevaak
 Dnarthur
 Dodorad
 Doobedat
@@ -269,6 +272,7 @@ Firestarter
 Flitfo
 Florntnargg
 Fluffymcgee
+Fogostosa
 Fonzzie
 Fordiel
 Foreignoakenshield
@@ -366,6 +370,7 @@ Holmun
 Holobart
 Hoopyles
 Horyu
+Hrosdur
 Hullaras
 Humanchampion
 Humroc
@@ -388,6 +393,7 @@ Improvisation
 Imraldir
 Inittowinit
 Inlerah
+Install
 Iorthomund
 Iowedhir
 Irohmako
@@ -840,6 +846,7 @@ Tirwyn
 Tochihimo
 Toe
 Tokuz
+Topoftheworld
 Toranduil
 Torenmir
 Torja
@@ -948,3 +955,4 @@ Zoson
 Zurri
 Zyfel
 Zygel
+Hamloch
