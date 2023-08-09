@@ -177,6 +177,7 @@ Death
 Deathmetalrabbit
 Decimater
 Decoy
+Dekthalion
 Delhad
 Delyssia
 Demiors
@@ -217,6 +218,7 @@ Efbryt
 Egralin
 Eharlen
 Einstonr
+Eirornir
 Ekibyo
 Eladuial
 Eldaered
@@ -253,6 +255,7 @@ Fairaday
 Fairewind
 Faithfull
 Faithie
+Falarthuil
 Fallon
 Fandrili
 Faradayfox
@@ -318,6 +321,7 @@ Gorimli
 Gosvallen
 Goudacheese
 Graelaf
+Graeva
 Gramhere
 Gramorin
 Grep
@@ -339,6 +343,7 @@ Haliriel
 Halladr
 Halmil
 Halv
+Hamloch
 Hanarrad
 Hanaryn
 Handegorn
@@ -391,6 +396,7 @@ Ilyamenielot
 Imdris
 Improvisation
 Imraldir
+Inconstant
 Inittowinit
 Inlerah
 Install
@@ -601,6 +607,7 @@ Oakwood
 Oathbreaker
 Obius
 Odaghaim
+Oddam
 Oddessia
 Odorous
 Odyros
@@ -813,6 +820,7 @@ Tappo
 Tarbel
 Tardion
 Tarisma
+Tarvornion
 Tathorhen
 Tawd
 Taweth
@@ -955,4 +963,3 @@ Zoson
 Zurri
 Zyfel
 Zygel
-Hamloch
