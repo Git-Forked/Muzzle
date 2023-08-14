@@ -72,6 +72,7 @@ Balkund
 Bantwen
 Baosli
 Baragonn
+Baralinthel
 Baramlas
 Barardir
 Bardindal
@@ -97,6 +98,7 @@ Birsa
 Blackrabbitking
 Blappie
 Blerpolas
+Blilbow
 boi
 Bonappetit
 Boral
@@ -185,6 +187,7 @@ Denothan
 Derdaran
 Deregorn
 derp
+Derryk
 Deserose
 Dhargard
 Didalera
@@ -251,6 +254,7 @@ Everlin
 Eyal
 Eyogentandre
 Faefnir
+Faeogost
 Fairaday
 Fairewind
 Faithfull
@@ -418,6 +422,7 @@ Jarusaran
 Jarzung
 Jashobeamnzl
 Jasperen
+Jasperroot
 Jaxandil
 Jebaited
 Jellyjiggler
@@ -449,6 +454,7 @@ Kelembore
 Kellinore
 Kenabeorn
 Kenanier
+Kenawen
 Kendis
 Kendrablake
 Khalilah
@@ -537,9 +543,11 @@ Maridal
 Marlagarth
 Martadan
 Marwhini
+Mathanir
 Maximostly
 May
 Maygard
+Mcbill
 Mcgavan
 Medumam
 Meisie
@@ -623,6 +631,7 @@ Olarinil
 Olecoot
 Olirya
 Ollurin
+Onokh
 Onuaku
 Oraenne
 Oragorn
@@ -659,6 +668,7 @@ Poyzonoak
 Praelas
 Presmer
 Psolarea
+Pudgi
 Punchatizemecap
 Puremetal
 Quaziloco
@@ -862,6 +872,7 @@ Tormur
 Torvalar
 Tosmod
 Trajjin
+Tran
 Trappyflaps
 Travisbickle
 Trebleclef
@@ -926,6 +937,7 @@ Wato
 Waxxon
 Welmund
 Wencliff
+Weve
 Whillow
 Whippet
 Wigmund
