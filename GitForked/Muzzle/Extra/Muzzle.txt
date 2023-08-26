@@ -1,12 +1,14 @@
 /
 Aclandia
 Acornish
+Adaiel
 Adanidir
 Adinonzl
 Adredh
 Aduilwyn
 Aelfbrand
 Aenglas
+Aicamasse
 Akillezee
 Akonivess
 Alectrona
@@ -19,6 +21,7 @@ Aloriel
 Aloriendel
 Alwaysfadingecho
 Amlindor
+Andraviel
 Andricorn
 Angardir
 Angneluin
@@ -171,8 +174,10 @@ Cyrissjr
 Dagadaen
 Dagreth
 Dalongar
+Darcstah
 Darduipher
 Darwarz
+Dathran
 Davor
 Dazeydukes
 Death
@@ -181,6 +186,7 @@ Decimater
 Decoy
 Dekthalion
 Delhad
+Delrael
 Delyssia
 Demiors
 Denothan
@@ -249,6 +255,7 @@ Erinti
 Erythron
 Ethelmath
 Ethiwaen
+Ethoreal
 Everkev
 Everlin
 Eyal
@@ -269,6 +276,7 @@ Feahyandacappytwo
 Feahyndanor
 Feitanportor
 Fennthicc
+Ferrisrushb
 Fidiler
 Fieri
 Fighty
@@ -289,6 +297,7 @@ Freyakkyn
 Friggnar
 Frilla
 Frostedcupcake
+Frosthilda
 Fubs
 Fulgram
 Fundir
@@ -308,6 +317,7 @@ Garyscalf
 Gelinwar
 Gerrie
 Ghellar
+Giilinlerond
 Gilbrethil
 Gildarion
 Gillineorn
@@ -423,8 +433,10 @@ Jarzung
 Jashobeamnzl
 Jasperen
 Jasperroot
+Jasperweed
 Jaxandil
 Jebaited
+Jedirod
 Jellyjiggler
 Jennariel
 Jerdo
@@ -433,6 +445,7 @@ Johnnytookamongo
 Jonnybgoode
 Joyrien
 Jozadak
+Juggernaughtie
 Jurelle
 Kaird
 Kalarana
@@ -443,6 +456,7 @@ Kambotoast
 Karalalla
 Karalena
 Karamina
+Karaven
 Karlovar
 Kashbold
 Katarinah
@@ -510,6 +524,7 @@ Loss
 Lothun
 Lowelar
 Loxodonta
+Lucybunny
 Lumelgar
 Lunazlir
 Luntalbor
@@ -652,8 +667,10 @@ Parvata
 Pasionaria
 Pebbles
 Peluso
+Perinos
 Phaint
 Philophone
+Philophulax
 Philothera
 Phtrod
 Pinkerbelle
@@ -719,6 +736,7 @@ Saashay
 Sabennchamp
 Saerothir
 Salahaddin
+Saligil
 Salliboo
 Saltyoldcurmudgeon
 Samieth
@@ -853,11 +871,13 @@ Thorgrimar
 Thorinmaplehammah
 Thornuidhil
 Thrarr
+Thumpa
 Thunderbyte
 Tiffanyandco
 Tikarah
 Timothe
 Tinburgler
+Tinowyn
 Tiocfaidharla
 Tippo
 Tirwyn
@@ -909,6 +929,7 @@ Uthbehrt
 Vahndetta
 Vahnya
 Vaidaran
+Valdifar
 Valithia
 Valorgard
 Valzaan
@@ -971,6 +992,7 @@ Zephyriel
 Zifnyy
 zilla
 Zingiber
+Zoke
 Zoson
 Zurri
 Zyfel
