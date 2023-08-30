@@ -506,6 +506,7 @@ LF
 Liannanor
 Lillas
 Limelemon
+Linadoor
 Linchino
 Lindahad
 Linfador
@@ -579,6 +580,7 @@ Merhedrith
 Mertensia
 Mesco
 Migheedo
+Militant
 Milkyshot
 Minethos
 Minniscott
@@ -762,6 +764,7 @@ Scummybear
 Seeww
 Senirian
 Sepulchraive
+Serrbeorn
 Sethamond
 sex
 Sexyandiknowit
