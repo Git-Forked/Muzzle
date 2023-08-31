@@ -8,6 +8,7 @@ Adredh
 Aduilwyn
 Aelfbrand
 Aenglas
+Aenorean
 Aicamasse
 Akillezee
 Akonivess
@@ -51,6 +52,7 @@ Asglorgor
 Asina
 Asorn
 Astabao
+Astaillyn
 Astanya
 Astrewyn
 Aswifeth
@@ -63,6 +65,7 @@ Avarima
 Avjori
 Avriela
 Aylisa
+Aylithe
 Aythalion
 Azruthor
 Baccara
@@ -407,6 +410,7 @@ Iceposeidon
 Ieseult
 Iic
 Ijsil
+Ijwen
 Ilirwar
 Iluenil
 Ilwyn
@@ -430,6 +434,7 @@ Itkurgat
 Izzybelle
 Jaarne
 Jabson
+Jakwaggon
 Jalberto
 Jalormur
 Jarusaran
@@ -451,6 +456,7 @@ Joyrien
 Jozadak
 Juggernaughtie
 Jurelle
+Justahobbit
 Kaird
 Kalarana
 Kalibrea
@@ -509,6 +515,7 @@ Limelemon
 Linadoor
 Linchino
 Lindahad
+Lindhellith
 Linfador
 Linkinlog
 Linnon
@@ -546,6 +553,7 @@ Magdanel
 Magolas
 Mailewen
 Mairobhar
+Maladirs
 Malastel
 Malcolm
 Malhaldor
@@ -721,6 +729,7 @@ Reinadis
 Reinarieth
 Reiyanor
 Rennia
+Reviadir
 Revofruin
 Rhea
 Rhubraig
@@ -771,6 +780,7 @@ Sexyandiknowit
 Shadori
 Shadowtom
 Shelbe
+Sherieth
 Shielda
 Shieranor
 Shieras
@@ -952,6 +962,7 @@ Vannoppie
 Varamphor
 Vathwen
 Veilo
+Velegorn
 Velonia
 Venatrici
 Verjibeorn
