@@ -10,7 +10,7 @@ Muzzle trolls, spam, and keywords.
 
 Long Description:
 
-Muzzle trolls, spam, and keywords by filtering chat with a list of player names and keywords. Muzzle accomplishes this by forwarding wanted chat to the Standard channel, and leaving out unwanted chat.  Due to current LOTRO API limitations it is not currently possible to filter out of the originating channels. If this becomes possible in the future, this plugin may be updated with a better solution.
+Muzzle trolls, spam, and keywords by filtering chat with a list of player names and keywords. Muzzle accomplishes this by forwarding wanted chat to the Standard channel, and leaving out unwanted chat.
 
 
 Suggested Usage:
