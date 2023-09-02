@@ -44,6 +44,7 @@ Arduthin
 Ariezen
 Arjunelle
 Arkoudos
+Arrieldel
 Arrivo
 Artyzan
 Arvithion
@@ -284,6 +285,7 @@ Feahyndanor
 Feitanportor
 Fennthicc
 Ferrisrushb
+Festeon
 Fidiler
 Fieri
 Fighty
@@ -328,6 +330,7 @@ Giilinlerond
 Gilbrethil
 Gildarion
 Gillineorn
+Gillinronder
 Gimlael
 Glicious
 Glorfinmart
@@ -340,6 +343,7 @@ Gondorzilla
 Gordarond
 Gorimli
 Gosvallen
+Gothrand
 Goudacheese
 Graelaf
 Graeva
@@ -491,6 +495,7 @@ Kitrael
 Konaran
 Kovaskahn
 Krayoneaterwe
+Kuchikukan
 Kuzd
 Kuzukic
 Kwarei
@@ -531,12 +536,14 @@ Lordevileyes
 Loremandy
 Lorithemouse
 Lorossi
+Lorrandan
 Lorrek
 Loss
 Lothun
 Lowelar
 Loxodonta
 Lucybunny
+Lucycutie
 Lumelgar
 Lunazlir
 Luntalbor
@@ -705,6 +712,7 @@ Psolarea
 Pudgi
 Punchatizemecap
 Puremetal
+Qertinya
 Quaziloco
 Quinmin
 Quinngon
@@ -917,6 +925,7 @@ Tran
 Trappyflaps
 Travisbickle
 Trebleclef
+Treelore
 Trefolia
 Tremare
 Trephine
@@ -1003,6 +1012,7 @@ Xintrea
 Xirella
 Xiriella
 Xoros
+Xtalker
 Yaruzuk
 Yaulinde
 Yavon
