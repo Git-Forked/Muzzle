@@ -258,6 +258,7 @@ Eirornir
 Ekibyo
 Eladuial
 Eldaered
+Elderia
 Elenas
 Elkana
 Ellieraen
@@ -437,6 +438,7 @@ Humanchampion
 Humroc
 Hunteringngathering
 Hunterngather
+Hurting
 Hyanisse
 Hyssjostanob
 Iammullet
@@ -500,6 +502,7 @@ Kalibrea
 Kalidah
 Kalkinzin
 Kambotoast
+Kaossilator
 Karalalla
 Karalena
 Karamina
@@ -745,6 +748,7 @@ Philophone
 Philophulax
 Philothera
 Phtrod
+Pilau
 Pimpy
 Pinkerbelle
 Pismo
