@@ -50,6 +50,7 @@ Arkoudos
 Arrieldel
 Arrivo
 Arthelios
+Arthillen
 Artyzan
 Arvithion
 Arwenya
@@ -192,6 +193,7 @@ Cyrissjr
 Dagadaen
 Dagreth
 Dalongar
+Danaii
 Darcstah
 Darduipher
 Darwarz
@@ -246,6 +248,7 @@ Earlindun
 Earodel
 Earthanor
 Ebeneezergoode
+Ecafast
 Ecathil
 Edenfiel
 Eetazz
@@ -382,6 +385,7 @@ Granomir
 Grep
 Grimhelde
 Grimowyn
+Grimradd
 Grippa
 Grumbleguth
 Gundurwarth
@@ -404,6 +408,7 @@ Hanarrad
 Hanaryn
 Handegorn
 Handiofair
+Handzy
 Hangermar
 Hanomag
 Haoleboy
@@ -884,6 +889,7 @@ Sprunga
 Spyd
 Squatz
 Squishyelfthing
+Srordat
 Stannlas
 Starrili
 Starsaber
@@ -1094,6 +1100,7 @@ Zingiber
 Zoke
 Zorthan
 Zoson
+Zuok
 Zurri
 Zydbal
 Zyfel
