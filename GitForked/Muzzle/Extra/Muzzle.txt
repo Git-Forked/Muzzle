@@ -50,6 +50,7 @@ Arkoudos
 Arrieldel
 Arrivo
 Arthelios
+Arthelos
 Arthillen
 Artyzan
 Arvithion
@@ -90,6 +91,7 @@ Baralinthel
 Baramlas
 Barardir
 Bardindal
+Batrina
 Baurog
 Bayzur
 Beetz
@@ -114,6 +116,7 @@ Birsa
 Blackrabbitking
 Blappie
 Blerpolas
+Bliffin
 Blilbow
 boi
 Bonappetit
@@ -207,6 +210,7 @@ Decoy
 Dedocta
 Dedraf
 Dekthalion
+Delfer
 Delhad
 Dellianna
 Delrael
@@ -221,6 +225,7 @@ Deserose
 Dhargard
 Dhearic
 Didalera
+Digton
 Dirdacar
 Direclaw
 Dissonance
@@ -258,6 +263,7 @@ Egralin
 Eharlen
 Einstonr
 Eirornir
+Ekessa
 Ekibyo
 Eladuial
 Eldaered
@@ -300,6 +306,7 @@ Fairaday
 Fairewind
 Faithfull
 Faithie
+Falarey
 Falarthuil
 Fallon
 Fandrili
@@ -311,6 +318,7 @@ Fathobbit
 Feahyandacappytwo
 Feahyndanor
 Feitanportor
+Felrin
 Fennthicc
 Ferrisrushb
 Festeon
@@ -376,6 +384,7 @@ Gordarond
 Gorimli
 Gosvallen
 Gothrand
+Gotursix
 Goudacheese
 Graelaf
 Graeva
@@ -436,6 +445,7 @@ Holmms
 Holmun
 Holobart
 Hoopyles
+Hopeslight
 Horyu
 Hrosdur
 Hullaras
@@ -548,6 +558,7 @@ Kwozzy
 Kyannah
 Lachallun
 Ladybeorn
+Lairelithonielle
 Laithriel
 Larfast
 Larken
@@ -604,6 +615,7 @@ Maevynn
 Maganwen
 Magdanel
 Magolas
+Magoneg
 Mailewen
 Mairobhar
 Maladirs
@@ -611,6 +623,7 @@ Malastel
 Malcolm
 Malhaldor
 Malistor
+Malonga
 Malorwyn
 Malphar
 Malvegold
@@ -641,6 +654,7 @@ Mel
 Menglindril
 Mereliss
 Merhedrith
+Merothin
 Mertensia
 Mesco
 Migheedo
@@ -753,6 +767,7 @@ Philophone
 Philophulax
 Philothera
 Phtrod
+Pickerel
 Pilau
 Pimpy
 Pinkerbelle
@@ -762,6 +777,7 @@ Plowpete
 Podz
 Poffer
 Polycarp
+Polynya
 popcorn
 Poyzonoak
 Praelas
@@ -803,7 +819,9 @@ Rhubraig
 Rhyya
 Ridbeorn
 Ridderroy
+Ringdagar
 Riverlos
+Rivier
 Robezhood
 Robrebeorn
 Robuilon
@@ -826,6 +844,7 @@ Saerothir
 Sakti
 Salahaddin
 Saligil
+Salinity
 Salliboo
 Saltyoldcurmudgeon
 Samieth
@@ -842,11 +861,13 @@ Scott
 Scrunkee
 Scummybear
 Seeww
+Selarglin
 Senirian
 Seoda
 Sepulchraive
 Serrbeorn
 Sethamond
+Sevensails
 sex
 Sexyandiknowit
 Shadori
@@ -866,6 +887,7 @@ Sifraen
 Sigmodi
 Silnia
 Silverbree
+Simpinaina
 Sinead
 Sinring
 Siswaiaman
@@ -950,6 +972,7 @@ Taweth
 Tazel
 Teenytinytater
 Teethclawfur
+Teezle
 Tefh
 Tharelaith
 Tharglafang
@@ -998,6 +1021,7 @@ Treelore
 Trefolia
 Tremare
 Trephine
+Tresatine
 Tresriel
 Tresylia
 Tromdir
@@ -1043,6 +1067,7 @@ Varamphor
 Vathwen
 Veilo
 Velegorn
+Velladona
 Velonia
 Venatrici
 Verjibeorn
@@ -1093,6 +1118,7 @@ Yrgest
 Yrrigfrid
 Ysmoll
 Zalanara
+Zariaha
 Zephyriel
 Zifnyy
 zilla
