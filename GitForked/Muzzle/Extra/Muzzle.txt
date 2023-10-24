@@ -42,6 +42,7 @@ Aqiqo
 Aradaen
 Aranfeleos
 Archalion
+Archamir
 Ardandriel
 Arduthin
 Ariezen
@@ -199,6 +200,7 @@ Dalongar
 Danaii
 Darcstah
 Darduipher
+Daridun
 Darwarz
 Dathran
 Davor
@@ -256,6 +258,7 @@ Ebeneezergoode
 Ecafast
 Ecathil
 Edenfiel
+Eebwick
 Eetazz
 Eetzz
 Efbryt
@@ -587,6 +590,7 @@ Littlewhitedove
 Liuin
 Logansan
 Lokea
+Lollygag
 Lonekk
 Longpig
 Lordevileyes
@@ -687,6 +691,7 @@ Mydric
 Myearsarepointy
 Myffanway
 Nadiae
+Nadira
 Nahtazu
 Nanduinuir
 Naneldel
@@ -811,6 +816,7 @@ Redstonne
 Reinadis
 Reinarieth
 Reiyanor
+Rendingchaos
 Rennia
 Reviadir
 Revofruin
@@ -820,6 +826,7 @@ Rhyya
 Ridbeorn
 Ridderroy
 Ringdagar
+Risiki
 Riverlos
 Rivier
 Robezhood
@@ -853,6 +860,7 @@ Sarcastard
 Sarorion
 Sarradoc
 Sarvi
+Sassythesasquatch
 Sathbeo
 Saxmunn
 Scalanis
@@ -991,6 +999,7 @@ Thorinmaplehammah
 Thornuidhil
 Thrallmark
 Thrarr
+Thruthla
 Thumpa
 Thunderbyte
 Tiffanyandco

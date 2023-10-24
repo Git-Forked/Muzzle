@@ -5,7 +5,7 @@ A LOTRO (Lord of The Rings Online) Lua Plugin.
 
 Short Description:
 
-Muzzle trolls, spam, and keywords.
+Muzzle trolls, spam, and keywords with a customizable list.
 
 
 Long Description:
