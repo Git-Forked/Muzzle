@@ -11,6 +11,7 @@ Aenglas
 Aenorean
 Aicamasse
 Airku
+Ajmehrai
 Akillezee
 Akonivess
 Alectrona
@@ -288,6 +289,7 @@ Elyviel
 Emillina
 Emretnuh
 Emylraeb
+Eogorn
 Eorlhunts
 Eorlthain
 Eothaine
@@ -377,6 +379,7 @@ Gilvorthos
 Gimlael
 Glicious
 Glorfinmart
+Glorfinwe
 Glyngil
 Goku
 Goldiloss
@@ -390,6 +393,7 @@ Gothrand
 Gotursix
 Goudacheese
 Graelaf
+Graenfinwe
 Graeva
 Gramhere
 Gramorin
