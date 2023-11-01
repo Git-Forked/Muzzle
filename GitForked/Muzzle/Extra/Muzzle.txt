@@ -23,6 +23,7 @@ Aljeron
 Aloriel
 Aloriendel
 Alwaysfadingecho
+Amaleia
 Amared
 Amlindor
 Andraviel
@@ -93,9 +94,11 @@ Baralinthel
 Baramlas
 Barardir
 Bardindal
+Barvind
 Batrina
 Baurog
 Bayzur
+Bearchaos
 Beetz
 Beirodren
 Belegurion
@@ -143,7 +146,10 @@ Bryetwulf
 Brynnwyn
 Bunnydemon
 Bwalon
+Cacophonix
+Caelynne
 Cairwen
+Caladess
 Calencam
 Calendulla
 Calililda
@@ -178,6 +184,7 @@ Clemie
 Coljackoneill
 Compassionate
 Connistua
+Corsairqueen
 Corvusignis
 Corvusterrae
 Craadro
@@ -185,6 +192,7 @@ Crabwarth
 Crazy
 Creepygoat
 Cryspea
+Cuftlo
 Curumaril
 Cutang
 Cuz
@@ -195,6 +203,7 @@ Cylcliff
 Cyldene
 Cyrildor
 Cyrissjr
+Daenaswith
 Dagadaen
 Dagreth
 Dalongar
@@ -222,6 +231,7 @@ Demiors
 Denothan
 Derdaran
 Deregorn
+Derehate
 derp
 Derryk
 Deserose
@@ -240,9 +250,11 @@ Dodorad
 Dolinada
 Doobedat
 Dorfy
+Drizdenn
 Druando
 Dulciana
 Dumbledorf
+Durahann
 Dvoin
 Dvorako
 Dwazabella
@@ -277,6 +289,7 @@ Elkana
 Ellieraen
 Ellisary
 Eloreah
+Elosyadar
 Elowambur
 Elqueso
 Elsavere
@@ -294,6 +307,7 @@ Eorlhunts
 Eorlthain
 Eothaine
 Erass
+Eredrimbel
 Erinti
 Erythron
 Estelwynn
@@ -315,6 +329,7 @@ Falarey
 Falarthuil
 Fallon
 Fandrili
+Faoiltiarna
 Faradayfox
 FaradayFox
 Farralorm
@@ -357,12 +372,14 @@ Furbaby
 Fuzzywuzzey
 Fyrefleur
 Fyrno
+Gaearil
 Gaelerian
 Gairabor
 Gairbo
 Gaisras
 Gakomir
 Galabrandt
+Galleott
 Gallinir
 Gandorael
 Garyscalf
@@ -424,6 +441,7 @@ Hanarrad
 Hanaryn
 Handegorn
 Handiofair
+Handord
 Handzy
 Hangermar
 Hanomag
@@ -446,6 +464,7 @@ Hingana
 Hiperbole
 Hirarthlas
 Hiroladh
+Hithina
 Hlodrof
 Holiel
 Holmms
@@ -471,6 +490,7 @@ Iic
 Ijsil
 Ijwen
 Ilirwar
+Iltharas
 Iluenil
 Ilwyn
 Ilyamenielot
@@ -530,6 +550,7 @@ Karalena
 Karamina
 Karaven
 Karlovar
+Kartuk
 Karwise
 Kashbold
 Katarinah
@@ -630,7 +651,9 @@ Maladirs
 Malastel
 Malcolm
 Malhaldor
+Maliadis
 Malistor
+Malogag
 Malonga
 Malorwyn
 Malphar
@@ -685,6 +708,8 @@ Moiraine
 Morganah
 Moriaen
 Morodeth
+Morveren
+Mossorin
 Motlo
 Moxxey
 Moxxley
@@ -706,6 +731,8 @@ Naranthor
 Narinna
 Nattee
 Negativeglow
+Nekros
+Nelsonord
 Nenaured
 Neppie
 Nethelion
@@ -769,6 +796,7 @@ Papidonk
 Parvata
 Pasionaria
 Pebbles
+Peligo
 Peluso
 Perinos
 Phaint
@@ -791,6 +819,7 @@ popcorn
 Poyzonoak
 Praelas
 Presmer
+Pritcher
 Psolarea
 Pudgi
 Punchatizemecap
@@ -818,6 +847,7 @@ Redmender
 Redneckman
 Redstonne
 Reinadis
+Reinarian
 Reinarieth
 Reiyanor
 Rendingchaos
@@ -836,6 +866,7 @@ Rivier
 Robezhood
 Robrebeorn
 Robuilon
+Rockmogstar
 Rockworthy
 Rokcavhir
 Romawende
@@ -1017,6 +1048,7 @@ Tippo
 Tirwyn
 Tochihimo
 Toe
+Toganthel
 Tokuz
 Topoftheworld
 Toranduil
@@ -1093,6 +1125,7 @@ Villo
 Voknur
 Voruuk
 Vruto
+Vylkariya
 Waatwan
 Warowulf
 Wato
@@ -1112,6 +1145,7 @@ Wulfius
 Wulfwend
 Wynanor
 Wynohna
+Xailei
 Xanawen
 Xaxarrien
 Xenaela
@@ -1127,6 +1161,7 @@ Yaruzuk
 Yaulinde
 Yavon
 Ynarriel
+Youngspaarow
 Yrgest
 Yrrigfrid
 Ysmoll
@@ -1138,6 +1173,7 @@ zilla
 Zingiber
 Zoke
 Zorthan
+Zorx
 Zoson
 Zuok
 Zurri
