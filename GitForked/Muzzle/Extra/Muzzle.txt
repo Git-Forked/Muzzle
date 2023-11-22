@@ -10,6 +10,7 @@ Aelfbrand
 Aenglas
 Aenorean
 Aicamasse
+Aicasarto
 Airku
 Ajmehrai
 Akillezee
@@ -72,6 +73,7 @@ Auraith
 Aurblodyn
 Aurelianna
 Avarima
+Avistent
 Avjori
 Avriela
 Aylisa
@@ -181,6 +183,7 @@ Clamnog
 Claudein
 Clawrond
 Clemie
+Codyak
 Coljackoneill
 Compassionate
 Connistua
@@ -252,6 +255,7 @@ Doobedat
 Dorfy
 Drizdenn
 Druando
+Druzy
 Dulciana
 Dumbledorf
 Durahann
@@ -286,6 +290,7 @@ Eldaered
 Elderia
 Elenas
 Elkana
+Ellanriel
 Ellieraen
 Ellisary
 Eloreah
@@ -391,6 +396,7 @@ Gilaglar
 Gilbrethil
 Gildarion
 Gillineorn
+Gillinlas
 Gillinronder
 Gilvorthos
 Gimlael
@@ -423,6 +429,7 @@ Grippa
 Grumbleguth
 Gundurwarth
 Gunnlodh
+Gunston
 Gurdorin
 Gwinne
 Gyrvor
@@ -530,6 +537,7 @@ Jellyjiggler
 Jennariel
 Jerdo
 Jewlalt
+Joelynne
 Johnnytookamongo
 Jonnybgoode
 Joyrien
@@ -573,6 +581,7 @@ Khurm
 Khwalilahbear
 Kiputtyto
 Kirea
+Kirenegan
 Kitrael
 Konaran
 Kornpop
@@ -1017,6 +1026,7 @@ Teenytinytater
 Teethclawfur
 Teezle
 Tefh
+Thalian
 Tharelaith
 Tharglafang
 Thelaris
@@ -1109,6 +1119,7 @@ Vanienimue
 Vanim
 Vannoppie
 Varamphor
+Varkanros
 Vathwen
 Veilo
 Velegorn
