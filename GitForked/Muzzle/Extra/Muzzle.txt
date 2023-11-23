@@ -1,4 +1,5 @@
 /
+Aariaa
 Aclandia
 Acornish
 Adaiel
@@ -9,6 +10,7 @@ Aduilwyn
 Aelfbrand
 Aenglas
 Aenorean
+Aew
 Aicamasse
 Aicasarto
 Airku
@@ -73,6 +75,7 @@ Auraith
 Aurblodyn
 Aurelianna
 Avarima
+Aviisttent
 Avistent
 Avjori
 Avriela
@@ -100,11 +103,13 @@ Barvind
 Batrina
 Baurog
 Bayzur
+Bbaqvea
 Bearchaos
 Beetz
 Beirodren
 Belegurion
 Bella
+Bellerdan
 Belligerence
 Benson
 Beoregan
@@ -149,6 +154,7 @@ Brynnwyn
 Bunnydemon
 Bwalon
 Cacophonix
+Caelfind
 Caelynne
 Cairwen
 Caladess
@@ -194,6 +200,7 @@ Craadro
 Crabwarth
 Crazy
 Creepygoat
+Crimsonsplatter
 Cryspea
 Cuftlo
 Curumaril
@@ -232,6 +239,7 @@ Delrael
 Delyssia
 Demiors
 Denothan
+Deramil
 Derdaran
 Deregorn
 Derehate
@@ -350,6 +358,7 @@ Festeon
 Fidiler
 Fieri
 Fighty
+Fimarith
 Finti
 Fireass
 Firemyst
@@ -370,6 +379,7 @@ Friggnar
 Frilla
 Frostedcupcake
 Frosthilda
+Frostkarr
 Fubs
 Fulgram
 Fundir
@@ -537,6 +547,7 @@ Jellyjiggler
 Jennariel
 Jerdo
 Jewlalt
+Jimineecrackhedd
 Joelynne
 Johnnytookamongo
 Jonnybgoode
@@ -597,6 +608,7 @@ Lachallun
 Ladybeorn
 Lairelithonielle
 Laithriel
+Laochson
 Larfast
 Larken
 Larkspur
@@ -610,6 +622,7 @@ Lengethmorn
 LF
 Liannanor
 Lillas
+Lillothriel
 Limelemon
 Linadoor
 Linchino
@@ -662,6 +675,7 @@ Malcolm
 Malhaldor
 Maliadis
 Malistor
+Malithar
 Malogag
 Malonga
 Malorwyn
@@ -669,6 +683,7 @@ Malphar
 Malvegold
 Malythorr
 Mameren
+Manburgerhelper
 Manodepiedra
 Manosdepiedra
 Manwithswords
@@ -744,6 +759,7 @@ Nekros
 Nelsonord
 Nenaured
 Neppie
+Nerariel
 Nethelion
 Neynwen
 Nichichi
@@ -852,6 +868,7 @@ Razledazle
 Razodin
 Razoin
 Razponto
+Redawson
 Redmender
 Redneckman
 Redstonne
@@ -886,6 +903,7 @@ Rudalla
 Rugad
 Runkhulruk
 Ruthadan
+Ryantyrtyrtyrtyr
 Ryeanne
 Rytharius
 Saarthronah
@@ -910,6 +928,7 @@ Saxmunn
 Scalanis
 Scathran
 Scott
+Scrufflesneedsashave
 Scrunkee
 Scummybear
 Seeww
@@ -917,6 +936,7 @@ Selarglin
 Senirian
 Seoda
 Sepulchraive
+Seratild
 Serrbeorn
 Sethamond
 Sevensails
@@ -929,6 +949,7 @@ Sherieth
 Shielda
 Shieranor
 Shieras
+Shockzula
 Shrekinator
 Shrubb
 Shtisel
@@ -1019,6 +1040,7 @@ Tardion
 Tarisma
 Tarvornion
 Tathorhen
+Tawan
 Tawd
 Taweth
 Tazel
@@ -1034,6 +1056,7 @@ Thelhild
 Thenever
 TheNeverEndingStories
 Thengo
+Theoddryht
 Thidfinn
 Thistledoon
 Thobrin
@@ -1044,6 +1067,7 @@ Thorinmaplehammah
 Thornuidhil
 Thrallmark
 Thrarr
+Throttalin
 Thruthla
 Thumpa
 Thunderbyte
@@ -1118,6 +1142,7 @@ Vanbulwark2
 Vanienimue
 Vanim
 Vannoppie
+Vantika
 Varamphor
 Varkanros
 Vathwen
@@ -1154,6 +1179,7 @@ Wingy
 Wreckhelm
 Wulfius
 Wulfwend
+Wylma
 Wynanor
 Wynohna
 Xailei
