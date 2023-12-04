@@ -27,6 +27,7 @@ Aloriel
 Aloriendel
 Alwaysfadingecho
 Amaleia
+Amandak
 Amared
 Amlindor
 Andraviel
@@ -89,6 +90,7 @@ BACON
 Bacu
 Badbrad
 Baheeby
+Bahogbilat
 Balephorion
 Balkund
 Bangleo
@@ -162,6 +164,7 @@ Calencam
 Calendulla
 Calililda
 Callevir
+Calonda
 Cantheriel
 Captainsparrow
 Carianor
@@ -178,6 +181,7 @@ Cempynn
 Cendrya
 Cenedrilra
 Chantall
+Chantelle
 Cheeseburgler
 Chesnutpuck
 Chetna
@@ -231,6 +235,7 @@ Decimater
 Decoy
 Dedocta
 Dedraf
+Deffen
 Dekthalion
 Delfer
 Delhad
@@ -360,6 +365,7 @@ Fieri
 Fighty
 Fimarith
 Finti
+Firalthil
 Fireass
 Firemyst
 Firestarter
@@ -441,6 +447,7 @@ Gundurwarth
 Gunnlodh
 Gunston
 Gurdorin
+Gusvirlond
 Gwinne
 Gyrvor
 Haidel
@@ -504,6 +511,7 @@ Iamq
 Iceposeidon
 Ieseult
 Iic
+Ijsia
 Ijsil
 Ijwen
 Ilirwar
@@ -556,6 +564,7 @@ Jozadak
 Juggernaughtie
 Jurelle
 Justahobbit
+Kadala
 Kaird
 Kaitlinx
 Kalarana
@@ -615,6 +624,7 @@ Larkspur
 Lathlered
 Lathrandhil
 Laurelinarien
+Lavirdel
 Lazywulf
 Legolambchops
 Lendless
@@ -680,6 +690,7 @@ Malogag
 Malonga
 Malorwyn
 Malphar
+Malvark
 Malvegold
 Malythorr
 Mameren
@@ -729,6 +740,7 @@ Mognet
 Mogstar
 Mohobbit
 Moiraine
+Mordredh
 Morganah
 Moriaen
 Morodeth
@@ -1090,6 +1102,7 @@ Torenmir
 Torja
 Tormur
 Torvalar
+Torvalig
 Tosmod
 Trajjin
 Tran
