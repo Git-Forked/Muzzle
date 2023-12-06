@@ -479,6 +479,7 @@ Havenbow
 Hazzahs
 Healrod
 Helgrenze
+Herbotic
 Hermand
 Herullion
 Hervit
@@ -914,6 +915,7 @@ Rrandgrid
 Rudalla
 Rugad
 Runkhulruk
+Rustymetal
 Ruthadan
 Ryantyrtyrtyrtyr
 Ryeanne
@@ -998,6 +1000,7 @@ Squatz
 Squishyelfthing
 Srordat
 Stannlas
+Starmetal
 Starrili
 Starsaber
 Steathstinger
