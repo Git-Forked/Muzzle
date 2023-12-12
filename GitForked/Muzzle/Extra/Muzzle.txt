@@ -205,6 +205,7 @@ Connistua
 Corsairqueen
 Corvusignis
 Corvusterrae
+Coventinah
 Craadro
 Crabwarth
 Crazy
@@ -413,6 +414,7 @@ Gallinir
 Gandorael
 Garyscalf
 Gelinwar
+Geliriel
 Gerrie
 Ghellar
 Giilinlerond
@@ -466,6 +468,7 @@ Haldis
 Halick
 Haliriel
 Halladr
+Halmarna
 Halmil
 Halv
 Hamloch
@@ -808,6 +811,7 @@ Odaghaim
 Oddam
 Oddessia
 Odorous
+Odyro
 Odyros
 Ofallan
 Ofrelyan
@@ -920,6 +924,7 @@ Rockworthy
 Rokcavhir
 Romawende
 Rormurori
+Roseilid
 Rozalynn
 Rrandgrid
 Rudalla
