@@ -22,6 +22,7 @@ Alectronia
 Alengwen
 Aleriadh
 Algim
+Alinden
 Aljeron
 Aloriel
 Aloriendel
@@ -71,12 +72,14 @@ Astanya
 Astrewyn
 Aswifeth
 Ataniatur
+Auchoo
 Aumnydaria
 Auraith
 Aurblodyn
 Aurelianna
 Avarima
 Aviisttent
+Avistennt
 Avistent
 Avjori
 Avriela
@@ -100,6 +103,7 @@ Baragonn
 Baralinthel
 Baramlas
 Barardir
+Barasit
 Bardindal
 Barvind
 Batrina
@@ -145,6 +149,7 @@ Brawlur
 Britthild
 Brograw
 Broimsosaucy
+Brombrawlin
 Bronwenna
 Brordon
 Brudd
@@ -222,6 +227,7 @@ Dagadaen
 Dagreth
 Dalongar
 Danaii
+Dankiest
 Darcstah
 Darduipher
 Daridun
@@ -393,8 +399,10 @@ Furbaby
 Fuzzywuzzey
 Fyrefleur
 Fyrno
+Gabrilos
 Gaearil
 Gaelerian
+Gaijindor
 Gairabor
 Gairbo
 Gaisras
@@ -524,6 +532,7 @@ Imdris
 Improvisation
 Imraldir
 Inconstant
+Indiela
 Inittowinit
 Inlerah
 Install
@@ -836,6 +845,7 @@ Pasionaria
 Pebbles
 Peligo
 Peluso
+Penypuncher
 Perinos
 Phaint
 Philophone
