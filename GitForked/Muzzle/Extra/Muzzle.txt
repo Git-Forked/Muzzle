@@ -78,6 +78,7 @@ Auraith
 Aurblodyn
 Aurelianna
 Avarima
+Averella
 Aviisttent
 Avistennt
 Avistent
@@ -170,7 +171,9 @@ Calendulla
 Calililda
 Callevir
 Calonda
+Camto
 Cantheriel
+Capanivara
 Captainsparrow
 Carianor
 Carrick
@@ -449,6 +452,7 @@ Gramorin
 Granomir
 Grep
 Grimhelde
+Grimlocked
 Grimowyn
 Grimradd
 Grippa
@@ -806,6 +810,7 @@ Nurvollos
 Nykerym
 Oakwood
 Oathbreaker
+Obadeb
 Obius
 Odaghaim
 Oddam
@@ -856,6 +861,7 @@ Philophone
 Philophulax
 Philothera
 Phtrod
+Picardh
 Pickerel
 Pilau
 Pimpy
