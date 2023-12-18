@@ -5,14 +5,18 @@ Acornish
 Adaiel
 Adanidir
 Adinonzl
+Adleren
+Adorawillow
 Adredh
 Aduilwyn
 Aelfbrand
 Aenglas
 Aenorean
 Aew
+Agerk
 Aicamasse
 Aicasarto
+Ainwel
 Airku
 Ajmehrai
 Akillezee
@@ -31,6 +35,7 @@ Amaleia
 Amandak
 Amared
 Amlindor
+Amranos
 Andraviel
 Andricorn
 Angardir
@@ -72,6 +77,7 @@ Astanya
 Astrewyn
 Aswifeth
 Ataniatur
+Atropa
 Auchoo
 Aumnydaria
 Auraith
@@ -97,6 +103,7 @@ Baheeby
 Bahogbilat
 Balephorion
 Balkund
+Balrendrath
 Bangleo
 Bantwen
 Baosli
@@ -156,6 +163,7 @@ Brordon
 Brudd
 Bruenyn
 Brunnalf
+Brunnlager
 Bruzo
 Bryetwulf
 Brynnwyn
@@ -175,6 +183,7 @@ Camto
 Cantheriel
 Capanivara
 Captainsparrow
+Captjameshook
 Carianor
 Carrick
 Catallaxy
@@ -190,6 +199,7 @@ Cendrya
 Cenedrilra
 Chantall
 Chantelle
+Chapolim
 Cheeseburgler
 Chesnutpuck
 Chetna
@@ -264,6 +274,7 @@ Deserose
 Dhargard
 Dhearic
 Didalera
+Dietsprite
 Digton
 Dirdacar
 Direclaw
@@ -311,9 +322,11 @@ Ekibyo
 Eladuial
 Eldaered
 Elderia
+Elelfrocken
 Elenas
 Elkana
 Ellanriel
+Ellidas
 Ellieraen
 Ellisary
 Eloreah
@@ -330,6 +343,7 @@ Elyviel
 Emillina
 Emretnuh
 Emylraeb
+Enrica
 Eogorn
 Eorlhunts
 Eorlthain
@@ -416,6 +430,7 @@ Galleott
 Gallinir
 Gandorael
 Garyscalf
+Gathrin
 Gelinwar
 Geliriel
 Gerrie
@@ -555,6 +570,7 @@ Itkurgat
 Izzybelle
 Jaarne
 Jabson
+Jackhoneysuckle
 Jakwaggon
 Jalberto
 Jalormur
@@ -727,6 +743,7 @@ Martingale
 Marwhini
 Mathanir
 Maximostly
+Maxwellyn
 May
 Maygard
 Mcbill
@@ -760,6 +777,7 @@ Moiraine
 Mordredh
 Morganah
 Moriaen
+Morled
 Morodeth
 Morveren
 Mossorin
@@ -772,6 +790,7 @@ Mycouchpullsoutidont
 Mydric
 Myearsarepointy
 Myffanway
+Myrddinus
 Nadiae
 Nadira
 Nahtazu
@@ -892,6 +911,7 @@ Rachelbarry
 Radablast
 Radamdam
 Radegunde
+Radymbl
 Rakshathul
 Ranken
 Rapunchel
@@ -920,6 +940,7 @@ Ridbeorn
 Ridderroy
 Ringdagar
 Risiki
+Risiko
 Riverlos
 Rivier
 Robezhood
@@ -933,6 +954,7 @@ Rormurori
 Roseilid
 Rozalynn
 Rrandgrid
+Rubysilver
 Rudalla
 Rugad
 Runkhulruk
@@ -980,6 +1002,7 @@ Sexyandiknowit
 Shadori
 Shadowtom
 Shelbe
+Shera
 Sherieth
 Shielda
 Shieranor
@@ -1004,6 +1027,7 @@ Skerling
 Skiffs
 Skuldjorna
 Slagg
+Slicendicealex
 Smaulder
 Snappdragon
 Snarvi
@@ -1116,9 +1140,11 @@ Tinowyn
 Tiocfaidharla
 Tippo
 Tirwyn
+Titianna
 Tochihimo
 Toe
 Toganthel
+Tokewise
 Tokuz
 Topoftheworld
 Toranduil
@@ -1176,13 +1202,16 @@ Valorgard
 Valzaan
 Vanbulwark
 Vanbulwark2
+Vani
 Vanienimue
 Vanim
 Vannoppie
+Vansamiriel
 Vantika
 Varamphor
 Varkanros
 Vathwen
+Vedok
 Veilo
 Velegorn
 Velladona
