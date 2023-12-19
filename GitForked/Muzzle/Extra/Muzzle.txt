@@ -16,6 +16,7 @@ Aew
 Agerk
 Aicamasse
 Aicasarto
+Aidintwo
 Ainwel
 Airku
 Ajmehrai
@@ -66,6 +67,7 @@ Arrivo
 Arthelios
 Arthelos
 Arthillen
+Artuinna
 Artyzan
 Arvithion
 Arwenya
@@ -102,6 +104,7 @@ Bacu
 Badbrad
 Baheeby
 Bahogbilat
+Baintauriel
 Balephorion
 Balkund
 Balrendrath
@@ -184,6 +187,7 @@ Camto
 Cantheriel
 Capanivara
 Captainsparrow
+Captcookie
 Captjameshook
 Carianor
 Carrick
@@ -631,6 +635,7 @@ Kenanir
 Kenawen
 Kendis
 Kendrablake
+Khadijah
 Khalilah
 Khalilrandir
 Khurm
@@ -662,6 +667,7 @@ Lathrandhil
 Laurelinarien
 Lavirdel
 Lazywulf
+Leggothir
 Legolambchops
 Lendless
 Lengethmorn
@@ -679,6 +685,7 @@ Linkinlog
 Linnon
 Linthanel
 Lisandir
+Lithlin
 Littlewhitedove
 Liuin
 Logansan
@@ -688,6 +695,7 @@ Lonekk
 Longpig
 Lordevileyes
 Loremandy
+Lorielen
 Lorithemouse
 Lorossi
 Lorrandan
@@ -977,10 +985,12 @@ Salinity
 Salliboo
 Saltyoldcurmudgeon
 Samieth
+Sammya
 Sampaguita
 Sarcastard
 Sarorion
 Sarradoc
+Sarthirwing
 Sarvi
 Sassythesasquatch
 Sathbeo
@@ -1031,6 +1041,7 @@ Skiffs
 Skuldjorna
 Slagg
 Slicendicealex
+Smacka
 Smaulder
 Snappdragon
 Snarvi
@@ -1281,6 +1292,7 @@ Zoke
 Zorthan
 Zorx
 Zoson
+Zumbaba
 Zuok
 Zurri
 Zydbal
