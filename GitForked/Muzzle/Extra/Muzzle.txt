@@ -299,6 +299,7 @@ Druando
 Druzy
 Dulciana
 Dumbledorf
+Dunarcarn
 Durahann
 Dvoin
 Dvorako
@@ -838,6 +839,7 @@ Niskaru
 Nitzz
 Nonemoreblack
 Nongo
+Norfori
 Nrizzle
 Nroin
 Nuckchorris
@@ -947,6 +949,7 @@ Redstonne
 Reinadis
 Reinarian
 Reinarieth
+Reinriel
 Reiyanor
 Rendingchaos
 Rennia
@@ -955,6 +958,7 @@ Revofruin
 Rhea
 Rhubraig
 Rhyya
+Ricecrispi
 Ridbeorn
 Ridderroy
 Ringdagar
