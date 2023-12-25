@@ -38,6 +38,7 @@ Amarathine
 Amared
 Amlindor
 Amranos
+Ancalaghon
 Andraviel
 Andricorn
 Angardir
@@ -118,6 +119,7 @@ Barardir
 Barasit
 Bardindal
 Barvind
+Bataosai
 Batrina
 Baurog
 Bayzur
@@ -361,6 +363,7 @@ Estelwynn
 Ethelmath
 Ethiwaen
 Ethoreal
+Ethwynn
 Everiol
 Everkev
 Everlin
@@ -437,6 +440,7 @@ Gallinir
 Gandorael
 Garyscalf
 Gathrin
+Gaulbo
 Gelinwar
 Geliriel
 Gerrie
@@ -638,6 +642,7 @@ Kendrablake
 Khadijah
 Khalilah
 Khalilrandir
+Khurisia
 Khurm
 Khwalilahbear
 Kiputtyto
@@ -763,6 +768,7 @@ Medumam
 Meisie
 Mel
 Menglindril
+Menuriel
 Mereliss
 Merhedrith
 Merothin
@@ -821,6 +827,7 @@ Neppie
 Nerariel
 Nethelion
 Neynwen
+Nhymrandir
 Nichichi
 Nidland
 Nightmare
@@ -911,6 +918,7 @@ Pritcher
 Psolarea
 Pudgi
 Punchatizemecap
+Punchii
 Puremetal
 Qertinya
 Quaziloco
@@ -974,6 +982,7 @@ Ruthadan
 Ryantyrtyrtyrtyr
 Ryeanne
 Rytharius
+Ryuknite
 Saarthronah
 Saashay
 Sabennchamp
@@ -1224,6 +1233,7 @@ Vansamiriel
 Vantika
 Varamphor
 Varkanros
+Varl
 Vathwen
 Vedok
 Veilo
@@ -1244,6 +1254,7 @@ Vruto
 Vylkariya
 Waatwan
 Warowulf
+wato
 Wato
 Waxxon
 Welmund
@@ -1277,6 +1288,7 @@ Xtalker
 Yaruzuk
 Yaulinde
 Yavon
+Yirthain
 Ynarriel
 Youngspaarow
 Yrgest
@@ -1288,6 +1300,7 @@ Zephyriel
 Zifnyy
 zilla
 Zingiber
+Zoemi
 Zoke
 Zorthan
 Zorx
