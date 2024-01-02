@@ -3,6 +3,7 @@ Aariaa
 Aclandia
 Acornish
 Adaiel
+Adanadir
 Adanidir
 Adinonzl
 Adleren
@@ -99,6 +100,7 @@ Aylithe
 Aythalion
 Azruthor
 Baccara
+Bacen
 bacon
 BACON
 Bacu
@@ -112,6 +114,7 @@ Balrendrath
 Bangleo
 Bantwen
 Baosli
+Baradir
 Baragonn
 Baralinthel
 Baramlas
@@ -125,6 +128,7 @@ Baurog
 Bayzur
 Bbaqvea
 Bearchaos
+Bearpigs
 Beetz
 Beirodren
 Belegurion
@@ -414,6 +418,7 @@ Foreignoakenshield
 Fraeyaa
 Freaya
 Freyakkyn
+Freyraen
 Frie
 Friggnar
 Frilla
@@ -718,6 +723,7 @@ Luntalbor
 Luntauil
 Luthiell
 Macroom
+Macyeth
 Madagast
 Maerchellung
 Maethrandiel
@@ -908,6 +914,7 @@ Pinkerbelle
 Pismo
 Plowman
 Plowpete
+Poctro
 Podz
 Poffer
 Polycarp
@@ -1205,6 +1212,7 @@ Tuppo
 Tur
 Turinthi
 Tuxtormona
+Twelveteen
 Tynhierl
 Typpo
 Tywaz
