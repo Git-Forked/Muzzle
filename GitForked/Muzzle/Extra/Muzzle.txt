@@ -148,6 +148,7 @@ bez
 Bez
 Bezerhealo
 Bilskirnir
+Birnfrith
 Birsa
 Blackrabbitking
 Blappie
@@ -198,6 +199,7 @@ Captjameshook
 Carianor
 Carrick
 Catallaxy
+Cathius
 Cathonriel
 Catryona
 Cayleigh
@@ -603,6 +605,7 @@ Jebaited
 Jedirod
 Jellyjiggler
 Jennariel
+Jeorric
 Jerdo
 Jewlalt
 Jimineecrackhedd
@@ -920,6 +923,7 @@ Poffer
 Polycarp
 Polynya
 popcorn
+Powerfists
 Poyzonoak
 Praelas
 Presmer
@@ -1071,6 +1075,7 @@ Soladun
 Solveiga
 spam
 Spannis
+Sparkslm
 Spiffyy
 Splorgi
 Sprunga
@@ -1084,6 +1089,7 @@ Starrili
 Starsaber
 Steathstinger
 Stickcaster
+Stigred
 Stoneformbis
 Stormi
 Stouthands
@@ -1097,6 +1103,7 @@ Sustrai
 Swordbilliam
 Sylmarwen
 Syn
+Syndi
 Synwe
 t1
 T1
