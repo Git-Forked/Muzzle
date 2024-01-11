@@ -41,6 +41,7 @@ Maybrawl
 Maydena
 Mayechcin
 Mayghan
+Maygard
 Maylanna
 Maylea
 Mayori
@@ -48,6 +49,7 @@ Mayphire
 Mayre
 Mayshootyou
 Maysie
+Mayslash
 Maystab
 Mayuki
 Mayzap
@@ -83,11 +85,12 @@ Stormibow
 Stormikin
 }
 
-Synd {
+Syn {
 Syndarin
 Syndi
 Syndurin
 Syndyr
+Synwe
 }
 
 Toe {
