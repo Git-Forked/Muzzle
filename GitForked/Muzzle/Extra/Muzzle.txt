@@ -153,6 +153,7 @@ Birnfrith
 Birsa
 Blackrabbitking
 Blappie
+Blaubeere
 Blerpolas
 Bliffin
 Blilbow
@@ -363,6 +364,7 @@ Eogorn
 Eorlhunts
 Eorlthain
 Eothaine
+Ephedria
 Erass
 Eredrimbel
 Erinti
@@ -390,6 +392,7 @@ Fandrili
 Faoiltiarna
 Faradayfox
 FaradayFox
+Faramart
 Farralorm
 Fatbombur
 Fathobbit
