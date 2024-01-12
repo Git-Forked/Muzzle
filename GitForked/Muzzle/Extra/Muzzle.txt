@@ -40,6 +40,7 @@ Amared
 Amlindor
 Amranos
 Ancalaghon
+Andborn
 Andraviel
 Andricorn
 Angardir
@@ -133,6 +134,7 @@ Beastrod
 Beetz
 Beirodren
 Belegurion
+Beleriandras
 Bella
 Bellerdan
 Belligerence
@@ -325,6 +327,7 @@ Earthanor
 Ebeneezergoode
 Ecafast
 Ecathil
+Ece
 Ececap
 Edenfiel
 Eebwick
@@ -373,6 +376,7 @@ Erinti
 Erythron
 Estelwynn
 Ethelmath
+Etheranie
 Ethiwaen
 Ethoreal
 Ethwynn
@@ -423,6 +427,7 @@ Fogostosa
 Fonzzie
 Fordiel
 Foreignoakenshield
+Forganus
 Fraeyaa
 Freaya
 Freyakkyn
@@ -430,6 +435,7 @@ Freyraen
 Frie
 Friggnar
 Frilla
+Frostdeefa
 Frostedcupcake
 Frosthilda
 Frostkarr
@@ -571,6 +577,7 @@ Ijsia
 Ijsil
 Ijwen
 Ilirwar
+Illunathros
 Iltharas
 Iluenil
 Ilwyn
@@ -627,6 +634,7 @@ Justahobbit
 Kadala
 Kaird
 Kaitlinx
+Kaivo
 Kalarana
 Kalibrea
 Kalidah
@@ -686,6 +694,7 @@ Larkspur
 Lathlered
 Lathrandhil
 Laurelinarien
+Lavindaria
 Lavirdel
 Lazywulf
 Leggothir
@@ -1172,6 +1181,7 @@ Thorbosi
 Thorgrimar
 Thorinmaplehammah
 Thornuidhil
+Thraingil
 Thrallmark
 Thrarr
 Throttalin
