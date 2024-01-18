@@ -20,6 +20,11 @@ Crazyhorrse
 Crazytalk
 }
 
+Eorl {
+Eorlhunts
+Eorlthain
+}
+
 Larken {
 Larkenarrow
 Larkenlore

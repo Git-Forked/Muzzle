@@ -11,7 +11,7 @@ Adorawillow
 Adredh
 Aduilwyn
 Aelfbrand
-Aellor-1
+Aellor
 Aenglas
 Aenorean
 Aew
@@ -33,6 +33,7 @@ Alinden
 Aljeron
 Aloriel
 Aloriendel
+Alvilde
 Alwaysfadingecho
 Amaleia
 Amaleri
@@ -370,8 +371,7 @@ Emretnuh
 Emylraeb
 Enrica
 Eogorn
-Eorlhunts
-Eorlthain
+Eorl
 Eothaine
 Ephedria
 Erass
@@ -411,6 +411,7 @@ Feahyndanor
 Feitanportor
 Felrin
 Fennthicc
+Fernwise
 Ferrisrushb
 Festeon
 Fidiler
@@ -475,6 +476,7 @@ Gilbrethil
 Gildarion
 Gillineorn
 Gillinlas
+Gillinmir
 Gillinronder
 Gilvorthos
 Gimlael
@@ -539,6 +541,7 @@ Hardanna
 Hardfist
 Harnesila
 Harvain
+Harwaen
 Hasadiga
 Havenbow
 Hazzahs
@@ -548,6 +551,7 @@ Herbotic
 Hermand
 Herullion
 Hervit
+Hesmuwth
 hh
 HH
 Hingana
@@ -564,6 +568,7 @@ Hoopyles
 Hopeslight
 Horyu
 Hrosdur
+Hucklebarry
 Hullaras
 Humanchampion
 Humroc
@@ -690,6 +695,7 @@ Kwozzy
 Kyannah
 Lachallun
 Ladybeorn
+Lagtastic
 Lairelithonielle
 Laithriel
 Laochson
@@ -736,6 +742,7 @@ Lorossi
 Lorrandan
 Lorrek
 Loss
+Loth
 Lothun
 Lowelar
 Loxodonta
@@ -848,6 +855,7 @@ Naradoc
 Narangren
 Naranthor
 Narinna
+Naslif
 Nattee
 Negativeglow
 Nekros
@@ -1022,6 +1030,7 @@ Saarthronah
 Saashay
 Sabennchamp
 Saerothir
+Safeguard
 Sakti
 Salahaddin
 Saligil
@@ -1160,6 +1169,7 @@ Tanyia
 Tappo
 Tararond
 Tarbel
+Tardadhan
 Tardion
 Tarisma
 Tarvornion
@@ -1328,6 +1338,7 @@ Xirella
 Xiriella
 Xoros
 Xtalker
+Yaaka
 Yaruzuk
 Yaulinde
 Yavon
