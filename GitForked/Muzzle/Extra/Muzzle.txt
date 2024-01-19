@@ -47,6 +47,7 @@ Andborn
 Andraviel
 Andricorn
 Angardir
+Angelcake
 Angneluin
 Anklebyter
 Annabeth
@@ -215,6 +216,7 @@ Cayleigh
 Celeathe
 Celebecthel
 Celebwind
+Celeiriel
 Celestialheart
 Cempynn
 Cendrya
@@ -423,6 +425,7 @@ Firalthil
 Fireass
 Firemyst
 Firestarter
+Flammewyn
 Flitfo
 Floddotter
 Florntnargg
@@ -433,6 +436,7 @@ Fonzzie
 Fordiel
 Foreignoakenshield
 Forganus
+Formatha
 Fraeyaa
 Freaya
 Freyakkyn
@@ -463,6 +467,7 @@ Galabrandt
 Galleott
 Gallinir
 Gandorael
+Garlique
 Garyscalf
 Gathrin
 Gaulbo
@@ -483,6 +488,7 @@ Gimlael
 Glicious
 Glorfinmart
 Glorfinwe
+Glorthendil
 Glyngil
 Goku
 Goldiloss
@@ -540,10 +546,12 @@ Haoleboy
 Hardanna
 Hardfist
 Harnesila
+Harrowthorn
 Harvain
 Harwaen
 Hasadiga
 Havenbow
+Hazeldawn
 Hazzahs
 Healrod
 Helgrenze
@@ -603,6 +611,7 @@ Iorthomund
 Iowedhir
 Irohmako
 Isenshire
+Isindule
 Isoldeh
 Isotropic
 Ithalros
@@ -785,6 +794,7 @@ Manburgerhelper
 Manodepiedra
 Manosdepiedra
 Manwithswords
+Maquista
 Marcusrahl
 Mareko
 Marewell
@@ -845,6 +855,7 @@ Mydric
 Myearsarepointy
 Myffanway
 Myrddinus
+Myuliel
 Nadiae
 Nadira
 Nahtazu
@@ -857,6 +868,7 @@ Naranthor
 Narinna
 Naslif
 Nattee
+Nefte
 Negativeglow
 Nekros
 Nelsonord
@@ -1125,6 +1137,7 @@ Stigred
 Stoneformbis
 Stormi
 Stouthands
+Strideher
 Strothalion
 Studbeefpile
 Sturmalin
@@ -1342,6 +1355,7 @@ Yaaka
 Yaruzuk
 Yaulinde
 Yavon
+Yggdrika
 Yirthain
 Ynarriel
 Youngspaarow
