@@ -66,6 +66,7 @@ Archalion
 Archamir
 Ardandriel
 Arduthin
+Argall
 Ariezen
 Arjunelle
 Arkoudos
@@ -127,6 +128,7 @@ Barardir
 Barasit
 Bardindal
 Barvind
+Baser
 Bataosai
 Batrina
 Baurog
@@ -452,6 +454,7 @@ Fubs
 Fulgram
 Fundir
 Furbaby
+Furcifer
 Fuzzywuzzey
 Fyrefleur
 Fyrno
@@ -464,6 +467,7 @@ Gairbo
 Gaisras
 Gakomir
 Galabrandt
+Galanthril
 Galleott
 Gallinir
 Gandorael
@@ -647,6 +651,7 @@ Jonnybgoode
 Joyrien
 Jozadak
 Juggernaughtie
+Juliachilds
 Jurelle
 Justahobbit
 Kadala
@@ -1276,6 +1281,7 @@ Uberfool
 Uhaul
 Ulfthryth
 Ulvghar
+Umonry
 Unbearables
 Unglarion
 Urakad
