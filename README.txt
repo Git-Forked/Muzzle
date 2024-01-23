@@ -68,3 +68,8 @@ Available from:
 
 https://github.com/Git-Forked/Muzzle        <--(LATEST UPDATES)
 https://www.lotrointerface.com/downloads/info1212-Muzzle.html
+
+
+Share Muzzle:
+
+Muzzle trolls, spam, and keywords by filtering chat with a CUSTOMIZABLE list. A FREE & open source plugin. Trolls complaining about the Muzzle plugin is proof that it works. See them no more: https://lotrointerface.com/downloads/info1212-Muzzle.html

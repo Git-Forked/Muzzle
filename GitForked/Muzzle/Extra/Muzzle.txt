@@ -9,13 +9,16 @@ Adinonzl
 Adleren
 Adorawillow
 Adredh
+Adronas
 Aduilwyn
 Aelfbrand
 Aellor
 Aenglas
 Aenorean
+Aethardiel
 Aew
 Agerk
+Aglabmenu
 Aicamasse
 Aicasarto
 Aidintwo
@@ -24,6 +27,7 @@ Airku
 Ajmehrai
 Akillezee
 Akonivess
+Aldsel
 Alectrona
 Alectronia
 Alengwen
@@ -49,6 +53,7 @@ Andricorn
 Angardir
 Angelcake
 Angneluin
+Anibalsacristan
 Anklebyter
 Annabeth
 Annihilation
@@ -156,6 +161,7 @@ Berrazul
 bez
 Bez
 Bezerhealo
+Billybobjunior
 Bilskirnir
 Birnfrith
 Birsa
@@ -176,6 +182,7 @@ Brandoch
 Brawlbo
 Brawlur
 Briggela
+Brightmetal
 Britthild
 Brograw
 Broimsosaucy
@@ -231,6 +238,7 @@ Chesnutpuck
 Chetna
 Chrysalis
 Chunindia
+Cildaran
 Cilwen
 Cirelborn
 Clamnog
@@ -250,6 +258,7 @@ Crabwarth
 Crazy
 Creepygoat
 Crimsonsplatter
+Critager
 Cryspea
 Cuftlo
 Curumaril
@@ -319,6 +328,7 @@ Druzy
 Dulciana
 Dumbledorf
 Dunarcarn
+Dunnylle
 Durahann
 Dvoin
 Dvorako
@@ -337,6 +347,7 @@ Ecafast
 Ecathil
 Ece
 Ececap
+Ecled
 Edenfiel
 Edomir
 Eebwick
@@ -512,6 +523,7 @@ Gramhere
 Gramorin
 Granomir
 Grep
+Gresaran
 Gretel
 Grimhelde
 Grimlocked
@@ -524,6 +536,7 @@ Gunnlodh
 Gunston
 Gurdorin
 Gusvirlond
+Gwathildol
 Gwinne
 Gyrvor
 Haidel
@@ -693,6 +706,7 @@ Khalilrandir
 Khurisia
 Khurm
 Khwalilahbear
+Kingsalimosi
 Kiputtyto
 Kirea
 Kirenegan
@@ -755,6 +769,7 @@ Lorithemouse
 Lorossi
 Lorrandan
 Lorrek
+Lorrundor
 Loss
 Loth
 Lothun
@@ -876,6 +891,7 @@ Nattee
 Nefte
 Negativeglow
 Nekros
+Nellathrond
 Nelsonord
 Nenaured
 Neppie
@@ -925,6 +941,7 @@ Olarinil
 Olecoot
 Olirya
 Ollurin
+Omegaruler
 Onokh
 Onuaku
 Oraenne
@@ -1014,6 +1031,7 @@ Revofruin
 Rhea
 Rhubraig
 Rhyya
+Riboka
 Ricecrispi
 Ridbeorn
 Ridderroy
@@ -1085,6 +1103,7 @@ sex
 Sexyandiknowit
 Shadori
 Shadowtom
+Shaill
 Shelbe
 Shera
 Sherieth
@@ -1118,6 +1137,7 @@ Smaulder
 Snappdragon
 Snarvi
 Sneekypeekus
+Sniffey
 Snorik
 Soladun
 Solveiga
@@ -1151,6 +1171,7 @@ Summersweet
 Sunnydragon
 Surreal
 Sustrai
+Svanfast
 Swordbilliam
 Sylmarwen
 Syn
@@ -1192,6 +1213,7 @@ Tardion
 Tarisma
 Tarvornion
 Tathorhen
+Taurtaren
 Tawan
 Tawd
 Taweth
