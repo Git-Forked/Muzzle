@@ -500,6 +500,7 @@ Gillinmir
 Gillinronder
 Gilvorthos
 Gimlael
+Gisbournne
 Glicious
 Glorfinmart
 Glorfinwe
@@ -964,6 +965,7 @@ Pasionaria
 Pebbles
 Peligo
 Peluso
+Pendulous
 Penypuncher
 Perinos
 Phaint
@@ -1362,6 +1364,7 @@ Wildie
 Wildorf
 Wingy
 Wreckhelm
+Wrothras
 Wulfius
 Wulfwend
 Wylma
