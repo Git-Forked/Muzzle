@@ -36,6 +36,7 @@ Aleriadh
 Algim
 Alinden
 Aljeron
+Allieone
 Aloriel
 Aloriendel
 Alvilde
@@ -270,6 +271,7 @@ Crimsonsplatter
 Critager
 Cryspea
 Cuftlo
+Curlywurly
 Curumaril
 Cutang
 Cuz
@@ -413,6 +415,7 @@ Ethwynn
 Everiol
 Everkev
 Everlin
+Exarrkunn
 Eyal
 Eyogentandre
 Faefnir
@@ -630,6 +633,7 @@ Ijsil
 Ijwen
 Ilirwar
 Illunathros
+Ilthaniel
 Iltharas
 Iluenil
 Ilwyn
@@ -692,6 +696,7 @@ Kaird
 Kaitlinx
 Kaivo
 Kalarana
+Kalaril
 Kalibrea
 Kalidah
 Kalkinzin
@@ -909,6 +914,7 @@ Narangren
 Naranthor
 Narinna
 Naslif
+Nataliie
 Nattee
 Nefte
 Negativeglow
@@ -1292,6 +1298,7 @@ Toganthel
 Tokewise
 Tokuz
 Tollenien
+Tomowyn
 Tonymaloney
 Topoftheworld
 Toranduil
