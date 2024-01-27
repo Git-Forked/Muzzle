@@ -240,6 +240,7 @@ Celebecthel
 Celebwind
 Celeiriel
 Celestialheart
+Celquay
 Cempynn
 Cendrya
 Cenedrilra
@@ -1133,10 +1134,16 @@ Sarthirwing
 Sarvi
 Sassythesasquatch
 Sathbeo
+sausage
+Sausage
+SAUSAGE
 Saxmunn
 Scalanis
 Scathran
-Scott
+Scottbraw
+Scottem
+Scottshighelfchamp
+Scottsminihob
 Scrufflesneedsashave
 Scrunkee
 Scummybear
@@ -1305,6 +1312,7 @@ Thunderbyte
 Tiffanyandco
 Tigvi
 Tikarah
+Tiltius
 Timothe
 Tinburgler
 Tinowyn
@@ -1454,6 +1462,7 @@ Yrrigfrid
 Ysmoll
 Zaeri
 Zalanara
+Zaleia
 Zariaha
 Zephyriel
 Zifnyy

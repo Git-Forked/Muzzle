@@ -17,6 +17,7 @@ Bensonya
 
 Crazy {
 Crazyhorrse
+Crazyskin
 Crazytalk
 }
 
@@ -71,13 +72,6 @@ Meluthuilas
 Podz {
 Podzila
 Podzzilla
-}
-
-Scott {
-Scottbraw
-Scottem
-Scottshighelfchamp
-Scottsminihob
 }
 
 Spyd {
