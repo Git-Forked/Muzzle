@@ -46,6 +46,7 @@ Amaleri
 Amandak
 Amarathine
 Amared
+Amethysl
 Amlindor
 Amranos
 Amrindril
@@ -144,6 +145,7 @@ Baser
 Bataosai
 Batrina
 Baurog
+Baysur
 Bayzur
 Bbaqvea
 Bearchaos
@@ -196,6 +198,7 @@ Britthild
 Brograw
 Broimsosaucy
 Brombrawlin
+Brondowar
 Bronwenna
 Brordon
 Brudd
@@ -242,6 +245,7 @@ Cendrya
 Cenedrilra
 Chantall
 Chantelle
+Chaosspark
 Chapolim
 Cheeseburgler
 Chesnutpuck
@@ -322,6 +326,7 @@ Dhearic
 Didalera
 Dietsprite
 Digton
+Dinalagosseth
 Dirdacar
 Direclaw
 Dissonance
@@ -330,6 +335,7 @@ Dixiesky
 Djevaak
 Dnarthur
 Dodorad
+Dolethrian
 Dolinada
 Doobedat
 Dorfy
@@ -404,6 +410,7 @@ Ephedria
 Erass
 Eredrimbel
 Erinti
+Ertorias
 Erythron
 Estelwynn
 Ethelmath
@@ -436,6 +443,7 @@ Farralorm
 Fatbombur
 Fathobbit
 Feahyandacappytwo
+Feahyandamariner
 Feahyndanor
 Feitanportor
 Felrin
@@ -465,6 +473,7 @@ Fordiel
 Foreignoakenshield
 Forganus
 Formatha
+Forvreval
 Fraeyaa
 Freaya
 Freyakkyn
@@ -518,6 +527,7 @@ Gillinronder
 Gilvorthos
 Gimlael
 Gisbournne
+Gladdener
 Glicious
 Glorfinmart
 Glorfinwe
@@ -592,6 +602,7 @@ Hazeldawn
 Hazzahs
 Healrod
 Helgrenze
+Heliflower
 Herbotic
 Hermand
 Herullion
@@ -658,6 +669,7 @@ Ithalros
 Ithrindiel
 Itkurgat
 Ivkell
+Izraz
 Izzybelle
 Jaarne
 Jabson
@@ -762,6 +774,7 @@ Laurelinarien
 Lavindaria
 Lavirdel
 Lazywulf
+Leddicus
 Leggothir
 Legolambchops
 Lendless
@@ -770,11 +783,13 @@ LF
 Liannanor
 Lillas
 Lillothriel
+Lilyrose
 Limelemon
 Linadoor
 Linchino
 Lindahad
 Lindhellith
+Lindoya
 Linfador
 Linkinlog
 Linnon
@@ -873,6 +888,7 @@ Militant
 Milkyshot
 Minethos
 Minniscott
+Mirdanneth
 Mirdirneth
 Mirelhach
 Miridhren
@@ -972,6 +988,7 @@ Olecoot
 Olirya
 Ollurin
 Omegaruler
+Onnelm
 Onokh
 Onuaku
 Oraenne
@@ -1034,6 +1051,7 @@ Quixothir
 Raadneck
 Rachelbarry
 Radablast
+Radagrim
 Radamdam
 Radegunde
 Radymbl
@@ -1068,6 +1086,7 @@ Ridbeorn
 Ridderroy
 Ringdagar
 Rinwulf
+Riparan
 Risiki
 Risiko
 Riverlos
@@ -1154,6 +1173,7 @@ Sigininbar
 Sigmodi
 Sigrid
 Silnia
+Silphie
 Silverbree
 Simpinaina
 Sinead
