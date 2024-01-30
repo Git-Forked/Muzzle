@@ -17,6 +17,7 @@ Bensonya
 
 Crazy {
 Crazyhorrse
+Crazypuncher
 Crazyskin
 Crazytalk
 }

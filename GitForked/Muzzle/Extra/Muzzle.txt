@@ -340,6 +340,7 @@ Dolethrian
 Dolinada
 Doobedat
 Dorfy
+Doro
 Drizdenn
 Druando
 Druzy
@@ -367,6 +368,7 @@ Ece
 Ececap
 Ecled
 Edenfiel
+Edging
 Edomir
 Eebwick
 Eetazz
@@ -406,6 +408,7 @@ Enchanting
 Enrica
 Eogorn
 Eorl
+Eosinophil
 Eothaine
 Ephedria
 Erass
@@ -525,6 +528,7 @@ Gillineorn
 Gillinlas
 Gillinmir
 Gillinronder
+Gilthalrandir
 Gilvorthos
 Gimlael
 Gisbournne
@@ -638,6 +642,7 @@ Hyssjostanob
 Iammullet
 Iamq
 Iceposeidon
+Idlo
 Ieseult
 Iic
 Ijsia
@@ -723,6 +728,7 @@ Karlovar
 Kartuk
 Karwise
 Kashbold
+Katananeko
 Katarinah
 Katiey
 Kaye
@@ -769,6 +775,7 @@ Laochson
 Larfast
 Larken
 Larkspur
+Larnilwen
 Lathlered
 Lathrandhil
 Laurelinarien
@@ -805,6 +812,7 @@ Lollygag
 Lonekk
 Longpig
 Lordevileyes
+Lorefreak
 Loremandy
 Lorielen
 Lorithemouse
@@ -821,6 +829,7 @@ Lucybunny
 Lucycutie
 Lumelgar
 Lunazlir
+Lunelleth
 Luntalbor
 Luntauil
 Luthiell
@@ -1055,6 +1064,7 @@ Radablast
 Radagrim
 Radamdam
 Radegunde
+Radnok
 Radymbl
 Rakshathul
 Ranken
@@ -1310,6 +1320,7 @@ Thruthla
 Thumpa
 Thunderbyte
 Tiffanyandco
+Tiffanyfireheart
 Tigvi
 Tikarah
 Tiltius
@@ -1464,6 +1475,7 @@ Zaeri
 Zalanara
 Zaleia
 Zariaha
+Zellcosmetic
 Zephyriel
 Zifnyy
 zilla
