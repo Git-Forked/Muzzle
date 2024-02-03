@@ -73,6 +73,7 @@ Aqiqo
 Aradaen
 Aranamar
 Aranfeleos
+Arboted
 Archalion
 Archamir
 Ardandriel
@@ -100,6 +101,7 @@ Astrewyn
 Aswifeth
 Ataniatur
 Atropa
+Attyric
 Auchoo
 Aumnydaria
 Auraith
@@ -238,6 +240,7 @@ Cayleigh
 Celeathe
 Celebecthel
 Celebwind
+Celeglass
 Celeiriel
 Celestialheart
 Celquay
@@ -260,6 +263,8 @@ Clamnog
 Claudein
 Clawrond
 Clemie
+Cloudgrave
+Cloudward
 Codyak
 Coljackoneill
 Compassionate
@@ -327,6 +332,7 @@ Dhearic
 Didalera
 Dietsprite
 Digton
+Dildum
 Dinalagosseth
 Dirdacar
 Direclaw
@@ -386,6 +392,7 @@ Elderia
 Elelfrocken
 Elenas
 Elkana
+Ellanhard
 Ellanriel
 Ellidas
 Ellieraen
@@ -515,6 +522,7 @@ Garlique
 Garyscalf
 Gathrin
 Gaulbo
+Gelemald
 Gelinwar
 Geliriel
 Gentlemangimli
@@ -529,6 +537,7 @@ Gillinlas
 Gillinmir
 Gillinronder
 Gilthalrandir
+Gilthamir
 Gilvorthos
 Gimlael
 Gisbournne
@@ -571,8 +580,10 @@ Gunston
 Gurdorin
 Gusvirlond
 Gwathildol
+Gwelia
 Gwinne
 Gyrvor
+Habstrom
 Haidel
 Haidwyn
 Haidyn
@@ -771,6 +782,7 @@ Ladybeorn
 Lagtastic
 Lairelithonielle
 Laithriel
+Lanferil
 Laochson
 Larfast
 Larken
@@ -1107,6 +1119,7 @@ Robrebeorn
 Robuilon
 Rockmogstar
 Rockworthy
+Rodgertherabbit
 Rokcavhir
 Romawende
 Rormurori
@@ -1418,6 +1431,7 @@ Verjibeorn
 Vesfar
 Vethelion
 Vetun
+Viceversa
 Victorieas
 Vildenfiel
 Vilette
