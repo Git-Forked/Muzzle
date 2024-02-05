@@ -263,7 +263,9 @@ Clamnog
 Claudein
 Clawrond
 Clemie
+Cloudfarm
 Cloudgrave
+Cloudrock
 Cloudward
 Codyak
 Coljackoneill
@@ -1392,6 +1394,7 @@ Ualoria
 Uandan
 Uberfool
 Uhaul
+Ulfarion
 Ulfthryth
 Ulvghar
 Umonry
@@ -1399,6 +1402,7 @@ Unbearables
 Unglarion
 Urakad
 Ursalynn
+Urzamajor
 Urzaminor
 Uthbehrt
 Vahndetta
