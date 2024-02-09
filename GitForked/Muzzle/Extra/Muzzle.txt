@@ -137,6 +137,7 @@ Bantwen
 Baosli
 Baradir
 Baragonn
+Barakor
 Baralinthel
 Baramlas
 Barardir
@@ -161,6 +162,7 @@ Bella
 Bellerdan
 Belligerence
 Benson
+Beolnath
 Beoregan
 Beornagayn
 Beorntobewylde
@@ -244,6 +246,7 @@ Celeglass
 Celeiriel
 Celestialheart
 Celquay
+Celuaglar
 Cempynn
 Cendrya
 Cenedrilra
@@ -263,6 +266,7 @@ Clamnog
 Claudein
 Clawrond
 Clemie
+Cloudbeorn
 Cloudfarm
 Cloudgrave
 Cloudrock
@@ -286,6 +290,7 @@ Cuftlo
 Curlywurly
 Curumaril
 Cutang
+Cuvandir
 Cuz
 Cwenmoda
 Cwilla
@@ -393,6 +398,7 @@ Eldaered
 Elderia
 Elelfrocken
 Elenas
+Elimr
 Elkana
 Ellanhard
 Ellanriel
@@ -577,6 +583,7 @@ Grimradd
 Grippa
 Grumbleguth
 Gundurwarth
+Gunneros
 Gunnlodh
 Gunston
 Gurdorin
@@ -1242,6 +1249,7 @@ Starmetal
 Starrili
 Starsaber
 Steathstinger
+Steelkiss
 Stickcaster
 Stigred
 Stoneformbis
