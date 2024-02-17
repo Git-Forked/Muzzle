@@ -1,5 +1,6 @@
 /
 Aariaa
+Abramms
 Aclandia
 Acornish
 Adaiel
@@ -84,6 +85,7 @@ Arjunelle
 Arkoudos
 Arrieldel
 Arrivo
+Arrtcher
 Arthelios
 Arthelos
 Arthillen
@@ -160,6 +162,7 @@ Beetz
 Beirodren
 Belegurion
 Beleriandras
+Belhiwel
 Bella
 Belladragon
 Belladria
@@ -205,11 +208,13 @@ Boral
 Bossmoss
 Bothundbur
 Boudicar
+Bowedup
 Bragowulf
 Branderen
 Brandoch
 Brawlbo
 Brawlur
+Bridgitt
 Briggela
 Brightmetal
 Britthild
@@ -250,6 +255,7 @@ Captjameshook
 Carianor
 Carrick
 Catallaxy
+Catallyst
 Cathbhar
 Cathius
 Cathonriel
@@ -327,6 +333,7 @@ Daenaswith
 Dagadaen
 Dagreth
 Dalongar
+Damidir
 Danaii
 Dankiest
 Darcstah
@@ -393,6 +400,7 @@ Dwazanazak
 Dwaziriel
 Dworlyn
 Dyin
+Dzungla
 Eadrithe
 Earlindk
 Earlindun
@@ -680,6 +688,7 @@ Hopeslight
 Horyu
 Hrosdur
 Hucklebarry
+Hucklepuck
 Hugeos
 Hullaras
 Humanchampion
@@ -705,6 +714,7 @@ Illunathros
 Ilthaniel
 Iltharas
 Iluenil
+Iluyeneia
 Ilwyn
 Ilyamenielot
 Imdris
@@ -712,6 +722,7 @@ Improvisation
 Imraldir
 Inconstant
 Indiela
+Ingorif
 Inittowinit
 Inlerah
 Install
@@ -753,6 +764,7 @@ Jewlalt
 Jimineecrackhedd
 Joelynne
 Johnnytookamongo
+Jonbones
 Jonnybgoode
 Joyrien
 Jozadak
@@ -983,6 +995,7 @@ Merllen
 Merothin
 Mertensia
 Mesco
+Metalle
 Migheedo
 Militant
 Milkyshot
@@ -1073,6 +1086,7 @@ Oathbreaker
 Obadeb
 Obius
 Odaghaim
+Odalard
 Oddam
 Oddessia
 Odorous
@@ -1096,6 +1110,7 @@ Omegaruler
 Onnelm
 Onokh
 Onuaku
+Oorvaril
 Oraenne
 Oragorn
 Oraphor
@@ -1106,6 +1121,7 @@ Orney
 Orthond
 Ostoril
 Otterohm
+Overyourhead
 Ovnya
 Owaysis
 Owlbear
@@ -1163,6 +1179,7 @@ Radamdam
 Radegunde
 Radnok
 Radymbl
+Raehven
 Rakadov
 Rakshathul
 Ranken
@@ -1465,6 +1482,7 @@ Tormur
 Torvalar
 Torvalig
 Tosmod
+Toystory
 Trajjin
 Tran
 Trappyflaps
@@ -1579,6 +1597,7 @@ Wynanor
 Wynohna
 Xailei
 Xanawen
+Xappo
 Xaxarrien
 Xenaela
 Xennobia
@@ -1591,6 +1610,7 @@ Xoros
 Xtalker
 Yaaka
 Yaruzuk
+Yasmeirra
 Yaulinde
 Yavon
 Yggdrika
@@ -1606,6 +1626,7 @@ Zaleia
 Zariaha
 Zellcosmetic
 Zephyriel
+Zeraphir
 Zifnyy
 zilla
 Zingiber
