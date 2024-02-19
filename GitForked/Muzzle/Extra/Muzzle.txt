@@ -112,6 +112,7 @@ Aurblodyn
 Aurelianna
 Avarima
 Averella
+ Aviendhas
 Aviisttent
 Avistennt
 Avistent
@@ -272,6 +273,7 @@ Celuaglar
 Cempynn
 Cendrya
 Cenedrilra
+Cfofled
 Chantall
 Chantelle
 Chaosspark
@@ -297,6 +299,7 @@ Cloudgrave
 Cloudrock
 Cloudward
 Codyak
+Coer
 Coljackoneill
 Compassionate
 Connistua
@@ -318,6 +321,7 @@ Cryspea
 Ctri
 Cuftlo
 Curlywurly
+Curseseeker
 Curumaril
 Cutang
 Cuvandir
@@ -362,6 +366,7 @@ Deramil
 Derdaran
 Deregorn
 Derehate
+Dernuireg
 derp
 Derryk
 Deserose
@@ -388,10 +393,12 @@ Doro
 Drizdenn
 Druando
 Druzy
+Dualblades
 Dulciana
 Dumbledorf
 Dunarcarn
 Dunnylle
+Dunsanie
 Durahann
 Dvoin
 Dvorako
@@ -497,6 +504,7 @@ Farralorm
 Fatbombur
 Fathobbit
 Feahyandacappytwo
+Feahyandal
 Feahyandamariner
 Feahyndanor
 Feitanportor
@@ -620,6 +628,7 @@ Grimowyn
 Grimradd
 Grippa
 Grumbleguth
+Guendolyn
 Gundurwarth
 Gunneros
 Gunnlodh
@@ -709,6 +718,7 @@ Ijiot
 Ijsia
 Ijsil
 Ijwen
+Ijwyn
 Ilirwar
 Illunathros
 Ilthaniel
@@ -756,6 +766,7 @@ Jasperweed
 Jaxandil
 Jebaited
 Jedirod
+Jeilor
 Jellyjiggler
 Jennariel
 Jeorric
@@ -830,6 +841,7 @@ Kuzukic
 Kwarei
 Kwozzy
 Kyannah
+Kylrin
 Lachallun
 Ladybeorn
 Laganomics
@@ -1034,6 +1046,7 @@ Mydric
 Myearsarepointy
 Myffanway
 Myrddinus
+Mythek
 Myuliel
 Nadiae
 Nadira
@@ -1072,6 +1085,7 @@ Nitzz
 Nonemoreblack
 Nongo
 Norfori
+Northarin
 Nosaphor
 Nosro
 Nrizzle
@@ -1126,6 +1140,7 @@ Ovnya
 Owaysis
 Owlbear
 Paladion
+Palliate
 Papidonk
 Parvata
 Pasionaria
@@ -1180,6 +1195,7 @@ Radegunde
 Radnok
 Radymbl
 Raehven
+Raevyne
 Rakadov
 Rakshathul
 Ranken
@@ -1410,13 +1426,16 @@ Talzin
 Tanidir
 Tanyia
 Tappo
+Taradarlan
 Tararond
 Tarbel
 Tardadhan
 Tardion
+Tareldel
 Tarisma
 Tarovangiann
 Tarvornion
+Taterswithgravy
 Tathorhen
 Taurtaren
 Tawan
@@ -1427,6 +1446,7 @@ Teenytinytater
 Teethclawfur
 Teezle
 Tefh
+Telgaril
 Temiwyn
 Thalian
 Tharelaith
@@ -1445,6 +1465,7 @@ Thorbosi
 Thorgrimar
 Thorinmaplehammah
 Thornuidhil
+Thorvor
 Thraingil
 Thrallmark
 Thrarr
@@ -1489,6 +1510,7 @@ Trappyflaps
 Travisbickle
 Trebleclef
 Treelore
+Treewraith
 Trefolia
 Tremare
 Trephine
@@ -1527,6 +1549,7 @@ Ursalynn
 Urzamajor
 Urzaminor
 Uthbehrt
+Utherra
 Vahndetta
 Vahnya
 Vaidaran
@@ -1564,12 +1587,14 @@ Victorieas
 Vildenfiel
 Vilette
 Villo
+Vodkihad
 Voknur
 Voruuk
 Vruto
 Vylkariya
 Waatwan
 Warowulf
+Warrpathe
 wato
 Wato
 Watoburg
@@ -1585,6 +1610,7 @@ Wigmund
 Wilarose
 Wildie
 Wildorf
+Wilmoor
 Wingy
 Wingyili
 Wingylas
@@ -1630,6 +1656,7 @@ Zeraphir
 Zifnyy
 zilla
 Zingiber
+Zinns
 Zoemi
 Zoke
 Zorthan
