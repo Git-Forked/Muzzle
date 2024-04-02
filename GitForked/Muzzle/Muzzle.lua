@@ -481,6 +481,7 @@ Muzzle = {
 	'Estelwynn',
 	'Ethelmath',
 	'Etheranie',
+	'Ethinjol',
 	'Ethiwaen',
 	'Ethoreal',
 	'Ethruanwen',
