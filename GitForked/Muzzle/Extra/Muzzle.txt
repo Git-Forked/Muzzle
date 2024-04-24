@@ -103,6 +103,7 @@ Astanya
 Astrewyn
 Aswifeth
 Ataniatur
+Athyria
 Atropa
 Attyric
 Auchoo
@@ -390,6 +391,7 @@ Dolinada
 Doobedat
 Dorfy
 Doro
+Dresdens
 Drizdenn
 Druando
 Druzy
@@ -1334,6 +1336,7 @@ Simpinaina
 Sinead
 Sinring
 Siswaiaman
+Sitkah
 Sitkia
 Skerling
 Skiffs
@@ -1475,8 +1478,10 @@ Throttalin
 Thruthla
 Thumpa
 Thunderbyte
+Tidbits
 Tiffanyandco
 Tiffanyfireheart
+Tigers
 Tigvi
 Tikarah
 Tiltius
