@@ -24,6 +24,7 @@ Muzzle = {
 	'Aenorean',
 	'Aethardiel',
 	'Aew',
+	'Afrathelion',
 	'Agerk',
 	'Aglabmenu',
 	'Aicamasse',
