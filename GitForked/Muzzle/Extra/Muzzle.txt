@@ -433,6 +433,7 @@ Egralin
 Eharlen
 Einstonr
 Eirornir
+Eividir
 Ekessa
 Ekibyo
 Eladuial
@@ -594,6 +595,7 @@ Gillinlas
 Gillinmir
 Gillinronder
 Gillinrondey
+Gillinrondy
 Gilthalrandir
 Gilthamir
 Gilvorthos
@@ -1054,6 +1056,7 @@ Myffanway
 Myrddinus
 Mythek
 Myuliel
+Nacham
 Nadiae
 Nadira
 Nahtazu
