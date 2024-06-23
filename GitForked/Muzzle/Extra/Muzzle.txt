@@ -605,6 +605,7 @@ Gimlael
 Gisbournne
 Gladdener
 Glicious
+Glissanda
 Globalist
 Glorfinmart
 Glorfinwe
@@ -1153,6 +1154,7 @@ Owaysis
 Owlbear
 Paladion
 Palliate
+Pandaexpress
 Papidonk
 Parvata
 Pasionaria
@@ -1296,6 +1298,7 @@ Sathbeo
 sausage
 Sausage
 SAUSAGE
+Savvory
 Saxmunn
 Scalanis
 Scathran
