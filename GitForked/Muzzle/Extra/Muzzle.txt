@@ -341,6 +341,7 @@ Dagreth
 Dalongar
 Damidir
 Danaii
+Dankegilde
 Dankiest
 Darcstah
 Darduipher
@@ -348,6 +349,7 @@ Daridun
 Darwarz
 Dathran
 Davor
+Dawnrising
 Dazeydukes
 Death
 Deathmetalrabbit
@@ -955,6 +957,7 @@ Malvegold
 Malythorr
 Mameren
 Manburgerhelper
+Mandosil
 Manodepiedra
 Manosdepiedra
 Manwithswords
@@ -1184,6 +1187,7 @@ Powerfists
 Poyzonoak
 Praelas
 Presmer
+Prilonda
 Pritcher
 Psolarea
 Pudgi
@@ -1591,6 +1595,7 @@ Velegorn
 Velladona
 Velonia
 Venatrici
+Vengarl
 Veridus
 Verjibeorn
 Vesfar
