@@ -283,6 +283,7 @@ Chapolim
 Cheeseburgler
 Chesnutpuck
 Chetna
+Chiamobus
 Chrysalis
 Chunindia
 Cildaran
@@ -385,6 +386,7 @@ Dirdacar
 Direclaw
 Dissonance
 Dithrygg
+Diverticulosis
 Dixiesky
 Djevaak
 Dnarthur
@@ -483,6 +485,7 @@ Ethelmath
 Etheranie
 Ethinjol
 Ethiwaen
+Ethlahael
 Ethoreal
 Ethruanwen
 Ethwynn
@@ -669,6 +672,7 @@ Hanaryn
 Handegorn
 Handiofair
 Handord
+Handova
 Handzy
 Hangermar
 Hanomag
@@ -782,6 +786,7 @@ Jellyjiggler
 Jennariel
 Jeorric
 Jerdo
+Jessikah
 Jewlalt
 Jimineecrackhedd
 Joelynne
@@ -949,6 +954,7 @@ Maliadis
 Malistor
 Malithad
 Malithar
+Mallinor
 Malogag
 Malonga
 Malorwyn
@@ -1470,6 +1476,7 @@ Temiwyn
 Thalian
 Tharelaith
 Tharglafang
+Tharthollost
 Thelaris
 Thelhild
 Thenever
