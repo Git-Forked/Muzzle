@@ -601,6 +601,7 @@ Gillinmir
 Gillinronder
 Gillinrondey
 Gillinrondy
+Gilmarlynn
 Gilthalrandir
 Gilthamir
 Gilvorthos
@@ -932,6 +933,7 @@ Lunelleth
 Luntalbor
 Luntauil
 Luthiell
+Lutholea
 Lyfeline
 Macroom
 Macyeth
@@ -1077,6 +1079,7 @@ Naradoc
 Narangren
 Naranthor
 Narinna
+Narsereg
 Naslif
 Nataliie
 Nattee
@@ -1316,6 +1319,7 @@ Scottsminihob
 Scrufflesneedsashave
 Scrunkee
 Scummybear
+Scurrvy
 Seeww
 Selarglin
 Senirian
