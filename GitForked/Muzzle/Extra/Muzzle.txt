@@ -26,6 +26,7 @@ Aicamasse
 Aicasarto
 Aidintwo
 Ainwel
+Airavis
 Airku
 Ajmehrai
 Akillezee
@@ -324,6 +325,7 @@ Critager
 Cryspea
 Ctri
 Cuftlo
+Culiaran
 Curlywurly
 Curseseeker
 Curumaril
@@ -442,6 +444,7 @@ Eividir
 Ekessa
 Ekibyo
 Eladuial
+Elairra
 Eldaered
 Elderia
 Elelfrocken
@@ -480,6 +483,7 @@ Erass
 Eredrimbel
 Erinti
 Ertorias
+Erythorn
 Erythron
 Estelwynn
 Ethelmath
@@ -586,6 +590,7 @@ Garlique
 Garyscalf
 Gathrin
 Gaulbo
+Gdayymate
 Gelemald
 Gelinwar
 Geliriel
@@ -1257,6 +1262,7 @@ Riboka
 Ricecrispi
 Ridbeorn
 Ridderroy
+Rilgrim
 Ringdagar
 Rinwulf
 Riparan
