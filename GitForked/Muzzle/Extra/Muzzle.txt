@@ -535,6 +535,7 @@ Fighty
 Fimarith
 Findolrond
 Finti
+Fionnuir
 Firalthil
 Fireass
 Firemyst
@@ -659,6 +660,7 @@ Gusvirlond
 Gwathildol
 Gwelia
 Gwinne
+Gyngilly
 Gyrvor
 Habstrom
 Haidel
@@ -691,6 +693,7 @@ Harrowthorn
 Harvain
 Harwaen
 Hasadiga
+Hastile
 Havenbow
 Hazeldawn
 Hazzahs
@@ -735,6 +738,7 @@ Icantplay
 Iceposeidon
 Idlo
 Ieseult
+Iguanabaldobeef
 Iic
 Ijiot
 Ijsia
@@ -915,6 +919,7 @@ Lollygag
 Lonekk
 Longpig
 Lordevileyes
+Lordunderhill
 Lorefreak
 Loremandy
 Lorielen
@@ -972,12 +977,14 @@ Malvegold
 Malythorr
 Mameren
 Manburgerhelper
+Mandosarc
 Mandosil
 Manodepiedra
 Manosdepiedra
 Manwithswords
 Maquista
 Marcusrahl
+Mareborn
 Mareko
 Marewell
 Marfedelom
@@ -1061,6 +1068,7 @@ Mooch
 Mordredh
 Morganah
 Moriaen
+Moriquetta
 Morled
 Morodeth
 Morveren
@@ -1084,6 +1092,7 @@ Nadira
 Nahtazu
 Nanduinuir
 Naneldel
+Naradalin
 Naradis
 Naradoc
 Narangren
@@ -1099,6 +1108,7 @@ Nekros
 Nellathrond
 Nelsonord
 Nenaured
+Nephril
 Neppie
 Nerariel
 Nethelion
@@ -1177,6 +1187,7 @@ Pandaexpress
 Papidonk
 Parvata
 Pasionaria
+Peanutbuttercup
 Pebbles
 Peligo
 Peluso
@@ -1318,6 +1329,7 @@ Sathbeo
 sausage
 Sausage
 SAUSAGE
+Savourytoughskin
 Savvory
 Saxmunn
 Scalanis
@@ -1338,6 +1350,7 @@ Seoda
 Sepulchraive
 Seratild
 Serrbeorn
+Serrune
 Servusiesu
 Sethamond
 Sevensails
@@ -1562,6 +1575,7 @@ Tresriel
 Tresylia
 Tromdir
 Trulo
+Truthful
 Tsketh
 Tsugilist
 Tswana
@@ -1631,6 +1645,7 @@ Victorieas
 Vildenfiel
 Vilette
 Villo
+Vilyrandir
 Vodkihad
 Voknur
 Voruuk
@@ -1691,6 +1706,7 @@ Yrgest
 Yrrigfrid
 Ysmoll
 Zaeri
+Zairi
 Zalanara
 Zaleia
 Zariaha
