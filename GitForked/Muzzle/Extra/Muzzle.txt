@@ -74,6 +74,7 @@ Anubelf
 Aoelithe
 Aphora
 Aqiqo
+Aquinero
 Aradaen
 Aranamar
 Aranfeleos
@@ -341,6 +342,7 @@ Cylcliff
 Cyldene
 Cyrildor
 Cyrissjr
+Daeeron
 Daenaswith
 Dagadaen
 Dagreth
@@ -484,6 +486,7 @@ Ephedria
 Erass
 Eredrimbel
 Erinti
+Erriikk
 Ertorias
 Erythorn
 Erythron
@@ -600,6 +603,7 @@ Geliriel
 Gentlemangimli
 Gerrie
 Ghellar
+Ghoti
 Giilinlerond
 Gilaglar
 Gilbrethil
@@ -631,6 +635,7 @@ Golloram
 Golthrondrel
 Gondoladan
 Gondorzilla
+Goolius
 Gordarond
 Gorimli
 Gormormur
@@ -838,6 +843,7 @@ Katananeko
 Katarinah
 Katiey
 Kaye
+Keenanwynn
 Keerito
 Keilee
 Kelembore
@@ -861,6 +867,7 @@ Kiputtyto
 Kirea
 Kirenegan
 Kitrael
+Knowledgeispower
 Konaran
 Kornpop
 Kovaskahn
@@ -889,6 +896,7 @@ Larkspur
 Larnilwen
 Lathlered
 Lathrandhil
+Laueliree
 Laurelinarien
 Lavindaria
 Lavirdel
@@ -1137,6 +1145,7 @@ Nosro
 Nrizzle
 Nroin
 Nuckchorris
+Nudhun
 Nulelirie
 Nurahir
 Nurvollos
@@ -1180,6 +1189,7 @@ Orndil
 Orney
 Orthond
 Ostoril
+Othrallas
 Otterohm
 Overyourhead
 Ovnya
@@ -1197,6 +1207,7 @@ Peligo
 Peluso
 Pendulous
 Penypuncher
+Peridota
 Perinos
 Phaint
 Philophone
@@ -1246,6 +1257,7 @@ Radohael
 Radymbl
 Raehven
 Raevyne
+Rafflesian
 Rakadov
 Rakshathul
 Ranken
