@@ -534,6 +534,7 @@ Ferlina
 Fernwise
 Ferrisrushb
 Festeon
+Fhyrias
 Fidiler
 Fieri
 Fighty
@@ -974,6 +975,7 @@ Mairobhar
 Maladirs
 Malastel
 Malcolm
+Malethar
 Malhaldor
 Maliadis
 Malistor
@@ -1040,6 +1042,7 @@ Mayura
 Mayzap
 Mcbill
 Mcgavan
+Meagyth
 Medumam
 Megaevil
 Meisie
@@ -1306,6 +1309,7 @@ Rockworthy
 Rodgertherabbit
 Rokcavhir
 Romawende
+Rootor
 Rormurori
 Roseilid
 Rozalynn
@@ -1448,6 +1452,7 @@ Strideher
 Strothalion
 Studbeefpile
 Sturmalin
+Sturmunddrang
 Sublemonal
 Summersweet
 Sunnydragon
@@ -1529,6 +1534,7 @@ TheNeverEndingStories
 Thengo
 Theoddryht
 Thidfinn
+Thinachar
 Thistledoon
 Thobrin
 Thodvalgeir
