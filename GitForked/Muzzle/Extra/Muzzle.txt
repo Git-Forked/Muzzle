@@ -546,6 +546,7 @@ Firalthil
 Fireass
 Firemyst
 Firestarter
+Fishildur
 Flammewyn
 Flitfo
 Floddotter
@@ -591,6 +592,7 @@ Galabrandt
 Galanthril
 Galleott
 Gallinir
+Galmli
 Galmr
 Gandorael
 Garlique
@@ -668,6 +670,7 @@ Gurdorin
 Gusvirlond
 Gwathildol
 Gwelia
+Gwenilweth
 Gwinne
 Gyngilly
 Gyrvor
@@ -707,6 +710,7 @@ Havenbow
 Hazeldawn
 Hazzahs
 Healrod
+Heftwirl
 Helgrenze
 Heliflower
 Herbotic
@@ -1344,11 +1348,13 @@ Sarorion
 Sarradoc
 Sarthirwing
 Sarvi
+Sassiphras
 Sassythesasquatch
 Sathbeo
 sausage
 Sausage
 SAUSAGE
+Savageopress
 Savourytoughskin
 Savvory
 Saxmunn
