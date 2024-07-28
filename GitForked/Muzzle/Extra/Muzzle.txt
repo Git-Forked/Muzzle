@@ -188,6 +188,7 @@ Beolnath
 Beoregan
 Beornagayn
 Beorntobewylde
+Beorntokil
 Beornunderabadsign
 Bequia
 Beravelda
@@ -239,6 +240,7 @@ Brunnlager
 Bruzo
 Bryetwulf
 Brynnwyn
+Buckafuffalo
 Bunnydemon
 Burgerbob
 Bwalon
@@ -280,6 +282,7 @@ Celuaglar
 Cempynn
 Cendrya
 Cenedrilra
+Cepicorpus
 Cfofled
 Chantall
 Chantelle
@@ -397,6 +400,7 @@ Diverticulosis
 Dixiesky
 Djevaak
 Dnarthur
+Docmurder
 Dodorad
 Dolethrian
 Dolinada
@@ -953,6 +957,7 @@ Loth
 Lothun
 Lowelar
 Loxodonta
+Lucusbane
 Lucybunny
 Lucycutie
 Lumelgar
@@ -990,6 +995,7 @@ Malogag
 Malonga
 Malorwyn
 Malphar
+Malsniper
 Malvark
 Malvegold
 Malythorr
@@ -1064,6 +1070,7 @@ Merothin
 Mertensia
 Mesco
 Metalle
+Miffed
 Migheedo
 Militant
 Milkyshot
@@ -1102,6 +1109,7 @@ Mycouchpullsoutidont
 Mydric
 Myearsarepointy
 Myffanway
+Myphanneweigh
 Myrddinus
 Mythek
 Myuliel
@@ -1371,6 +1379,7 @@ Scummybear
 Scurrvy
 Seeww
 Selarglin
+Semsem
 Senirian
 Seoda
 Sepulchraive
