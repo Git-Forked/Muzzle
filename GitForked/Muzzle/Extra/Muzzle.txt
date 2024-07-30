@@ -257,6 +257,7 @@ Calililda
 Callevir
 Calonda
 Camto
+Cangrk
 Cantheriel
 Capanivara
 Captainsparrow
@@ -357,6 +358,7 @@ Dankiest
 Darcstah
 Darduipher
 Daridun
+Darkvila
 Darwarz
 Dathran
 Davor
@@ -728,7 +730,9 @@ Hingana
 Hiperbole
 Hirarthlas
 Hiroladh
+Hithaerdes
 Hithina
+Hlifmer
 Hlodrof
 Holiel
 Holmms
@@ -1327,6 +1331,7 @@ Roseilid
 Rozalynn
 Rrandgrid
 Rubysilver
+Rucket
 Rudalla
 Rugad
 Runkhulruk
@@ -1618,6 +1623,7 @@ Tsketh
 Tsugilist
 Tswana
 Tubbious
+Tullien
 Tuon
 Tuoz
 Tuppo
