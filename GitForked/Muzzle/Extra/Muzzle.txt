@@ -919,6 +919,7 @@ Laurelinarien
 Lavindaria
 Lavirdel
 Lazywulf
+Leahanna
 Leddicus
 Leggothir
 Legolambchops
@@ -1102,6 +1103,7 @@ Moiraine
 Mooch
 Mordredh
 Morganah
+Morgenlada
 Moriaen
 Moriquetta
 Morled
@@ -1388,6 +1390,7 @@ Scrufflesneedsashave
 Scrunkee
 Scummybear
 Scurrvy
+Seaso
 Seeww
 Selarglin
 Semsem
@@ -1549,6 +1552,7 @@ Teezle
 Tefh
 Telgaril
 Temiwyn
+Thalgul
 Thalian
 Tharelaith
 Tharglafang
@@ -1568,6 +1572,7 @@ Thorbosi
 Thorgrimar
 Thorinmaplehammah
 Thornuidhil
+Thorriguardian
 Thorvor
 Thraingil
 Thrallmark
@@ -1646,6 +1651,7 @@ Uandan
 Uberfool
 Uhaul
 Ulfarion
+Ulfheid
 Ulfthryth
 Ulvghar
 Umonry
@@ -1662,6 +1668,7 @@ Vahnya
 Vaidaran
 Valdifar
 Valithia
+Valodil
 Valorgard
 Valzaan
 Vanbulwark
