@@ -78,9 +78,11 @@ Aquinero
 Aradaen
 Aranamar
 Aranfeleos
+Aranlen
 Arboted
 Archalion
 Archamir
+Arcinrien
 Ardandriel
 Arduthin
 Argall
@@ -202,6 +204,7 @@ Billybobjunior
 Bilskirnir
 Birnfrith
 Birsa
+Bjornmir
 Blackrabbitking
 Blappie
 Blaubeere
@@ -618,6 +621,7 @@ Gilaglar
 Gilbrethil
 Gildarion
 Gillineorn
+Gillinkeep
 Gillinlas
 Gillinmir
 Gillinronder
@@ -767,6 +771,7 @@ Ijsil
 Ijwen
 Ijwyn
 Ilirwar
+Illevar
 Illunathros
 Ilthaniel
 Iltharas
@@ -1246,6 +1251,7 @@ Podz
 Podzila
 Podzzilla
 Poffer
+Polliannika
 Polycarp
 Polynya
 popcorn
