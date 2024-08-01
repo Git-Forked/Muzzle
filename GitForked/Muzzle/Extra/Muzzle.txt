@@ -245,6 +245,7 @@ Bryetwulf
 Brynnwyn
 Buckafuffalo
 Bunnydemon
+Buoy
 Burgerbob
 Bwalon
 Cabo
@@ -413,6 +414,7 @@ Doobedat
 Dorfy
 Doro
 Dresdens
+Drexicar
 Drizdenn
 Druando
 Druzy
@@ -480,6 +482,7 @@ Elunis
 Elvenraen
 Elwys
 Elyviel
+Emildan
 Emillina
 Emretnuh
 Emylraeb
@@ -712,6 +715,7 @@ Hardanna
 Hardfist
 Harnesila
 Harrowthorn
+Harumphrey
 Harvain
 Harwaen
 Hasadiga
@@ -918,6 +922,7 @@ Laueliree
 Laurelinarien
 Lavindaria
 Lavirdel
+Lawe
 Lazywulf
 Leahanna
 Leddicus
@@ -1031,8 +1036,6 @@ Marwhini
 Mathanir
 Maximostly
 Maxwellyn
-may
-May
 Mayalin
 Mayaswell
 Maybearie
@@ -1136,6 +1139,7 @@ Naradoc
 Narangren
 Naranthor
 Narinna
+Narrwen
 Narsereg
 Naslif
 Nataliie
@@ -1767,6 +1771,7 @@ Zairi
 Zalanara
 Zaleia
 Zariaha
+Zealouself
 Zellcosmetic
 Zephyriel
 Zeraphir
