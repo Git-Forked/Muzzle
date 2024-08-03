@@ -70,6 +70,7 @@ Anorgalen
 Anothersong
 Antellion
 Antharen
+Anthorellian
 Anubelf
 Aoelithe
 Aphora
@@ -113,6 +114,7 @@ Athyria
 Atropa
 Attyric
 Auchoo
+Auliviel
 Aumnydaria
 Auraith
 Aurblodyn
@@ -408,6 +410,7 @@ Djevaak
 Dnarthur
 Docmurder
 Dodorad
+Dogdude
 Dolethrian
 Dolinada
 Doobedat
@@ -497,6 +500,7 @@ Eothaine
 Ephedria
 Erass
 Eredrimbel
+Erifin
 Erinti
 Erriikk
 Ertorias
@@ -546,6 +550,7 @@ Ferlina
 Fernwise
 Ferrisrushb
 Festeon
+Festivius
 Fhyrias
 Fidiler
 Fieri
@@ -727,6 +732,7 @@ Healrod
 Heftwirl
 Helgrenze
 Heliflower
+Hellgrimm
 Herbotic
 Hermand
 Herullion
@@ -877,6 +883,7 @@ Kenanir
 Kenawen
 Kendis
 Kendrablake
+Kesalleoaslas
 Kevyriel
 Khadijah
 Khalilah
@@ -898,6 +905,7 @@ Krystacia
 Kuchikukan
 Kuzd
 Kuzukic
+Kveldof
 Kwarei
 Kwozzy
 Kyannah
@@ -1133,6 +1141,7 @@ Nadira
 Nahtazu
 Nanduinuir
 Naneldel
+Nanillar
 Naradalin
 Naradis
 Naradoc
@@ -1332,6 +1341,7 @@ Robem
 Robezhood
 Robrebeorn
 Robuilon
+Rockmans
 Rockmogstar
 Rockworthy
 Rodgertherabbit
@@ -1416,6 +1426,7 @@ Shaill
 Shelbe
 Shera
 Sherieth
+Shidosh
 Shielda
 Shieranor
 Shieras
@@ -1529,6 +1540,7 @@ Tafrara
 Tairii
 Takomah
 Talliel
+Talmund
 Talyanda
 Talzin
 Tanidir
@@ -1770,6 +1782,7 @@ Zaeri
 Zairi
 Zalanara
 Zaleia
+Zapping
 Zariaha
 Zealouself
 Zellcosmetic
