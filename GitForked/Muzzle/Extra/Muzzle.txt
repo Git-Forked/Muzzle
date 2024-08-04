@@ -188,6 +188,7 @@ Bensonspear
 Bensonstaff
 Bensonsword
 Bensonya
+Beolfmann
 Beolnath
 Beoregan
 Beornagayn
@@ -579,6 +580,7 @@ Formatha
 Forvreval
 Fraeyaa
 Freaya
+Frenchdoors
 Freyakkyn
 Freyraen
 Frie
@@ -636,6 +638,7 @@ Gillinronder
 Gillinrondey
 Gillinrondy
 Gilmarlynn
+Gilmart
 Gilthalrandir
 Gilthamir
 Gilvorthos
@@ -793,6 +796,7 @@ Imdris
 Improvisation
 Imraldir
 Inconstant
+Indbil
 Indiela
 Ingorif
 Inittowinit
