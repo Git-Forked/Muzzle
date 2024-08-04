@@ -324,6 +324,7 @@ Compassionate
 Connistua
 Corsairqueen
 Corvusignis
+Corvuspiritus
 Corvusterrae
 Coventinah
 Craadro
@@ -505,6 +506,7 @@ Erifin
 Erinti
 Erriikk
 Ertorias
+Erufinwe
 Erythorn
 Erythron
 Estelwynn
@@ -1126,6 +1128,7 @@ Morodeth
 Morveren
 Mossorin
 Motlo
+Mowe
 Moxxey
 Moxxley
 Moxxyma
@@ -1789,6 +1792,7 @@ Zaleia
 Zapping
 Zariaha
 Zealouself
+Zebedeeone
 Zellcosmetic
 Zephyriel
 Zeraphir
