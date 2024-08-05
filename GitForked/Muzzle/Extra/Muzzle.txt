@@ -73,6 +73,7 @@ Antharen
 Anthorellian
 Anubelf
 Aoelithe
+Aoifewyn
 Aphora
 Aqiqo
 Aquinero
@@ -418,6 +419,7 @@ Dolinada
 Doobedat
 Dorfy
 Doro
+Dravar
 Dresdens
 Drexicar
 Drizdenn
@@ -470,6 +472,7 @@ Elderia
 Elelfrocken
 Elenas
 Elimr
+Elixtoria
 Elkana
 Ellanhard
 Ellanriel
@@ -619,6 +622,7 @@ Gandorael
 Garlique
 Garyscalf
 Gathrin
+Gattzu
 Gaulbo
 Gdayymate
 Gelemald
@@ -807,6 +811,7 @@ Install
 Iorthomund
 Iowedhir
 Ireirien
+Irisgoldfire
 Irohmako
 Isenshire
 Isindule
@@ -1475,6 +1480,7 @@ Solveiga
 spam
 Spannis
 Sparkslm
+Spensa
 Spiffyy
 Splatter
 Splorgi
@@ -1568,6 +1574,7 @@ Taurtaren
 Tawan
 Tawd
 Taweth
+Tawtitaw
 Tazel
 Teenytinytater
 Teethclawfur
@@ -1657,6 +1664,7 @@ Tsketh
 Tsugilist
 Tswana
 Tubbious
+Tuilindas
 Tullien
 Tuon
 Tuoz
@@ -1689,6 +1697,7 @@ Utherra
 Vahndetta
 Vahnya
 Vaidaran
+Vailar
 Valdifar
 Valithia
 Valodil
@@ -1726,6 +1735,7 @@ Vildenfiel
 Vilette
 Villo
 Vilyrandir
+Vimilzagar
 Vodkihad
 Voknur
 Voruuk
