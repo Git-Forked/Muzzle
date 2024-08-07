@@ -17,6 +17,7 @@ Aellor
 Aenglas
 Aenorean
 Aethardiel
+Aethelrith
 Aetherealarms
 Aew
 Afrathelion
@@ -65,6 +66,7 @@ Angneluin
 Anibalsacristan
 Anklebyter
 Annabeth
+Annemis
 Annihilation
 Anorgalen
 Anothersong
@@ -229,7 +231,9 @@ Bragowulf
 Branderen
 Brandoch
 Brawlbo
+Brawlerpapa
 Brawlur
+Briarlyn
 Bridgitt
 Briggela
 Brightmetal
@@ -454,6 +458,7 @@ Ecled
 Edenfiel
 Edging
 Edomir
+Edwinadin
 Eebwick
 Eetazz
 Eetzz
@@ -545,6 +550,7 @@ Faramart
 Farralorm
 Fatbombur
 Fathobbit
+Fay
 Feahyandacappytwo
 Feahyandal
 Feahyandamariner
@@ -1066,6 +1072,7 @@ Mayechcin
 Maygard
 Maygash
 Mayghan
+Maylag
 Maylanna
 Maylea
 Maynine
@@ -1124,6 +1131,7 @@ Mohobbit
 Moiraine
 Mooch
 Mordredh
+Moredeeb
 Morganah
 Morgenlada
 Moriaen
@@ -1607,6 +1615,7 @@ Thorvor
 Thraingil
 Thrallmark
 Thrarr
+Threespoons
 Throttalin
 Thruthla
 Thumpa
@@ -1657,6 +1666,7 @@ Trephine
 Tresatine
 Tresriel
 Tresylia
+Triswynn
 Tromdir
 Trulo
 Truthful
@@ -1723,6 +1733,7 @@ Velegorn
 Velladona
 Velonia
 Venatrici
+Venfleur
 Vengarl
 Veridus
 Verjibeorn
@@ -1770,6 +1781,7 @@ Wulfwend
 Wylma
 Wynanor
 Wynohna
+Wysprwind
 Xailei
 Xanawen
 Xappo
@@ -1812,6 +1824,7 @@ Zingiber
 Zinns
 Zoemi
 Zoke
+Zoltegar
 Zorthan
 Zorx
 Zoson
