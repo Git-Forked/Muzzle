@@ -198,6 +198,7 @@ Beornagayn
 Beorntobewylde
 Beorntokil
 Beornunderabadsign
+Beornyson
 Bequia
 Beravelda
 Berramage
@@ -206,6 +207,7 @@ Berrazul
 bez
 Bez
 Bezerhealo
+Bidgald
 Billybobjunior
 Bilskirnir
 Birnfrith
@@ -217,6 +219,7 @@ Blaubeere
 Blerpolas
 Bliffin
 Blilbow
+Bloonboy
 Boddacia
 Bodvet
 boi
@@ -451,6 +454,8 @@ Earodel
 Earthanor
 Ebeneezergoode
 Ecafast
+Ecahunt
+Ecarune
 Ecathil
 Ece
 Ececap
@@ -646,6 +651,7 @@ Gillineorn
 Gillinkeep
 Gillinlas
 Gillinmir
+Gillinrandir
 Gillinronder
 Gillinrondey
 Gillinrondy
@@ -665,6 +671,7 @@ Glorfinwe
 Glormurst
 Glorthendil
 Glyngil
+Gogarty
 Goku
 Goldiloss
 Golloram
@@ -826,6 +833,7 @@ Isotropic
 Ithalros
 Ithrindiel
 Itkurgat
+Ivbair
 Ivkell
 Izraz
 Izzybelle
@@ -881,6 +889,7 @@ Karalena
 Karamina
 Karaven
 Karlovar
+Karnik
 Kartuk
 Karwise
 Kashbold
@@ -959,6 +968,7 @@ LF
 Liannanor
 Lillas
 Lillothriel
+Lillun
 Lilyrose
 Limelemon
 Linadoor
@@ -1109,6 +1119,7 @@ Merothin
 Mertensia
 Mesco
 Metalle
+Midiwyn
 Miffed
 Migheedo
 Militant
@@ -1344,6 +1355,7 @@ Reviadir
 Revofruin
 Rhea
 Rhubraig
+Rhyaena
 Rhyya
 Riboka
 Ricecrispi
@@ -1406,6 +1418,7 @@ Sarvi
 Sassiphras
 Sassythesasquatch
 Sathbeo
+Saultry
 sausage
 Sausage
 SAUSAGE
@@ -1482,6 +1495,7 @@ Snappdragon
 Snarvi
 Sneekypeekus
 Sniffey
+Snipor
 Snorik
 Soladun
 Solveiga
@@ -1490,6 +1504,7 @@ Spannis
 Sparkslm
 Spensa
 Spiffyy
+Spites
 Splatter
 Splorgi
 Sprunga
@@ -1525,6 +1540,7 @@ Surreal
 Sustrai
 Svanfast
 Svanlaugthrith
+Svenagarth
 Swordbilliam
 Sylestone
 Sylmarwen
@@ -1709,6 +1725,7 @@ Vahnya
 Vaidaran
 Vailar
 Valdifar
+Valerond
 Valithia
 Valodil
 Valorgard
