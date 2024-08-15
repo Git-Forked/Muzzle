@@ -426,10 +426,12 @@ Dolinada
 Doobedat
 Dorfy
 Doro
+Draelinn
 Dravar
 Dresdens
 Drexicar
 Drizdenn
+Drondil
 Druando
 Druzy
 Dualblades
@@ -931,7 +933,6 @@ Krystacia
 Kuchikukan
 Kuzd
 Kuzukic
-Kveldof
 Kwarei
 Kwozzy
 Kyannah
@@ -962,6 +963,7 @@ Leahanna
 Leddicus
 Leggothir
 Legolambchops
+Lendawen
 Lendless
 Lengethmorn
 LF
@@ -1041,6 +1043,7 @@ Malistor
 Malithad
 Malithar
 Mallinor
+Malnoril
 Malogag
 Malonga
 Malorwyn
@@ -1398,6 +1401,7 @@ Ryuknite
 Saarthronah
 Saashay
 Sabennchamp
+Sabriell
 Saerothir
 Safeguard
 Sakti
@@ -1474,6 +1478,7 @@ Sifraen
 Sigininbar
 Sigmodi
 Sigrid
+Sildag
 Silnia
 Silphie
 Silverbree
