@@ -444,6 +444,7 @@ Durahann
 Dvoin
 Dvorako
 Dwazabella
+Dwazagul
 Dwazanazak
 Dwaziriel
 Dworlyn
@@ -820,6 +821,7 @@ Inconstant
 Indbil
 Indiela
 Ingorif
+Inhirglin
 Inittowinit
 Inlerah
 Install
@@ -951,6 +953,7 @@ Larkenarrow
 Larkenlore
 Larkspur
 Larnilwen
+Larthirwe
 Lathlered
 Lathrandhil
 Laueliree
@@ -1161,6 +1164,7 @@ Moxxley
 Moxxyma
 Munches
 Munkkee
+Musicphile
 Mycouchpullsoutidont
 Mydric
 Myearsarepointy
@@ -1437,6 +1441,7 @@ Scottbraw
 Scottem
 Scottshighelfchamp
 Scottsminihob
+Scrapmetal
 Scrufflesneedsashave
 Scrunkee
 Scummybear
@@ -1548,6 +1553,7 @@ Svanlaugthrith
 Svenagarth
 Swordbilliam
 Sylestone
+Syllvaniel
 Sylmarwen
 Syn
 Syndarin
@@ -1729,6 +1735,7 @@ Vahndetta
 Vahnya
 Vaidaran
 Vailar
+Valamira
 Valdifar
 Valerond
 Valithia
@@ -1821,6 +1828,7 @@ Yaaka
 Yaruzuk
 Yasmeirra
 Yaulinde
+Yavienn
 Yavon
 Yggdrika
 Yirthain
