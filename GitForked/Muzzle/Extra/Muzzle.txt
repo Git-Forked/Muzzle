@@ -104,6 +104,7 @@ Artyzan
 Arvithion
 Arwenya
 Asglorgor
+Ashenx
 Ashluin
 Asina
 Asorn
@@ -345,6 +346,7 @@ Crazytalk
 Creepygoat
 Crimsonsplatter
 Critager
+Crownless
 Cryspea
 Ctri
 Cuftlo
@@ -1385,6 +1387,7 @@ Rockmogstar
 Rockworthy
 Rodgertherabbit
 Rokcavhir
+Roknrol
 Romawende
 Rootor
 Rormurori
@@ -1501,6 +1504,7 @@ Slagg
 Slicendicealex
 Smacka
 Smaulder
+Snakechampdustin
 Snappdragon
 Snarvi
 Sneekypeekus
@@ -1800,6 +1804,7 @@ Wilarose
 Wildie
 Wildorf
 Wilmoor
+Windybutt
 Wingy
 Wingyili
 Wingylas
