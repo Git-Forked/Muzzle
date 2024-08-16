@@ -691,6 +691,7 @@ Gosvallen
 Gothrand
 Gotursix
 Goudacheese
+Graefenson
 Graelaf
 Graenfinwe
 Graeva
@@ -906,6 +907,7 @@ Kaye
 Keenanwynn
 Keerito
 Keilee
+Keldros
 Kelembore
 Kellinore
 Kelvig
@@ -976,6 +978,7 @@ Liannanor
 Lillas
 Lillothriel
 Lillun
+Lilpapared
 Lilyrose
 Limelemon
 Linadoor
@@ -1217,6 +1220,7 @@ Niskaru
 Nitzz
 Nonemoreblack
 Nongo
+Noobamir
 Norfori
 Northarin
 Nosaphor
@@ -1316,6 +1320,7 @@ Praelas
 Presmer
 Prilonda
 Pritcher
+Protecting
 Psolarea
 Pudgi
 Punchatizemecap
@@ -1500,6 +1505,7 @@ Skerling
 Skiffs
 Skjolbeorn
 Skuldjorna
+Skyraine
 Slagg
 Slicendicealex
 Smacka
@@ -1621,11 +1627,13 @@ Teezle
 Tefh
 Telgaril
 Temiwyn
+Terodal
 Thalgul
 Thalian
 Tharelaith
 Tharglafang
 Tharthollost
+Thecrimsondirk
 Thelaris
 Thelhild
 Thenever
