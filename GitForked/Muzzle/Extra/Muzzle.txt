@@ -23,11 +23,13 @@ Aew
 Afrathelion
 Agerk
 Aglabmenu
+Ahrn
 Aicamasse
 Aicasarto
 Aidintwo
 Ainwel
 Airavis
+Airequenya
 Airku
 Ajmehrai
 Akillezee
@@ -79,6 +81,7 @@ Aoifewyn
 Aphora
 Aqiqo
 Aquinero
+Arabruhad
 Aradaen
 Aranamar
 Aranfeleos
@@ -226,6 +229,7 @@ Bodvet
 boi
 Bonappetit
 Boral
+Bordale
 Bossmoss
 Bothundbur
 Botok
@@ -484,6 +488,7 @@ Eladuial
 Elairra
 Eldaered
 Elderia
+Eldolthryth
 Elelfrocken
 Elenas
 Elimr
@@ -660,6 +665,7 @@ Gillinrandir
 Gillinronder
 Gillinrondey
 Gillinrondy
+Gillonronder
 Gilmarlynn
 Gilmart
 Gilthalrandir
@@ -758,6 +764,7 @@ Hazeldawn
 Hazzahs
 Healrod
 Heftwirl
+Helamabut
 Helgrenze
 Heliflower
 Hellgrimm
@@ -872,6 +879,7 @@ Jimineecrackhedd
 Joelynne
 Johnnytookamongo
 Jonbones
+Jonkomir
 Jonnybgoode
 Joyrien
 Jozadak
@@ -997,6 +1005,7 @@ Liuin
 Logansan
 Lokea
 Lollygag
+Lonatharil
 Lonekk
 Longpig
 Lordevileyes
@@ -1051,6 +1060,7 @@ Malistor
 Malithad
 Malithar
 Mallinor
+Malnek
 Malnoril
 Malogag
 Malonga
@@ -1159,6 +1169,7 @@ Morgenlada
 Moriaen
 Moriquetta
 Morled
+Mormolac
 Morodeth
 Morveren
 Mossorin
@@ -1259,6 +1270,7 @@ Olecoot
 Olirya
 Ollurin
 Omegaruler
+Omelia
 Onnelm
 Onokh
 Onuaku
@@ -1476,6 +1488,7 @@ Shaill
 Shelbe
 Shera
 Sherieth
+Sherirune
 Shidosh
 Shielda
 Shieranor
@@ -1640,6 +1653,7 @@ Thenever
 TheNeverEndingStories
 Thengo
 Theoddryht
+Theonlygorthax
 Thidfinn
 Thinachar
 Thistledoon
@@ -1843,6 +1857,7 @@ Yasmeirra
 Yaulinde
 Yavienn
 Yavon
+Yawr
 Yggdrika
 Yirthain
 Ynarriel
