@@ -662,6 +662,7 @@ Gillinkeep
 Gillinlas
 Gillinmir
 Gillinrandir
+Gillinrond
 Gillinronder
 Gillinrondey
 Gillinrondy
@@ -791,6 +792,7 @@ Hoopyles
 Hopeslight
 Horyu
 Hrosdur
+Hrothland
 Hucklebarry
 Hucklepuck
 Hugeos
@@ -940,6 +942,7 @@ Kirenegan
 Kitrael
 Knowledgeispower
 Konaran
+Korethot
 Kornpop
 Kovaskahn
 Krayoneaterwe
@@ -1003,6 +1006,7 @@ Lithlin
 Littlewhitedove
 Liuin
 Logansan
+Logiee
 Lokea
 Lollygag
 Lonatharil
