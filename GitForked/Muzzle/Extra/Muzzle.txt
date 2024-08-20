@@ -243,6 +243,7 @@ Brandoch
 Brawlbo
 Brawlerpapa
 Brawlur
+Brengun
 Briarlyn
 Bridgitt
 Briggela
@@ -383,6 +384,7 @@ Dankiest
 Darcstah
 Darduipher
 Daridun
+Darkbringerr
 Darkvila
 Darwarz
 Dathran
@@ -475,6 +477,7 @@ Ececap
 Ecled
 Edenfiel
 Edging
+Edhelethuil
 Edomir
 Edwinadin
 Eebwick
@@ -569,6 +572,7 @@ FaradayFox
 Faramart
 Farralorm
 Fatbombur
+Fatcrap
 Fathobbit
 Fay
 Feahyandacappytwo
@@ -744,6 +748,7 @@ Haliriel
 Halladr
 Halmarna
 Halmil
+Halneldalknifer
 Halv
 Hamloch
 Hanarrad
@@ -1238,6 +1243,7 @@ Nenaurod
 Nephril
 Neppie
 Nerariel
+Nerodia
 Nethelion
 Neverko
 Neynwen
@@ -1413,6 +1419,7 @@ Ridbeorn
 Ridderroy
 Rilgrim
 Ringdagar
+Ringdeldam
 Rinwulf
 Riparan
 Risiki
@@ -1586,6 +1593,7 @@ Stormibeorn
 Stormibow
 Stormikin
 Stouthands
+Strfox
 Strideher
 Strothalion
 Studbeefpile
@@ -1855,6 +1863,9 @@ Windybutt
 Wingy
 Wingyili
 Wingylas
+wow
+WoW
+WOW
 Wreckhelm
 Wrothras
 Wulfius
