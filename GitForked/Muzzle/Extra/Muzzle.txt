@@ -44,6 +44,7 @@ Aleriadh
 Algim
 Alinden
 Aljeron
+Alkaos
 Allieone
 Aloriel
 Aloriendel
@@ -219,6 +220,7 @@ Bilskirnir
 Birnfrith
 Birsa
 Bjornmir
+Blackdoggo
 Blackrabbitking
 Blappie
 Blaubeere
@@ -734,6 +736,7 @@ Gwathildol
 Gwelia
 Gwenilweth
 Gwinne
+Gwynblaed
 Gyngilly
 Gyrvor
 Habstrom
@@ -741,6 +744,7 @@ Haidel
 Haidwyn
 Haidyn
 Haivorn
+Halbranthir
 Haldaroc
 Haldis
 Halick
@@ -1057,6 +1061,7 @@ Macroom
 Macyeth
 Madagast
 Maerchellung
+Maerethor
 Maethrandiel
 Maevea
 Maevynn
@@ -1107,6 +1112,7 @@ Martadan
 Martingale
 Marwhini
 Mathanir
+Mathraandir
 Maximostly
 Maxwellyn
 Mayalin
@@ -1518,6 +1524,7 @@ Shadori
 Shadowtom
 Shaill
 Shelbe
+Shelbyy
 Shera
 Sherieth
 Sherirune
