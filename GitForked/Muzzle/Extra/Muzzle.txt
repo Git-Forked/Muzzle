@@ -6,6 +6,7 @@ Acornish
 Adaiel
 Adanadir
 Adanidir
+Adenfin
 Adinonzl
 Adleren
 Adondo
@@ -247,6 +248,7 @@ Brawlerpapa
 Brawlur
 Brengun
 Briarlyn
+Brickdong
 Bridgitt
 Briggela
 Brightmetal
@@ -405,6 +407,7 @@ Delfer
 Delhad
 Dellianna
 Delrael
+Delthirion
 Delyssia
 Demiors
 Denothan
@@ -503,6 +506,7 @@ Elenas
 Elimr
 Elixtoria
 Elkana
+Elladreia
 Ellanhard
 Ellanriel
 Ellidas
@@ -747,6 +751,7 @@ Haivorn
 Halbranthir
 Haldaroc
 Haldis
+Halffo
 Halick
 Haliriel
 Halladr
@@ -835,6 +840,7 @@ Ijwyn
 Ilirwar
 Illevar
 Illunathros
+Ilmalosse
 Ilthaniel
 Iltharas
 Iluenil
@@ -898,6 +904,7 @@ Johnnytookamongo
 Jonbones
 Jonkomir
 Jonnybgoode
+Joycion
 Joyrien
 Jozadak
 Juggernaughtie
@@ -950,10 +957,12 @@ Khalilrandir
 Khurisia
 Khurm
 Khwalilahbear
+Killemdafoe
 Kingsalimosi
 Kiputtyto
 Kirea
 Kirenegan
+Kissyfur
 Kitrael
 Knowledgeispower
 Konaran
@@ -1463,6 +1472,7 @@ Saarthronah
 Saashay
 Sabennchamp
 Sabriell
+Saerith
 Saerothir
 Safeguard
 Sakti
@@ -1553,6 +1563,7 @@ Sinring
 Siswaiaman
 Sitkah
 Sitkia
+Skegthor
 Skerling
 Skiffs
 Skjolbeorn
