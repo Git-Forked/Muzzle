@@ -96,6 +96,7 @@ Arcinrien
 Ardandriel
 Arduthin
 Argall
+Arguith
 Ariezen
 Arjunelle
 Arkoudos
@@ -803,6 +804,7 @@ Hithaerdes
 Hithina
 Hlifmer
 Hlodrof
+Holanta
 Holfur
 Holiel
 Holmms
@@ -857,6 +859,7 @@ Ingorif
 Inhirglin
 Inittowinit
 Inlerah
+Inphellos
 Install
 Iorthomund
 Iowedhir
@@ -962,6 +965,7 @@ Kingsalimosi
 Kiputtyto
 Kirea
 Kirenegan
+Kirine
 Kissyfur
 Kitrael
 Knowledgeispower
@@ -1226,6 +1230,7 @@ Mycouchpullsoutidont
 Mydric
 Myearsarepointy
 Myffanway
+Myntheanu
 Myphanneweigh
 Myrddinus
 Mythek
@@ -1276,6 +1281,7 @@ Nitzz
 Nonemoreblack
 Nongo
 Noobamir
+Noobwise
 Norfori
 Northarin
 Nosaphor
@@ -1402,6 +1408,7 @@ Raevyne
 Rafflesian
 Rakadov
 Rakshathul
+Ranabor
 Ranken
 Rapunchel
 Raudhagen
@@ -1455,6 +1462,7 @@ Romawende
 Rootor
 Rormurori
 Roseilid
+Roslindia
 Rozalynn
 Rrandgrid
 Rubysilver
@@ -1724,6 +1732,7 @@ Throttalin
 Thruthla
 Thumpa
 Thunderbyte
+Thyrantilde
 Tidbits
 Tiffanyandco
 Tiffanyfireheart
@@ -1860,6 +1869,7 @@ Vruto
 Vylkariya
 Waatwan
 Warowulf
+Warrabbit
 Warrpathe
 wato
 Wato
@@ -1876,6 +1886,7 @@ Wigmund
 Wilarose
 Wildie
 Wildorf
+Willough
 Wilmoor
 Windybutt
 Wingy
