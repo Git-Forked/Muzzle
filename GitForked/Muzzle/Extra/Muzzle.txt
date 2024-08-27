@@ -1,4 +1,3 @@
-/
 Aariaa
 Abramms
 Aclandia
@@ -150,6 +149,7 @@ Bacon
 BACON
 Bacu
 Badbrad
+Baerdus
 Baheeby
 Bahogbilat
 Baintauriel
@@ -411,6 +411,7 @@ Delrael
 Delthirion
 Delyssia
 Demiors
+Denorid
 Denothan
 Deramil
 Derdaran
@@ -434,6 +435,7 @@ Dissonance
 Dithrygg
 Diverticulosis
 Dixiesky
+Diyldo
 Djevaak
 Dnarthur
 Docmurder
@@ -441,6 +443,7 @@ Dodorad
 Dogdude
 Dolethrian
 Dolinada
+Domfroth
 Doobedat
 Dorfy
 Doro
@@ -592,6 +595,7 @@ Fennthicc
 Ferlina
 Fernwise
 Ferrisrushb
+Ferynil
 Festeon
 Festivius
 Fhyrias
@@ -748,6 +752,7 @@ Habstrom
 Haidel
 Haidwyn
 Haidyn
+Hailstonez
 Haivorn
 Halbranthir
 Haldaroc
@@ -1182,6 +1187,7 @@ Merothin
 Mertensia
 Mesco
 Metalle
+Midgetmanxl
 Midiwyn
 Miffed
 Migheedo
@@ -1606,6 +1612,7 @@ Squatz
 Squishyelfthing
 Srordat
 Stannlas
+Starkrolf
 Starmetal
 Starrili
 Starsaber
@@ -1747,6 +1754,7 @@ Tiocfaidharla
 Tippo
 Tirwyn
 Titianna
+Tlana
 Tochihimo
 Toe
 Toecap
@@ -1867,6 +1875,7 @@ Voknur
 Voruuk
 Vruto
 Vylkariya
+Vysalina
 Waatwan
 Warowulf
 Warrabbit
