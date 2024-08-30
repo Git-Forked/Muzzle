@@ -630,6 +630,7 @@ Freaya
 Frenchdoors
 Freyakkyn
 Freyraen
+Fridfigvid
 Frie
 Friggnar
 Frilla
@@ -1238,6 +1239,7 @@ Mowe
 Moxxey
 Moxxley
 Moxxyma
+Muckwyn
 Munches
 Munkkee
 Musicphile
@@ -1345,6 +1347,7 @@ Oragorn
 Oraphor
 Ordinaryfool
 Orenwen
+Organdin
 Orndil
 Orney
 Orthond
@@ -1471,6 +1474,7 @@ Rockmans
 Rockmogstar
 Rockworthy
 Rodgertherabbit
+Rohllo
 Rokcavhir
 Roknrol
 Romawende
@@ -1618,6 +1622,7 @@ Spyd
 Spydarin
 Spyden
 Squatz
+Squintio
 Squishyelfthing
 Srordat
 Stannlas
