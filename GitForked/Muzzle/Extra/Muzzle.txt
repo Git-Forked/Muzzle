@@ -222,6 +222,7 @@ Bilskirnir
 Birnfrith
 Birsa
 Bjornmir
+Bjorntokil
 Blackdoggo
 Blackrabbitking
 Blappie
@@ -794,6 +795,7 @@ Helamabut
 Helgrenze
 Heliflower
 Hellgrimm
+Hellinore
 Herbotic
 Hermand
 Herullion
@@ -836,6 +838,7 @@ Iamq
 Icantplay
 Iceposeidon
 Idlo
+Ienno
 Ieseult
 Iguanabaldobeef
 Iic
@@ -846,6 +849,7 @@ Ijwen
 Ijwyn
 Ilirwar
 Illevar
+Illithianos
 Illunathros
 Ilmalosse
 Ilthaniel
@@ -875,6 +879,7 @@ Isenshire
 Isindule
 Isoldeh
 Isotropic
+Istimor
 Ithalros
 Ithrindiel
 Itkurgat
@@ -994,6 +999,7 @@ Lagtastic
 Lairelithonielle
 Laithriel
 Lanferil
+Lanteldan
 Laochson
 Larfast
 Larken
@@ -1015,6 +1021,7 @@ Leahanna
 Leddicus
 Leggothir
 Legolambchops
+Leirithe
 Lendawen
 Lendless
 Lengethmorn
@@ -1036,6 +1043,7 @@ Linkinlog
 Linnon
 Linthanel
 Lisandir
+Lisseren
 Lithlin
 Littlewhitedove
 Liuin
@@ -1210,6 +1218,7 @@ Mognet
 Mogstar
 Mohobbit
 Moiraine
+Montfort
 Mooch
 Mordredh
 Moredeeb
@@ -1626,6 +1635,7 @@ Stormibeorn
 Stormibow
 Stormikin
 Stouthands
+Strawgully
 Strfox
 Strideher
 Strothalion
@@ -1854,6 +1864,7 @@ Vedok
 Veilo
 Velegorn
 Velladona
+Vellwen
 Velonia
 Venatrici
 Venfleur
