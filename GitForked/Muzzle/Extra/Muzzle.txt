@@ -45,6 +45,7 @@ Algim
 Alinden
 Aljeron
 Alkaos
+Allanya
 Allieone
 Aloriel
 Aloriendel
@@ -663,6 +664,7 @@ Galmli
 Galmr
 Gandorael
 Garlique
+Garyowen
 Garyscalf
 Gathrin
 Gattzu
@@ -880,6 +882,7 @@ Isenshire
 Isindule
 Isoldeh
 Isotropic
+Isthrandir
 Istimor
 Ithalros
 Ithrindiel
@@ -1055,6 +1058,7 @@ Lollygag
 Lonatharil
 Lonekk
 Longpig
+Lorderagon
 Lordevileyes
 Lordunderhill
 Lorefreak
@@ -1135,6 +1139,7 @@ Marfedelom
 Mariath
 Maridal
 Marlagarth
+Marlas
 Martadan
 Martingale
 Marwhini
@@ -1250,6 +1255,7 @@ Myffanway
 Myntheanu
 Myphanneweigh
 Myrddinus
+Myrwarda
 Mythek
 Myuliel
 Nacham
