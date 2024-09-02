@@ -570,6 +570,7 @@ Eyogentandre
 Faedyn
 Faefnir
 Faeogost
+Faeverin
 Fairaday
 Fairewind
 Faithfull
@@ -691,6 +692,7 @@ Gillinronder
 Gillinrondey
 Gillinrondy
 Gillonronder
+Gillthallion
 Gilmarlynn
 Gilmart
 Gilthalrandir
@@ -976,6 +978,7 @@ Khurm
 Khwalilahbear
 Killemdafoe
 Kingsalimosi
+Kingsnagga
 Kiputtyto
 Kirea
 Kirenegan
@@ -1147,12 +1150,14 @@ Mathanir
 Mathraandir
 Maximostly
 Maxwellyn
+May
 Mayalin
 Mayaswell
 Maybearie
 Mayble
 Mayblight
 Maybrawl
+Mayda
 Maydena
 Mayechcin
 Maygadeth
@@ -1306,6 +1311,7 @@ Nongo
 Noobamir
 Noobwise
 Norfori
+Norlandoc
 Northarin
 Nosaphor
 Nosro
@@ -1414,6 +1420,7 @@ Punchatizemecap
 Punchii
 Puremetal
 Qertinya
+Qora
 Quaziloco
 Quinmin
 Quinngon
@@ -1794,6 +1801,7 @@ Tormur
 Torvalar
 Torvalig
 Tosmod
+Totesmagoats
 Toystory
 Trajjin
 Tran
