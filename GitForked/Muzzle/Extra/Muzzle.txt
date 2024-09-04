@@ -86,6 +86,7 @@ Aqiqo
 Aquinero
 Arabruhad
 Aradaen
+Aramairas
 Aranamar
 Aranfeleos
 Aranlen
@@ -249,6 +250,7 @@ Brandoch
 Brawlbo
 Brawlerpapa
 Brawlur
+Bregahil
 Brengun
 Briarlyn
 Brickdong
@@ -274,6 +276,7 @@ Bunnydemon
 Buoy
 Burgerbob
 Bwalon
+Byronius
 Cabo
 Cabox
 Cacophonix
@@ -302,6 +305,7 @@ Cathius
 Cathonriel
 Catryona
 Cayleigh
+Ceckshavr
 Celeathe
 Celebecthel
 Celebwind
@@ -324,6 +328,7 @@ Cheeseburgler
 Chesnutpuck
 Chetna
 Chiamobus
+Chiksie
 Chrysalis
 Chunindia
 Cildaran
@@ -445,6 +450,7 @@ Dodorad
 Dogdude
 Dolethrian
 Dolinada
+Domdrunk
 Domfroth
 Doobedat
 Dorfy
@@ -510,6 +516,7 @@ Eldolthryth
 Elelfrocken
 Elenas
 Elimr
+Elishelm
 Elixtoria
 Elkana
 Elladreia
@@ -518,6 +525,7 @@ Ellanriel
 Ellidas
 Ellieraen
 Ellisary
+Elorandwe
 Eloreah
 Elosyadar
 Elowambur
@@ -1463,6 +1471,7 @@ Rennia
 Reviadir
 Revofruin
 Rhea
+Rhovwyn
 Rhubraig
 Rhyaena
 Rhyya
@@ -1562,6 +1571,7 @@ Senirian
 Seoda
 Sepulchraive
 Seratild
+Seravorn
 Serrbeorn
 Serrune
 Servusiesu
@@ -1978,6 +1988,7 @@ Zariaha
 Zealouself
 Zebedeeone
 Zellcosmetic
+Zengarr
 Zephyriel
 Zeraphir
 Zifnyy
