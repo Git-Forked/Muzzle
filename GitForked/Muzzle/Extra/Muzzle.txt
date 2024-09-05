@@ -49,6 +49,7 @@ Allanya
 Allieone
 Aloriel
 Aloriendel
+Alphaldor
 Alvilde
 Alwaysfadingecho
 Amaleia
@@ -387,6 +388,7 @@ Cyrissjr
 Daeeron
 Daenaswith
 Dagadaen
+Dagonei
 Dagreth
 Dalongar
 Damidir
@@ -561,6 +563,7 @@ Erythorn
 Erythron
 Estelwynn
 Estemeire
+Estherial
 Ethelmath
 Etheranie
 Ethinjol
@@ -1116,6 +1119,7 @@ Mairobhar
 Maladirs
 Malastel
 Malcolm
+Malendar
 Malethar
 Malhaldor
 Maliadis
