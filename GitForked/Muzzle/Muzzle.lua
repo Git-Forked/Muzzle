@@ -5,6 +5,7 @@
 
 Muzzle = {
 	'Aariaa',
+	'Abagnale',
 	'Abramms',
 	'Aclandia',
 	'Acornish',
@@ -625,6 +626,7 @@ Muzzle = {
 	'Fimarith',
 	'Findolrond',
 	'Finti',
+	'Fionarian',
 	'Fionnuir',
 	'Firalthil',
 	'Fireass',
@@ -1111,6 +1113,7 @@ Muzzle = {
 	'Macroom',
 	'Macyeth',
 	'Madagast',
+	'Madragon',
 	'Maerchellung',
 	'Maerethor',
 	'Maethrandiel',
@@ -1917,6 +1920,7 @@ Muzzle = {
 	'Victorieas',
 	'Vildenfiel',
 	'Vilette',
+	'Viljamir',
 	'Villo',
 	'Vilyrandir',
 	'Vimilzagar',

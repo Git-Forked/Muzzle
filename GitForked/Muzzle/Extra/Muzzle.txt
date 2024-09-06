@@ -1,4 +1,5 @@
 Aariaa
+Abagnale
 Abramms
 Aclandia
 Acornish
@@ -619,6 +620,7 @@ Fighty
 Fimarith
 Findolrond
 Finti
+Fionarian
 Fionnuir
 Firalthil
 Fireass
@@ -1105,6 +1107,7 @@ Lyfeline
 Macroom
 Macyeth
 Madagast
+Madragon
 Maerchellung
 Maerethor
 Maethrandiel
@@ -1911,6 +1914,7 @@ Viceversa
 Victorieas
 Vildenfiel
 Vilette
+Viljamir
 Villo
 Vilyrandir
 Vimilzagar
