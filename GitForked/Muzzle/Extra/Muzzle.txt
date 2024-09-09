@@ -100,6 +100,7 @@ Ardandriel
 Arduthin
 Argall
 Arguith
+Ariawulf
 Ariezen
 Arjunelle
 Arkoudos
@@ -468,6 +469,7 @@ Druando
 Druzy
 Dualblades
 Dulciana
+Dulgun
 Dumbledorf
 Dunarcarn
 Dunnylle
@@ -482,6 +484,7 @@ Dwaziriel
 Dworlyn
 Dyin
 Dzungla
+Eadevewyn
 Eadrithe
 Earlindk
 Earlindun
@@ -1299,6 +1302,7 @@ Nattee
 Nefte
 Negativeglow
 Nekros
+Neldun
 Nellathrond
 Nelsonord
 Nenaured
@@ -1867,6 +1871,7 @@ Unbearables
 Unglarion
 Urakad
 Ursalynn
+Urundel
 Urzamajor
 Urzaminor
 Uthbehrt
