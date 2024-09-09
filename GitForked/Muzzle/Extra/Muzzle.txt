@@ -29,6 +29,7 @@ Ahrn
 Aicamasse
 Aicasarto
 Aidintwo
+Aillaline
 Ainwel
 Airavis
 Airequenya
@@ -174,6 +175,7 @@ Barardir
 Barasit
 Bardindal
 Barfight
+Barthewal
 Barvind
 Baser
 Bataosai
@@ -624,6 +626,7 @@ Fimarith
 Findolrond
 Finti
 Fionarian
+Fionlind
 Fionnuir
 Firalthil
 Fireass
@@ -738,6 +741,7 @@ Gorimli
 Gormormur
 Gosvallen
 Gothrand
+Gotmund
 Gotursix
 Goudacheese
 Graefenson
@@ -1375,6 +1379,7 @@ Onuaku
 Oorvaril
 Oraenne
 Oragorn
+Orangeduke
 Oraphor
 Ordinaryfool
 Orenwen
@@ -1532,6 +1537,7 @@ Saarthronah
 Saashay
 Sabennchamp
 Sabriell
+Saerami
 Saerith
 Saerothir
 Safeguard
@@ -1544,6 +1550,7 @@ Saltyoldcurmudgeon
 Samieth
 Sammya
 Sampaguita
+Sarahaphina
 Sarcastard
 Sariphena
 Sarorion
@@ -1799,6 +1806,7 @@ Tiltius
 Timothe
 Tinburgler
 Tinowyn
+Tinuver
 Tiocfaidharla
 Tippo
 Tirwyn
@@ -1865,6 +1873,7 @@ Uhaul
 Ulfarion
 Ulfheid
 Ulfthryth
+Ullorviel
 Ulvghar
 Umonry
 Unbearables
@@ -1923,6 +1932,7 @@ Viljamir
 Villo
 Vilyrandir
 Vimilzagar
+Vionya
 Vodkihad
 Voknur
 Voruuk
@@ -2009,6 +2019,7 @@ zilla
 Zingiber
 Zinns
 Zoemi
+Zojilar
 Zoke
 Zoltegar
 Zombmay
