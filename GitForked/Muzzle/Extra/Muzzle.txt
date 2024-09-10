@@ -60,6 +60,7 @@ Amandak
 Amarathine
 Amared
 Amethysl
+Amhallion
 Amlindor
 Amranos
 Amrindril
@@ -184,6 +185,7 @@ Baurog
 Baysur
 Bayzur
 Bbaqvea
+Bealdic
 Bearchaos
 Bearpigs
 Beastrod
@@ -303,6 +305,7 @@ Captcookie
 Captjameshook
 Carianor
 Carrick
+Carthenion
 Catallaxy
 Catallyst
 Cathbhar
@@ -338,6 +341,7 @@ Chrysalis
 Chunindia
 Cildaran
 Cilwen
+Cima
 Cirelborn
 Cirhorn
 Clamnog
@@ -544,6 +548,7 @@ Eltiner
 Elunis
 Elvenraen
 Elwys
+Elyborn
 Elyviel
 Emildan
 Emillina
@@ -682,6 +687,7 @@ Galleott
 Gallinir
 Galmli
 Galmr
+Gamstarli
 Gandorael
 Garlique
 Garyowen
@@ -943,6 +949,7 @@ Johnnytookamongo
 Jonbones
 Jonkomir
 Jonnybgoode
+Jonwhorfin
 Joycion
 Joyrien
 Jozadak
@@ -1074,6 +1081,7 @@ Lisseren
 Lithlin
 Littlewhitedove
 Liuin
+Livotta
 Logansan
 Logiee
 Lokea
@@ -1136,6 +1144,7 @@ Maliadis
 Malistor
 Malithad
 Malithar
+Malkaizer
 Mallinor
 Mallowmist
 Malnek
@@ -1468,6 +1477,7 @@ Ranken
 Rapunchel
 Raudhagen
 Ravangel
+Ravirja
 Raymiond
 Razledazle
 Razodin
@@ -1525,6 +1535,7 @@ Rrandgrid
 Rubysilver
 Rucket
 Rudalla
+Rudinoth
 Rugad
 Runkhulruk
 Rustymetal
@@ -1632,6 +1643,7 @@ Siswaiaman
 Sitkah
 Sitkia
 Skegthor
+Skerjarn
 Skerling
 Skiffs
 Skjolbeorn
@@ -1694,6 +1706,7 @@ Sunnydragon
 Surreal
 Sustrai
 Svanfast
+Svanlana
 Svanlaugthrith
 Svenagarth
 Swordbilliam
@@ -2016,6 +2029,7 @@ Zephyriel
 Zeraphir
 Zifnyy
 zilla
+Zinaleo
 Zingiber
 Zinns
 Zoemi
