@@ -132,6 +132,7 @@ Athyria
 Atropa
 Attyric
 Auchoo
+Audulfa
 Auliviel
 Aumnydaria
 Auraith
@@ -328,6 +329,7 @@ Cenedrilra
 Centarum
 Cepicorpus
 Cfofled
+Chalric
 Chantall
 Chantelle
 Chaosspark
@@ -344,6 +346,7 @@ Cilwen
 Cima
 Cirelborn
 Cirhorn
+Cironell
 Clamnog
 Claudein
 Clawrond
@@ -733,6 +736,7 @@ Glorfinmart
 Glorfinwe
 Glormurst
 Glorthendil
+Glumbtro
 Glyngil
 Gogarty
 Goku
@@ -781,6 +785,7 @@ Gwynblaed
 Gyngilly
 Gyrvor
 Habstrom
+Hacknslash
 Haidel
 Haidwyn
 Haidyn
@@ -998,6 +1003,7 @@ Kendrablake
 Kesalleoaslas
 Kevyriel
 Khadijah
+Khalidune
 Khalilah
 Khalilrandir
 Khurisia
@@ -1033,6 +1039,7 @@ Lagtastic
 Lairelithonielle
 Laithriel
 Lanferil
+Langoliers
 Lanteldan
 Laochson
 Larfast
@@ -1228,6 +1235,7 @@ Melithas
 Mellidhroth
 Melonii
 Meluthuilas
+Menachem
 Menglindril
 Menuriel
 Mereliss
@@ -1409,6 +1417,7 @@ Pandaexpress
 Papidonk
 Parvata
 Pasionaria
+Peachfuzy
 Peanutbuttercup
 Pebbles
 Peligo
@@ -1478,7 +1487,6 @@ Rapunchel
 Raudhagen
 Ravangel
 Ravirja
-Raymiond
 Razledazle
 Razodin
 Razoin
@@ -1497,6 +1505,7 @@ Rennia
 Reviadir
 Revofruin
 Rhea
+Rheniogil
 Rhovwyn
 Rhubraig
 Rhyaena
@@ -1885,6 +1894,7 @@ Uberfool
 Uhaul
 Ulfarion
 Ulfheid
+Ulfryn
 Ulfthryth
 Ullorviel
 Ulvghar
