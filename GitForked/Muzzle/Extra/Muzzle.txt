@@ -237,6 +237,7 @@ Bjornmir
 Bjorntokil
 Blackdoggo
 Blackrabbitking
+Bladeruner
 Blappie
 Blaubeere
 Blerpolas
@@ -679,6 +680,7 @@ Furcifer
 Fuzzywuzzey
 Fyrefleur
 Fyrno
+Fyyk
 Gabrilos
 Gaearil
 Gaelerian
@@ -867,6 +869,7 @@ Hrothland
 Hucklebarry
 Hucklepuck
 Hugeos
+Hugwenor
 Hullaras
 Humanchampion
 Humroc
@@ -1028,6 +1031,8 @@ Knowledgeispower
 Konaran
 Korethot
 Kornpop
+Kortskegg
+Kothog
 Kovaskahn
 Krayoneaterwe
 Krystacia
@@ -1235,6 +1240,7 @@ Mcgavan
 Meagyth
 Medumam
 Megaevil
+Meggraen
 Meisie
 Mel
 Melithas
@@ -1784,6 +1790,7 @@ Tarvornion
 Taterswithgravy
 Tathorhen
 Taurtaren
+Taurusblack
 Tawan
 Tawd
 Taweth
