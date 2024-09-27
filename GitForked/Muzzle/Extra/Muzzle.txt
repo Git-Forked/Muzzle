@@ -244,6 +244,7 @@ Blaubeere
 Blerpolas
 Bliffin
 Blilbow
+Blixie
 Bloonboy
 Boddacia
 Bodvet
@@ -319,6 +320,7 @@ Cathonriel
 Catryona
 Cayleigh
 Ceckshavr
+Ceirys
 Celeathe
 Celebecthel
 Celebwind
@@ -410,6 +412,7 @@ Damidir
 Danaii
 Dankegilde
 Dankiest
+Dantimily
 Darcstah
 Darduipher
 Daridun
@@ -473,6 +476,7 @@ Doobedat
 Dorfy
 Doro
 Draelinn
+Dranthor
 Dravar
 Dresdens
 Drexicar
@@ -481,6 +485,7 @@ Drondil
 Druando
 Druzy
 Dualblades
+Dudeskee
 Dulciana
 Dulgun
 Dumbledorf
@@ -496,6 +501,7 @@ Dwazanazak
 Dwaziriel
 Dworlyn
 Dyin
+Dystolin
 Dzungla
 Eadevewyn
 Eadrithe
@@ -634,6 +640,7 @@ Fhyrias
 Fidiler
 Fieri
 Fighty
+Fillaset
 Fimarith
 Findolrond
 Finti
@@ -711,6 +718,7 @@ Geliriel
 Gentlemangimli
 Gerrie
 Ghellar
+Ghostlovescore
 Ghoti
 Giilinlerond
 Gilaglar
@@ -770,6 +778,7 @@ Granomir
 Grep
 Gresaran
 Gretel
+Grigmeister
 Grimhelde
 Grimlocked
 Grimowyn
@@ -1978,6 +1987,7 @@ Villo
 Vilyrandir
 Vimilzagar
 Vionya
+Vizzini
 Vodkihad
 Voknur
 Voruuk
