@@ -233,6 +233,7 @@ Billybobjunior
 Bilskirnir
 Birnfrith
 Birsa
+Bjorng
 Bjornmir
 Bjorntokil
 Blackdoggo
@@ -834,6 +835,7 @@ Havenbow
 Hazeldawn
 Hazzahs
 Healrod
+Hefthyn
 Heftwirl
 Helamabut
 Helgrenze
@@ -1612,6 +1614,7 @@ Scottem
 Scottshighelfchamp
 Scottsminihob
 Scrapmetal
+Scrowtum
 Scrufflesneedsashave
 Scrunkee
 Scummybear
@@ -1661,6 +1664,7 @@ Sigrid
 Sildag
 Silnia
 Silphie
+Silvaquendi
 Silverbree
 Simpinaina
 Sinead
@@ -2017,6 +2021,7 @@ Wynanor
 Wynohna
 Wysprwind
 Xailei
+Xanathir
 Xanawen
 Xappo
 Xaxarrien
