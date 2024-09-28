@@ -94,6 +94,7 @@ Aramairas
 Aranamar
 Aranfeleos
 Aranlen
+Arantidir
 Arboted
 Archalion
 Archamir
@@ -289,6 +290,7 @@ Bunnydemon
 Buoy
 Burgerbob
 Bwalon
+Bya
 Byronius
 Cabo
 Cabox
@@ -381,6 +383,7 @@ Crazyhorrse
 Crazypuncher
 Crazyskin
 Crazytalk
+Creeper
 Creepygoat
 Crimsonsplatter
 Critager
@@ -436,6 +439,7 @@ Delhad
 Dellianna
 Delrael
 Delthirion
+Delyna
 Delyssia
 Demiors
 Denorid
@@ -517,6 +521,7 @@ Ecathil
 Ece
 Ececap
 Ecled
+Edelewine
 Edenfiel
 Edging
 Edhelethuil
@@ -858,6 +863,7 @@ Hervit
 Hesmuwth
 hh
 HH
+Himmynuetron
 Hingana
 Hiperbole
 Hirarthlas
@@ -888,6 +894,7 @@ Hunteringngathering
 Hunterngather
 Hurting
 Hyanisse
+Hyllgwenor
 Hyssjostanob
 Iammullet
 Iamq
@@ -1113,6 +1120,7 @@ Liuin
 Livotta
 Logansan
 Logiee
+Loii
 Lokea
 Lollygag
 Lonatharil
@@ -1324,6 +1332,7 @@ Myntheanu
 Myphanneweigh
 Myrddinus
 Myrwarda
+Mysterous
 Mythek
 Myuliel
 Nacham
@@ -1528,6 +1537,7 @@ Reinriel
 Reiorin
 Reiyanor
 Rendingchaos
+Renelindar
 Rennia
 Reviadir
 Revofruin
@@ -1719,6 +1729,7 @@ Squishyelfthing
 Srordat
 Stannlas
 Starkrolf
+Starlirien
 Starmetal
 Starrili
 Starsaber
@@ -1726,6 +1737,7 @@ Steathstinger
 Steelkiss
 Stickcaster
 Stigred
+Stimi
 Stoneformbis
 Stormi
 Stormibeorn
@@ -1980,6 +1992,7 @@ Vethelion
 Vetun
 Viceversa
 Victorieas
+Vidnur
 Vildenfiel
 Vilette
 Viljamir
@@ -2089,3 +2102,4 @@ Zurri
 Zydbal
 Zyfel
 Zygel
+Zyrianne
