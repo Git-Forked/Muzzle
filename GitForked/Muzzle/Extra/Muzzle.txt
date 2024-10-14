@@ -16,6 +16,7 @@ Adronas
 Aduilwyn
 Aelfbrand
 Aellor
+Aelyia
 Aenglas
 Aenorean
 Aethardiel
@@ -34,6 +35,7 @@ Ainwel
 Airavis
 Airequenya
 Airku
+Aislingund
 Ajmehrai
 Akillezee
 Akonivess
@@ -133,6 +135,7 @@ Astrewyn
 Aswifeth
 Ataniatur
 Athyria
+Atriark
 Atropa
 Attyric
 Auchoo
@@ -274,6 +277,7 @@ Brickdong
 Bridgitt
 Briggela
 Brightmetal
+Brisson
 Britthild
 Brograw
 Broimsosaucy
@@ -345,6 +349,7 @@ Chantall
 Chantelle
 Chaosspark
 Chapolim
+Chaucerr
 Cheeseburgler
 Chesnutpuck
 Chetna
@@ -389,6 +394,7 @@ Crazytalk
 Creeper
 Creepygoat
 Crimsonsplatter
+Cristofforo
 Critager
 Crownless
 Cryspea
@@ -452,6 +458,7 @@ Deramil
 Derdaran
 Deregorn
 Derehate
+Derelviel
 Dernuireg
 derp
 Derryk
@@ -489,6 +496,7 @@ Dravar
 Dresdens
 Drexicar
 Drizdenn
+Droghan
 Drondil
 Druando
 Druzy
@@ -528,15 +536,18 @@ Ecled
 Edelewine
 Edenfiel
 Edging
+Edhelaren
 Edhelethuil
 Edomir
 Edwinadin
 Eebwick
+Eeomir
 Eetazz
 Eetzz
 Efbryt
 Egralin
 Eharlen
+Eichbert
 Einstonr
 Eirornir
 Eividir
@@ -615,6 +626,7 @@ Eyogentandre
 Faedyn
 Faefnir
 Faeogost
+Faetryx
 Faeverin
 Fairaday
 Fairewind
@@ -738,6 +750,7 @@ Gillineorn
 Gillinkeep
 Gillinlas
 Gillinmir
+Gillinrand
 Gillinrandir
 Gillinrond
 Gillinronder
@@ -794,6 +807,7 @@ Grimlocked
 Grimowyn
 Grimradd
 Grippa
+Grithraw
 Grumbleguth
 Guendolyn
 Gundurwarth
@@ -1021,6 +1035,7 @@ Katananeko
 Katarinah
 Katiey
 Kaye
+Kaylastima
 Keenanwynn
 Keerito
 Keilee
@@ -1062,6 +1077,7 @@ Kovaskahn
 Krayoneaterwe
 Krystacia
 Kuchikukan
+Kudle
 Kuzd
 Kuzukic
 Kwarei
@@ -1105,6 +1121,7 @@ Lendless
 Lengethmorn
 LF
 Liannanor
+Lillaieth
 Lillas
 Lillothriel
 Lillun
@@ -1289,6 +1306,7 @@ Metalle
 Midgetmanxl
 Midiwyn
 Miffed
+Miffin
 Migheedo
 Militant
 Milkyshot
@@ -1348,6 +1366,7 @@ Myuliel
 Nacham
 Nadiae
 Nadira
+Nafarrad
 Nahtazu
 Nanduinuir
 Naneldel
@@ -1387,6 +1406,7 @@ Nilthrandir
 Nimraenoriel
 Ninebones
 Ninwenel
+Nisare
 Niskaru
 Nitzz
 Nonemoreblack
@@ -1395,6 +1415,7 @@ Noobamir
 Noobwise
 Norfori
 Norlandoc
+Nornagest
 Northarin
 Nosaphor
 Nosro
@@ -1438,10 +1459,12 @@ Onnelm
 Onokh
 Onuaku
 Oorvaril
+Ophit
 Oraenne
 Oragorn
 Orangeduke
 Oraphor
+Orbajyn
 Ordinaryfool
 Orenwen
 Organdin
@@ -1503,6 +1526,7 @@ Prilonda
 Pritcher
 Protecting
 Psolarea
+Psykotick
 Pudgi
 Punchatizemecap
 Punchii
@@ -1550,6 +1574,7 @@ Reiyanor
 Rendingchaos
 Renelindar
 Rennia
+Reowynn
 Reviadir
 Revofruin
 Rhea
@@ -1582,6 +1607,7 @@ Rodgertherabbit
 Rohllo
 Rokcavhir
 Roknrol
+Rokurr
 Romawende
 Rootor
 Rormurori
@@ -1611,6 +1637,7 @@ Saerothir
 Safeguard
 Sakti
 Salahaddin
+Salfige
 Saligil
 Salinity
 Salliboo
@@ -1699,6 +1726,7 @@ Silverbree
 Simpinaina
 Sinead
 Sinring
+Sirspoony
 Siswaiaman
 Sitkah
 Sitkia
@@ -1720,6 +1748,7 @@ Sneekypeekus
 Sniffey
 Snipor
 Snorik
+Snowflaker
 Soladun
 Solveiga
 spam
@@ -1826,6 +1855,7 @@ Tarovangiann
 Tarvornion
 Taterswithgravy
 Tathorhen
+Tatines
 Taurtaren
 Taurusblack
 Tawan
@@ -1839,6 +1869,7 @@ Teezle
 Tefh
 Telgaril
 Temiwyn
+Temmiwyn
 Terodal
 Thalgul
 Thalian
@@ -1955,6 +1986,7 @@ Ulfheid
 Ulfryn
 Ulfthryth
 Ullorviel
+Ulnirhael
 Ulvghar
 Umonry
 Unbearables
@@ -1976,6 +2008,7 @@ Valerond
 Valithia
 Valodil
 Valorgard
+Valthranduil
 Valzaan
 Vanbulwark
 Vanbulwark2
@@ -2101,6 +2134,7 @@ Zengarr
 Zephyriel
 Zeraphir
 Zifnyy
+Zigurr
 zilla
 Zinaleo
 Zingiber
@@ -2110,6 +2144,7 @@ Zojilar
 Zoke
 Zoltegar
 Zombmay
+Zoopp
 Zorindal
 Zorthan
 Zorx
