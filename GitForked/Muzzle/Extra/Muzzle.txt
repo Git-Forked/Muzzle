@@ -62,6 +62,7 @@ Amaleri
 Amandak
 Amarathine
 Amared
+Ametheil
 Amethysl
 Amhallion
 Amlindor
@@ -184,6 +185,7 @@ Baramlas
 Barardir
 Barasit
 Bardindal
+Barffolio
 Barfight
 Barthewal
 Barvind
@@ -691,6 +693,7 @@ Fraeyaa
 Freaya
 Frenalcara
 Frenchdoors
+Freshmint
 Freyakkyn
 Freyraen
 Fridfigvid
@@ -815,6 +818,7 @@ Gunneros
 Gunnlodh
 Gunston
 Gurdorin
+Gurvoward
 Gusvirlond
 Gwathildol
 Gwelia
@@ -1405,6 +1409,7 @@ Nightmare
 Nilthrandir
 Nimraenoriel
 Ninebones
+Nineteenohone
 Ninwenel
 Nisare
 Niskaru
@@ -1578,6 +1583,7 @@ Reowynn
 Reviadir
 Revofruin
 Rhea
+Rhedwold
 Rheniogil
 Rhovwyn
 Rhubraig
@@ -1906,6 +1912,7 @@ Thruthla
 Thumpa
 Thunderbyte
 Thyrantilde
+Tiberon
 Tidbits
 Tiffanyandco
 Tiffanyfireheart
@@ -1987,6 +1994,7 @@ Ulfryn
 Ulfthryth
 Ullorviel
 Ulnirhael
+Ulrosst
 Ulvghar
 Umonry
 Unbearables
