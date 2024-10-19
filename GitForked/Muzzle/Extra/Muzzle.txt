@@ -57,6 +57,7 @@ Aloriendel
 Alphaldor
 Alvilde
 Alwaysfadingecho
+Alyssandryl
 Amaleia
 Amaleri
 Amandak
@@ -148,7 +149,7 @@ Aurblodyn
 Aurelianna
 Avarima
 Averella
- Aviendhas
+Aviendhas
 Aviisttent
 Avistennt
 Avistent
@@ -185,6 +186,7 @@ Baralinthel
 Baramlas
 Barardir
 Barasit
+Bardagus
 Bardindal
 Barffolio
 Barfight
@@ -269,6 +271,7 @@ Botok
 Boudicar
 Bowedup
 Bragowulf
+Bragregbeth
 Branderen
 Brandoch
 Brawlbo
@@ -299,6 +302,7 @@ Brynnwyn
 Buckafuffalo
 Bunnydemon
 Buoy
+Burgbald
 Burgerbob
 Bwalon
 Bya
@@ -354,6 +358,7 @@ Chantelle
 Chaosspark
 Chapolim
 Chaucerr
+Chazina
 Cheeseburgler
 Chesnutpuck
 Chetna
@@ -367,6 +372,7 @@ Cima
 Cirelborn
 Cirhorn
 Cironell
+Cirudan
 Clamnog
 Claudein
 Clawrond
@@ -422,6 +428,7 @@ Cyrissjr
 Daeeron
 Daenaswith
 Dagadaen
+Dagarvarth
 Dagonei
 Dagreth
 Dalongar
@@ -448,6 +455,7 @@ Dedocta
 Dedraf
 Deffen
 Dekthalion
+Delauriel
 Delfer
 Delhad
 Dellianna
@@ -458,6 +466,7 @@ Delyssia
 Demiors
 Denorid
 Denothan
+Denurnas
 Deramil
 Derdaran
 Deregorn
@@ -475,6 +484,7 @@ Dietsprite
 Digton
 Dildum
 Dinalagosseth
+Dinglebery
 Dirdacar
 Direclaw
 Dissonance
@@ -492,9 +502,11 @@ Dolinada
 Domdrunk
 Domfroth
 Doobedat
+Doot
 Dorfy
 Doro
 Draelinn
+Dragonmynuz
 Dranthor
 Dravar
 Dresdens
@@ -616,6 +628,7 @@ Estemeire
 Estherial
 Ethelmath
 Etheranie
+Ethgrimm
 Ethinjol
 Ethiwaen
 Ethlahael
@@ -649,6 +662,7 @@ Farralorm
 Fatbombur
 Fatcrap
 Fathobbit
+Faugbess
 Fay
 Feahyandacappytwo
 Feahyandal
@@ -671,6 +685,7 @@ Fighty
 Fillaset
 Fimarith
 Findolrond
+Finleigh
 Finti
 Fionarian
 Fionlind
@@ -692,9 +707,11 @@ Fordiel
 Foreignoakenshield
 Forganus
 Formatha
+Forthrenand
 Forvreval
 Fraeyaa
 Freaya
+Freisa
 Frenalcara
 Frenchdoors
 Freshmint
@@ -710,6 +727,7 @@ Frosthilda
 Frostkarr
 Frothfrith
 Fubs
+Fuldrith
 Fulgram
 Fundir
 Furbaby
@@ -729,6 +747,7 @@ Gaisras
 Gakomir
 Galabrandt
 Galanthril
+Galfandor
 Galleott
 Gallinir
 Galmli
@@ -779,6 +798,7 @@ Glissanda
 Globalist
 Glorfinmart
 Glorfinwe
+Glorirx
 Glormurst
 Glorthendil
 Glumbtro
@@ -874,6 +894,7 @@ Harvain
 Harwaen
 Hasadiga
 Hastile
+Hasturr
 Havenbow
 Hazeldawn
 Hazzahs
@@ -949,6 +970,7 @@ Ilmalosse
 Ilthaniel
 Iltharas
 Iluenil
+Iluvequel
 Iluyeneia
 Ilwyn
 Ilyamenielot
@@ -1035,7 +1057,9 @@ Kambotoast
 Kaossilator
 Karalalla
 Karalena
+Karalinde
 Karamina
+Karathas
 Karaven
 Karlovar
 Karnik
@@ -1045,6 +1069,7 @@ Kashbold
 Katananeko
 Katarinah
 Katiey
+Katnoir
 Kaye
 Kaylastima
 Keenanwynn
@@ -1079,6 +1104,8 @@ Kirine
 Kissyfur
 Kitrael
 Knowledgeispower
+Kodfodder
+Koedah
 Konaran
 Korethot
 Kornpop
@@ -1097,6 +1124,7 @@ Kyannah
 Kylrin
 Lachallun
 Ladybeorn
+Laegonthir
 Laganomics
 Lagtastic
 Lairelithonielle
@@ -1130,6 +1158,7 @@ Leirithe
 Lendawen
 Lendless
 Lengethmorn
+Leviathorn
 LF
 Liannanor
 Lillaieth
@@ -1155,6 +1184,7 @@ Lithlin
 Littlewhitedove
 Liuin
 Livotta
+Liyanna
 Logansan
 Logiee
 Loii
@@ -1194,6 +1224,7 @@ Luthiell
 Lutholea
 Lyfeline
 Lynnelda
+Macgimli
 Macroom
 Macyeth
 Madagast
@@ -1211,6 +1242,7 @@ Mailewen
 Mairobhar
 Maladirs
 Malastel
+Malawelekaahm
 Malcolm
 Malendar
 Malethar
@@ -1299,6 +1331,7 @@ Meagyth
 Medumam
 Megaevil
 Meggraen
+Mehrunissa
 Meisie
 Mel
 Melithas
@@ -1422,10 +1455,12 @@ Nineteenohone
 Ninwenel
 Nisare
 Niskaru
+Nissarien
 Nitzz
 Nonemoreblack
 Nongo
 Noobamir
+Noobsie
 Noobwise
 Norfori
 Norlandoc
@@ -1458,6 +1493,7 @@ Ogdarcstar
 Oglo
 Ogrimaur
 Oguard
+Oguriel
 Ohmsderp
 Ohnoitsthatguy
 Oimate
@@ -1473,6 +1509,7 @@ Omelia
 Onnelm
 Onokh
 Onuaku
+Onyxaite
 Oorvaril
 Ophit
 Oraenne
@@ -1513,6 +1550,7 @@ Phaint
 Philophone
 Philophulax
 Philothera
+Phrometheuz
 Phtrod
 Picardh
 Pickerel
@@ -1587,6 +1625,7 @@ Reinriel
 Reiorin
 Reiyanor
 Rendingchaos
+Renegadeclaw
 Renelindar
 Rennia
 Reowynn
@@ -1694,6 +1733,7 @@ Scummybear
 Scurrvy
 Seaso
 Seeww
+Seger
 Seitse
 Selarglin
 Semsem
@@ -1759,6 +1799,7 @@ Slicendicealex
 Smacka
 Smaulder
 Snakechampdustin
+Snakine
 Snappdragon
 Snarvi
 Sneekypeekus
@@ -1784,6 +1825,7 @@ Squatz
 Squintio
 Squishyelfthing
 Srordat
+Sscoundrel
 Stannlas
 Starkrolf
 Starlirien
@@ -1890,6 +1932,7 @@ Temmiwyn
 Terodal
 Thalgul
 Thalian
+Thandeg
 Tharelaith
 Tharglafang
 Tharthollost
@@ -1902,6 +1945,7 @@ TheNeverEndingStories
 Thengo
 Theoddryht
 Theonlygorthax
+Thickmember
 Thidfinn
 Thinachar
 Thistledoon
@@ -1941,6 +1985,7 @@ Tirwyn
 Titianna
 Tlana
 Tlar
+Tobidor
 Tochihimo
 Toe
 Toecap
@@ -2032,6 +2077,7 @@ Valthranduil
 Valzaan
 Vanbulwark
 Vanbulwark2
+Vandame
 Vani
 Vanienimue
 Vanimeere
@@ -2043,6 +2089,7 @@ Vanzenn
 Varamphor
 Varkanros
 Varl
+Vashtiel
 Vathwen
 Vedok
 Veilo
@@ -2060,6 +2107,7 @@ Vethelion
 Vetun
 Viceversa
 Victorieas
+Vidakin
 Vidnur
 Vikingur
 Vildenfiel
@@ -2127,6 +2175,7 @@ Xial
 Xintrea
 Xirella
 Xiriella
+Xitlali
 Xoros
 Xtalker
 Yaaka
@@ -2156,6 +2205,7 @@ Zellcosmetic
 Zengarr
 Zephyriel
 Zeraphir
+Zhadki
 Zifnyy
 Zigurr
 zilla
