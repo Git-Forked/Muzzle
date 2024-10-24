@@ -16,13 +16,13 @@ Muzzle trolls, spam, and keywords by filtering chat with a list of player names 
 Suggested Usage:
 
 Create a new chat tab for World chat.
-It's recommended to rename this tab to '.',
+It's recommended to rename this tab to 'Unmuzzled',
 and not pay any attention to this tab.
 Right-click this tab. On the menu choose 'Change Filters',
 and tick on 'World'.
 
 Create another new tab for Standard.
-It's recommended to rename this tab to 'Main',
+It's recommended to rename this tab to 'Muzzled',
 to signify that this is the tab you will want to read the chat from.
 Right-click this tab. On the menu choose 'Change Filters',
 and tick on 'Standard'.
