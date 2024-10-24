@@ -1,5 +1,6 @@
 Aariaa
 Abagnale
+Abilard
 Abramms
 Aclandia
 Acornish
@@ -9,6 +10,7 @@ Adanidir
 Adenfin
 Adinonzl
 Adleren
+Adobos
 Adondo
 Adorawillow
 Adredh
@@ -364,6 +366,7 @@ Chesnutpuck
 Chetna
 Chiamobus
 Chiksie
+Chiriel
 Chrysalis
 Chunindia
 Cildaran
@@ -384,6 +387,7 @@ Cloudfist
 Cloudgrave
 Cloudrock
 Cloudward
+Cluaran
 Codyak
 Coer
 Coljackoneill
@@ -408,6 +412,7 @@ Cristofforo
 Critager
 Crownless
 Cryspea
+Crystalanna
 Ctri
 Cuftlo
 Culiaran
@@ -433,6 +438,7 @@ Dagonei
 Dagreth
 Dalongar
 Damidir
+Danaerwyn
 Danaii
 Dankegilde
 Dankiest
@@ -606,6 +612,7 @@ Emillina
 Emretnuh
 Emylraeb
 Enchanting
+Enhalgar
 Enrica
 Eogorn
 Eorl
@@ -638,6 +645,7 @@ Ethwynn
 Everiol
 Everkev
 Everlin
+Ewelena
 Exarrkunn
 Eyal
 Eyogentandre
@@ -987,6 +995,7 @@ Inlerah
 Inphellos
 Install
 Iorthomund
+Ioseph
 Iowedhir
 Ireirien
 Irisgoldfire
@@ -1093,8 +1102,10 @@ Khalilah
 Khalilrandir
 Khurisia
 Khurm
+Khutaznat
 Khwalilahbear
 Killemdafoe
+Kilrathalon
 Kingsalimosi
 Kingsnagga
 Kiputtyto
@@ -1124,6 +1135,7 @@ Kyannah
 Kylrin
 Lachallun
 Ladybeorn
+Ladybuug
 Laegonthir
 Laganomics
 Lagtastic
@@ -1287,6 +1299,7 @@ Martingale
 Marwhini
 Mathanir
 Mathraandir
+Mavi
 Maximostly
 Maxwellyn
 May
@@ -1343,6 +1356,7 @@ Menglindril
 Menuriel
 Mereliss
 Merhedrith
+Merifred
 Merllen
 Merothin
 Mertensia
@@ -1377,6 +1391,7 @@ Mooch
 Moondoor
 Mordredh
 Moredeeb
+Moredhriel
 Morganah
 Morgenlada
 Morgynne
@@ -1625,6 +1640,7 @@ Reinriel
 Reiorin
 Reiyanor
 Rendingchaos
+Rendolph
 Renegadeclaw
 Renelindar
 Rennia
@@ -1686,6 +1702,7 @@ Saarthronah
 Saashay
 Sabennchamp
 Sabriell
+Saelorean
 Saerami
 Saerith
 Saerothir
@@ -1922,6 +1939,7 @@ Tawd
 Taweth
 Tawtitaw
 Tazel
+Teallc
 Teenytinytater
 Teethclawfur
 Teezle
