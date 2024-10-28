@@ -2,6 +2,7 @@ Aariaa
 Abagnale
 Abilard
 Abramms
+Absinthium
 Aclandia
 Acornish
 Adaiel
@@ -296,6 +297,7 @@ Bronwenna
 Brordon
 Brudd
 Bruenyn
+bruh
 Brunnalf
 Brunnlager
 Bruzo
@@ -377,6 +379,7 @@ Cirhorn
 Cironell
 Cirudan
 Clamnog
+Clanguddin
 Claudein
 Clawrond
 Clemie
@@ -393,6 +396,7 @@ Coer
 Coljackoneill
 Compassionate
 Connistua
+Cornacre
 Corsairqueen
 Corvusignis
 Corvuspiritus
@@ -587,6 +591,7 @@ Elimr
 Elishelm
 Elixtoria
 Elkana
+Elkwing
 Elladreia
 Ellanhard
 Ellanriel
@@ -926,6 +931,7 @@ Hingana
 Hiperbole
 Hirarthlas
 Hiroladh
+Hirwenn
 Hithaerdes
 Hithina
 Hlifmer
@@ -1201,6 +1207,8 @@ Logansan
 Logiee
 Loii
 Lokea
+lol
+LOL
 Lollygag
 Lonatharil
 Lonekk
@@ -1645,6 +1653,7 @@ Renegadeclaw
 Renelindar
 Rennia
 Reowynn
+Retrowyn
 Reviadir
 Revofruin
 Rhea
@@ -1834,6 +1843,7 @@ Spiffyy
 Spites
 Splatter
 Splorgi
+Spoonathor
 Sprunga
 Spyd
 Spydarin
@@ -1880,6 +1890,7 @@ Swordbilliam
 Sylestone
 Syllvaniel
 Sylmarwen
+Sylvardart
 Syn
 Syndarin
 Syndi
@@ -2123,6 +2134,7 @@ Verjibeorn
 Vesfar
 Vethelion
 Vetun
+Vexxis
 Viceversa
 Victorieas
 Vidakin
