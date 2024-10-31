@@ -587,6 +587,7 @@ Elderia
 Eldolthryth
 Elelfrocken
 Elenas
+Elfbane
 Elimr
 Elishelm
 Elixtoria
@@ -1751,6 +1752,7 @@ Scottbraw
 Scottem
 Scottshighelfchamp
 Scottsminihob
+Scoundreldachamp
 Scrapmetal
 Scrowtum
 Scrufflesneedsashave
@@ -1777,6 +1779,7 @@ Sevoglas
 sex
 Sexyandiknowit
 Shadori
+Shadowi
 Shadowrabbit
 Shadowtom
 Shaill
@@ -1983,6 +1986,7 @@ Thodvalgeir
 Thondale
 Thorbosi
 Thorgrimar
+Thorhilwar
 Thorinmaplehammah
 Thornuidhil
 Thorriguardian
