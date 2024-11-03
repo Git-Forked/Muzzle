@@ -10,6 +10,7 @@ Adanadir
 Adanidir
 Adenfin
 Adinonzl
+Adiux
 Adleren
 Adobos
 Adondo
@@ -205,6 +206,7 @@ Bayzur
 Bbaqvea
 Bealdic
 Bearchaos
+Bearinstein
 Bearmann
 Bearpigs
 Beastrod
@@ -249,6 +251,7 @@ Billybobjunior
 Bilskirnir
 Birnfrith
 Birsa
+Bitfyre
 Bjorng
 Bjornmir
 Bjorntokil
@@ -637,6 +640,7 @@ Erinti
 Erriikk
 Ertorias
 Erufinwe
+Eryishot
 Erythorn
 Erythron
 Estelwynn
@@ -719,6 +723,7 @@ Florntnargg
 Fluffymcgee
 Flumpert
 Fogostosa
+Folcarde
 Fonzzie
 Fordiel
 Foreignoakenshield
@@ -809,6 +814,8 @@ Gilthamir
 Gilvorthos
 Gimlael
 Gisbournne
+Giyen
+Gladdenator-1
 Gladdener
 Glicious
 Glissanda
@@ -843,6 +850,7 @@ Graeva
 Gramhere
 Gramorin
 Granomir
+Grathdorr
 Grep
 Gresaran
 Gretel
@@ -968,6 +976,7 @@ Hyllgwenor
 Hyssjostanob
 Iammullet
 Iamq
+Iathax
 Icantplay
 Iceposeidon
 Idlo
@@ -1247,6 +1256,7 @@ Lunazlir
 Lunelleth
 Luntalbor
 Luntauil
+Lupilia
 Luthiell
 Lutholea
 Lyfeline
@@ -1293,6 +1303,7 @@ Malvegold
 Malythorr
 Mameren
 Manburgerhelper
+Mandocap
 Mandosarc
 Mandosil
 Manodepiedra
@@ -1366,6 +1377,7 @@ Melithas
 Mellidhroth
 Melonii
 Meluthuilas
+Memmee
 Menachem
 Menglindril
 Menuriel
@@ -1474,6 +1486,7 @@ Nethelion
 Neverko
 Neynwen
 Nhymrandir
+Niajax
 Niamhweth
 Nichichi
 Nidland
@@ -1743,6 +1756,7 @@ Sarvi
 Sassiphras
 Sassythesasquatch
 Sathbeo
+Sathorianian
 Saultry
 sausage
 Sausage
@@ -2182,6 +2196,7 @@ Westmoon
 Weve
 Whillow
 Whippet
+Whizfizzflop
 Wigmund
 Wilarose
 Wildie
@@ -2192,6 +2207,7 @@ Windybutt
 Wingy
 Wingyili
 Wingylas
+Wolfhunters
 wow
 WoW
 WOW
@@ -2269,4 +2285,5 @@ Zurri
 Zydbal
 Zyfel
 Zygel
+Zyliac
 Zyrianne
