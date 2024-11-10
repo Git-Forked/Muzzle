@@ -8,6 +8,7 @@ import "Turbine.Gameplay";
 import "GitForked.Muzzle.Configuration";
 import "GitForked.Muzzle.Muzzle";
 
+playerNameColorRGBHex = "#FF007F"
 
 Turbine.Shell.WriteLine("<rgb=#008080>Muzzle</rgb> " .. Plugins.Muzzle:GetVersion() .. " by <rgb=#008080>Git-Forked</rgb> loaded.");
 
@@ -26,6 +27,12 @@ end
 
 function chatHandler(sender, args)
     if args.ChatType == Turbine.ChatType.World then
+        -- Highlight V
+        playerName = GetPlayerName()
+        if string.match(args.Message, playerName) then
+            Turbine.Shell.WriteLine("<rgb=" .. playerNameColorRGBHex .. "> ::: " .. playerName .. " ::: " .. args.Message);
+        end
+        -- Highlight ^
         for _,v in pairs(Muzzle) do
             if string.match(args.Message, v) then
                 if Set.Verbose == true then
@@ -40,9 +47,33 @@ end
 
 AddCallback(Turbine.Chat, "Received", chatHandler);
 
+function ShowPlayerName()
+    local player = Turbine.Gameplay.LocalPlayer:GetInstance()
+    if player then
+        local playerName = player:GetName()
+        Turbine.Shell.WriteLine("Your player name is: <rgb=" .. playerNameColorRGBHex .. ">" .. playerName .. "</rgb>");
+    else
+        Turbine.Shell.WriteLine("Could not retrieve player information.");
+    end
+end
+
+function GetPlayerName()
+    local player = Turbine.Gameplay.LocalPlayer:GetInstance()
+    if player then
+        local playerName = player:GetName()
+        return playerName
+    else
+        Turbine.Shell.WriteLine("Could not retrieve player information.");
+    end
+end
+
 -- Muzzle Reload
 function Reload()
     Turbine.PluginManager.LoadPlugin('Muzzle Reload');
+end
+
+function Version()
+    Turbine.Shell.WriteLine("<rgb=#008080>Muzzle</rgb> " .. Plugins.Muzzle:GetVersion() .. " by <rgb=#008080>Git-Forked</rgb> is running.");
 end
 
 -- Muzzle Commands
@@ -50,8 +81,23 @@ MuzzleCommand = Turbine.ShellCommand();
 
 function MuzzleCommand:Execute(command, arguments)
     if (arguments == "reload") then
-        Turbine.Shell.WriteLine("Muzzle Reloading.");
+        Turbine.Shell.WriteLine("Muzzle reloading..");
         Reload();
+    end
+    if (arguments == "name") then
+        ShowPlayerName();
+    end
+    if (arguments == "version") then
+        Version();
+    end
+    if (arguments == "verbose") then
+        if (Set.Verbose == false) then
+            Set.Verbose = true
+            Turbine.Shell.WriteLine("Muzzle verbose mode enabled.");
+        elseif (Set.Verbose == true) then
+            Set.Verbose = false
+            Turbine.Shell.WriteLine("Muzzle verbose mode disabled.");
+        end
     end
 end
 

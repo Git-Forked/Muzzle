@@ -368,6 +368,7 @@ Chapolim
 Chaucerr
 Chazina
 Cheeseburgler
+Cheezeburger
 Chesnutpuck
 Chetna
 Chiamobus
@@ -579,6 +580,7 @@ Eetzz
 Efbryt
 Egralin
 Eharlen
+Ehlanor
 Eichbert
 Einstonr
 Eirornir
@@ -1630,6 +1632,7 @@ Puremetal
 Qertinya
 Qora
 Quaziloco
+Quibe
 Quinmin
 Quinngon
 Quixothir
