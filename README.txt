@@ -13,6 +13,11 @@ Long Description:
 Muzzle trolls, spam, and keywords by filtering chat with a list of player names and keywords. Muzzle accomplishes this by forwarding wanted chat to the Standard channel, and leaving out unwanted chat.
 
 
+New feature:
+
++ Highlight messages to your player name in world chat.
+
+
 Suggested Usage:
 
 Create a new chat tab for World chat.
