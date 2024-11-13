@@ -18,6 +18,7 @@ Adorawillow
 Adredh
 Adronas
 Aduilwyn
+Aegaine
 Aelfbrand
 Aellor
 Aelyia
@@ -308,6 +309,7 @@ Bruzo
 Bryetwulf
 Brynnwyn
 Buckafuffalo
+Bucklewheelwheel
 Bunnydemon
 Buoy
 Burgbald
@@ -572,6 +574,7 @@ Edging
 Edhelaren
 Edhelethuil
 Edomir
+Edrodruth
 Edwinadin
 Eebwick
 Eeomir
@@ -709,6 +712,7 @@ Fillaset
 Fimarith
 Findolrond
 Finleigh
+Finnius
 Finti
 Fionarian
 Fionlind
@@ -742,7 +746,6 @@ Freshmint
 Freyakkyn
 Freyraen
 Fridfigvid
-Frie
 Friggnar
 Frilla
 Frostdeefa
@@ -939,8 +942,6 @@ Hermand
 Herullion
 Hervit
 Hesmuwth
-hh
-HH
 Himmynuetron
 Hingana
 Hiperbole
@@ -1547,6 +1548,7 @@ Okkin
 Olarinil
 Olecoot
 Olirya
+Oliyri
 Olliebubba
 Ollurin
 Omegaruler
@@ -1673,6 +1675,7 @@ Reiyanor
 Rendingchaos
 Rendolph
 Renegadeclaw
+Renegadefire
 Renelindar
 Rennia
 Reowynn
@@ -1682,6 +1685,7 @@ Revofruin
 Rhea
 Rhedwold
 Rheniogil
+Rhenostor
 Rhovwyn
 Rhubraig
 Rhyaena
@@ -1723,6 +1727,7 @@ Rucket
 Rudalla
 Rudinoth
 Rugad
+Runeark
 Runkhulruk
 Rustymetal
 Ruthadan
@@ -2255,6 +2260,7 @@ Zaeri
 Zairi
 Zalanara
 Zaleia
+Zalleb
 Zapping
 Zariaha
 Zealouself

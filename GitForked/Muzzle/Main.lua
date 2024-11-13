@@ -1,4 +1,5 @@
 -- Muzzle (Main.lua)
+-- 1.2.1
 
 -- Turbine imports
 import "Turbine";
@@ -8,9 +9,7 @@ import "Turbine.Gameplay";
 import "GitForked.Muzzle.Configuration";
 import "GitForked.Muzzle.Muzzle";
 
-playerNameColorRGBHex = "#FF007F"
-
-Turbine.Shell.WriteLine("<rgb=#008080>Muzzle</rgb> " .. Plugins.Muzzle:GetVersion() .. " by <rgb=#008080>Git-Forked</rgb> loaded.");
+PlayerName = ""
 
 function AddCallback(object, event, callback)
     if (object[event] == nil) then
@@ -25,33 +24,44 @@ function AddCallback(object, event, callback)
     return callback;
 end
 
-function chatHandler(sender, args)
+function ChatHandler(sender, args)
     if args.ChatType == Turbine.ChatType.World then
         -- Highlight V
-        playerName = GetPlayerName()
-        if string.match(args.Message, playerName) then
-            Turbine.Shell.WriteLine("<rgb=" .. playerNameColorRGBHex .. "> ::: " .. playerName .. " ::: " .. args.Message);
+        highlight = 0
+        matching = ""
+        PlayerName = GetPlayerNameOnce()
+        if string.match(string.lower(args.Message), string.lower(PlayerName)) then
+            matching = "PlayerName"
+            highlight = highlight + 1
         end
         -- Highlight ^
         for _,v in pairs(Muzzle) do
             if string.match(args.Message, v) then
                 if Set.Verbose == true then
-                    Turbine.Shell.WriteLine("<rgb=#ff0000>Muzzled</rgb> for '<rgb=#ff69b4>" .. v .. "</rgb>': <rgb=#808080>" .. args.Message);
+                    Turbine.Shell.WriteLine("<rgb=".. Set.MuzzledFontColorHexRGB ..">Muzzled</rgb> for '<rgb=".. Set.FilterFontColorHexRGB ..">".. v .."</rgb>': <rgb=".. Set.BlockoutFontColorHexRGB ..">".. args.Message);
                 end
                 return;
             end
         end
-        Turbine.Shell.WriteLine("<rgb=#ffffff>" .. args.Message);
+        if highlight > 0 then
+            -- string.gsub(string, pattern, replace)
+            if matching == "PlayerName" then
+                HighlightedMessage = string.gsub(args.Message, PlayerName, "<rgb=" .. Set.HighlightColorHexRGB .. ">" .. PlayerName .. "<rgb=" .. Set.StandardFontColorHexRGB .. ">")
+            end
+            Turbine.Shell.WriteLine("<rgb=" .. Set.HighlightColorHexRGB .. "> ::: " .. PlayerName .. " ::: <rgb=#FFFFFF>" .. HighlightedMessage);
+        else
+            Turbine.Shell.WriteLine("<rgb=" .. Set.StandardFontColorHexRGB .. ">" .. args.Message);
+        end
     end
 end
 
-AddCallback(Turbine.Chat, "Received", chatHandler);
+AddCallback(Turbine.Chat, "Received", ChatHandler);
 
 function ShowPlayerName()
     local player = Turbine.Gameplay.LocalPlayer:GetInstance()
     if player then
-        local playerName = player:GetName()
-        Turbine.Shell.WriteLine("Your player name is: <rgb=" .. playerNameColorRGBHex .. ">" .. playerName .. "</rgb>");
+        local PlayerName = player:GetName()
+        Turbine.Shell.WriteLine("Your player name is: <rgb=" .. Set.HighlightColorHexRGB .. ">" .. PlayerName .. "</rgb>");
     else
         Turbine.Shell.WriteLine("Could not retrieve player information.");
     end
@@ -60,10 +70,24 @@ end
 function GetPlayerName()
     local player = Turbine.Gameplay.LocalPlayer:GetInstance()
     if player then
-        local playerName = player:GetName()
-        return playerName
+        local PlayerName = player:GetName()
+        return PlayerName
     else
         Turbine.Shell.WriteLine("Could not retrieve player information.");
+    end
+end
+
+function GetPlayerNameOnce()
+    if PlayerName ~= "" then
+        return PlayerName
+    else
+        local player = Turbine.Gameplay.LocalPlayer:GetInstance()
+        if player then
+            local PlayerName = player:GetName()
+            return PlayerName
+        else
+            Turbine.Shell.WriteLine("Could not retrieve player information.");
+        end
     end
 end
 
@@ -76,6 +100,10 @@ function Version()
     Turbine.Shell.WriteLine("<rgb=#008080>Muzzle</rgb> " .. Plugins.Muzzle:GetVersion() .. " by <rgb=#008080>Git-Forked</rgb> is running.");
 end
 
+function Fonts()
+    Turbine.Shell.WriteLine("Muzzle Font Colors: <rgb="..Set.HighlightColorHexRGB..">Highlight</rgb>, <rgb="..Set.StandardFontColorHexRGB..">Standard</rgb>, <rgb="..Set.MuzzledFontColorHexRGB..">Muzzle</rgb>, <rgb="..Set.FilterFontColorHexRGB..">Filter</rgb>, <rgb="..Set.BlockoutFontColorHexRGB..">Blockout</rgb>");
+end
+
 -- Muzzle Commands
 MuzzleCommand = Turbine.ShellCommand();
 
@@ -83,14 +111,13 @@ function MuzzleCommand:Execute(command, arguments)
     if (arguments == "reload") then
         Turbine.Shell.WriteLine("Muzzle reloading..");
         Reload();
-    end
-    if (arguments == "name") then
+    elseif (arguments == "name") then
         ShowPlayerName();
-    end
-    if (arguments == "version") then
+    elseif (arguments == "version") then
         Version();
-    end
-    if (arguments == "verbose") then
+    elseif (arguments == "fonts") then
+        Fonts();
+    elseif (arguments == "verbose") then
         if (Set.Verbose == false) then
             Set.Verbose = true
             Turbine.Shell.WriteLine("Muzzle verbose mode enabled.");
@@ -98,6 +125,8 @@ function MuzzleCommand:Execute(command, arguments)
             Set.Verbose = false
             Turbine.Shell.WriteLine("Muzzle verbose mode disabled.");
         end
+    else
+        Turbine.Shell.WriteLine("Invalid input, please try again.");
     end
 end
 
@@ -122,3 +151,5 @@ function ReloadCheck()
 end
 
 ReloadCheck();
+
+Turbine.Shell.WriteLine("<rgb=#008080>Muzzle</rgb> " .. Plugins.Muzzle:GetVersion() .. " by <rgb=#008080>Git-Forked</rgb> loaded.");

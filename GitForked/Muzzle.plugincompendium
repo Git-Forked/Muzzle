@@ -2,7 +2,7 @@
 <PluginConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Id>1212</Id>
   <Name>Muzzle</Name>
-  <Version>1.2.0</Version>
+  <Version>1.2.1</Version>
   <Author>Git-Forked</Author>
   <InfoUrl>https://www.lotrointerface.com/downloads/info1212</InfoUrl>
   <DownloadUrl>http://www.lotrointerface.com/downloads/download1212</DownloadUrl>
