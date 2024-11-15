@@ -638,6 +638,7 @@ Eorlthain
 Eosinophil
 Eothaine
 Ephedria
+Epherandir
 Erass
 Eredrimbel
 Erifin
@@ -1029,6 +1030,7 @@ Isoldeh
 Isotropic
 Isthrandir
 Istimor
+Itachiel
 Ithalros
 Ithrindiel
 Itkurgat
@@ -1593,6 +1595,7 @@ Pendulous
 Penypuncher
 Peridota
 Perinos
+Petting
 Phaint
 Philophone
 Philophulax
@@ -2120,6 +2123,7 @@ Unglarion
 Urakad
 Ursalynn
 Urundel
+Urvallin
 Urzamajor
 Urzaminor
 Uthbehrt
@@ -2154,6 +2158,7 @@ Vashtiel
 Vathwen
 Vedok
 Veilo
+Vekil
 Velegorn
 Velladona
 Vellwen
