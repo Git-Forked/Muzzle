@@ -19,6 +19,7 @@ Adredh
 Adronas
 Aduilwyn
 Aegaine
+Aehiras
 Aelfbrand
 Aellor
 Aelyia
@@ -210,6 +211,7 @@ Bearchaos
 Bearinstein
 Bearmann
 Bearpigs
+Beassie
 Beastrod
 Beetz
 Beirodren
@@ -314,6 +316,7 @@ Bunnydemon
 Buoy
 Burgbald
 Burgerbob
+Busfareamir
 Bwalon
 Bya
 Byronius
@@ -671,6 +674,7 @@ Eyogentandre
 Faedyn
 Faefnir
 Faeogost
+Faeryfire
 Faetryx
 Faeverin
 Fairaday
@@ -801,6 +805,7 @@ Giilinlerond
 Gilaglar
 Gilbrethil
 Gildarion
+Gilerond
 Gillineorn
 Gillinkeep
 Gillinlas
@@ -903,6 +908,7 @@ Halmarna
 Halmil
 Halneldalknifer
 Halv
+Hamdring
 Hamloch
 Hanarrad
 Hanaryn
@@ -1553,6 +1559,7 @@ Olirya
 Oliyri
 Olliebubba
 Ollurin
+Olokun
 Omegaruler
 Omelia
 Onnelm
