@@ -127,6 +127,7 @@ Arthelos
 Arthillen
 Artuinna
 Artyzan
+Arvardan
 Arvithion
 Arwenya
 Asglorgor
@@ -283,6 +284,7 @@ Bragowulf
 Bragregbeth
 Branderen
 Brandoch
+Branmcmuffin
 Brawlbo
 Brawlerpapa
 Brawlur
@@ -525,6 +527,7 @@ Doobedat
 Doot
 Dorfy
 Doro
+Doswer
 Draelinn
 Dragonmynuz
 Dranthor
@@ -1273,6 +1276,7 @@ Lutholea
 Lyfeline
 Lynnelda
 Macgimli
+Mackievelli
 Macroom
 Macyeth
 Madagast
@@ -1614,6 +1618,7 @@ Pickerel
 Pilau
 Pimpy
 Pinkerbelle
+Pinkynbrain
 Pismo
 Plowman
 Plowpete
@@ -1627,10 +1632,13 @@ Polliannika
 Polycarp
 Polynya
 popcorn
+Posthumously
 Powerfists
 Poyzonoak
 Praelas
 Presmer
+Presmerk
+Presmier
 Pressutheb
 Prilonda
 Pritcher
@@ -2203,6 +2211,7 @@ Waatwan
 Warowulf
 Warrabbit
 Warrpathe
+Wataa
 wato
 Wato
 Watoburg
