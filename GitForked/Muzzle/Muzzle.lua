@@ -1099,6 +1099,7 @@ Muzzle = {
 	'Kaivo',
 	'Kalarana',
 	'Kalaril',
+	'Kalathiel',
 	'Kalibrea',
 	'Kalidah',
 	'Kalkinzin',
