@@ -1,5 +1,5 @@
 -- Muzzle (Main.lua)
--- 1.2.1
+-- 1.2.2
 
 -- Turbine imports
 import "Turbine";
@@ -8,8 +8,6 @@ import "Turbine.Gameplay";
 -- Muzzle imports
 import "GitForked.Muzzle.Configuration";
 import "GitForked.Muzzle.Muzzle";
-
-PlayerName = ""
 
 function AddCallback(object, event, callback)
     if (object[event] == nil) then
@@ -24,17 +22,9 @@ function AddCallback(object, event, callback)
     return callback;
 end
 
+PlayerName = ""
 function ChatHandler(sender, args)
     if args.ChatType == Turbine.ChatType.World then
-        -- Highlight V
-        highlight = 0
-        matching = ""
-        PlayerName = GetPlayerNameOnce()
-        if string.match(string.lower(args.Message), string.lower(PlayerName)) then
-            matching = "PlayerName"
-            highlight = highlight + 1
-        end
-        -- Highlight ^
         for _,v in pairs(Muzzle) do
             if string.match(args.Message, v) then
                 if Set.Verbose == true then
@@ -43,11 +33,12 @@ function ChatHandler(sender, args)
                 return;
             end
         end
-        if highlight > 0 then
-            -- string.gsub(string, pattern, replace)
-            if matching == "PlayerName" then
-                HighlightedMessage = string.gsub(args.Message, PlayerName, "<rgb=" .. Set.HighlightColorHexRGB .. ">" .. PlayerName .. "<rgb=" .. Set.StandardFontColorHexRGB .. ">")
-            end
+        PlayerName = GetPlayerNameOnce()
+        if string.match(args.Message, PlayerName) then
+            HighlightedMessage = string.gsub(args.Message, PlayerName, "<rgb=" .. Set.HighlightColorHexRGB .. ">" .. PlayerName .. "<rgb=" .. Set.StandardFontColorHexRGB .. ">") -- string.gsub(string, pattern, replace)
+            Turbine.Shell.WriteLine("<rgb=" .. Set.HighlightColorHexRGB .. "> ::: " .. PlayerName .. " ::: <rgb=#FFFFFF>" .. HighlightedMessage);
+        elseif string.match(args.Message, string.lower(PlayerName)) then
+            HighlightedMessage = string.gsub(args.Message, string.lower(PlayerName), "<rgb=" .. Set.HighlightColorHexRGB .. ">" .. string.lower(PlayerName) .. "<rgb=" .. Set.StandardFontColorHexRGB .. ">")
             Turbine.Shell.WriteLine("<rgb=" .. Set.HighlightColorHexRGB .. "> ::: " .. PlayerName .. " ::: <rgb=#FFFFFF>" .. HighlightedMessage);
         else
             Turbine.Shell.WriteLine("<rgb=" .. Set.StandardFontColorHexRGB .. ">" .. args.Message);
