@@ -21,10 +21,12 @@ Aduilwyn
 Aegaine
 Aehiras
 Aelfbrand
+Aelfindirr
 Aellor
 Aelyia
 Aenglas
 Aenorean
+Aerweyn
 Aethardiel
 Aethelrith
 Aetherealarms
@@ -64,6 +66,7 @@ Alphaldor
 Alvilde
 Alwaysfadingecho
 Alyssandryl
+Alzeria
 Amaleia
 Amaleri
 Amandak
@@ -244,6 +247,7 @@ Beornunderabadsign
 Beornyson
 Bequia
 Beravelda
+Beriathorn
 Berramage
 Berratul
 Berrazul
@@ -344,6 +348,7 @@ Captjameshook
 Carianor
 Carrick
 Carthenion
+Cataclysmal
 Catallaxy
 Catallyst
 Cathbhar
@@ -424,6 +429,7 @@ Crazytalk
 Creeper
 Creepygoat
 Crimsonsplatter
+Cringis
 Cristofforo
 Critager
 Crownless
@@ -469,6 +475,7 @@ Dathran
 Davor
 Dawnrising
 Dazeydukes
+Dazni
 Death
 Deathmetalrabbit
 Decimater
@@ -655,9 +662,11 @@ Erufinwe
 Eryishot
 Erythorn
 Erythron
+Estelli
 Estelwynn
 Estemeire
 Estherial
+Etheariall
 Ethelmath
 Etheranie
 Ethgrimm
@@ -674,6 +683,7 @@ Ewelena
 Exarrkunn
 Eyal
 Eyogentandre
+Faalstaff
 Faedyn
 Faefnir
 Faeogost
@@ -968,6 +978,7 @@ Holiel
 Holmms
 Holmun
 Holobart
+Holso
 Hoopyles
 Hopeslight
 Horyu
@@ -1027,6 +1038,7 @@ Inittowinit
 Inlerah
 Inphellos
 Install
+Invincible
 Iorthomund
 Ioseph
 Iowedhir
@@ -1396,6 +1408,7 @@ Meluthuilas
 Memmee
 Menachem
 Menglindril
+Menindiel
 Menuriel
 Mereliss
 Merhedrith
@@ -1648,6 +1661,7 @@ Psolarea
 Psykotick
 Pudgi
 Punchatizemecap
+Punchester
 Punchii
 Puremetal
 Qertinya
@@ -1840,6 +1854,7 @@ Shielda
 Shieranor
 Shieras
 Shockzula
+Shoke
 Shrekinator
 Shrubb
 Shtisel
@@ -1894,6 +1909,7 @@ Spites
 Splatter
 Splorgi
 Spoonathor
+Sposco
 Sprunga
 Spyd
 Spydarin
@@ -2032,6 +2048,7 @@ Thobrin
 Thodvalgeir
 Thondale
 Thorbosi
+Thorbryth
 Thorgrimar
 Thorhilwar
 Thorinmaplehammah
@@ -2284,6 +2301,7 @@ Zalanara
 Zaleia
 Zalleb
 Zapping
+Zardozz
 Zariaha
 Zealouself
 Zebedeeone
