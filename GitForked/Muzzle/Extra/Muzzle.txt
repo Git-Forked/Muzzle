@@ -76,8 +76,10 @@ Ametheil
 Amethysl
 Amhallion
 Amlindor
+Amote
 Amranos
 Amrindril
+Anairnui
 Ancalaghon
 Andborn
 Andraviel
@@ -654,6 +656,7 @@ Ephedria
 Epherandir
 Erass
 Eredrimbel
+Eribrandir
 Erifin
 Erinti
 Erriikk
@@ -2024,6 +2027,7 @@ Tefh
 Telgaril
 Temiwyn
 Temmiwyn
+Terminsel
 Terodal
 Thalgul
 Thalian
