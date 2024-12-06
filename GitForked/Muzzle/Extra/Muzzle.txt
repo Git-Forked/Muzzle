@@ -9,6 +9,7 @@ Adaiel
 Adanadir
 Adanidir
 Adenfin
+Adiden
 Adinonzl
 Adiux
 Adleren
@@ -19,6 +20,7 @@ Adredh
 Adronas
 Aduilwyn
 Aegaine
+Aegornil
 Aehiras
 Aelfbrand
 Aelfindirr
@@ -895,6 +897,7 @@ Gunneros
 Gunnlodh
 Gunston
 Gurdorin
+Gurrik
 Gurvoward
 Gusvirlond
 Gwathildol
@@ -1087,6 +1090,7 @@ Jerdo
 Jessikah
 Jewlalt
 Jimineecrackhedd
+Jivaro
 Joelynne
 Johnnytookamongo
 Jonbones
@@ -1169,6 +1173,7 @@ Knowledgeispower
 Kodfodder
 Koedah
 Konaran
+Koopernicus
 Korethot
 Kornpop
 Kortskegg
@@ -1715,6 +1720,7 @@ Renegadefire
 Renelindar
 Rennia
 Reowynn
+Resaeriel
 Retrowyn
 Reviadir
 Revofruin
@@ -1856,6 +1862,7 @@ Shidosh
 Shielda
 Shieranor
 Shieras
+Shockakhan
 Shockzula
 Shoke
 Shrekinator
@@ -2131,6 +2138,7 @@ Tswana
 Tubbious
 Tuilindas
 Tullien
+Tullrian
 Tuon
 Tuoz
 Tuppo
