@@ -288,6 +288,7 @@ Bothundbur
 Botok
 Boudicar
 Bowedup
+Bowien
 Bragowulf
 Bragregbeth
 Branderen
@@ -1453,6 +1454,7 @@ Moiraine
 Montfort
 Mooch
 Moondoor
+Mordilaey
 Mordredh
 Moredeeb
 Moredhriel
@@ -1962,6 +1964,7 @@ Svanfast
 Svanlana
 Svanlaugthrith
 Svenagarth
+Swanmir
 Swordbilliam
 Sylestone
 Syllvaniel
@@ -2234,6 +2237,7 @@ Vizzini
 Vodkihad
 Voknur
 Voruuk
+Vrasska
 Vruto
 Vylkariya
 Vysalina
