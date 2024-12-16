@@ -222,6 +222,7 @@ Bearpigs
 Beassie
 Beastrod
 Beetz
+Behelian
 Beirodren
 Belegurion
 Beleriandras
@@ -400,6 +401,7 @@ Cirelborn
 Cirhorn
 Cironell
 Cirudan
+Cjin
 Clamnog
 Clanguddin
 Claudein
@@ -947,6 +949,7 @@ Hardfist
 Haripotter
 Harnesila
 Harrowthorn
+Harshlanguage
 Harumphrey
 Harvain
 Harwaen
@@ -1693,10 +1696,12 @@ Radymbl
 Raehven
 Raevyne
 Rafflesian
+Ragdolly
 Rakadov
 Rakshathul
 Ranabor
 Ranken
+Raptic
 Rapunchel
 Raudhagen
 Ravangel
@@ -1818,6 +1823,7 @@ Savourytoughskin
 Savvory
 Saxmunn
 Scalanis
+Scarletti
 Scathran
 Schwoo
 Scottbraw
@@ -2150,6 +2156,7 @@ Turinthi
 Turjinbar
 Tuxtormona
 Twelveteen
+Twitterpated
 Tynhierl
 Typpo
 Tywaz
@@ -2291,6 +2298,7 @@ Xenaela
 Xennobia
 Xethias
 Xial
+Xinthrandil
 Xintrea
 Xirella
 Xiriella
