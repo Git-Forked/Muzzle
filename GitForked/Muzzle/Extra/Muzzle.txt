@@ -37,6 +37,7 @@ Afrathelion
 Agerk
 Aglabmenu
 Ahrn
+Ahstia
 Aicamasse
 Aicasarto
 Aidintwo
@@ -48,6 +49,7 @@ Airku
 Aislingund
 Ajmehrai
 Akillezee
+Akillizee
 Akonivess
 Alassin
 Aldrekan
@@ -99,6 +101,7 @@ Anorgalen
 Anothersong
 Antellion
 Antharen
+Antheron
 Anthorellian
 Anubelf
 Aoelithe
@@ -169,6 +172,7 @@ Avistennt
 Avistent
 Avjori
 Avriela
+Axegrindr
 Aylisa
 Aylithe
 Aythalion
@@ -221,6 +225,7 @@ Bearmann
 Bearpigs
 Beassie
 Beastrod
+Beetho
 Beetz
 Behelian
 Beirodren
@@ -307,6 +312,7 @@ Briggela
 Brightmetal
 Brisson
 Britthild
+Broadcaster
 Broggle
 Brograw
 Broimsosaucy
@@ -331,6 +337,7 @@ Burgerbob
 Busfareamir
 Bwalon
 Bya
+Bylanor
 Byronius
 Cabo
 Cabox
@@ -343,6 +350,7 @@ Calencam
 Calendulla
 Calililda
 Callevir
+Callirhoe
 Calonda
 Camto
 Cangrk
@@ -367,6 +375,7 @@ Ceirys
 Celeathe
 Celebecthel
 Celebwind
+Celedhrien
 Celeglass
 Celeiriel
 Celestialheart
@@ -397,6 +406,7 @@ Chunindia
 Cildaran
 Cilwen
 Cima
+Ciralia
 Cirelborn
 Cirhorn
 Cironell
@@ -536,6 +546,7 @@ Dodorad
 Dogdude
 Dolethrian
 Dolinada
+Dolring
 Domdrunk
 Domfroth
 Doobedat
@@ -563,6 +574,7 @@ Dunarcarn
 Dunnylle
 Dunsanie
 Durahann
+Dustar
 Dvoin
 Dvorako
 Dwarrofil
@@ -647,6 +659,7 @@ Elyborn
 Elyviel
 Emildan
 Emillina
+Emmerreth
 Emretnuh
 Emylraeb
 Enchanting
@@ -752,6 +765,7 @@ Fishildur
 Flammewyn
 Flitfo
 Floddotter
+Floorr
 Florntnargg
 Fluffymcgee
 Flumpert
@@ -804,6 +818,7 @@ Galanthril
 Galfandor
 Galleott
 Gallinir
+Gallodhreth
 Galmli
 Galmr
 Gamstarli
@@ -888,6 +903,7 @@ Grathdorr
 Grep
 Gresaran
 Gretel
+Greyancient
 Grigmeister
 Grimhelde
 Grimlocked
@@ -928,6 +944,7 @@ Halffo
 Halick
 Haliriel
 Halladr
+Hallagor
 Halmarna
 Halmil
 Halneldalknifer
@@ -969,11 +986,13 @@ Helgrenze
 Heliflower
 Hellgrimm
 Hellinore
+Hendi
 Herbotic
 Hermand
 Herullion
 Hervit
 Hesmuwth
+Heupre
 Himmynuetron
 Hingana
 Hiperbole
@@ -1249,6 +1268,7 @@ Linadoor
 Linchino
 Lindahad
 Lindhellith
+Lindisluna
 Lindoya
 Linfador
 Linkinlog
@@ -1273,6 +1293,8 @@ Lonekk
 Longpig
 Lorderagon
 Lordevileyes
+Lordfourbears
+Lordfoursquare
 Lordunderhill
 Lorefreak
 Loremandy
@@ -1610,11 +1632,13 @@ Orbajyn
 Ordinaryfool
 Orenwen
 Organdin
+Orkbeard
 Orndil
 Orney
 Orthond
 Ostarah
 Ostoril
+Otevir
 Othrallas
 Otterohm
 Overyourhead
@@ -1703,6 +1727,7 @@ Rafflesian
 Ragdolly
 Rakadov
 Rakshathul
+Ralros
 Ranabor
 Ranken
 Raptic
@@ -1882,6 +1907,7 @@ Shrubb
 Shtisel
 Sibmar
 Siborin
+Sidvicious
 Sifrael
 Sifraen
 Sigininbar
@@ -1963,6 +1989,7 @@ Strfox
 Strideher
 Strothalion
 Studbeefpile
+Stumpyrella
 Sturmalin
 Sturmunddrang
 Sublemonal
@@ -2048,6 +2075,7 @@ Tefh
 Telgaril
 Temiwyn
 Temmiwyn
+Tenpos
 Terminsel
 Terodal
 Thalgul
@@ -2059,6 +2087,7 @@ Tharglafang
 Tharthollost
 Thauriul
 Thecrimsondirk
+Thegrandnagus
 Thelaris
 Thelhild
 Thenever
@@ -2104,6 +2133,8 @@ Tinowyn
 Tinuver
 Tiocfaidharla
 Tippo
+Tirindal
+Tirthirin
 Tirwyn
 Titianna
 Tlana
@@ -2140,6 +2171,7 @@ Treewraith
 Trefolia
 Tremare
 Trephine
+Trerane
 Tresatine
 Tresriel
 Tresylia
