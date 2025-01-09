@@ -121,6 +121,7 @@ Archalion
 Archamir
 Arcinrien
 Ardandriel
+Ardiberen
 Arduthin
 Argall
 Arguith
@@ -316,6 +317,7 @@ Broadcaster
 Broggle
 Brograw
 Broimsosaucy
+Brolik
 Brombrawlin
 Brondowar
 Bronwenna
@@ -787,6 +789,7 @@ Freshmint
 Freyakkyn
 Freyraen
 Fridfigvid
+Frie
 Friggnar
 Frilla
 Frostdeefa
@@ -1009,6 +1012,7 @@ Holiel
 Holmms
 Holmun
 Holobart
+Holruna
 Holso
 Hoopyles
 Hopeslight
@@ -1123,6 +1127,7 @@ Jonbones
 Jonkomir
 Jonnybgoode
 Jonwhorfin
+Joybuzzer
 Joycion
 Joyrien
 Jozadak
@@ -1700,6 +1705,7 @@ Pritcher
 Protecting
 Psolarea
 Psykotick
+Puddyfoot
 Pudgi
 Punchatizemecap
 Punchester
@@ -1722,9 +1728,11 @@ Radnok
 Radohael
 Radymbl
 Raehven
+Raevial
 Raevyne
 Rafflesian
 Ragdolly
+Ragvirr
 Rakadov
 Rakshathul
 Ralros
@@ -1975,6 +1983,7 @@ Starrili
 Starsaber
 Steathstinger
 Steelkiss
+Stegos
 Stickcaster
 Stigred
 Stimi
@@ -2068,6 +2077,7 @@ Taweth
 Tawtitaw
 Tazel
 Teallc
+Tebowing
 Teenytinytater
 Teethclawfur
 Teezle
@@ -2094,6 +2104,7 @@ Thenever
 TheNeverEndingStories
 Thengo
 Theoddryht
+Theoguth
 Theonlygorthax
 Thickmember
 Thidfinn
@@ -2104,6 +2115,7 @@ Thodvalgeir
 Thondale
 Thorbosi
 Thorbryth
+Thordaniar
 Thorgrimar
 Thorhilwar
 Thorinmaplehammah
@@ -2221,6 +2233,7 @@ Urzamajor
 Urzaminor
 Uthbehrt
 Utherra
+Vahndahl
 Vahndetta
 Vahnya
 Vaidaran
