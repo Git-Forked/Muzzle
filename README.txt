@@ -10,7 +10,7 @@ Muzzle trolls, spam, and keywords with a customizable list.
 
 Long Description:
 
-Muzzle trolls, spam, and keywords by filtering chat with a list of player names and keywords. Muzzle accomplishes this by forwarding wanted chat to the Standard channel, and leaving out unwanted chat.
+Muzzle trolls, spam, and keywords by filtering chat with a list of player names and keywords. Muzzle accomplishes this by forwarding wanted chat to the Standard channel, and leaving out unwanted chat.  Muzzle never prevents you from grouping, trading, or playing with other players, even if they are Muzzled.
 
 
 New feature:
@@ -21,7 +21,7 @@ New feature:
 Suggested Usage:
 
 Create a new chat tab for World chat.
-It's recommended to rename this tab to 'Unmuzzled',
+It's recommended to rename this tab to 'Unmuzzled' or just '.',
 and not pay any attention to this tab.
 Right-click this tab. On the menu choose 'Change Filters',
 and tick on 'World'.
