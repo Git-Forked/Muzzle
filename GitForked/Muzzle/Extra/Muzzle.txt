@@ -86,6 +86,7 @@ Amrindril
 Anairnui
 Ancalaghon
 Andborn
+Andraax
 Andraviel
 Andricorn
 Angardir
@@ -103,6 +104,7 @@ Antellion
 Antharen
 Antheron
 Anthorellian
+Anthramoor
 Anubelf
 Aoelithe
 Aoifewyn
@@ -144,6 +146,7 @@ Arwenya
 Asglorgor
 Ashenx
 Ashimaril
+Ashkel
 Ashluin
 Asina
 Asorn
@@ -410,6 +413,7 @@ Chunindia
 Cildaran
 Cilwen
 Cima
+Cinnabarcinnabar
 Ciralia
 Cirelborn
 Cirhorn
@@ -537,6 +541,7 @@ Dildum
 Dinalagosseth
 Dinglebery
 Dirdacar
+Dirduirun
 Direclaw
 Dissonance
 Dithrygg
@@ -761,6 +766,7 @@ Finti
 Fionarian
 Fionlind
 Fionnuir
+Fionwyth
 Firalthil
 Fireass
 Firemyst
@@ -842,6 +848,7 @@ Gelinwar
 Geliriel
 Gentlemangimli
 Gerrie
+Gerthiel
 Ghellar
 Ghostlovescore
 Ghoti
@@ -864,6 +871,7 @@ Gillonronder
 Gillthallion
 Gilmarlynn
 Gilmart
+Gilralt
 Gilthalrandir
 Gilthamir
 Gilvorthos
@@ -889,6 +897,7 @@ Golloram
 Golthrondrel
 Gondoladan
 Gondorzilla
+Goobersnot
 Goolius
 Gordarond
 Gorimli
@@ -1341,6 +1350,7 @@ Macroom
 Macyeth
 Madagast
 Madragon
+Maeldhor
 Maerchellung
 Maerethor
 Maethrandiel
@@ -1494,6 +1504,7 @@ Mooch
 Moondoor
 Mordilaey
 Mordredh
+Mordroroth
 Moredeeb
 Moredhriel
 Morganah
@@ -1515,6 +1526,7 @@ Moxxyma
 Muckwyn
 Munches
 Mungi
+Munkiy
 Munkkee
 Musicphile
 Mycouchpullsoutidont
@@ -1646,6 +1658,7 @@ Orkbeard
 Orndil
 Orney
 Orthond
+Osklof
 Ostarah
 Ostoril
 Otevir
@@ -1774,6 +1787,7 @@ Resaeriel
 Retrowyn
 Reviadir
 Revofruin
+Revyx
 Rhea
 Rhedwold
 Rheniogil
@@ -1819,6 +1833,7 @@ Rucket
 Rudalla
 Rudinoth
 Rugad
+Rumelor
 Runeark
 Runkhulruk
 Rustymetal
@@ -2202,6 +2217,7 @@ Tsugilist
 Tswana
 Tubbious
 Tuilindas
+Tuingol
 Tullien
 Tullrian
 Tuon
@@ -2232,6 +2248,7 @@ Umonry
 Unbearables
 Unglarion
 Urakad
+Urehn
 Ursalynn
 Urundel
 Urvallin
