@@ -560,6 +560,7 @@ Domdrunk
 Domfroth
 Doobedat
 Doot
+Dooth
 Dorfy
 Doro
 Doswer
@@ -623,6 +624,7 @@ Eeomir
 Eetazz
 Eetzz
 Efbryt
+Eggalia
 Egralin
 Eharlen
 Ehlanor
@@ -1632,6 +1634,7 @@ Oimate
 Okeysa
 Okkin
 Olarinil
+Oldmug
 Olecoot
 Olirya
 Oliyri
@@ -1966,6 +1969,7 @@ Slagg
 Slicendicealex
 Smacka
 Smaulder
+Smelfo
 Snakechampdustin
 Snakine
 Snappdragon
@@ -2382,6 +2386,7 @@ Xitlali
 Xoros
 Xtalker
 Yaaka
+Yaniell
 Yaruzuk
 Yasmeirra
 Yaulinde
