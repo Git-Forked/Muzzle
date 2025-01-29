@@ -44,6 +44,7 @@ Aidintwo
 Aillaline
 Ainwel
 Airavis
+Airbgone
 Airequenya
 Airku
 Aislingund
@@ -70,6 +71,7 @@ Alphaldor
 Alvilde
 Alwaysfadingecho
 Alyssandryl
+Alyxandriah
 Alzeria
 Amaleia
 Amaleri
@@ -291,6 +293,7 @@ Bloonboy
 Boddacia
 Bodvet
 boi
+Bombastic
 Bonappetit
 Boral
 Bordale
@@ -654,6 +657,7 @@ Ellanriel
 Ellidas
 Ellieraen
 Ellisary
+Elmindredai
 Elorandwe
 Eloreah
 Elosyadar
@@ -730,6 +734,7 @@ Faithie
 Falarey
 Falarthuil
 Fallon
+Falmashae
 Fandrili
 Faoiltiarna
 Faradayfox
@@ -889,6 +894,7 @@ Glorfinmart
 Glorfinwe
 Glorirx
 Glormurst
+Glorofin
 Glorthendil
 Glumbtro
 Glyngil
@@ -1302,6 +1308,7 @@ Littlewhitedove
 Liuin
 Livotta
 Liyanna
+Lofindreth
 Logansan
 Logiee
 Loii
@@ -1804,6 +1811,7 @@ Ricecrispi
 Ridbeorn
 Ridderroy
 Rilgrim
+Rimnerod
 Ringdagar
 Ringdeldam
 Rinwulf
@@ -2248,6 +2256,7 @@ Ullorviel
 Ulnirhael
 Ulrosst
 Ulvghar
+Umbrien
 Umonry
 Unbearables
 Unglarion
