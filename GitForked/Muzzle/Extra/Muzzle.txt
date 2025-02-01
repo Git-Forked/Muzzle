@@ -92,6 +92,7 @@ Andraax
 Andraviel
 Andricorn
 Angardir
+Angborwolf
 Angdraug
 Angelcake
 Angneluin
@@ -183,6 +184,7 @@ Aylisa
 Aylithe
 Aythalion
 Azruthor
+Azureflower
 Babyoilbottles
 Baccara
 Bacen
@@ -264,6 +266,7 @@ Beornyson
 Bequia
 Beraniel
 Beravelda
+Berduinel
 Beriathorn
 Berramage
 Berratul
@@ -500,6 +503,7 @@ Daridun
 Darkbringerr
 Darkvila
 Darwarz
+Darxesvarkah
 Dathran
 Davor
 Dawnrising
@@ -573,11 +577,13 @@ Dranthor
 Dravar
 Dresdens
 Drexicar
+Drimarlad
 Drizdenn
 Droghan
 Drondil
 Druando
 Druzy
+Drydsel
 Dualblades
 Dudeskee
 Dulciana
@@ -607,6 +613,7 @@ Earodel
 Earrll
 Earthanor
 Ebeneezergoode
+Ebonyssa
 Ecafast
 Ecahunt
 Ecarune
@@ -618,6 +625,7 @@ Edelewine
 Edenfiel
 Edging
 Edhelaren
+Edhelerdal
 Edhelethuil
 Edomir
 Edrodruth
@@ -751,6 +759,7 @@ Feahyandal
 Feahyandamariner
 Feahyndanor
 Feitanportor
+Felondion
 Felrin
 Fennthicc
 Ferlina
@@ -808,6 +817,7 @@ Fridnathwerd
 Frie
 Friggnar
 Frilla
+Frogribbet
 Frostdeefa
 Frostedcupcake
 Frosthilda
@@ -890,6 +900,7 @@ Gladdener
 Glicious
 Glissanda
 Globalist
+Glodd
 Glorfinmart
 Glorfinwe
 Glorirx
@@ -935,6 +946,7 @@ Grimradd
 Grippa
 Grithraw
 Grumbleguth
+Grungnyr
 Guendolyn
 Gundurwarth
 Gunneros
@@ -1481,6 +1493,7 @@ Merhedrith
 Merifred
 Merllen
 Merothin
+Merribear
 Mertensia
 Mesco
 Metalle
@@ -1810,6 +1823,7 @@ Riboka
 Ricecrispi
 Ridbeorn
 Ridderroy
+Rikby
 Rilgrim
 Rimnerod
 Ringdagar
@@ -1828,6 +1842,7 @@ Rockmans
 Rockmogstar
 Rockworthy
 Rodgertherabbit
+Rodvolic
 Rohllo
 Rokcavhir
 Roknrol
@@ -1857,6 +1872,7 @@ Saarthronah
 Saashay
 Sabennchamp
 Sabriell
+Sadomasochist
 Saelorean
 Saerami
 Saerith
@@ -2159,6 +2175,7 @@ Thraingil
 Thrallmark
 Thrarr
 Threespoons
+Threllion
 Throttalin
 Thruthla
 Thumpa
@@ -2198,6 +2215,7 @@ Tomowyn
 Tonymaloney
 Topoftheworld
 Toranduil
+Torarandir
 Torenmir
 Torja
 Tormur
@@ -2219,6 +2237,7 @@ Trephine
 Trerane
 Tresatine
 Tresriel
+Treswyn
 Tresylia
 Triswynn
 Tromdir
