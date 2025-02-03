@@ -53,6 +53,7 @@ Akillezee
 Akillizee
 Akonivess
 Alassin
+Aldaras
 Aldrekan
 Aldsel
 Alectrona
@@ -91,6 +92,7 @@ Andborn
 Andraax
 Andraviel
 Andricorn
+Anfeald
 Angardir
 Angborwolf
 Angdraug
@@ -264,6 +266,7 @@ Beorntokil
 Beornunderabadsign
 Beornyson
 Bequia
+Berachah
 Beraniel
 Beravelda
 Berduinel
@@ -274,6 +277,7 @@ Berrazul
 bez
 Bez
 Bezerhealo
+Bhaderik
 Bidgald
 Billybobjunior
 Bilskirnir
@@ -295,7 +299,9 @@ Blixie
 Bloonboy
 Boddacia
 Bodvet
+Bogomel
 boi
+Boltlobber
 Bombastic
 Bonappetit
 Boral
@@ -350,6 +356,7 @@ Busfareamir
 Bwalon
 Bya
 Bylanor
+Byrnhelm
 Byronius
 Cabo
 Cabox
@@ -394,6 +401,7 @@ Celeiriel
 Celestialheart
 Celquay
 Celuaglar
+Cemorva
 Cempynn
 Cendrya
 Cenedrilra
@@ -430,6 +438,7 @@ Clamnog
 Clanguddin
 Claudein
 Clawrond
+Claytonius
 Clemie
 Cloud
 Cloudbeorn
@@ -457,6 +466,7 @@ Crazyhorrse
 Crazypuncher
 Crazyskin
 Crazytalk
+Creamygoo
 Creeper
 Creepygoat
 Crimsonsplatter
@@ -464,6 +474,7 @@ Cringis
 Cristofforo
 Critager
 Crownless
+Crysnnia
 Cryspea
 Crystalanna
 Ctri
@@ -488,12 +499,14 @@ Daeeron
 Daenaswith
 Dagadaen
 Dagarvarth
+Daggonit
 Dagonei
 Dagreth
 Dalongar
 Damidir
 Danaerwyn
 Danaii
+Dandorn
 Dankegilde
 Dankiest
 Dantimily
@@ -516,6 +529,7 @@ Decoy
 Dedocta
 Dedraf
 Deffen
+Degwyn
 Dekthalion
 Delauriel
 Delfer
@@ -526,6 +540,7 @@ Delthirion
 Delyna
 Delyssia
 Demiors
+Denirior
 Denorid
 Denothan
 Denurnas
@@ -569,6 +584,7 @@ Doobedat
 Doot
 Dooth
 Dorfy
+Dorkrond
 Doro
 Doswer
 Draelinn
@@ -586,6 +602,7 @@ Druzy
 Drydsel
 Dualblades
 Dudeskee
+Duindalan
 Dulciana
 Dulgun
 Dumbledorf
@@ -744,6 +761,7 @@ Falarthuil
 Fallon
 Falmashae
 Fandrili
+Fangollind
 Faoiltiarna
 Faradayfox
 FaradayFox
@@ -834,6 +852,7 @@ Fyrefleur
 Fyrno
 Fyyk
 Gabrilos
+Gadhronuir
 Gaearil
 Gaelerian
 Gaerwine
@@ -872,6 +891,7 @@ Ghoti
 Giilinlerond
 Gilaglar
 Gilbrethil
+Gildalien
 Gildarion
 Gilerond
 Gillineorn
@@ -918,6 +938,7 @@ Gondoladan
 Gondorzilla
 Goobersnot
 Goolius
+Gorackthebrave
 Gordarond
 Gorimli
 Gormormur
@@ -928,6 +949,7 @@ Gotursix
 Goudacheese
 Graefenson
 Graelaf
+Graemeros
 Graenfinwe
 Graeva
 Gramhere
@@ -994,6 +1016,7 @@ Handord
 Handova
 Handzy
 Hangermar
+Hankledirglittershoe
 Hannaleigh
 Hanomag
 Haoleboy
@@ -1014,6 +1037,7 @@ Havenbow
 Hazeldawn
 Hazzahs
 Healrod
+Hedgewald
 Hefthyn
 Heftwirl
 Helamabut
@@ -1096,6 +1120,7 @@ Ilyamenielot
 Imdris
 Improvisation
 Imraldir
+Imylina
 Inconstant
 Indbil
 Indiela
@@ -1106,6 +1131,7 @@ Inittowinit
 Inlerah
 Inphellos
 Install
+Inulluin
 Invincible
 Iorthomund
 Ioseph
@@ -1227,6 +1253,7 @@ Killemdafoe
 Kilrathalon
 Kingsalimosi
 Kingsnagga
+Kingvegeta
 Kiputtyto
 Kirea
 Kirenegan
@@ -1331,6 +1358,7 @@ Lollygag
 Lonatharil
 Lonekk
 Longpig
+Lonk
 Lorderagon
 Lordevileyes
 Lordfourbears
@@ -1365,6 +1393,7 @@ Luthiell
 Lutholea
 Lyfeline
 Lynnelda
+Lyuda
 Macgimli
 Mackievelli
 Macroom
@@ -1397,6 +1426,7 @@ Malithar
 Malkaizer
 Mallinor
 Mallowmist
+Malmag
 Malnek
 Malnoril
 Malogag
@@ -1424,6 +1454,7 @@ Marewell
 Marfedelom
 Mariath
 Maridal
+Marinip
 Marlagarth
 Marlas
 Martadan
@@ -1576,6 +1607,7 @@ Naradoc
 Narangren
 Naranthor
 Narinna
+Narolador
 Narrwen
 Narsereg
 Naslif
@@ -1603,6 +1635,7 @@ Nichichi
 Nidland
 Nightmare
 Nilthrandir
+Nimdhiran
 Nimraenoriel
 Ninebones
 Nineteenohone
@@ -1705,6 +1738,7 @@ Peligo
 Peluso
 Pendulous
 Penypuncher
+Peppapig
 Peridota
 Perinos
 Petting
@@ -1815,6 +1849,7 @@ Rhea
 Rhedwold
 Rheniogil
 Rhenostor
+Rhomex
 Rhovwyn
 Rhubraig
 Rhyaena
@@ -1842,12 +1877,14 @@ Rockmans
 Rockmogstar
 Rockworthy
 Rodgertherabbit
+Rodrityz
 Rodvolic
 Rohllo
 Rokcavhir
 Roknrol
 Rokurr
 Romawende
+Rooklar
 Rootor
 Rormurori
 Roseilid
@@ -1978,6 +2015,7 @@ Simpinaina
 Sinead
 Sinring
 Sirchampy
+Sirjustalot
 Sirspoony
 Siswaiaman
 Sitkah
@@ -2045,6 +2083,7 @@ Stouthands
 Strawgully
 Strfox
 Strideher
+Strikeshadow
 Strothalion
 Studbeefpile
 Stumpyrella
@@ -2228,6 +2267,7 @@ Trajjin
 Tran
 Trappyflaps
 Travisbickle
+Travitz
 Trebleclef
 Treelore
 Treewraith
@@ -2267,6 +2307,7 @@ Ualoria
 Uandan
 Uberfool
 Uhaul
+Ulandier
 Ulfarion
 Ulfheid
 Ulfryn
@@ -2345,6 +2386,7 @@ Villo
 Viloth
 Vilyrandir
 Vimilzagar
+Vinnalor
 Vionya
 Vizzini
 Vodkihad
@@ -2353,6 +2395,7 @@ Voruuk
 Vrasska
 Vruto
 Vylkariya
+Vys
 Vysalina
 Waatwan
 Warowulf
@@ -2422,6 +2465,7 @@ Yavienn
 Yavon
 Yawr
 Yggdrika
+Yildizlar
 Yirthain
 Ynarriel
 Youngspaarow
