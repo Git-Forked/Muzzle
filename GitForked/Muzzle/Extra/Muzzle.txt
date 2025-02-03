@@ -270,6 +270,7 @@ Berachah
 Beraniel
 Beravelda
 Berduinel
+Bergoin
 Beriathorn
 Berramage
 Berratul
@@ -392,6 +393,7 @@ Catryona
 Cayleigh
 Ceckshavr
 Ceirys
+Celari
 Celeathe
 Celebecthel
 Celebwind
@@ -796,6 +798,7 @@ Fimarith
 Findolrond
 Finleigh
 Finnius
+Finthoniel
 Finti
 Fionarian
 Fionlind
