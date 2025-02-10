@@ -200,6 +200,7 @@ Baerdus
 Baheeby
 Bahogbilat
 Baintauriel
+Balchona
 Balephorion
 Balkund
 Balleryon
@@ -246,6 +247,7 @@ Bella
 Belladragon
 Belladria
 Bellamythebold
+Bellegas
 Bellerdan
 Belligerence
 Benson
@@ -307,6 +309,7 @@ Bombastic
 Bonappetit
 Boral
 Bordale
+Bornibrand
 Bossmoss
 Bothundbur
 Botok
@@ -476,6 +479,7 @@ Cringis
 Cristofforo
 Critager
 Crownless
+Crypter
 Crysnnia
 Cryspea
 Crystalanna
@@ -593,6 +597,7 @@ Draelinn
 Dragonmynuz
 Dranthor
 Dravar
+Dredredredredredor
 Dresdens
 Drexicar
 Drimarlad
@@ -666,10 +671,12 @@ Ekessa
 Ekibyo
 Eladuial
 Elairra
+Elari
 Eldaered
 Eldauriel
 Elderia
 Eldolthryth
+Eldrathain
 Elelfrocken
 Elenas
 Elfbane
@@ -717,6 +724,7 @@ Ephedria
 Epherandir
 Erass
 Eredrimbel
+Erhenion
 Eribrandir
 Erifin
 Erinti
@@ -778,6 +786,7 @@ Feahyandacappytwo
 Feahyandal
 Feahyandamariner
 Feahyndanor
+Fearimlorn
 Feitanportor
 Felondion
 Felrin
@@ -825,6 +834,7 @@ Forganus
 Formatha
 Forthrenand
 Forvreval
+Forwenuir
 Fraeyaa
 Freaya
 Freisa
@@ -844,6 +854,7 @@ Frostedcupcake
 Frosthilda
 Frostkarr
 Frothfrith
+Frothrond
 Fubs
 Fuldrith
 Fulgram
@@ -874,6 +885,7 @@ Galmli
 Galmr
 Gamstarli
 Gandorael
+Gangcious
 Garlique
 Garneer
 Garyowen
@@ -888,6 +900,7 @@ Geliriel
 Gentlemangimli
 Gerrie
 Gerthiel
+Gerxin
 Ghellar
 Ghostlovescore
 Ghoti
@@ -924,6 +937,7 @@ Glicious
 Glissanda
 Globalist
 Glodd
+Gloradian
 Glorfinmart
 Glorfinwe
 Glorirx
@@ -972,6 +986,7 @@ Grippa
 Grithraw
 Grumbleguth
 Grungnyr
+Grunkleiroh
 Guendolyn
 Gundurwarth
 Gunneros
@@ -1031,6 +1046,7 @@ Harnesila
 Harrowthorn
 Harshlanguage
 Harumphrey
+Harvaiin
 Harvain
 Harwaen
 Hasadiga
@@ -1076,7 +1092,9 @@ Holso
 Hoopyles
 Hopeslight
 Horyu
+Hossenfeffer
 Houri
+Hrafdun
 Hrosdur
 Hrothland
 Hucklebarry
@@ -1110,6 +1128,7 @@ Ijwyn
 Ilirwar
 Illeran
 Illevar
+Illiahn
 Illithianos
 Illunathros
 Ilmalosse
@@ -1121,6 +1140,7 @@ Iluyeneia
 Ilwyn
 Ilyamenielot
 Imdris
+Immacollata
 Improvisation
 Imraldir
 Imylina
@@ -1427,6 +1447,7 @@ Malistor
 Malithad
 Malithar
 Malkaizer
+Mallathar
 Mallinor
 Mallowmist
 Malmag
@@ -1467,6 +1488,7 @@ Mathanir
 Mathraandir
 Mavi
 Maximostly
+Maxmund
 Maxwellyn
 May
 Mayalin
@@ -1540,7 +1562,9 @@ Militant
 Milkyshot
 Millymollymay
 Minethos
+Minlee
 Minniscott
+Minthanor
 Mirdanneth
 Mirdirneth
 Mirelhach
@@ -1571,6 +1595,7 @@ Moriquetta
 Morled
 Mormolac
 Morodeth
+Morshbaeph
 Morveren
 Mossorin
 Motlo
@@ -1580,6 +1605,7 @@ Moxxey
 Moxxley
 Moxxyma
 Muckwyn
+Mugwumper
 Munches
 Mungi
 Munkiy
@@ -1613,6 +1639,7 @@ Narinna
 Narolador
 Narrwen
 Narsereg
+Narthulion
 Naslif
 Nataliie
 Nattee
@@ -1628,6 +1655,7 @@ Nephril
 Neppie
 Nerariel
 Nerodia
+Nervimar
 Nethelion
 Neverko
 Neynwen
@@ -1639,6 +1667,7 @@ Nidland
 Nightmare
 Nilthrandir
 Nimdhiran
+Nimfindor
 Nimraenoriel
 Ninebones
 Nineteenohone
@@ -1674,6 +1703,7 @@ Odaghaim
 Odalard
 Oddam
 Oddessia
+Odekeon
 Odorous
 Odyro
 Odyros
@@ -1713,6 +1743,7 @@ Orbajyn
 Ordinaryfool
 Orenwen
 Organdin
+Orihs
 Orkbeard
 Orndil
 Orney
@@ -1737,6 +1768,7 @@ Pasionaria
 Peachfuzy
 Peanutbuttercup
 Pebbles
+Peezywick
 Peligo
 Peluso
 Pendulous
@@ -1744,6 +1776,7 @@ Penypuncher
 Peppapig
 Peridota
 Perinos
+Persig
 Petting
 Phaint
 Pheme
@@ -1777,9 +1810,11 @@ Poyzonoak
 Praelas
 Presmer
 Presmerk
+Presmew
 Presmier
 Pressutheb
 Prilonda
+Prismi
 Pritcher
 Protecting
 Psolarea
@@ -1789,6 +1824,7 @@ Pudgi
 Punchatizemecap
 Punchester
 Punchii
+Punchovilla
 Puremetal
 Qertinya
 Qora
@@ -1810,6 +1846,7 @@ Raehven
 Raevial
 Raevyne
 Rafflesian
+Rafina
 Ragdolly
 Ragvirr
 Rakadov
@@ -1928,6 +1965,7 @@ Saltyoldcurmudgeon
 Samieth
 Sammya
 Sampaguita
+Samwindchester
 Sarahaphina
 Sarcastard
 Sariphena
@@ -1995,6 +2033,7 @@ Shidosh
 Shielda
 Shieranor
 Shieras
+Shiroemd
 Shockakhan
 Shockzula
 Shoke
@@ -2012,6 +2051,7 @@ Sigrid
 Sildag
 Silnia
 Silphie
+Silvanath
 Silvaquendi
 Silverbree
 Simpinaina
@@ -2046,6 +2086,8 @@ Snorik
 Snowflaker
 Soladun
 Solveiga
+Sonechka
+Spalirald
 spam
 Spannis
 Sparkslm
@@ -2193,6 +2235,7 @@ Thelaris
 Thelhild
 Thenever
 TheNeverEndingStories
+Thenglinlow
 Thengo
 Theoddryht
 Theoguth
@@ -2216,9 +2259,11 @@ Thorvor
 Thraingil
 Thrallmark
 Thrarr
+Thrashley
 Threespoons
 Threllion
 Throttalin
+Thrumzin
 Thruthla
 Thumpa
 Thunderbyte
@@ -2321,6 +2366,7 @@ Ulrosst
 Ulvghar
 Umbrien
 Umonry
+Unavolda
 Unbearables
 Unglarion
 Urakad
@@ -2394,6 +2440,7 @@ Vionya
 Vizzini
 Vodkihad
 Voknur
+Volbuc
 Voruuk
 Vrasska
 Vruto
@@ -2487,6 +2534,7 @@ Zariaha
 Zealouself
 Zebedeeone
 Zedoz
+Zelain
 Zellcosmetic
 Zengarr
 Zephyriel
