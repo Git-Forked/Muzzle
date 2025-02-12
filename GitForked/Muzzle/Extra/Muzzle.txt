@@ -249,6 +249,7 @@ Belladria
 Bellamythebold
 Bellegas
 Bellerdan
+Bellewan
 Belligerence
 Benson
 Bensonarrow
@@ -1661,6 +1662,7 @@ Nerodia
 Nervimar
 Nethelion
 Neverko
+Nevirmor
 Neynwen
 Nhymrandir
 Niajax
@@ -1912,6 +1914,7 @@ Risiki
 Risiko
 Riverlos
 Rivier
+Roanna
 Robem
 Robezhood
 Robrebeorn
