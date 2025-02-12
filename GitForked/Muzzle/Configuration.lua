@@ -18,6 +18,9 @@ Set.FilterFontColorHexRGB = "#FF00FF" -- #FF00FF is Magenta / Fuchsia
 
 Set.BlockoutFontColorHexRGB = "#808080" -- #808080 is Gray / Grey
 
+-- Enable filtering of the trade channel
+Set.Trade = false
+
 -- Verbose (default is: false) [Set to true for debugging.]
 -- Shows who was muzzled, the block reason, and the message content.
 Set.Verbose = false

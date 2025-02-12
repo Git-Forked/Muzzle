@@ -13,9 +13,10 @@ Long Description:
 Muzzle trolls, spam, and keywords by filtering chat with a list of player names and keywords. Muzzle accomplishes this by forwarding wanted chat to the Standard channel, and leaving out unwanted chat.  Muzzle never prevents you from grouping, trading, or playing with other players, even if they are Muzzled.
 
 
-New feature:
+New features:
 
 + Highlight messages to your player name in world chat.
++ An option for the filtering of trade channel within Configuration.lua and via toggle. <See Commands>
 
 
 Suggested Usage:
@@ -60,7 +61,22 @@ Under 'About', change 'Automatically Load For' to 'All Characters'.
 Commands:
 
 /Muzzle reload
-Will reload the Muzzle plugin. This is useful if you have added names or keywords, since a reload is required for the new names or keywords to take effect.  This command prevents having to log your character out and back in, as in the previous version.
+Will reload the Muzzle plugin. This is useful if you have added names or keywords, since a reload is required for the new names or keywords to take effect.  This command prevents having to log your character out and back in.
+
+/Muzzle name
+Display your player name.
+
+/Muzzle version
+Display the version of the Muzzle plugin.
+
+/Muzzle fonts
+Display the font colors configuration (set in Configuration.lua).
+
+/Muzzle verbose
+Toggle to enable or disable verbose mode (for debugging your list).
+
+/Muzzle trade
+Toggle to enable or disable filtering of the trade channel.
 
 
 Special Thanks:

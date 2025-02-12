@@ -1,5 +1,5 @@
 -- Muzzle (Main.lua)
--- 1.2.2
+-- 1.3.0
 
 -- Turbine imports
 import "Turbine";
@@ -25,6 +25,27 @@ end
 PlayerName = ""
 function ChatHandler(sender, args)
     if args.ChatType == Turbine.ChatType.World then
+        for _,v in pairs(Muzzle) do
+            if string.match(args.Message, v) then
+                if Set.Verbose == true then
+                    Turbine.Shell.WriteLine("<rgb=".. Set.MuzzledFontColorHexRGB ..">Muzzled</rgb> for '<rgb=".. Set.FilterFontColorHexRGB ..">".. v .."</rgb>': <rgb=".. Set.BlockoutFontColorHexRGB ..">".. args.Message);
+                end
+                return;
+            end
+        end
+        PlayerName = GetPlayerNameOnce()
+        if string.match(args.Message, PlayerName) then
+            HighlightedMessage = string.gsub(args.Message, PlayerName, "<rgb=" .. Set.HighlightColorHexRGB .. ">" .. PlayerName .. "<rgb=" .. Set.StandardFontColorHexRGB .. ">") -- string.gsub(string, pattern, replace)
+            Turbine.Shell.WriteLine("<rgb=" .. Set.HighlightColorHexRGB .. "> ::: " .. PlayerName .. " ::: <rgb=#FFFFFF>" .. HighlightedMessage);
+        elseif string.match(args.Message, string.lower(PlayerName)) then
+            HighlightedMessage = string.gsub(args.Message, string.lower(PlayerName), "<rgb=" .. Set.HighlightColorHexRGB .. ">" .. string.lower(PlayerName) .. "<rgb=" .. Set.StandardFontColorHexRGB .. ">")
+            Turbine.Shell.WriteLine("<rgb=" .. Set.HighlightColorHexRGB .. "> ::: " .. PlayerName .. " ::: <rgb=#FFFFFF>" .. HighlightedMessage);
+        else
+            Turbine.Shell.WriteLine("<rgb=" .. Set.StandardFontColorHexRGB .. ">" .. args.Message);
+        end
+    end
+    --
+    if Set.Trade == true and args.ChatType == Turbine.ChatType.Trade then
         for _,v in pairs(Muzzle) do
             if string.match(args.Message, v) then
                 if Set.Verbose == true then
@@ -115,6 +136,14 @@ function MuzzleCommand:Execute(command, arguments)
         elseif (Set.Verbose == true) then
             Set.Verbose = false
             Turbine.Shell.WriteLine("Muzzle verbose mode disabled.");
+        end
+    elseif (arguments == "trade") then
+        if (Set.Trade == false) then
+            Set.Trade = true
+            Turbine.Shell.WriteLine("Muzzle trade channel enabled.");
+        elseif (Set.Trade == true) then
+            Set.Trade = false
+            Turbine.Shell.WriteLine("Muzzle trade channel disabled.");
         end
     else
         Turbine.Shell.WriteLine("Invalid input, please try again.");
