@@ -147,6 +147,7 @@ Artuinna
 Artyzan
 Arvardan
 Arvithion
+Arvold
 Arwenya
 Asglorgor
 Ashenx
@@ -219,6 +220,7 @@ Bardagus
 Bardindal
 Barffolio
 Barfight
+Barsulrom
 Barthewal
 Barvind
 Baser
@@ -251,6 +253,7 @@ Bellegas
 Bellerdan
 Bellewan
 Belligerence
+Benjaminbackshot
 Benson
 Bensonarrow
 Bensonbear
@@ -664,6 +667,7 @@ Eetzz
 Efbryt
 Eggalia
 Egralin
+Egsilfreda
 Eharlen
 Ehlanor
 Eichbert
@@ -897,6 +901,7 @@ Garyscalf
 Gathrin
 Gattzu
 Gaulbo
+Gaulsten
 Gdayymate
 Gelemald
 Gelinwar
@@ -1268,6 +1273,7 @@ Kenanir
 Kenawen
 Kendis
 Kendrablake
+Kerell
 Kesalleoaslas
 Kevyriel
 Khadijah
@@ -1302,6 +1308,7 @@ Kothog
 Kovaskahn
 Krayoneaterwe
 Krystacia
+Krystic
 Kuchikukan
 Kudle
 Kuzd
@@ -1426,6 +1433,7 @@ Lyfeline
 Lynnelda
 Lyuda
 Macgimli
+Macie
 Mackievelli
 Macroom
 Macyeth
@@ -2292,6 +2300,7 @@ Tikarah
 Tiltius
 Timothe
 Tinburgler
+Tindraviel
 Tinowyn
 Tinuver
 Tiocfaidharla
@@ -2398,6 +2407,7 @@ Vahnya
 Vaidaran
 Vailar
 Valamira
+Valderak
 Valdifar
 Valerond
 Valithia
