@@ -335,6 +335,7 @@ Brightmetal
 Brisson
 Britthild
 Broadcaster
+Brochete
 Broggle
 Brograw
 Broimsosaucy
@@ -510,6 +511,7 @@ Daggonit
 Dagonei
 Dagreth
 Dalongar
+Damdidthathurt
 Damidir
 Danaerwyn
 Danaii
@@ -837,6 +839,7 @@ Forthrenand
 Forvreval
 Forwenuir
 Fraeyaa
+Fragarach
 Freaya
 Freisa
 Frenalcara
@@ -1058,6 +1061,7 @@ Hazeldawn
 Hazzahs
 Healrod
 Hedgewald
+Heelmi
 Hefthyn
 Heftwirl
 Helamabut
@@ -1307,6 +1311,7 @@ Kwozzy
 Kyannah
 Kylosaldmeri
 Kylrin
+Kyndray
 Lachallun
 Ladybeorn
 Ladybuug
@@ -1548,6 +1553,7 @@ Menachem
 Menglindril
 Menindiel
 Menuriel
+Mereithien
 Mereliss
 Merhedrith
 Merifred
@@ -1673,6 +1679,7 @@ Nightmare
 Nilthrandir
 Nimdhiran
 Nimfindor
+Nimirraj
 Nimraenoriel
 Ninebones
 Nineteenohone
@@ -2103,6 +2110,7 @@ Spites
 Splatter
 Splorgi
 Spoonathor
+Sporkington
 Sposco
 Sprunga
 Spyd
