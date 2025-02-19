@@ -53,6 +53,7 @@ Ajmehrai
 Akillezee
 Akillizee
 Akonivess
+Alagosdil
 Alassin
 Aldaras
 Aldrekan
@@ -593,6 +594,7 @@ Djevaak
 Dnarthur
 Docmurder
 Dodorad
+Doeadeer
 Dogdude
 Dolethrian
 Dolinada
@@ -916,6 +918,7 @@ Gattzu
 Gaulbo
 Gaulsten
 Gdayymate
+Geezer
 Gelemald
 Gelinwar
 Geliriel
@@ -1172,6 +1175,7 @@ Imylina
 Inconstant
 Indbil
 Indiela
+Indorfin
 Indragond
 Ingorif
 Inhirglin
@@ -1397,6 +1401,7 @@ Linnon
 Linthanel
 Lisandir
 Lisseren
+Lisseth
 Lithlin
 Littlewhitedove
 Liuin
@@ -1684,6 +1689,7 @@ Negativeglow
 Nekros
 Neldun
 Nellathrond
+Nellerael
 Nelsonord
 Nenaured
 Nenaurod
@@ -2163,6 +2169,7 @@ Stickcaster
 Stigred
 Stimi
 Stoneformbis
+Stormcastle
 Stormi
 Stormibeorn
 Stormibow
