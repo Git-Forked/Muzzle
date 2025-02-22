@@ -71,6 +71,7 @@ Allieone
 Aloriel
 Aloriendel
 Alphaldor
+Alrgoin
 Alvilde
 Alwaysfadingecho
 Alyssandryl
@@ -289,6 +290,7 @@ Bez
 Bezerhealo
 Bhaderik
 Bidgald
+Biffthunderfist
 Billybobjunior
 Bilskirnir
 Birnfrith
@@ -793,6 +795,7 @@ Fallon
 Falmashae
 Fandrili
 Fangollind
+Fanistoragetwo
 Faoiltiarna
 Faradayfox
 FaradayFox
@@ -812,6 +815,7 @@ Feitanportor
 Felondion
 Felrin
 Fennthicc
+Feragsuil
 Ferlina
 Fernwise
 Ferrisrushb
@@ -850,6 +854,7 @@ Fogostosa
 Folcarde
 Fonzzie
 Fordiel
+Fordolk
 Foreignoakenshield
 Forganus
 Formatha
@@ -864,6 +869,7 @@ Frenalcara
 Frenchdoors
 Freshmint
 Freyakkyn
+Freydn
 Freyraen
 Fridfigvid
 Fridnathwerd
@@ -987,6 +993,7 @@ Gormormur
 Gosvallen
 Gothrand
 Gotmund
+Gottzfreud
 Gotursix
 Goudacheese
 Graefenson
@@ -1025,6 +1032,7 @@ Gusvirlond
 Gwathildol
 Gwelia
 Gwenilweth
+Gwentin
 Gwinne
 Gwynblaed
 Gyngilly
@@ -1702,6 +1710,7 @@ Nethelion
 Neverko
 Nevirmor
 Neynwen
+Nheggy
 Nhymrandir
 Niajax
 Niamhweth
@@ -1831,6 +1840,7 @@ Philophulax
 Philothera
 Phrometheuz
 Phtrod
+Phuzzy
 Picardh
 Pickerel
 Pilau
@@ -1863,6 +1873,7 @@ Prilonda
 Prismi
 Pritcher
 Protecting
+Prumbi
 Psolarea
 Psykotick
 Puddyfoot
@@ -1876,6 +1887,7 @@ Qertinya
 Qora
 Quaziloco
 Quibe
+Quillexy
 Quinmin
 Quinngon
 Quixothir
@@ -1971,6 +1983,7 @@ Rokcavhir
 Roknrol
 Rokurr
 Romawende
+Ronalo
 Rooklar
 Rootor
 Rormurori
@@ -2084,6 +2097,7 @@ Shiroemd
 Shockakhan
 Shockzula
 Shoke
+Shoucking
 Shrekinator
 Shrubb
 Shtisel
@@ -2179,6 +2193,7 @@ Strawgully
 Strfox
 Strideher
 Strikeshadow
+Strippahman
 Strothalion
 Studbeefpile
 Stumpyrella
@@ -2378,6 +2393,7 @@ Tresatine
 Tresriel
 Treswyn
 Tresylia
+Trinsa
 Triswynn
 Tromdir
 Trulo
@@ -2415,6 +2431,7 @@ Ullorviel
 Ulnirhael
 Ulrosst
 Ulvghar
+Ulvjager
 Umbrien
 Umonry
 Unavolda
