@@ -17,6 +17,7 @@ Muzzle = {
 	'Adenfin',
 	'Adiden',
 	'Adinonzl',
+	'Adirach',
 	'Adiux',
 	'Adleren',
 	'Adobos',
