@@ -239,6 +239,7 @@ Bbaqvea
 Bealdic
 Bearchaos
 Bearinstein
+Bearlyhealing
 Bearmann
 Bearpigs
 Beassie
@@ -932,6 +933,7 @@ Gelemald
 Gelinwar
 Geliriel
 Gentlemangimli
+Gernobrandy
 Gerrie
 Gerthiel
 Gerxin
@@ -960,6 +962,7 @@ Gillthallion
 Gilmarlynn
 Gilmart
 Gilralt
+Gilreann
 Gilthalrandir
 Gilthamir
 Gilvorthos
@@ -1846,6 +1849,7 @@ Pheme
 Philophone
 Philophulax
 Philothera
+Phrak
 Phrometheuz
 Phtrod
 Phuzzy
