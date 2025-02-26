@@ -938,6 +938,7 @@ Gerxin
 Ghellar
 Ghostlovescore
 Ghoti
+Gigahertz
 Giilinlerond
 Gilaglar
 Gilbrethil
@@ -991,6 +992,7 @@ Goobersnot
 Goolius
 Gorackthebrave
 Gordarond
+Gorefinger
 Gorimli
 Gormormur
 Gosvallen
@@ -1485,6 +1487,7 @@ Magdanel
 Magolas
 Magoneg
 Mailewen
+Maiorianvs
 Mairobhar
 Maladirs
 Malastel
@@ -2299,6 +2302,7 @@ Tharelaith
 Tharglafang
 Tharthollost
 Thauriul
+Theagorn
 Thecrimsondirk
 Thegrandnagus
 Thelaris
