@@ -634,6 +634,7 @@ Dumbledorf
 Dunarcarn
 Dunnylle
 Dunsanie
+Duodo
 Durahann
 Dustar
 Dvoin
@@ -800,6 +801,7 @@ Faoiltiarna
 Faradayfox
 FaradayFox
 Faramart
+Farecbor
 Farralorm
 Fatbombur
 Fatcrap
@@ -1005,6 +1007,7 @@ Gramhere
 Gramorin
 Granomir
 Grathdorr
+Grenados
 Grep
 Gresaran
 Gretel
@@ -1083,6 +1086,7 @@ Harshlanguage
 Harumphrey
 Harvaiin
 Harvain
+Harviane
 Harwaen
 Hasadiga
 Hastile
