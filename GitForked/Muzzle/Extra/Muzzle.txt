@@ -293,6 +293,7 @@ Bezerhealo
 Bhaderik
 Bidgald
 Biffthunderfist
+Bigolmilk
 Billybobjunior
 Bilskirnir
 Birnfrith
@@ -345,6 +346,7 @@ Brightmetal
 Brisson
 Britthild
 Broadcaster
+Broagorn
 Brochete
 Broggle
 Brograw
@@ -1218,6 +1220,7 @@ Isthrandir
 Istimor
 Itachiel
 Ithalros
+Ithlewar
 Ithrindiel
 Itkurgat
 Ivbair
@@ -1249,6 +1252,7 @@ Jeorric
 Jerdo
 Jessikah
 Jewlalt
+Jezzo
 Jimineecrackhedd
 Jivaro
 Joelynne
@@ -1683,12 +1687,14 @@ Myrddinus
 Myrwarda
 Mysterous
 Mythek
+Mythrilion
 Myuliel
 Nacham
 Nadiae
 Nadira
 Nafarrad
 Nahtazu
+Nandorfore
 Nanduinuir
 Naneldel
 Nanillar
@@ -1971,6 +1977,7 @@ Ricecrispi
 Ridbeorn
 Ridderroy
 Rikby
+Rildahil
 Rilgrim
 Rimnerod
 Ringdagar
@@ -2438,6 +2445,8 @@ Uandan
 Uberfool
 Uhaul
 Ulandier
+Uldolorn
+Ulemdil
 Ulfarion
 Ulfheid
 Ulfryn
@@ -2519,6 +2528,7 @@ Villo
 Viloth
 Vilyrandir
 Vimilzagar
+Vinhandel
 Vinnalor
 Vionya
 Vizzini
