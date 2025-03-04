@@ -320,6 +320,8 @@ Boltlobber
 Bombastic
 Bonappetit
 Boral
+Borarin
+Borarir
 Bordale
 Bornibrand
 Bossmoss
@@ -614,6 +616,7 @@ Dorfy
 Dorkrond
 Doro
 Doswer
+Doubledat
 Draelinn
 Dragonmynuz
 Dranthor
@@ -1006,6 +1009,7 @@ Gotmund
 Gottzfreud
 Gotursix
 Goudacheese
+Gracelenrose
 Graefenson
 Graelaf
 Graemeros
@@ -1593,6 +1597,7 @@ Mcgavan
 Mcthuselah
 Meagyth
 Medumam
+Meduzeld
 Megaevil
 Megamonch
 Meggraen
@@ -2545,6 +2550,7 @@ Waatwan
 Warowulf
 Warrabbit
 Warrpathe
+Wascally
 Wataa
 wato
 Wato
