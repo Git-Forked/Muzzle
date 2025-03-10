@@ -139,12 +139,14 @@ Argall
 Arguith
 Ariawulf
 Ariezen
+Aristophane
 Arjunelle
 Arkoudos
 Armorig
 Arrieldel
 Arrivo
 Arrtcher
+Artanor
 Arthelios
 Arthelos
 Arthillen
@@ -179,6 +181,7 @@ Aumnydaria
 Auraith
 Aurblodyn
 Aurelianna
+Avarian
 Avarima
 Averella
 Aviendhas
@@ -269,6 +272,7 @@ Bensonspear
 Bensonstaff
 Bensonsword
 Bensonya
+Beofrith
 Beolfmann
 Beolnath
 Beoregan
@@ -521,6 +525,7 @@ Cyrildor
 Cyrissjr
 Daeeron
 Daenaswith
+Daerellorn
 Dagadaen
 Dagarvarth
 Daggonit
@@ -579,6 +584,7 @@ Derehate
 Derelviel
 Dernuireg
 derp
+Derreneth
 Derryk
 Deserose
 Deseth
@@ -743,6 +749,7 @@ Emretnuh
 Emylraeb
 Enchanting
 Enhalgar
+Enmerkar
 Enrages
 Enrica
 Eogorn
@@ -837,6 +844,7 @@ Fidiler
 Fieri
 Fighty
 Fillaset
+Filthy
 Fimarith
 Findolrond
 Finleigh
@@ -1227,6 +1235,7 @@ Ithalros
 Ithlewar
 Ithrindiel
 Itkurgat
+Itten
 Ivbair
 Ivkell
 Ixharaam
@@ -1284,6 +1293,7 @@ Kalaril
 Kalathiel
 Kalibrea
 Kalidah
+Kalig
 Kalkinzin
 Kambotoast
 Kaossilator
@@ -1653,6 +1663,7 @@ Moiraine
 Montfort
 Mooch
 Moondoor
+Morby
 Mordilaey
 Mordredh
 Mordroroth
@@ -1715,6 +1726,7 @@ Narsereg
 Narthulion
 Naslif
 Nataliie
+Nathaniel
 Nattee
 Nefte
 Negativeglow
@@ -1908,6 +1920,7 @@ Punchester
 Punchii
 Punchovilla
 Puremetal
+Qball
 Qertinya
 Qora
 Quaziloco
@@ -2074,6 +2087,7 @@ Saxmunn
 Scalanis
 Scarletti
 Scathran
+Schittstorm
 Schwoo
 Scottbraw
 Scottem
@@ -2409,6 +2423,7 @@ Tran
 Trappyflaps
 Travisbickle
 Travitz
+Traynrekh
 Trebleclef
 Treelore
 Treewraith
@@ -2461,6 +2476,7 @@ Ulnirhael
 Ulrosst
 Ulvghar
 Ulvjager
+Umberhill
 Umbrien
 Umonry
 Unavolda
@@ -2505,6 +2521,7 @@ Varkanros
 Varl
 Vashtiel
 Vathwen
+Vedder
 Vedok
 Veilo
 Vekil
@@ -2662,6 +2679,7 @@ Zumbaba
 Zuok
 Zurri
 Zydbal
+Zyelpee
 Zyfel
 Zygel
 Zyliac
