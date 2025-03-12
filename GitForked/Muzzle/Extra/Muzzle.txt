@@ -136,6 +136,7 @@ Ardandriel
 Ardiberen
 Arduthin
 Argall
+Argmond
 Arguith
 Ariawulf
 Ariezen
@@ -715,6 +716,7 @@ Eldrathain
 Elelfrocken
 Elenas
 Elesposodeella
+Elessaras
 Elfbane
 Elimr
 Elishelm
@@ -1176,6 +1178,7 @@ Iathax
 Icantplay
 Iceposeidon
 Idlo
+Idraniel
 Ienno
 Ieseult
 Iguanabaldobeef
@@ -1266,6 +1269,7 @@ Jerdo
 Jessikah
 Jewlalt
 Jezzo
+Jiimmyy
 Jimineecrackhedd
 Jivaro
 Joelynne
@@ -1863,6 +1867,7 @@ Peezywick
 Peligo
 Peluso
 Pendulous
+Penniwort
 Penypuncher
 Peppapig
 Peridota
@@ -2189,6 +2194,7 @@ Soladun
 Solveiga
 Sonechka
 Sookannadeek
+Sorli
 Spalirald
 spam
 Spannis
