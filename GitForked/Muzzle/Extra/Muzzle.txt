@@ -1,3 +1,4 @@
+-1
 Aariaa
 Abagnale
 Abilard
@@ -207,6 +208,7 @@ Baconcake
 Bacu
 Badbrad
 Baerdus
+Baerion
 Baheeby
 Bahogbilat
 Baintauriel
@@ -292,6 +294,7 @@ Beriathorn
 Berramage
 Berratul
 Berrazul
+Beshra
 bez
 Bez
 Bezerhealo
@@ -547,6 +550,7 @@ Darduipher
 Daridun
 Darkbringerr
 Darkvila
+Darlenn
 Darwarz
 Darxesvarkah
 Dasfeuer
@@ -595,6 +599,7 @@ Didalera
 Dietsprite
 Digton
 Dildum
+Dilligad
 Dinalagosseth
 Dinglebery
 Dirdacar
@@ -774,6 +779,7 @@ Erufinwe
 Eryishot
 Erythorn
 Erythron
+Escrow
 Estelli
 Estelwynn
 Estemeire
@@ -901,6 +907,7 @@ Frostdeefa
 Frostedcupcake
 Frosthilda
 Frostkarr
+Frostodda
 Frothfrith
 Frothrond
 Fubs
@@ -911,6 +918,7 @@ Furbaby
 Furcifer
 Fuzzywuzzey
 Fyrefleur
+Fyrgrin
 Fyrno
 Fyyk
 Gabrilos
@@ -1013,6 +1021,7 @@ Gordarond
 Gorefinger
 Gorimli
 Gormormur
+Gorvecil
 Gosvallen
 Gothrand
 Gotmund
@@ -1042,6 +1051,7 @@ Grimradd
 Grippa
 Grithraw
 Grumbleguth
+Grumpygill
 Grungnyr
 Grunkleiroh
 Gudhanvir
@@ -1157,6 +1167,7 @@ Horyu
 Hossenfeffer
 Houri
 Hrafdun
+Hravnhildr
 Hrosdur
 Hrothland
 Hucklebarry
@@ -1169,6 +1180,7 @@ Humroc
 Hunteringngathering
 Hunterngather
 Hurting
+Husbando
 Hyanisse
 Hyllgwenor
 Hyssjostanob
@@ -1347,6 +1359,7 @@ Khutaznat
 Khwalilahbear
 Killemdafoe
 Kilrathalon
+Kinchat
 Kingsalimosi
 Kingsnagga
 Kingvegeta
@@ -1385,6 +1398,7 @@ Lachallun
 Ladybeorn
 Ladybuug
 Laegonthir
+Lafelia
 Laganomics
 Lagtastic
 Lairelithonielle
@@ -1421,6 +1435,7 @@ Lendless
 Lengethmorn
 Leviathorn
 LF
+Lia
 Liannanor
 Lillaieth
 Lillas
@@ -1433,6 +1448,7 @@ Limelemon
 Linadoor
 Linchino
 Lindahad
+Linderion
 Lindhellith
 Lindisluna
 Lindoya
@@ -1865,6 +1881,7 @@ Peanutbuttercup
 Pebbles
 Peezywick
 Peligo
+Peltaur
 Peluso
 Pendulous
 Penniwort
@@ -2022,6 +2039,7 @@ Rockworthy
 Rodgertherabbit
 Rodrityz
 Rodvolic
+Rogercumstone
 Rohllo
 Rokcavhir
 Roknrol
@@ -2144,6 +2162,7 @@ Shockzula
 Shoke
 Shoucking
 Shrekinator
+Shrub
 Shrubb
 Shtisel
 Sibmar
@@ -2169,6 +2188,7 @@ Sirspoony
 Siswaiaman
 Sitkah
 Sitkia
+Skadi
 Skegthor
 Skerjarn
 Skerling
@@ -2559,6 +2579,7 @@ Vimilzagar
 Vinhandel
 Vinnalor
 Vionya
+Vixen
 Vizzini
 Vodkihad
 Voknur
@@ -2648,6 +2669,7 @@ Yrrigfrid
 Ysmoll
 Zaeri
 Zaerrok
+Zaira
 Zairi
 Zalanara
 Zaleia
