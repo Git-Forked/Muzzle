@@ -141,6 +141,7 @@ Arduthin
 Argall
 Argmond
 Arguith
+Arheida
 Ariawulf
 Ariezen
 Aristophane
@@ -156,6 +157,7 @@ Arthelos
 Arthillen
 Artuinna
 Artyzan
+Arvaleg
 Arvardan
 Arvithion
 Arvold
@@ -295,6 +297,7 @@ Berachah
 Beraniel
 Beravelda
 Berduinel
+Berggeir
 Bergoin
 Beriathorn
 Berramage
@@ -355,6 +358,7 @@ Brawlbo
 Brawlerpapa
 Brawlur
 Bregahil
+Bregaith
 Bregdan
 Brengun
 Briarlyn
@@ -429,6 +433,7 @@ Cathbhar
 Cathius
 Cathonriel
 Catryona
+Cavedog
 Cayleigh
 Ceckshavr
 Ceirys
@@ -543,6 +548,7 @@ Daenaswith
 Daerellorn
 Dagadaen
 Dagarvarth
+Dagdreth
 Daggonit
 Dagonei
 Dagreth
@@ -590,6 +596,7 @@ Delthirion
 Delyna
 Delyssia
 Demiors
+Denethmir
 Denirior
 Denorid
 Denothan
@@ -1381,6 +1388,7 @@ Khadijah
 Khalidune
 Khalilah
 Khalilrandir
+Khelstrom
 Khurisia
 Khurm
 Khutaznat
@@ -1440,6 +1448,7 @@ Langoliers
 Lanteldan
 Laochson
 Larfast
+Larinlas
 Larken
 Larkenarrow
 Larkenlore
@@ -1458,6 +1467,7 @@ Layriena
 Lazykeisy
 Lazywulf
 Leahanna
+Leda
 Leddicus
 Leggothir
 Legolambchops
@@ -1717,6 +1727,7 @@ Mognet
 Mogstar
 Mohobbit
 Moiraine
+Moldrid
 Montfort
 Mooch
 Moondoor
@@ -2044,6 +2055,7 @@ Retrowyn
 Reviadir
 Revofruin
 Revyx
+Reyzark
 Rhea
 Rhedwold
 Rhel
@@ -2240,6 +2252,7 @@ Skjolbeorn
 Skuldjorna
 Skyraine
 Slagg
+Slappybagz
 Slicendicealex
 Smacka
 Smaulder
@@ -2544,6 +2557,7 @@ Uhaul
 Ulandier
 Uldolorn
 Ulemdil
+Ulerandor
 Ulfarion
 Ulfheid
 Ulfryn
@@ -2571,15 +2585,18 @@ Utherra
 Vahndahl
 Vahndetta
 Vahnya
+Vahnyadur
 Vaidaran
 Vailar
 Valamira
+Valaredain
 Valderak
 Valdifar
 Valerond
 Valithia
 Valodil
 Valorgard
+Valstar
 Valthranduil
 Valzaan
 Vanbulwark
