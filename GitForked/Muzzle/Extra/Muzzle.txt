@@ -362,6 +362,7 @@ Bregaith
 Bregdan
 Brengun
 Briarlyn
+Briarthorn
 Brickdong
 Bridgitt
 Briggela
@@ -863,6 +864,7 @@ Felondion
 Felrin
 Fennthicc
 Feragsuil
+Fergelcut
 Ferlina
 Fernwise
 Ferrisrushb
@@ -994,6 +996,7 @@ Gilaglar
 Gilbrethil
 Gildalien
 Gildarion
+Gileraeth
 Gilerond
 Gillineorn
 Gillinkeep
@@ -1073,6 +1076,7 @@ Greyancient
 Grigmeister
 Grimhelde
 Grimlocked
+Grimmsbehr
 Grimowyn
 Grimradd
 Grippa
@@ -1138,6 +1142,7 @@ Hanomag
 Haoleboy
 Happiestpyro
 Harangir
+Harbad
 Hardanna
 Hardfist
 Haripotter
@@ -1221,6 +1226,7 @@ Iamq
 Iathax
 Icantplay
 Iceposeidon
+Idhaelin
 Idlo
 Idraniel
 Ienno
@@ -1233,6 +1239,7 @@ Ijsil
 Ijwen
 Ijwyn
 Iknonothink
+Ildurion
 Ilirwar
 Illeran
 Illevar
@@ -1708,6 +1715,7 @@ Militant
 Milkyshot
 Millymollymay
 Milundriel
+Minaros
 Minethos
 Minlee
 Minniscott
@@ -1878,6 +1886,7 @@ Ohnoitsthatguy
 Oimate
 Okeysa
 Okkin
+Oktobearfest
 Olarinil
 Oldmug
 Olecoot
@@ -1926,6 +1935,7 @@ Pantysniffer
 Papidonk
 Parvata
 Pasionaria
+Patmustard:
 Peachfuzy
 Peanutbuttercup
 Pebbles
@@ -1974,6 +1984,7 @@ Posthumously
 Powerfists
 Poyzonoak
 Praelas
+Premini
 Presmer
 Presmerk
 Presmew
@@ -2164,6 +2175,7 @@ Saxmunn
 Scalanis
 Scarletti
 Scathran
+Schezar
 Schittstorm
 Schwoo
 Scottbraw
@@ -2196,6 +2208,7 @@ Sevensails
 Sevoglas
 sex
 Sexyandiknowit
+Shabbadoo
 Shadori
 Shadowi
 Shadowrabbit
@@ -2272,6 +2285,7 @@ Solveiga
 Sonechka
 Sookannadeek
 Sorli
+Sounjah
 Spalirald
 spam
 Spannis
@@ -2644,6 +2658,7 @@ Villo
 Viloth
 Vilyrandir
 Vimilzagar
+Vincentor
 Vinhandel
 Vinnalor
 Vionya
