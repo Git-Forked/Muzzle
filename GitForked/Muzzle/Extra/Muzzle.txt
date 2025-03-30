@@ -200,6 +200,7 @@ Avistent
 Avjori
 Avriela
 Axegrindr
+Ayarmeniel
 Aylisa
 Aylithe
 Aythalion
@@ -443,6 +444,7 @@ Celeathe
 Celebecthel
 Celebwind
 Celedhrien
+Celegalos
 Celeglass
 Celeiriel
 Celestialheart
@@ -500,6 +502,7 @@ Coer
 Coljackoneill
 Compassionate
 Connistua
+Corathus
 Cornacre
 Corsairqueen
 Corvusignis
@@ -691,6 +694,7 @@ Dystolin
 Dzungla
 Eadevewyn
 Eadrithe
+Earencano
 Earlindk
 Earlindun
 Earodel
@@ -746,6 +750,7 @@ Elenas
 Elesposodeella
 Elessaras
 Elfbane
+Eliberry
 Elimr
 Elishelm
 Elixtoria
@@ -784,6 +789,7 @@ Enrages
 Enreekay
 Enrica
 Eogorn
+Eolan
 Eorl
 Eorlhunts
 Eorlthain
@@ -952,6 +958,7 @@ Gadhronuir
 Gaearil
 Gaelerian
 Gaerwine
+Gaibur
 Gaijindor
 Gairabor
 Gairbo
@@ -1162,6 +1169,7 @@ Havenbow
 Hazeldawn
 Hazzahs
 Healrod
+Heartened
 Hedgewald
 Heelmi
 Hefthyn
@@ -1375,6 +1383,7 @@ Kaye
 Kaylastima
 Keenanwynn
 Keerito
+Keeso
 Keilee
 Keldros
 Kelembore
@@ -1411,6 +1420,7 @@ Kirea
 Kirenegan
 Kirine
 Kissyfur
+Kithrii
 Kitrael
 Knowledgeispower
 Kobersz
@@ -1463,6 +1473,7 @@ Larkspur
 Larnilwen
 Laroluin
 Larthirwe
+Lathius
 Lathlered
 Lathrandhil
 Laueliree
@@ -1930,6 +1941,7 @@ Owaysis
 Owlbear
 Paladion
 Palliate
+Pallida
 Pandaexpress
 Pantysniffer
 Papidonk
@@ -2085,6 +2097,7 @@ Rikby
 Rildahil
 Rilgrim
 Rimnerod
+Rimverond
 Ringdagar
 Ringdeldam
 Rinwulf
