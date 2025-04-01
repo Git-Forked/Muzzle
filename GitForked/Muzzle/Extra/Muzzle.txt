@@ -7,6 +7,7 @@ Absinthium
 Aclandia
 Acornish
 Adaiel
+Adalad
 Adanadir
 Adanidir
 Adenfin
@@ -65,6 +66,7 @@ Alectrona
 Alectronia
 Alengwen
 Aleriadh
+Alfhildre
 Algim
 Alinden
 Aljeron
@@ -312,6 +314,7 @@ Bhaderik
 Bidgald
 Biffthunderfist
 Bigolmilk
+Bigpackage
 Billybobjunior
 Bilskirnir
 Birnfrith
@@ -416,6 +419,7 @@ Callethir
 Callevir
 Callirhoe
 Calonda
+Camnahl
 Campsis
 Camto
 Cangrk
@@ -577,6 +581,7 @@ Darxesvarkah
 Dasfeuer
 Dathran
 Davor
+Davvin
 Dawnrising
 Dazeydukes
 Dazni
@@ -694,6 +699,7 @@ Dystolin
 Dzungla
 Eadevewyn
 Eadrithe
+Eanson
 Earencano
 Earlindk
 Earlindun
@@ -731,6 +737,7 @@ Egsilfreda
 Eharlen
 Ehlanor
 Eichbert
+Eilianeth
 Einstonr
 Eirornir
 Eirvif
@@ -743,6 +750,7 @@ Elari
 Eldaered
 Eldauriel
 Elderia
+Eldhirian
 Eldolthryth
 Eldrathain
 Elelfrocken
@@ -889,6 +897,7 @@ Findolrond
 Findorion
 Finleigh
 Finnius
+Finnorval
 Finthoniel
 Finti
 Fionarian
@@ -1237,6 +1246,7 @@ Iceposeidon
 Idhaelin
 Idlo
 Idraniel
+Iedhros
 Ienno
 Ieseult
 Iguanabaldobeef
@@ -1335,6 +1345,7 @@ Jimineecrackhedd
 Jivaro
 Joelynne
 Johnnytookamongo
+Jolam
 Jonbones
 Jonkomir
 Jonnybgoode
@@ -1499,6 +1510,7 @@ Lia
 Liannanor
 Lillaieth
 Lillas
+Lillida
 Lillothriel
 Lillun
 Lilpapared
@@ -1703,6 +1715,7 @@ Melonii
 Meluthuilas
 Memmee
 Menachem
+Menelik
 Menglindril
 Menindiel
 Menuriel
@@ -1939,6 +1952,7 @@ Overyourhead
 Ovnya
 Owaysis
 Owlbear
+Oya
 Paladion
 Palliate
 Pallida
@@ -1965,9 +1979,11 @@ Persig
 Petting
 Phaint
 Pheme
+Phergus
 Philophone
 Philophulax
 Philothera
+Photovolt
 Phrak
 Phrometheuz
 Phtrod
@@ -2037,6 +2053,7 @@ Radymbl
 Raehven
 Raevial
 Raevyne
+Raeylina
 Rafflesian
 Rafina
 Ragdolly
@@ -2149,6 +2166,7 @@ Saarthronah
 Saashay
 Sabennchamp
 Sabriell
+Sadalian
 Sadomasochist
 Saelorean
 Saerami
@@ -2260,6 +2278,7 @@ Silphie
 Silvanath
 Silvaquendi
 Silverbree
+Simonette
 Simpinaina
 Sinead
 Sinring
@@ -2280,6 +2299,7 @@ Skyraine
 Slagg
 Slappybagz
 Slicendicealex
+Sluttro
 Smacka
 Smaulder
 Smelfo
@@ -2450,6 +2470,7 @@ Tharglafang
 Tharthollost
 Thauriul
 Theagorn
+Thechamp
 Thecrimsondirk
 Thegrandnagus
 Thelaris
@@ -2633,6 +2654,7 @@ Vani
 Vanienimue
 Vanimeere
 Vanimere
+Vanizen
 Vannoppie
 Vansamiriel
 Vantika
@@ -2680,6 +2702,7 @@ Vizzini
 Vodkihad
 Voknur
 Volbuc
+Vorandil
 Voruuk
 Vrasska
 Vruto
