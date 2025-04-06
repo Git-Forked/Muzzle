@@ -585,6 +585,7 @@ Davvin
 Dawnrising
 Dazeydukes
 Dazni
+Dazzler
 Deasy
 Death
 Deathmetalrabbit
@@ -642,6 +643,7 @@ Diyldo
 Djevaak
 Dnarthur
 Docmurder
+Doctir
 Dodorad
 Doeadeer
 Dogdude
@@ -699,6 +701,7 @@ Dystolin
 Dzungla
 Eadevewyn
 Eadrithe
+Eamyre
 Eanson
 Earencano
 Earlindk
@@ -910,6 +913,7 @@ Firemyst
 Firestarter
 Fishildur
 Flammewyn
+Flapjack
 Flitfo
 Floddotter
 Floorr
@@ -998,6 +1002,7 @@ Geezer
 Gelemald
 Gelinwar
 Geliriel
+Gelnirvor
 Gentlemangimli
 Gernobrandy
 Gerrie
@@ -2096,6 +2101,7 @@ Reviadir
 Revofruin
 Revyx
 Reyzark
+Rezmon
 Rhea
 Rhedwold
 Rhel
@@ -2459,6 +2465,7 @@ Temmiwyn
 Tenpos
 Terminsel
 Terodal
+Tesseract
 Thak
 Thalgul
 Thalian
