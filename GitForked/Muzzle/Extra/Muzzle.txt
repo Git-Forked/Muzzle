@@ -534,6 +534,7 @@ Crysnnia
 Cryspea
 Crystalanna
 Ctri
+Cuflo
 Cuftlo
 Culiaran
 Cuorin
@@ -1014,6 +1015,7 @@ Ghoti
 Gigahertz
 Giilinlerond
 Gilaglar
+Gilbrandir
 Gilbrethil
 Gildalien
 Gildarion
@@ -1654,6 +1656,7 @@ Mariath
 Maridal
 Marinip
 Marisse
+Markuz
 Marlagarth
 Marlas
 Martadan
@@ -1872,6 +1875,7 @@ Nisare
 Niskaru
 Nissarien
 Nitzz
+Njallr
 Nonemoreblack
 Nongo
 Noobamir
@@ -1892,6 +1896,7 @@ Nurahir
 Nurvollos
 Nykerym
 Oakwood
+Oashia
 Oathbreaker
 Obadeb
 Obius
@@ -2159,6 +2164,7 @@ Rucket
 Rudalla
 Rudinoth
 Rugad
+Ruinendil
 Rumelor
 Runeark
 Runkhulruk
@@ -2779,6 +2785,7 @@ Xiriella
 Xitlali
 Xoros
 Xtalker
+Xylopne
 Yaaka
 Yaniell
 Yaruzuk
