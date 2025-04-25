@@ -23,7 +23,9 @@ Adredh
 Adronas
 Aduilwyn
 Aegaine
+Aeglaeca
 Aegornil
+Aegres
 Aehiras
 Aelfbrand
 Aelfindirr
@@ -32,6 +34,7 @@ Aellor
 Aelyia
 Aenglas
 Aenorean
+Aeralmarea
 Aerweyn
 Aethardiel
 Aethelrith
@@ -66,6 +69,7 @@ Alectrona
 Alectronia
 Alengwen
 Aleriadh
+Alfhelm
 Alfhildre
 Algim
 Alinden
@@ -113,6 +117,7 @@ Annemis
 Annihilation
 Anorgalen
 Anothersong
+Antarus
 Antellion
 Antharen
 Antheron
@@ -128,6 +133,7 @@ Aquinero
 Arabruhad
 Aradaen
 Aragast
+Aralosse
 Aramairas
 Aranamar
 Aranfeleos
@@ -505,6 +511,7 @@ Cluaran
 Codyak
 Coer
 Coljackoneill
+Collatina
 Compassionate
 Connistua
 Corathus
@@ -553,7 +560,9 @@ Cylcliff
 Cyldene
 Cyrildor
 Cyrissjr
+Dacoit
 Daeeron
+Daelin
 Daenaswith
 Daerellorn
 Dagadaen
@@ -688,6 +697,7 @@ Dunnylle
 Dunsanie
 Duodo
 Durahann
+Durinhide
 Dustar
 Dvoin
 Dvorako
@@ -744,6 +754,7 @@ Ehlanor
 Eichbert
 Eilianeth
 Einstonr
+Einvigi
 Eirornir
 Eirvif
 Eividir
@@ -1060,6 +1071,7 @@ Glorofin
 Glorthendil
 Glumbtro
 Glyngil
+Goblet
 Gogarty
 Goku
 Goldiloss
@@ -1071,6 +1083,7 @@ Gonzo
 Goobersnot
 Goolius
 Gorackthebrave
+Gorcho
 Gordarond
 Gorefinger
 Gorimli
@@ -1285,11 +1298,13 @@ Immacollata
 Improvisation
 Imraldir
 Imylina
+Incarceron
 Inconstant
 Indbil
 Indiela
 Indorfin
 Indragond
+Ingilath
 Ingorif
 Inhirglin
 Inittowinit
@@ -1592,6 +1607,7 @@ Luthiell
 Lutholea
 Lyfeline
 Lynnelda
+Lyricborn
 Lyuda
 Macgimli
 Macie
@@ -1821,6 +1837,7 @@ Nadiae
 Nadira
 Nafarrad
 Nahtazu
+Nalwynn
 Nandorfore
 Nanduinuir
 Naneldel
@@ -1988,6 +2005,7 @@ Penypuncher
 Peppapig
 Peridota
 Perinos
+Perric
 Persig
 Petting
 Phaint
@@ -2124,6 +2142,7 @@ Riboka
 Ricecrispi
 Ridbeorn
 Ridderroy
+Rigourmortis
 Rikby
 Rildahil
 Rilgrim
@@ -2196,6 +2215,7 @@ Salinity
 Salliboo
 Saltyoldcurmudgeon
 Samieth
+Samlin
 Sammya
 Sampaguita
 Samwindchester
@@ -2355,6 +2375,7 @@ Squintio
 Squishyelfthing
 Srordat
 Sscoundrel
+Stafton
 Stannlas
 Starkrolf
 Starlirien
@@ -2433,6 +2454,7 @@ Taenthann
 Tafrara
 Tairii
 Takomah
+Talhawkins
 Talliel
 Talmund
 Talyanda
@@ -2565,6 +2587,7 @@ Tonymaloney
 Topoftheworld
 Toranduil
 Torarandir
+Torcal
 Torenmir
 Torja
 Tormur
@@ -2714,6 +2737,7 @@ Vincentor
 Vinhandel
 Vinnalor
 Vionya
+Vivian
 Vixen
 Vizzini
 Vodkihad
@@ -2741,6 +2765,7 @@ Watowiz
 Waxxon
 Wederski
 Weepwillow
+Wegwerfbar
 Welmund
 Wencliff
 Westmoon
@@ -2764,6 +2789,7 @@ Wolfhunters
 wow
 WoW
 WOW
+Woxxton
 Wrapping
 Wreckhelm
 Wrothras
@@ -2834,6 +2860,7 @@ zilla
 Zinaleo
 Zingiber
 Zinns
+Ziyi
 Zoana
 Zoemi
 Zojilar
