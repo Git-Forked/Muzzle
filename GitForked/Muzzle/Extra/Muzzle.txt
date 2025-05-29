@@ -55,6 +55,7 @@ Airbgone
 Airequenya
 Airku
 Aislingund
+Ajalan
 Ajmehrai
 Akairus
 Akillezee
@@ -130,6 +131,7 @@ Aolfrid
 Aphora
 Aqiqo
 Aquinero
+Araagar
 Arabruhad
 Aradaen
 Aragast
@@ -249,6 +251,7 @@ Bardagus
 Bardindal
 Barffolio
 Barfight
+Barradur
 Barsulrom
 Barthewal
 Barvind
@@ -306,6 +309,7 @@ Beornunderabadsign
 Beornyson
 Bequia
 Berachah
+Beradthir
 Beraniel
 Beravelda
 Berduinel
@@ -536,6 +540,7 @@ Creeper
 Creepygoat
 Crester
 Crimsonsplatter
+Crinchinbel
 Cringis
 Cristofforo
 Critager
@@ -581,6 +586,7 @@ Damidir
 Danaerwyn
 Danaii
 Dandorn
+Danicah
 Dankegilde
 Dankiest
 Dantimily
@@ -827,6 +833,7 @@ Ephedria
 Epherandir
 Erass
 Eredrimbel
+Erendriell
 Erhenion
 Eribrandir
 Erifin
@@ -987,6 +994,7 @@ Fyyk
 Gabrilos
 Gadhronuir
 Gaearil
+Gaeladir
 Gaelerian
 Gaerwine
 Gaibur
@@ -1009,6 +1017,7 @@ Gangcious
 Garlique
 Garneer
 Garnet
+Garryowen
 Garyowen
 Garyscalf
 Gathrin
@@ -1076,6 +1085,7 @@ Glorofin
 Glorthendil
 Glumbtro
 Glyngil
+Gnaramir
 Goblet
 Gogarty
 Goku
@@ -1115,6 +1125,7 @@ Grep
 Gresaran
 Gretel
 Greyancient
+Gribb
 Grigmeister
 Grimhelde
 Grimlocked
@@ -1123,6 +1134,7 @@ Grimowyn
 Grimradd
 Grippa
 Grithraw
+Grizzleburr
 Grumbleguth
 Grumpygill
 Grungnyr
@@ -1130,6 +1142,7 @@ Grunkleiroh
 Gudhanvir
 Guendolyn
 Gundurwarth
+Gunhilda
 Gunneros
 Gunnlodh
 Gunston
@@ -1221,6 +1234,7 @@ Herullion
 Hervit
 Hesmuwth
 Heupre
+Higthehunter
 Hihiirokana
 Himmynuetron
 Hingana
@@ -1372,6 +1386,7 @@ Jewlalt
 Jezzo
 Jiimmyy
 Jimineecrackhedd
+Jinwoo
 Jivaro
 Joelynne
 Johnnytookamongo
@@ -1423,6 +1438,7 @@ Kayas
 Kaye
 Kaylastima
 Keenanwynn
+Keenaxe
 Keerito
 Keeso
 Keilee
@@ -1476,7 +1492,10 @@ Kothog
 Kovaskahn
 Krayoneaterwe
 Krybeorn
+Krybraw
+Krygaur
 Kryhavoc
+Kryhun
 Krymari
 Krystacia
 Krystic
@@ -1497,6 +1516,7 @@ Ladybuug
 Laegonthir
 Laeriel
 Laerlin
+Laerwen
 Lafelia
 Laganomics
 Lagtastic
@@ -1612,6 +1632,7 @@ Luntauil
 Lupilia
 Luthiell
 Lutholea
+Lyekka
 Lyfeline
 Lynnelda
 Lyricborn
@@ -2065,6 +2086,7 @@ Psolarea
 Psykotick
 Puddyfoot
 Pudgi
+Pudtz
 Punchatizemecap
 Punchester
 Punchii
@@ -2339,6 +2361,7 @@ Skerling
 Skiffs
 Skjolbeorn
 Skuldjorna
+Skylene
 Skyraine
 Slagg
 Slappybagz
@@ -2463,6 +2486,7 @@ Taenthann
 Tafrara
 Tairii
 Takomah
+Talenah
 Talhawkins
 Talliel
 Talmund
@@ -2507,6 +2531,7 @@ Tenpos
 Terminsel
 Terodal
 Tesseract
+Tessni
 Thak
 Thalgul
 Thalian
@@ -2515,6 +2540,7 @@ Thannurnion
 Tharagron
 Tharelaith
 Tharglafang
+Tharlokk
 Tharthollost
 Thauriul
 Theagorn
