@@ -879,6 +879,7 @@ Faithfull
 Faithie
 Falarey
 Falarthuil
+Falladhon
 Fallon
 Falmashae
 Fandrili
@@ -1970,6 +1971,7 @@ Okeysa
 Okkin
 Oktobearfest
 Olarinil
+Oldgrampa
 Oldmug
 Olecoot
 Oliphorion
@@ -2260,6 +2262,7 @@ Sassiphras
 Sassythesasquatch
 Sathbeo
 Sathorianian
+Satsang
 Saultry
 sausage
 Sausage
@@ -2446,6 +2449,7 @@ Svanfast
 Svanlana
 Svanlaugthrith
 Svenagarth
+Svetlagund
 Swanmir
 Swiftfalcon
 Swordbilliam
