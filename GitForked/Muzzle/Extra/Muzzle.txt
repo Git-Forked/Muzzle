@@ -48,6 +48,7 @@ Ahstia
 Aicamasse
 Aicasarto
 Aidintwo
+Aijaxx
 Aillaline
 Ainwel
 Airavis
@@ -80,6 +81,7 @@ Allanya
 Allieone
 Aloriel
 Aloriendel
+Alovar
 Alphaldor
 Alrgoin
 Alvilde
@@ -160,6 +162,7 @@ Arkoudos
 Armorig
 Arrieldel
 Arrivo
+Arrowe
 Arrtcher
 Artanor
 Arthelios
@@ -183,6 +186,7 @@ Asorn
 Astabao
 Astaillyn
 Astanya
+Asterly
 Astoriawren
 Astrewyn
 Astroboy
@@ -201,6 +205,7 @@ Aumnydaria
 Auraith
 Aurblodyn
 Aurelianna
+Aurethien
 Avarian
 Avarima
 Averella
@@ -249,6 +254,7 @@ Barardir
 Barasit
 Bardagus
 Bardindal
+Baredhor
 Barffolio
 Barfight
 Barradur
@@ -365,6 +371,7 @@ Botok
 Boudicar
 Bowedup
 Bowien
+Bowkili
 Bragowulf
 Bragregbeth
 Brambleburr
@@ -384,6 +391,7 @@ Brickdong
 Bridgitt
 Briggela
 Brightmetal
+Brionna
 Brisson
 Britthild
 Broadcaster
@@ -394,6 +402,7 @@ Brograw
 Broimsosaucy
 Brolik
 Brombrawlin
+Broncko
 Brondowar
 Bronwenna
 Brordon
@@ -407,6 +416,7 @@ Bryetwulf
 Brynnwyn
 Buckafuffalo
 Bucklewheelwheel
+Bufarr
 Bunnydemon
 Buoy
 Burgbald
@@ -464,7 +474,9 @@ Celedhrien
 Celegalos
 Celeglass
 Celeiriel
+Celendine
 Celestialheart
+Celestrae
 Celquay
 Celuaglar
 Celviel
@@ -552,6 +564,7 @@ Crystalanna
 Ctri
 Cuflo
 Cuftlo
+Culborn
 Culiaran
 Cuorin
 Curlywurly
@@ -693,6 +706,7 @@ Drizdenn
 Droghan
 Drondil
 Druando
+Drusse
 Druzy
 Drydsel
 Dualblades
@@ -722,6 +736,7 @@ Dystolin
 Dzungla
 Eadevewyn
 Eadrithe
+Eaedmund
 Eamyre
 Eanson
 Earencano
@@ -1042,11 +1057,13 @@ Ghoti
 Gigahertz
 Giilinlerond
 Gilaglar
+Gilarial
 Gilbrandir
 Gilbrethil
 Gildalien
 Gildarion
 Gileraeth
+Gilerial
 Gilerond
 Gillineorn
 Gillinkeep
@@ -1131,6 +1148,7 @@ Grigmeister
 Grimhelde
 Grimlocked
 Grimmsbehr
+Grimorin
 Grimowyn
 Grimradd
 Grippa
@@ -1142,6 +1160,7 @@ Grungnyr
 Grunkleiroh
 Gudhanvir
 Guendolyn
+Guenevere
 Gundurwarth
 Gunhilda
 Gunneros
@@ -1152,6 +1171,7 @@ Gurrik
 Gurvoward
 Guster
 Gusvirlond
+Gwaethel
 Gwathildol
 Gwelia
 Gwenilweth
@@ -1307,6 +1327,7 @@ Illiahn
 Illithianos
 Illunathros
 Ilmalosse
+Iloreth
 Ilthaniel
 Iltharas
 Iluenil
@@ -1349,6 +1370,7 @@ Isthrandir
 Istimor
 Itachiel
 Ithalros
+Ithilnaure
 Ithlewar
 Ithrindiel
 Itkurgat
@@ -1456,6 +1478,7 @@ Kenawen
 Kendis
 Kendrablake
 Kerell
+Kermodei
 Kesalleoaslas
 Kevyriel
 Khadijah
@@ -1467,12 +1490,14 @@ Khurisia
 Khurm
 Khutaznat
 Khwalilahbear
+Kibilturg
 Killemdafoe
 Kilrathalon
 Kinchat
 Kingsalimosi
 Kingsnagga
 Kingvegeta
+Kinkarrath
 Kiputtyto
 Kirea
 Kirenegan
@@ -1497,6 +1522,8 @@ Krybraw
 Krygaur
 Kryhavoc
 Kryhun
+Krykey
+Krylor
 Krymari
 Krystacia
 Krystic
@@ -1563,6 +1590,7 @@ Lia
 Liannanor
 Lillaieth
 Lillas
+Lilliamae
 Lillida
 Lillothriel
 Lillun
@@ -1637,6 +1665,7 @@ Lyekka
 Lyfeline
 Lynnelda
 Lyricborn
+Lyrielle
 Lyuda
 Macgimli
 Macie
@@ -1681,6 +1710,7 @@ Malogag
 Malonga
 Malorwyn
 Malphar
+Malshaeledor
 Malsniper
 Malvark
 Malvegold
@@ -1759,6 +1789,7 @@ Mcthuselah
 Meagyth
 Medumam
 Meduzeld
+Meemsikins
 Megaevil
 Megamonch
 Meggraen
@@ -2113,6 +2144,7 @@ Radnok
 Radohael
 Radymbl
 Raehven
+Raelithi
 Raevial
 Raevyne
 Raeylina
@@ -2180,6 +2212,7 @@ Rildahil
 Rilgrim
 Rimnerod
 Rimverond
+Rinerod
 Ringdagar
 Ringdeldam
 Rinwulf
@@ -2219,6 +2252,7 @@ Rudalla
 Rudinoth
 Rugad
 Ruinendil
+Rulalenska
 Rumelor
 Runeark
 Runkhulruk
@@ -2289,6 +2323,7 @@ Scrufflesneedsashave
 Scrunkee
 Scummybear
 Scurrvy
+Seasaltie
 Seaso
 Seeww
 Seger
@@ -2431,6 +2466,7 @@ Stormibow
 Stormikin
 Stouthands
 Strawgully
+Stresso
 Strfox
 Strideher
 Strikeshadow
@@ -2510,6 +2546,7 @@ Tareldel
 Tarinor
 Tarisma
 Tarovangiann
+Tarvillin
 Tarvornion
 Taterswithgravy
 Tathorhen
@@ -2573,6 +2610,7 @@ Thorbryth
 Thordaniar
 Thorgrimar
 Thorhilwar
+Thorinbob
 Thorinmaplehammah
 Thornuidhil
 Thorriguardian
@@ -2583,6 +2621,7 @@ Thrarr
 Thrashley
 Threespoons
 Threllion
+Throldire
 Throttalin
 Thrumzin
 Thruthla
@@ -2663,6 +2702,7 @@ Tswana
 Tubbious
 Tuilindas
 Tuingol
+Tuion
 Tullien
 Tullrian
 Tuon
@@ -2676,6 +2716,7 @@ Twelveteen
 Twitterpated
 Tynhierl
 Typpo
+Tyrrunt
 Tywaz
 Ualoria
 Uandan
@@ -2741,6 +2782,7 @@ Vanzenn
 Varamphor
 Varkanros
 Varl
+Vashmir
 Vashtiel
 Vathwen
 Vedder
@@ -2764,6 +2806,7 @@ Viceversa
 Victorieas
 Vidakin
 Vidnur
+Vigmund
 Vikingur
 Vildenfiel
 Vilette
@@ -2834,6 +2877,7 @@ Wreckhelm
 Wrothras
 Wulfius
 Wulfwend
+Wulvar
 Wylma
 Wynanor
 Wynohna
@@ -2879,6 +2923,7 @@ Zairi
 Zalanara
 Zaleia
 Zalleb
+Zandragal
 Zapping
 Zardozz
 Zariaha
