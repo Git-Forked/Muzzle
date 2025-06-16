@@ -1,5 +1,5 @@
 -- Muzzle (Main.lua)
--- 1.3.0
+-- 1.4.0
 
 -- Turbine imports
 import "Turbine";
@@ -145,6 +145,33 @@ function MuzzleCommand:Execute(command, arguments)
             Set.Trade = false
             Turbine.Shell.WriteLine("Muzzle trade channel disabled.");
         end
+    elseif (arguments == "?" or "help") then
+        Turbine.Shell.WriteLine(" ");
+        Turbine.Shell.WriteLine("Muzzle Help Menu");
+        Turbine.Shell.WriteLine(" ");
+        Turbine.Shell.WriteLine("Note: Muzzle does not require the user to use any of these commands to operate. These commands are provided for advanced users.");
+        Turbine.Shell.WriteLine(" ");
+        Turbine.Shell.WriteLine("/Muzzle reload");
+        Turbine.Shell.WriteLine("Will reload the Muzzle plugin. This is useful if you have added names or keywords, since a reload is required for the new names or keywords to take effect.  This command prevents having to log your character out and back in.");
+        Turbine.Shell.WriteLine(" ");
+        Turbine.Shell.WriteLine("/Muzzle name");
+        Turbine.Shell.WriteLine("Display your player name.");
+        Turbine.Shell.WriteLine(" ");
+        Turbine.Shell.WriteLine("/Muzzle version");
+        Turbine.Shell.WriteLine("Display the version of the Muzzle plugin.");
+        Turbine.Shell.WriteLine(" ");
+        Turbine.Shell.WriteLine("/Muzzle fonts");
+        Turbine.Shell.WriteLine("Display the font colors configuration (set in Configuration.lua).");
+        Turbine.Shell.WriteLine(" ");
+        Turbine.Shell.WriteLine("/Muzzle verbose");
+        Turbine.Shell.WriteLine("Toggle to enable or disable verbose mode (for debugging your list).");
+        Turbine.Shell.WriteLine(" ");
+        Turbine.Shell.WriteLine("/Muzzle trade");
+        Turbine.Shell.WriteLine("Toggle to enable or disable filtering of the trade channel.");
+        Turbine.Shell.WriteLine(" ");
+        Turbine.Shell.WriteLine("/Muzzle ?");
+        Turbine.Shell.WriteLine("Display the Muzzle Help Menu.");
+        Turbine.Shell.WriteLine(" ");
     else
         Turbine.Shell.WriteLine("Invalid input, please try again.");
     end

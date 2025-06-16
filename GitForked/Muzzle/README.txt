@@ -78,6 +78,9 @@ Toggle to enable or disable verbose mode (for debugging your list).
 /Muzzle trade
 Toggle to enable or disable filtering of the trade channel.
 
+/Muzzle ?
+Display the Muzzle Help Menu.
+
 
 Special Thanks:
 
