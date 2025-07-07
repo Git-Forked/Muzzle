@@ -34,6 +34,7 @@ Aellor
 Aelyia
 Aenglas
 Aenorean
+Aeradeb
 Aeralmarea
 Aerweyn
 Aethardiel
@@ -171,6 +172,7 @@ Artanor
 Arthelios
 Arthelos
 Arthillen
+Arthurschopenhauer
 Artuinna
 Artyzan
 Arvaleg
@@ -296,6 +298,7 @@ Bellegas
 Bellerdan
 Bellewan
 Belligerence
+Bellothos
 Benhur
 Benjaminbackshot
 Benson
@@ -412,6 +415,7 @@ Broncko
 Brondowar
 Bronwenna
 Brordon
+Broyehill
 Brudd
 Bruenyn
 bruh
@@ -429,6 +433,7 @@ Buoy
 Burgbald
 Burgerbob
 Busfareamir
+Bustenew
 Bwalon
 Bya
 Bylanor
@@ -583,6 +588,7 @@ Curlywurly
 Curseseeker
 Curtholde
 Curumaril
+Curumith
 Curunyrr
 Cutang
 Cuvandir
@@ -617,6 +623,7 @@ Dankegilde
 Dankiest
 Dannigan
 Dantimily
+Darahir
 Darcstah
 Darduipher
 Daridun
@@ -668,6 +675,7 @@ Dernuireg
 derp
 Derreneth
 Derryk
+Deruldor
 Deserose
 Deseth
 Dhargard
@@ -735,6 +743,7 @@ Dunarcarn
 Dunnylle
 Dunsanie
 Duodo
+Durag
 Durahann
 Durinhide
 Durrfang
@@ -1114,6 +1123,7 @@ Gisela
 Giyen
 Gladdenator-1
 Gladdener
+Glewellin
 Glicious
 Glissanda
 Globalist
@@ -1164,6 +1174,7 @@ Gramhere
 Gramorin
 Granomir
 Grathdorr
+Greensleeves
 Grenados
 Grep
 Gresaran
@@ -1180,6 +1191,7 @@ Grimradd
 Grippa
 Grithraw
 Grizzleburr
+Gromnir
 Grumbleguth
 Grumpygill
 Grungnyr
@@ -1210,6 +1222,7 @@ Habstrom
 Hackers
 Hackerss
 Hacknslash
+Hadfirth
 Haidel
 Haidwyn
 Haidyn
@@ -1263,6 +1276,7 @@ Hasturr
 Havenbow
 Havomoth
 Hazeldawn
+Hazeltwig
 Hazzahs
 Healrod
 Heartened
@@ -1309,6 +1323,7 @@ Hoopyles
 Hopeslight
 Horsescat
 Horyu
+Hosmund
 Hossenfeffer
 Hourglass
 Houri
@@ -1335,6 +1350,7 @@ Iammullet
 Iamq
 Iathax
 Icantplay
+Icantremembermyname
 Iceposeidon
 Idabelle
 Idhaelin
@@ -1482,6 +1498,8 @@ Kaossilator
 Karalalla
 Karalena
 Karalinde
+Karalis
+Karameni
 Karamina
 Karathas
 Karaven
@@ -1520,6 +1538,7 @@ Kermodei
 Kesalleoaslas
 Kevyriel
 Khadijah
+Khaledor
 Khalidune
 Khalilah
 Khalilrandir
@@ -1552,6 +1571,7 @@ Koedah
 Koldjinn
 Konaran
 Koopernicus
+Kordaitra
 Korethot
 Kornpop
 Kortskegg
@@ -1734,6 +1754,7 @@ Magoneg
 Mailewen
 Maiorianvs
 Mairobhar
+Makraken
 Maladirs
 Malastel
 Malawelekaahm
@@ -1791,6 +1812,7 @@ Mathanir
 Mathraandir
 Maurifist
 Mauritain
+Maurithorn
 Maurloth
 Mavi
 Maximostly
@@ -1830,6 +1852,7 @@ Mayslash
 Maysockyou
 Maystab
 Maystore
+Maythriel
 Mayuki
 Mayura
 Mayushi
@@ -2088,6 +2111,7 @@ Orkbeard
 Orndil
 Ornelluin
 Orney
+Ornki
 Orthond
 Osklof
 Ostarah
@@ -2349,6 +2373,7 @@ Samlin
 Sammya
 Sampaguita
 Samwindchester
+Sandrine
 Sarahaphina
 Sarcastard
 Sariphena
@@ -2680,6 +2705,7 @@ Thorgrimar
 Thorhilwar
 Thorinbob
 Thorinmaplehammah
+Thormli
 Thornuidhil
 Thorriguardian
 Thorvor
@@ -2832,6 +2858,7 @@ Valamira
 Valaredain
 Valderak
 Valdhame
+Valdho
 Valdifar
 Valerond
 Valithia
@@ -2914,6 +2941,7 @@ Vylkariya
 Vys
 Vysalina
 Waatwan
+Waolder
 Warowulf
 Warrabbit
 Warrpathe
@@ -2935,6 +2963,7 @@ Weve
 Whillow
 Whippet
 Whizfizzflop
+Wholf
 Wigmund
 Wiki
 Wilarose
@@ -3050,5 +3079,7 @@ Zyfel
 Zygel
 Zyliac
 Zyrianne
+Zzeothorn
 Zziggy
 Zzotrik
+Zztonewall
