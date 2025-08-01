@@ -1,6 +1,7 @@
-03/03/23 - v1.0.0 - First release
-07/02/23 - v1.1.0 - Add command for reload
-11/10/24 - v1.2.0 - Highlight messages to your player name in world chat.
-11/13/24 - v1.2.1 - Updates to: Highlight messages to your player name in world chat.
-11/21/24 - v1.2.2 - Updates to: Highlight messages to your player name in world chat.
-02/12/25 - v1.3.0 - Add option to enable filtering of trade channel.
+03/03/2023 - v1.0.0 - First release
+07/02/2023 - v1.1.0 - Add command for reload
+11/10/2024 - v1.2.0 - Highlight messages to your player name in world chat.
+11/13/2024 - v1.2.1 - Updates to: Highlight messages to your player name in world chat.
+11/21/2024 - v1.2.2 - Updates to: Highlight messages to your player name in world chat.
+02/12/2025 - v1.3.0 - Add option to enable filtering of trade channel.
+06/16/2025 - v1.4.0 - Add help menu.
