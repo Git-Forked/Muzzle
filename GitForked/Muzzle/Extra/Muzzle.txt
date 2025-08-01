@@ -260,6 +260,7 @@ Balrendrath
 Bangleo
 Bantwen
 Baosli
+Barad
 Baradir
 Baragonn
 Barakor
@@ -401,6 +402,7 @@ Branmcmuffin
 Brawlbo
 Brawlerpapa
 Brawlur
+Bredhe
 Bregahil
 Bregaith
 Bregdan
@@ -445,6 +447,7 @@ Burgbald
 Burgerbob
 Busfareamir
 Bustenew
+Butterbelly
 Bwalon
 Bya
 Bylanor
@@ -556,6 +559,7 @@ Cloudfist
 Cloudgrave
 Cloudrock
 Cloudward
+Clovur
 Cluaran
 Codyak
 Coer
@@ -611,6 +615,7 @@ Cuz
 Cwenmoda
 Cwilla
 Cwynith
+Cyane
 Cylcliff
 Cyldene
 Cyrildor
@@ -620,6 +625,7 @@ Daeeron
 Daelin
 Daenaswith
 Daerellorn
+Daffin
 Dagadaen
 Dagarvarth
 Dagdreth
@@ -724,6 +730,7 @@ Dolring
 Domdrunk
 Domfroth
 Doobedat
+Dookahn
 Doot
 Dooth
 Dorfy
@@ -750,6 +757,7 @@ Druzy
 Drydsel
 Dualblades
 Dudeskee
+Dudesweet
 Duindalan
 Dulciana
 Dulgun
@@ -1208,6 +1216,7 @@ Grigmeister
 Grimhelde
 Grimlocked
 Grimmsbehr
+Grimomur
 Grimorin
 Grimowyn
 Grimradd
@@ -1236,6 +1245,7 @@ Gusvirlond
 Gwaethel
 Gwathildol
 Gwelia
+Gwenawyn
 Gwenilweth
 Gwentin
 Gwinne
@@ -1368,6 +1378,7 @@ Hugwenor
 Hullaras
 Humanchampion
 Humroc
+Hungluke
 Hunteringngathering
 Hunterngather
 Huphir
@@ -1376,6 +1387,7 @@ Husbando
 Hyanisse
 Hyllgwenor
 Hyssjostanob
+Iachawril
 Iammullet
 Iamq
 Iathax
@@ -1537,6 +1549,7 @@ Karamina
 Karathas
 Karaven
 Karazgar
+Kargis
 Karlovar
 Karnik
 Kartuk
@@ -1578,6 +1591,7 @@ Khalilah
 Khalilrandir
 Khazhadur
 Khelstrom
+Khento
 Khurisia
 Khurm
 Khutaznat
@@ -1627,6 +1641,8 @@ Krystic
 Kuchikukan
 Kudle
 Kunderthunt
+Kunikh
+Kuwin
 Kuzd
 Kuzukic
 Kwarei
@@ -1635,6 +1651,7 @@ Kyannah
 Kylosaldmeri
 Kylrin
 Kyndray
+Kystrel
 Lachallun
 Ladybeorn
 Ladybuug
@@ -1645,6 +1662,7 @@ Laerwen
 Lafelia
 Laganomics
 Lagtastic
+Lailarose
 Lairelithonielle
 Laithriel
 Lanferil
@@ -1660,6 +1678,7 @@ Larkspur
 Larnilwen
 Laroluin
 Larthirwe
+Lasco
 Lathius
 Lathlered
 Lathrandhil
@@ -1687,6 +1706,7 @@ Leviathorn
 LF
 Lia
 Liannanor
+Likkarl
 Lillaieth
 Lillas
 Lilliamae
@@ -1702,6 +1722,7 @@ Linchino
 Lindahad
 Linderion
 Lindhellith
+Lindhir
 Lindisluna
 Lindoya
 Linfador
@@ -1748,8 +1769,10 @@ Lorrek
 Lorrundor
 Loss
 Losse
+Lossehin
 Lossewen
 Lossriel
+Lotaruius
 Loth
 Lothun
 Lowelar
@@ -1784,6 +1807,7 @@ Maerchellung
 Maerethor
 Maethrandiel
 Maevea
+Maevollin
 Maevynn
 Maganwen
 Magdanel
@@ -1791,6 +1815,7 @@ Magolas
 Magoneg
 Mailewen
 Maiorianvs
+Mairilind
 Mairobhar
 Makraken
 Maladirs
@@ -1903,6 +1928,7 @@ Mcbill
 Mcgavan
 Mcthuselah
 Meagyth
+Meato
 Medumam
 Meduzeld
 Meemsikins
@@ -1933,6 +1959,7 @@ Merribear
 Mertensia
 Mesco
 Metalle
+Miau
 Micro
 Microbot
 Midgetmanxl
@@ -1991,6 +2018,7 @@ Morodeth
 Morshbaeph
 Morveren
 Mossorin
+Motac
 Motlo
 Mourgynne
 Mowe
@@ -2020,6 +2048,7 @@ Myuliel
 Nacham
 Nadiae
 Nadira
+Naethnyl
 Nafarrad
 Nahtazu
 Nalwynn
@@ -2062,6 +2091,7 @@ Nervimar
 Nethelion
 Neverko
 Nevirmor
+Nex
 Neynwen
 Nheggy
 Nhymrandir
@@ -2203,6 +2233,7 @@ Perric
 Persig
 Petting
 Phaint
+Phalseblock
 Pheme
 Phergus
 Philophone
@@ -2329,12 +2360,14 @@ Requiem
 Resaeriel
 Retrowyn
 Reviadir
+Revlissa
 Revofruin
 Revyx
 Reylan
 Reyzark
 Rezmon
 Rhabdos
+Rhaegorn
 Rhea
 Rhedwold
 Rhel
@@ -2479,6 +2512,7 @@ Seeww
 Seger
 Seitse
 Selarglin
+Selbinhunter
 Semsem
 Senirian
 Seoda
@@ -2501,6 +2535,7 @@ Shadowi
 Shadowrabbit
 Shadowtom
 Shaill
+Shatterbone
 Shelbe
 Shelbyy
 Shera
@@ -2641,6 +2676,7 @@ Summersweet
 Sunnydragon
 Surreal
 Sustrai
+Svalthorn
 Svanfast
 Svanlana
 Svanlaugthrith
@@ -2650,6 +2686,7 @@ Swaim
 Swanmir
 Swiftfalcon
 Swordbilliam
+Swyndel
 Sylestone
 Syllvaniel
 Sylmarwen
@@ -2798,6 +2835,7 @@ Thunderbyte
 Thyrantilde
 Tiberon
 Tidbits
+Tidlith
 Tiffanyandco
 Tiffanyfireheart
 Tigers
@@ -2807,6 +2845,7 @@ Tiltius
 Timothe
 Tinburgler
 Tindraviel
+Tinkerbaer
 Tinowyn
 Tinuver
 Tiocfaidharla
@@ -2934,6 +2973,7 @@ Valderak
 Valdhame
 Valdho
 Valdifar
+Valdmir
 Valerond
 Valithia
 Valodil
@@ -2966,6 +3006,7 @@ Varl
 Vashmir
 Vashtiel
 Vathwen
+Vatog
 Vedder
 Vedok
 Veilo
@@ -3063,6 +3104,7 @@ Wrapping
 Wreckhelm
 Wrothras
 Wulfius
+Wulfmoon
 Wulfwend
 Wulvar
 Wylma
@@ -3137,6 +3179,7 @@ Zivvie
 Ziyi
 Zoana
 Zoemi
+Zoeythefirst
 Zojilar
 Zoke
 Zoltegar
