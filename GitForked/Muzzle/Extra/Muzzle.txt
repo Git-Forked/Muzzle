@@ -157,6 +157,7 @@ Arabruhad
 Aracenar
 Aradaen
 Aragast
+Araithionn
 Aralosse
 Aramairas
 Aranamar
@@ -301,6 +302,7 @@ Bataosai
 Batrina
 Battlecaptain
 Baurog
+Baxx
 Baysur
 Bayzur
 Bbaqvea
@@ -397,6 +399,7 @@ Bliffin
 Blilbow
 Blixie
 Bliz
+Blodban
 Bloonboy
 Boddacia
 Bodilin
@@ -476,6 +479,7 @@ Burgbald
 Burgerbob
 Busfareamir
 Bustenew
+Busttwo
 Butterbelly
 Bwalon
 Bya
@@ -607,6 +611,7 @@ Connistua
 Cookinggirl
 Corathus
 Cornacre
+Cornchips
 Corsairqueen
 Corvusignis
 Corvuspiritus
@@ -984,6 +989,7 @@ Ethinjol
 Ethiwaen
 Ethlahael
 Ethoreal
+Ethreiwen
 Ethruanwen
 Ethwynn
 Everiol
@@ -1153,6 +1159,7 @@ Gakomir
 Galabrandt
 Galanthril
 Galfandor
+Gallatian
 Galleott
 Gallinir
 Gallodhreth
@@ -1563,6 +1570,7 @@ Izzybelle
 Jaarne
 Jabson
 Jackhoneysuckle
+Jackill
 Jadzi
 Jakwaggon
 Jalberto
@@ -1626,6 +1634,7 @@ Kalidah
 Kalig
 Kalkinzin
 Kambotoast
+Kandewyn
 Kandie
 Kandiwyn
 Kaossilator
@@ -1643,6 +1652,7 @@ Karlovar
 Karnik
 Kartuk
 Karwise
+Karyn
 Kashbold
 Katamari
 Katananeko
@@ -1836,6 +1846,7 @@ Littlewhitedove
 Liuin
 Livotta
 Liyanna
+Loakkie
 Lofindreth
 Logansan
 Logiee
@@ -1860,6 +1871,7 @@ Lorefreak
 Loremandy
 Lorielen
 Lorithemouse
+Lormurin
 Lorossi
 Lorrandan
 Lorrek
@@ -2348,6 +2360,14 @@ Phalseblock
 Phearme
 Pheme
 Phergus
+Phhilippines
+Philipines
+Philippiness
+Phillippineess
+Phillippines
+Phillippiness
+Phillippinneess
+Phillippinness
 Philophone
 Philophulax
 Philothera
@@ -2721,6 +2741,7 @@ Slicendicealex
 Slugbeard
 Sluttro
 Smacka
+Smaragdine
 Smaulder
 Smelfo
 Snakechampdustin
@@ -2739,6 +2760,7 @@ Soladun
 Solveiga
 Sonechka
 Sookannadeek
+Sorahan
 Sorli
 Sounjah
 Spalirald
@@ -2799,6 +2821,7 @@ Studbeefpile
 Stumpyrella
 Sturmalin
 Sturmunddrang
+Styrimadr
 Sublemonal
 Summersweet
 Sunnydragon
@@ -2849,6 +2872,7 @@ Tackler
 taco
 Taco
 TACO
+Tadooms
 Taenthann
 Tafrara
 Tairii
@@ -3077,6 +3101,7 @@ Ulfheid
 Ulfryn
 Ulfthryth
 Ullorviel
+Ulmadir
 Ulnirhael
 Ulrosst
 Ulvghar
