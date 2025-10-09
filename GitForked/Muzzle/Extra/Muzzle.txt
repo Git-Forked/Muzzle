@@ -348,6 +348,7 @@ Beofrith
 Beolfmann
 Beolnath
 Beonin
+Beorand
 Beoregan
 Beornagayn
 Beorngar
@@ -401,6 +402,7 @@ Blixie
 Bliz
 Blodban
 Bloonboy
+Blyth
 Boddacia
 Bodilin
 Bodvet
@@ -528,6 +530,7 @@ Catallyst
 Cathbhar
 Cathius
 Cathonriel
+Catlyn
 Catryona
 Cavedog
 Cayleigh
@@ -604,6 +607,7 @@ Clovur
 Cluaran
 Codyak
 Coer
+Coldbearbeer
 Coljackoneill
 Collatina
 Compassionate
@@ -698,6 +702,7 @@ Dantimily
 Daraethorn
 Darahir
 Darcstah
+Darcstar
 Darduipher
 Daridun
 Darkbringerr
@@ -783,6 +788,7 @@ Dolring
 Domdrunk
 Domfroth
 Doobedat
+Doobmate
 Dookahn
 Doot
 Dooth
@@ -840,6 +846,7 @@ Dyin
 Dystolin
 Dzungla
 Eadevewyn
+Eadignes
 Eadrithe
 Eaedmund
 Eamyre
@@ -867,6 +874,7 @@ Edging
 Edhelaren
 Edhelerdal
 Edhelethuil
+Edhelphiel
 Edomir
 Edrodruth
 Edwinadin
@@ -952,6 +960,7 @@ Enrica
 Eochain
 Eogorn
 Eolan
+Eoridh
 Eorl
 Eorlhunts
 Eorlthain
@@ -1006,6 +1015,7 @@ Faedyn
 Faefnir
 Faeogost
 Faeryfire
+Faethlengel
 Faetryx
 Faeverin
 Fairaday
@@ -1294,10 +1304,12 @@ Grenados
 Grep
 Gresaran
 Gretel
+Grevlingur
 Greyancient
 Gribb
 Griffey
 Grigmeister
+Grimara
 Grimhelde
 Grimlocked
 Grimmsbehr
@@ -1433,6 +1445,7 @@ Hiperbole
 Hirarthlas
 Hiroladh
 Hirwenn
+Hishkibob
 Hithaerdes
 Hithina
 Hlifmer
@@ -1684,6 +1697,7 @@ Kendrablake
 Kerell
 Kermodei
 Kesalleoaslas
+Ketilvolda
 Kevyriel
 Khadijah
 Khaledor
@@ -1694,6 +1708,7 @@ Khazhadur
 Kheldori
 Khelstrom
 Khento
+Khororsky
 Khurisia
 Khurm
 Khutaznat
@@ -1896,6 +1911,7 @@ Lunelleth
 Luntalbor
 Luntauil
 Lupilia
+Lustella
 Luthiell
 Lutholea
 Lyekka
@@ -1913,6 +1929,7 @@ Macyeth
 Madagast
 Madragon
 Maeldhor
+Maelforge
 Maerchellung
 Maerethor
 Maethrandiel
@@ -1924,6 +1941,7 @@ Magdanel
 Magolas
 Magoneg
 Mailewen
+Maillard
 Maiorianvs
 Mairilind
 Mairobhar
@@ -1964,6 +1982,7 @@ Mandosil
 Manodepiedra
 Manosdepiedra
 Manwithswords
+Maoiliosa
 Maquista
 Maracaibo
 Marcusrahl
@@ -2201,6 +2220,7 @@ Nellerael
 Nelsonord
 Nenaured
 Nenaurod
+Neneva
 Nephril
 Neppie
 Nerariel
@@ -2226,6 +2246,7 @@ Nimdhiran
 Nimfindor
 Nimirraj
 Nimraenoriel
+Nin
 Ninebones
 Nineteenohone
 Ninverod
@@ -2240,6 +2261,7 @@ Nongo
 Noobamir
 Noobsie
 Noobwise
+Noralynn
 Norfori
 Norlandoc
 Nornagest
@@ -2266,6 +2288,7 @@ Oddam
 Oddessia
 Odekeon
 Odorous
+Odothian
 Odyro
 Odyros
 Ofallan
@@ -2429,6 +2452,7 @@ Puremetal
 Qball
 Qertinya
 Qora
+Qreytos
 Qualmrandir
 Quaziloco
 Quibe
@@ -2673,6 +2697,7 @@ Sexyandiknowit
 Shabbadoo
 Shadori
 Shadowboltix
+Shadowhawk
 Shadowi
 Shadowrabbit
 Shadowtom
@@ -2782,6 +2807,7 @@ Spydarin
 Spyden
 Spyndl
 Squatz
+Squeakasaur
 Squintio
 Squirrelofdoom
 Squishyelfthing
@@ -3091,6 +3117,7 @@ Ualoria
 Uandan
 Uberfool
 Uhaul
+Uirebil
 Ulandier
 Uldolorn
 Ulemdil
@@ -3187,6 +3214,7 @@ Venfleur
 Vengarl
 Veridus
 Verjibeorn
+Verogazos
 Vesfar
 Vethelion
 Vetun
@@ -3195,6 +3223,7 @@ Viceversa
 Victorieas
 Vidakin
 Vidnur
+Vidusith
 Vigmund
 Vikingur
 Vildenfiel
@@ -3209,6 +3238,7 @@ Vinhandel
 Vinnalor
 Vionya
 Vipersback
+Viraninde
 Vivian
 Vixen
 Vizzini
