@@ -687,6 +687,7 @@ Daggonit
 Dagonei
 Dagreth
 Dalled
+Dallian
 Dalongar
 Damdidthathurt
 Damdifido
@@ -1326,6 +1327,7 @@ Grumbleguth
 Grumpygill
 Grungnyr
 Grunkleiroh
+Grymstone
 Gudhanvir
 Guendolyn
 Guenevere
@@ -1727,6 +1729,7 @@ Kirea
 Kirenegan
 Kirianor
 Kirine
+Kirinwyn
 Kissyfur
 Kithrii
 Kitrael
