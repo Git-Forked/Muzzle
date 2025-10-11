@@ -1,5 +1,6 @@
 -1
 Aariaa
+Aarrggo
 Abagnale
 Abilard
 Abramms
@@ -470,6 +471,7 @@ Brunnlager
 Bruzo
 Bryetwulf
 Brynnwyn
+Brytgar
 Buckafuffalo
 Bucklewheelwheel
 Buddbro
@@ -536,6 +538,7 @@ Cavedog
 Cayleigh
 Ceckshavr
 Ceirys
+Celaenas
 Celari
 Celeathe
 Celebecthel
@@ -583,6 +586,7 @@ Cieranwal
 Cildaran
 Cilwen
 Cima
+Cinamynt
 Cinnabarcinnabar
 Ciralia
 Cirelborn
@@ -651,6 +655,7 @@ Culiaran
 Culimil
 Cuorin
 Cuppacoffee
+Curaen
 Curarael
 Curlywurly
 Curomarth
@@ -823,6 +828,7 @@ Duindalan
 Dulciana
 Dulgun
 Dumbledorf
+Dumel
 Dunarcarn
 Dunnylle
 Dunsanie
@@ -885,13 +891,16 @@ Eetazz
 Eetzz
 Efbryt
 Eggalia
+Eggin
 Eggroal
 Egralin
 Egsilfreda
 Eharlen
 Ehlanor
 Eichbert
+Eidan
 Eilianeth
+Eilrandir
 Eimi
 Einstonr
 Einvigi
@@ -904,6 +913,7 @@ Eladuial
 Elairra
 Elari
 Elcie
+Elcry
 Eldaered
 Eldauriel
 Elderia
@@ -937,6 +947,7 @@ Elosyadar
 Elowambur
 Elowye
 Elqueso
+Elsamdor
 Elsavere
 Elthiram
 Eltiner
@@ -983,6 +994,7 @@ Erriikk
 Ertorias
 Erufinwe
 Eryishot
+Eryndaer
 Erythorn
 Erythron
 Escrow
@@ -1033,6 +1045,7 @@ Falthryn
 Fandrili
 Fangollind
 Fanistoragetwo
+Fanrildwen
 Faoiltiarna
 Faradayfox
 FaradayFox
@@ -1070,6 +1083,7 @@ Fighty
 Fillaset
 Filthy
 Fimarith
+Fimbalothir
 Findolrond
 Findorion
 Finleigh
@@ -1179,6 +1193,7 @@ Galmr
 Gamstarli
 Gandorael
 Gangcious
+Garavhir
 Garlique
 Garneer
 Garnet
@@ -1275,6 +1290,7 @@ Gondorzilla
 Gonzo
 Goobersnot
 Goolius
+Gopherguts
 Gorackthebrave
 Gorcho
 Gordarond
@@ -1307,6 +1323,7 @@ Gresaran
 Gretel
 Grevlingur
 Greyancient
+Greybear
 Gribb
 Griffey
 Grigmeister
@@ -1612,11 +1629,13 @@ Jessikah
 Jewlalt
 Jezzo
 Jiimmyy
+Jillay
 Jimineecrackhedd
 Jinwoo
 Jivaro
 Jizzy
 Joelynne
+John
 Johnnytookamongo
 Jolam
 Jonbones
@@ -1765,6 +1784,7 @@ Kuchikukan
 Kudle
 Kunderthunt
 Kunikh
+Kurinkor
 Kuwin
 Kuzd
 Kuzukic
@@ -1859,6 +1879,7 @@ Lisandir
 Lisseren
 Lisseth
 Literature
+Lithanar
 Lithlin
 Littlewhitedove
 Liuin
@@ -1879,6 +1900,7 @@ Lonekk
 Lonelyheart
 Longpig
 Lonk
+Lonth
 Lootfiend
 Lorderagon
 Lordevileyes
@@ -2145,6 +2167,7 @@ Moredeeb
 Moredhriel
 Morganah
 Morgenlada
+Morgylwen
 Morgynne
 Moriaen
 Moriquetta
@@ -2241,6 +2264,7 @@ Nheggy
 Nhymrandir
 Niajax
 Niamhweth
+Niben
 Nichichi
 Nidland
 Nightmare
@@ -2255,6 +2279,7 @@ Nineteenohone
 Ninverod
 Ninwenel
 Nisare
+Nishimura
 Niskaru
 Nissarien
 Nitzz
@@ -2294,9 +2319,11 @@ Odorous
 Odothian
 Odyro
 Odyros
+Oelana
 Ofallan
 Ofrelyan
 Ogdarcstar
+Oghuz
 Oglo
 Ogrimaur
 Oguard
@@ -2362,6 +2389,7 @@ Pandabaer
 Pandaexpress
 Pantysniffer
 Papidonk
+Paravane
 Parvata
 Pasionaria
 Patmustard:
@@ -2765,6 +2793,7 @@ Skylene
 Skyraine
 Slagg
 Slappybagz
+Slaya
 Slicendicealex
 Slugbeard
 Sluttro
@@ -2784,6 +2813,7 @@ Snorgur
 Snorik
 Snotgoblin
 Snowflaker
+Snugglyfoot
 Soladun
 Solveiga
 Sonechka
@@ -2791,6 +2821,7 @@ Sookannadeek
 Sorahan
 Sorli
 Sounjah
+Sovieticozor
 Spalirald
 spam
 Spamwise
@@ -2974,6 +3005,7 @@ Tharos
 Tharthollost
 Thauriul
 Theagorn
+Thebowmaster
 Thechamp
 Thecrimsondirk
 Thegrandnagus
@@ -3215,6 +3247,7 @@ Velonia
 Venatrici
 Venfleur
 Vengarl
+Verdelite
 Veridus
 Verjibeorn
 Verogazos
@@ -3303,6 +3336,7 @@ wow
 WoW
 WOW
 Woxxton
+Wraithfool
 Wrapping
 Wreckhelm
 Wrothras
@@ -3367,6 +3401,7 @@ Zariaha
 Zealouself
 Zebedeeone
 Zedoz
+Zee
 Zeffan
 Zelain
 Zellcosmetic
