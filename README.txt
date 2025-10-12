@@ -42,7 +42,7 @@ Installation:
 Required Prerequisite: Turbine Utilities
 https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html
 
-Failure have Turbine Utilities installed may give an error like:
+Failure to have Turbine Utilities installed may give an error like:
 ..f the Rings Online\Plugins\GitForked\Muzzle\Main.lua:187: attempt to index field 'UI' (a nil value)
 
 Unzip or 'Extact All' of the Muzzle*.zip into the proper plugin folder as described below.
