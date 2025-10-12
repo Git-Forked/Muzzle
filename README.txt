@@ -39,6 +39,9 @@ and tick on 'World'.
 
 Installation:
 
+Required Prerequisite: Turbine Utilities
+https://www.lotrointerface.com/downloads/info1064-TurbineUtilities.html
+
 Unzip or 'Extact All' of the Muzzle*.zip into the proper plugin folder as described below.
 
 Installation folder for Linux or Steam:
