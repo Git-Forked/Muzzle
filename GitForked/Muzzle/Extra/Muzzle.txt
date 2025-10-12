@@ -288,6 +288,7 @@ Baralinthel
 Baramlas
 Barardir
 Barasit
+Barawen
 Bardagus
 Bardindal
 Baredhor
@@ -661,6 +662,7 @@ Curlywurly
 Curomarth
 Curseseeker
 Curtholde
+Curufinwei
 Curuinthir
 Curumaril
 Curumith
@@ -783,6 +785,7 @@ Dixiesky
 Diyldo
 Djevaak
 Dnarthur
+Dobralin
 Docmurder
 Doctir
 Dodorad
@@ -847,6 +850,7 @@ Dwazagast
 Dwazagul
 Dwazanazak
 Dwaziriel
+Dwazrien
 Dwell
 Dworlyn
 Dyin
@@ -2430,6 +2434,7 @@ Phrak
 Phrometheuz
 Phtrod
 Phuzzy
+Phylanx
 Picardh
 Pickerel
 Pierate
