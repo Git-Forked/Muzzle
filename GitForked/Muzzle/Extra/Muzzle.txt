@@ -433,6 +433,7 @@ Brambleburr
 Branderen
 Brandoch
 Branmcmuffin
+Brasscajones
 Brawlbo
 Brawldog
 Brawlerpapa
@@ -640,6 +641,7 @@ Crester
 Crimsonsplatter
 Crinchinbel
 Cringis
+Cripplebit
 Cristofforo
 Critager
 Crownless
@@ -808,6 +810,7 @@ Doswer
 Doubledat
 Draelinn
 Dragonmynuz
+Dramione
 Dranthor
 Draugi
 Dravar
@@ -924,6 +927,7 @@ Elderia
 Eldhirian
 Eldolthryth
 Eldrathain
+Eldreon
 Elelfrocken
 Elenas
 Elentalir
@@ -967,6 +971,7 @@ Emmerreth
 Emretnuh
 Emylraeb
 Enchanting
+Enelo
 Enerfin
 Enhalgar
 Enmerkar
@@ -1333,6 +1338,7 @@ Griffey
 Grigmeister
 Grimara
 Grimhelde
+Grimhilt
 Grimlocked
 Grimmsbehr
 Grimomur
@@ -1671,6 +1677,7 @@ Kalibrea
 Kalidah
 Kalig
 Kalkinzin
+Kalliopia
 Kambotoast
 Kandewyn
 Kandie
@@ -2026,6 +2033,7 @@ Marinip
 Marisil
 Marisse
 Markuz
+Marladora
 Marlagarth
 Marlas
 Martadan
@@ -3083,6 +3091,7 @@ Titianna
 Tlana
 Tlar
 Tobidor
+Tobius
 Tochihimo
 Toe
 Toecap
