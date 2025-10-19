@@ -279,6 +279,7 @@ Balephorion
 Balkund
 Balleryon
 Balrendrath
+Balwin
 Bandokrunch
 Bangleo
 Bantwen
@@ -424,6 +425,7 @@ Borarin
 Borarir
 Bordale
 Bornibrand
+Borolin
 Bossmoss
 Bothundbur
 Botok
@@ -507,6 +509,7 @@ Caelynne
 Cairwen
 Caladess
 Calamegil
+Calanta
 Calencam
 Calendulla
 Californiabestbear
@@ -576,6 +579,7 @@ Chalric
 Chantall
 Chantelle
 Chaosspark
+Chaoticstorm
 Chapolim
 Chaucerr
 Chazina
@@ -635,6 +639,7 @@ Corvusterrae
 Coventinah
 Craadro
 Crabwarth
+Crassa
 Crazy
 Crazyhorrse
 Crazypuncher
@@ -855,12 +860,16 @@ Dutybound
 Dvoin
 Dvorako
 Dwarrofil
+Dwaz
 Dwazabella
 Dwazagast
 Dwazagul
 Dwazanazak
+Dwazawrath
+Dwazifur
 Dwaziriel
 Dwazrien
+Dwazwyn
 Dwell
 Dworlyn
 Dyin
@@ -874,6 +883,7 @@ Eamyre
 Eanson
 Earencano
 Earendril
+Eareth
 Earlindk
 Earlindun
 Earodel
@@ -967,6 +977,7 @@ Elsamdor
 Elsavere
 Elthiram
 Eltiner
+Eltypelt
 Elunis
 Elvalia
 Elvenraen
@@ -1019,6 +1030,7 @@ Estelli
 Estelwynn
 Estemeire
 Estherial
+Esting
 Etheariall
 Ethelmath
 Etheranie
@@ -1106,6 +1118,7 @@ Findorion
 Finleigh
 Finnius
 Finnorval
+Finthalas
 Finthoniel
 Finti
 Fionarian
@@ -1342,6 +1355,7 @@ Grevlingur
 Greyancient
 Greybear
 Gribb
+Grietje
 Griffey
 Grigmeister
 Grimara
@@ -1383,6 +1397,7 @@ Gwelia
 Gwenawyn
 Gwenilweth
 Gwentin
+Gwhenevyr
 Gwinchaldis
 Gwinne
 Gwynblaed
@@ -1848,6 +1863,7 @@ Lasco
 Lathius
 Lathlered
 Lathrandhil
+Lathrom
 Laueliree
 Laureleth
 Laurelinarien
@@ -2791,6 +2807,7 @@ Sigmodi
 Sigrid
 Sigskogi
 Sildag
+Sillier
 Silnia
 Silphie
 Silvanath
@@ -2814,6 +2831,7 @@ Skerjarn
 Skerling
 Skiffs
 Skjolbeorn
+Skordulfson
 Skuldjorna
 Skylene
 Skyraine
@@ -3035,6 +3053,7 @@ Theagorn
 Thebowmaster
 Thechamp
 Thecrimsondirk
+Theedooms
 Thegrandnagus
 Thelaris
 Thelhild
