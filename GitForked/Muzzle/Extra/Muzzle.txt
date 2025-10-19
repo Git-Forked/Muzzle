@@ -61,7 +61,9 @@ Ainwel
 Airavis
 Airbgone
 Airequenya
+Airi
 Airku
+Airyon
 Aislingund
 Aistrid
 Ajalan
@@ -268,6 +270,7 @@ Badbrad
 Baerdus
 Baerion
 Baffin
+Bagadonuts
 Baheeby
 Bahogbilat
 Baintauriel
@@ -475,6 +478,7 @@ Bruzo
 Bryetwulf
 Brynnwyn
 Brytgar
+Brythriel
 Buckafuffalo
 Bucklewheelwheel
 Buddbro
@@ -1372,6 +1376,7 @@ Gurrik
 Gurvoward
 Guster
 Gusvirlond
+Gutgar
 Gwaethel
 Gwathildol
 Gwelia
@@ -1765,6 +1770,7 @@ Kirenegan
 Kirianor
 Kirine
 Kirinwyn
+Kirisania
 Kissyfur
 Kithrii
 Kitrael
@@ -2110,6 +2116,7 @@ Meggraen
 Mehrunissa
 Meisie
 Mel
+Melinessa
 Melithas
 Mellidhroth
 Mellzia
@@ -2286,6 +2293,7 @@ Nichichi
 Nidland
 Nightmare
 Nilthrandir
+Nimbo
 Nimdhiran
 Nimfindor
 Nimirraj
@@ -2976,6 +2984,7 @@ Tareldel
 Tarinor
 Tarisma
 Tarovangiann
+Tartlet
 Tarvillin
 Tarvornion
 Taterswithgravy
@@ -3170,6 +3179,7 @@ Tywaz
 Ualoria
 Uandan
 Uberfool
+Ugoun
 Uhaul
 Uirebil
 Ulandier
