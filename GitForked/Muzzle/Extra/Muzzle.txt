@@ -45,6 +45,7 @@ Aethelbald
 Aethelrith
 Aetherealarms
 Aew
+Afon
 Afrathelion
 Agerk
 Aglabmenu
@@ -248,6 +249,7 @@ Avistennt
 Avistent
 Avjori
 Avriela
+Awtoswabbie
 Axegrindr
 Ayarmeniel
 Aylisa
@@ -470,6 +472,7 @@ Broncko
 Brondowar
 Bronwenna
 Brordon
+Broromir
 Broyehill
 Brudd
 Bruenyn
@@ -632,6 +635,7 @@ Cookinggirl
 Corathus
 Cornacre
 Cornchips
+Corrugated
 Corsairqueen
 Corvusignis
 Corvuspiritus
@@ -700,12 +704,14 @@ Daeeron
 Daelin
 Daenaswith
 Daerellorn
+Daethirel
 Daffin
 Dagadaen
 Dagarvarth
 Dagdreth
 Daggonit
 Dagonei
+Dagothlos
 Dagreth
 Dalled
 Dallian
@@ -825,6 +831,7 @@ Dragonmynuz
 Dramione
 Dranthor
 Draugi
+Drauglach
 Dravar
 Draveanor
 Dredredredredredor
@@ -967,6 +974,7 @@ Ellidas
 Ellieraen
 Ellisary
 Elmindredai
+Elomaril
 Elorandwe
 Eloreah
 Elosyadar
@@ -1078,6 +1086,7 @@ Fanrildwen
 Faoiltiarna
 Faradayfox
 FaradayFox
+Faradolph
 Faramart
 Faranduil
 Farecbor
@@ -1203,6 +1212,7 @@ Gaearil
 Gaeladir
 Gaelerian
 Gaelmegil
+Gaerieleth
 Gaerwine
 Gagar
 Gaibur
@@ -1292,6 +1302,7 @@ Glewellin
 Glicious
 Glissanda
 Globalist
+Globuk
 Glodd
 Gloradian
 Glorfaerion
@@ -1346,6 +1357,7 @@ Gramhere
 Gramorin
 Granomir
 Grathdorr
+Graudin
 Greensleeves
 Grenados
 Grep
@@ -1548,6 +1560,7 @@ Iamq
 Iathax
 Icantplay
 Icantremembermyname
+Icepick
 Iceposeidon
 Idabelle
 Idhaelin
@@ -1653,6 +1666,7 @@ Jasperroot
 Jasperweed
 Jaxandil
 Jaymie
+Jbirdraen
 Jebaited
 Jedirod
 Jeilor
@@ -1738,6 +1752,7 @@ Keerito
 Keeso
 Keilee
 Keldros
+Kelela
 Kelembore
 Kellia
 Kellinore
@@ -1840,6 +1855,7 @@ Laegonthir
 Laeriel
 Laerlin
 Laerwen
+Lafawnduh
 Lafelia
 Laganomics
 Lagtastic
@@ -1865,6 +1881,7 @@ Lathlered
 Lathrandhil
 Lathrom
 Laueliree
+Lauradir
 Laureleth
 Laurelinarien
 Lavindaria
@@ -1894,6 +1911,7 @@ Lillaieth
 Lillas
 Lilliamae
 Lillida
+Lillira
 Lillothriel
 Lillun
 Lilpapared
@@ -2172,6 +2190,7 @@ Milundriel
 Minaros
 Minestrone
 Minethos
+Minlaith
 Minlee
 Minniscott
 Minthanor
@@ -2400,6 +2419,7 @@ Orangeduke
 Oraphor
 Orbajyn
 Ordinaryfool
+Ordsmidr
 Orendir
 Orenwen
 Organdin
@@ -2423,6 +2443,7 @@ Owlbear
 Oya
 Padmi
 Pahx
+Palabrana
 Paladion
 Palliate
 Pallida
@@ -2545,6 +2566,7 @@ Radohael
 Radymbl
 Raehven
 Raelithi
+Raemond
 Raendal
 Raevial
 Raevyne
@@ -2844,6 +2866,7 @@ Sluttro
 Smacka
 Smaragdine
 Smaulder
+Smeagut
 Smelfo
 Snakechampdustin
 Snakine
@@ -2921,6 +2944,7 @@ Strideher
 Strikeshadow
 Strippahman
 Strothalion
+Stuart
 Studbeefpile
 Stumpyrella
 Sturmalin
@@ -3303,6 +3327,7 @@ Vesfar
 Vethelion
 Vetun
 Vexxis
+Veyond
 Viceversa
 Victorieas
 Vidakin
