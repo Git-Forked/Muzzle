@@ -301,6 +301,7 @@ Bardindal
 Baredhor
 Barffolio
 Barfight
+Bargrym
 Barradur
 Barramir
 Barsulrom
@@ -674,6 +675,8 @@ Culborn
 Culiaran
 Culimil
 Cuorin
+Cup
+Cupbeorn
 Cuppacoffee
 Curaen
 Curarael
@@ -1793,6 +1796,7 @@ Kibilturg
 Kilemkwiker
 Killemdafoe
 Kilrathalon
+Kiltkenny
 Kinchat
 Kingsalimosi
 Kingsnagga
@@ -2461,6 +2465,7 @@ Paravane
 Parvata
 Pasionaria
 Patmustard:
+Patronus
 Peachfuzy
 Peanutbuttercup
 Pebbles
