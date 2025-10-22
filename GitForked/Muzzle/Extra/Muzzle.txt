@@ -602,6 +602,7 @@ Cildaran
 Cilwen
 Cima
 Cinamynt
+Cinlind
 Cinnabarcinnabar
 Ciralia
 Cirelborn
@@ -659,6 +660,7 @@ Cringis
 Cripplebit
 Cristofforo
 Critager
+Crithion
 Crownless
 Crypter
 Crysnnia
@@ -754,6 +756,7 @@ Decoy
 Dedocta
 Dedraf
 Deepfoot
+Deerpellet
 Deetanker
 Deffen
 Degoldol
@@ -1371,6 +1374,7 @@ Grietje
 Griffey
 Grigmeister
 Grimara
+Grimgotts
 Grimhelde
 Grimhilt
 Grimlocked
@@ -1852,6 +1856,7 @@ Lachallun
 Ladybeorn
 Ladybuug
 Laegonthir
+Laerdis
 Laeriel
 Laerlin
 Laerwen
@@ -2173,6 +2178,7 @@ Merothin
 Merribear
 Mertensia
 Mesco
+Mestongmekill
 Metalle
 Miau
 Micro
@@ -2959,6 +2965,7 @@ Svalthorn
 Svanfast
 Svanlana
 Svanlaugthrith
+Svartalfhiem
 Svenagarth
 Svetlagund
 Swaim
@@ -3064,6 +3071,7 @@ Thalian
 Thallastin
 Thandeg
 Thannurnion
+Thanohuor
 Thanos
 Tharagron
 Tharelaith
@@ -3275,6 +3283,7 @@ Valdmir
 Valdwulf
 Valerond
 Valithia
+Vallenor
 Valodil
 Valorgard
 Valstar
@@ -3410,6 +3419,7 @@ WoW
 WOW
 Woxxton
 Wraithfool
+Wraithshot
 Wrapping
 Wreckhelm
 Wrothras
