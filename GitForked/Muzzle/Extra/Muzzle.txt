@@ -165,6 +165,7 @@ Aracenar
 Aradaen
 Aragast
 Araithionn
+Aralen
 Aralosse
 Aramairas
 Aranamar
@@ -272,6 +273,7 @@ Baconcake
 Bacu
 Badari
 Badbrad
+Badgerr
 Baerdus
 Baerion
 Baffin
@@ -389,6 +391,7 @@ Bez
 Bezer
 Bezerhealo
 Bhaderik
+Bhalxerog
 Bidgald
 Bierht
 Biffthunderfist
@@ -439,6 +442,7 @@ Boudicar
 Bowedup
 Bowien
 Bowkili
+Bradwin
 Bragowulf
 Bragregbeth
 Brambleburr
@@ -531,6 +535,7 @@ Camto
 Canduwen
 Cangrk
 Cannalilly
+Cannawhoopazz
 Cantheriel
 Capanivara
 Captainsparrow
@@ -546,6 +551,7 @@ Carvorn
 Cataclysmal
 Catallaxy
 Catallyst
+Catchy
 Cathbhar
 Cathius
 Cathonriel
@@ -687,6 +693,8 @@ Curlywurly
 Curomarth
 Curseseeker
 Curtholde
+Curu
+Curudalion
 Curufinwei
 Curuinthir
 Curumaril
@@ -707,6 +715,7 @@ Cyldene
 Cyndille
 Cyrildor
 Cyrissjr
+Daaizee
 Dacoit
 Daeeron
 Daelin
@@ -727,12 +736,14 @@ Dalongar
 Damdidthathurt
 Damdifido
 Damidir
+Damieon
 Danaerwyn
 Danaii
 Dandorn
 Danicah
 Dankegilde
 Dankiest
+Dannali
 Dannigan
 Dantimily
 Daraethorn
@@ -803,6 +814,7 @@ Dildum
 Dilligad
 Dinalagosseth
 Dinglebery
+Dinnaedie
 Dirdacar
 Dirduirun
 Direclaw
@@ -828,6 +840,7 @@ Domfroth
 Doobedat
 Doobmate
 Dookahn
+Dooms
 Doot
 Dooth
 Dorfy
@@ -970,6 +983,7 @@ Elesposodeella
 Elessaras
 Elfarro
 Elfbane
+Eliani
 Eliberry
 Elimr
 Elishelm
@@ -979,6 +993,7 @@ Elkwing
 Elladreia
 Ellanhard
 Ellanriel
+Ellessiel
 Ellidas
 Ellieraen
 Ellisary
@@ -1015,6 +1030,7 @@ Enrages
 Enreekay
 Enrica
 Eochain
+Eofgyth
 Eogorn
 Eolan
 Eoridh
@@ -1058,9 +1074,11 @@ Ethiwaen
 Ethlahael
 Ethoreal
 Ethreiwen
+Ethrellaf
 Ethruanwen
 Ethwynn
 Everiol
+Everita
 Everkev
 Everlin
 Evolkos
@@ -1086,6 +1104,7 @@ Falarey
 Falarthuil
 Falladhon
 Fallon
+Fallstaf
 Falmashae
 Falthryn
 Fandrili
@@ -1133,6 +1152,7 @@ Fimarith
 Fimbalothir
 Findolrond
 Findorion
+Fingarwe
 Finleigh
 Finnius
 Finnorval
@@ -1152,6 +1172,7 @@ Fistpower
 Flamelord
 Flammewyn
 Flapjack
+Flaski
 Flav
 Flaxie
 Flitfo
@@ -1256,11 +1277,13 @@ Gaulsten
 Gdayymate
 Geezer
 Gehnanor
+Gelehad
 Gelemald
 Gelinwar
 Geliriel
 Gelnirvor
 Gentlemangimli
+Gereondir
 Gernobrandy
 Gerrie
 Gerthiel
@@ -1303,6 +1326,7 @@ Gilvorthos
 Gimlael
 Gisbournne
 Gisela
+Gitsandshiggles
 Giyen
 Gladdenator-1
 Gladdener
@@ -1313,6 +1337,7 @@ Glissanda
 Globalist
 Globuk
 Glodd
+Gloomofnurn
 Gloradian
 Glorfaerion
 Glorfinmart
@@ -1398,8 +1423,10 @@ Grumbleguth
 Grumpygill
 Grungnyr
 Grunkleiroh
+Grymbald
 Grymstone
 Gudhanvir
+Gudmundor
 Guendolyn
 Guenevere
 Gundurwarth
@@ -1413,6 +1440,7 @@ Gurvoward
 Guster
 Gusvirlond
 Gutgar
+Gwaelethiel
 Gwaethel
 Gwathildol
 Gwelia
@@ -1431,6 +1459,7 @@ Hackerss
 Hacknslash
 Hadfirth
 Hadmund
+Hadwigis
 Haidel
 Haidwyn
 Haidyn
@@ -1534,6 +1563,7 @@ Holmun
 Holobart
 Holruna
 Holso
+Holymackerel
 Hondoo
 Hoopyles
 Hopeslight
@@ -1607,12 +1637,14 @@ Ilyamenielot
 Imdooms
 Imdris
 Immacollata
+Imnotlifto
 Improvisation
 Imraldir
 Imylina
 Incarceron
 Inconstant
 Indbil
+Indicah
 Indiela
 Indorfin
 Indragond
@@ -1679,6 +1711,7 @@ Jaymie
 Jbirdraen
 Jebaited
 Jedirod
+Jehaira
 Jeilor
 Jellyjiggler
 Jennariel
@@ -1809,6 +1842,7 @@ Kiputtyto
 Kirea
 Kirenegan
 Kirianor
+Kirieth
 Kirine
 Kirinwyn
 Kirisania
@@ -1966,6 +2000,7 @@ Lollygag
 Lonatharil
 Lonekk
 Lonelyheart
+Longlag
 Longpig
 Lonk
 Lonth
@@ -2206,6 +2241,7 @@ Minethos
 Minlaith
 Minlee
 Minniscott
+Minsk
 Minthanor
 Minuet
 Minustri
@@ -2228,6 +2264,7 @@ Moiraine
 Moldrid
 Montfort
 Mooch
+Moochy
 Moondoor
 Moosenugget
 Moralin
@@ -2270,6 +2307,7 @@ Mycouchpullsoutidont
 Mydric
 Myearsarepointy
 Myffanway
+Mykael
 Myntheanu
 Myphanneweigh
 Myrddinus
@@ -2286,6 +2324,7 @@ Naelita
 Naethnyl
 Nafarrad
 Nahtazu
+Nakleyka
 Nalwynn
 Nan
 Nandorfore
@@ -2454,6 +2493,7 @@ Ovnya
 Owaysis
 Owlbear
 Oya
+Ozimandius
 Padmi
 Pahx
 Palabrana
@@ -2557,6 +2597,7 @@ Punchii
 Punchovilla
 Puppo
 Puremetal
+Purrplecat
 Qball
 Qertinya
 Qora
@@ -2597,6 +2638,7 @@ Rambler
 Ranabor
 Randvaldr
 Ranken
+Raoding
 Raptic
 Rapunchel
 Rasferil
@@ -2647,12 +2689,14 @@ Rheniogil
 Rhenostor
 Rhianan
 Rhomex
+Rhosiel
 Rhovwyn
 Rhubraig
 Rhuwin
 Rhyader
 Rhyaena
 Rhyya
+Riayl
 Riboka
 Ricecrispi
 Ridbeorn
@@ -2678,6 +2722,7 @@ Robezhood
 Robrebeorn
 Robuilon
 Robynmyhood
+Rochenout
 Rockmans
 Rockmogstar
 Rockworthy
@@ -2692,6 +2737,7 @@ Rokurr
 Romawende
 Ronalo
 Rooklar
+Roonilwazlib
 Rootor
 Rormurori
 Roseilid
@@ -2927,6 +2973,7 @@ Spyndl
 Squatz
 Squeakasaur
 Squintio
+Squirel
 Squirrelofdoom
 Squishyelfthing
 Srordat
@@ -3066,6 +3113,7 @@ Teethclawfur
 Teezle
 Tefh
 Tegilborneth
+Telelryn
 Telgaril
 Telken
 Temiwyn
