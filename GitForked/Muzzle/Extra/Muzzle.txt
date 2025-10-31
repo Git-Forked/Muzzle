@@ -118,6 +118,7 @@ Amarathine
 Amared
 Amatarr
 Amazing
+Ambourn
 Ametheil
 Amethysl
 Amhallion
@@ -656,6 +657,7 @@ Cornchips
 Corrugated
 Corsairqueen
 Corvusignis
+Corvusmoon
 Corvuspiritus
 Corvusterrae
 Coventinah
@@ -1138,6 +1140,7 @@ Feahyandamariner
 Feahyndanor
 Fearimlorn
 Feitanportor
+Felingir
 Felondion
 Felrin
 Fennthicc
@@ -1540,6 +1543,7 @@ Helgrenze
 Heliflower
 Hellgrimm
 Hellinore
+Helowgo
 Hendi
 Herbotic
 Hermand
@@ -1726,6 +1730,7 @@ Jennariel
 Jeorric
 Jerdo
 Jessikah
+Jethropokes
 Jewlalt
 Jezzo
 Jiimmyy
@@ -2413,6 +2418,7 @@ Noobsie
 Noobwise
 Noralynn
 Norfori
+Norilos
 Norlandoc
 Nornagest
 Northarin
@@ -3108,6 +3114,7 @@ Tarvornion
 Taterswithgravy
 Tathorhen
 Tatines
+Taumaril
 Taurtaren
 Taurusalin
 Taurusblack
@@ -3223,6 +3230,7 @@ Tirindal
 Tirongol
 Tirthirin
 Tirwyn
+Tiryenion
 Titianna
 Tlana
 Tlar
@@ -3346,6 +3354,7 @@ Vailar
 Valamira
 Valaredain
 Valaros
+Valdalote
 Valderak
 Valdhame
 Valdho
@@ -3428,6 +3437,7 @@ Vinnalor
 Vionya
 Vipersback
 Viraninde
+Viryalote
 Vivian
 Vixen
 Vizzini
