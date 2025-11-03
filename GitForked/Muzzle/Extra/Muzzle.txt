@@ -1464,6 +1464,7 @@ Gwaethel
 Gwathildol
 Gwelia
 Gwenawyn
+Gwendell
 Gwenilweth
 Gwentin
 Gwhenevyr
@@ -1548,6 +1549,7 @@ Hedgewald
 Heelmi
 Hefthyn
 Heftwirl
+Heimrih
 Helamabut
 Helgrenze
 Heliflower
@@ -1715,6 +1717,7 @@ Jaarne
 Jabson
 Jackhoneysuckle
 Jackill
+Jackzz
 Jadzi
 Jakwaggon
 Jalberto
@@ -2404,6 +2407,7 @@ Niamhweth
 Niben
 Nichichi
 Nidland
+Niendil
 Nightmare
 Nilthrandir
 Nimbo
@@ -3193,6 +3197,7 @@ Thidfinn
 Thinachar
 Thistlebuckle
 Thistledoon
+Thnamllss
 Thobrin
 Thodvalgeir
 Thondale
