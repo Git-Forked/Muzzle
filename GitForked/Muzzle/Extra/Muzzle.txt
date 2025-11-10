@@ -116,6 +116,7 @@ Amaleia
 Amaleri
 Amandak
 Amarathine
+Amarchon
 Amared
 Amatarr
 Amazing
@@ -233,6 +234,7 @@ Asterly
 Astoriawren
 Astrewyn
 Astroboy
+Asturd
 Aswifeth
 Ataniatur
 Athanion
@@ -269,6 +271,7 @@ Azanul
 Azdalen
 Azruthor
 Azureflower
+Babrsonn
 Babyoilbottles
 Baccara
 Bacen
@@ -309,6 +312,7 @@ Barasit
 Barawen
 Bardagus
 Bardindal
+Bare
 Baredhor
 Barffolio
 Barfight
@@ -433,6 +437,7 @@ Bodvet
 Boebeau
 Bogomel
 boi
+Boldgar
 Boltlobber
 Bombastic
 Bonappetit
@@ -1811,6 +1816,7 @@ Katamari
 Katananeko
 Katarinah
 Katiey
+Katniis
 Katnoir
 Kayas
 Kaye
@@ -2157,6 +2163,7 @@ Markuz
 Marladora
 Marlagarth
 Marlas
+Marmaree
 Martadan
 Martingale
 Marwhini
@@ -2274,6 +2281,7 @@ Minsk
 Minthanor
 Minuet
 Minustri
+Mirabowda
 Mirdanneth
 Mirdirneth
 Mirelhach
@@ -2366,6 +2374,7 @@ Naradoc
 Narangren
 Naranthor
 Narinna
+Narion
 Narnuidhan
 Narolador
 Narrwen
@@ -2416,6 +2425,7 @@ Nimfindor
 Nimirraj
 Nimraenoriel
 Nin
+Ninathered
 Ninebones
 Nineteenohone
 Ninverod
@@ -2566,6 +2576,7 @@ Phergus
 Phhilippines
 Philipines
 Philippiness
+Philliphighelf
 Phillippineess
 Phillippines
 Phillippiness
@@ -2599,6 +2610,7 @@ Podzila
 Podzzilla
 Poffer
 Pohnto
+Pointsq
 Polliannika
 Polycarp
 Polynya
@@ -2675,7 +2687,9 @@ Raoding
 Raptic
 Rapunchel
 Rara
+Rasbalion
 Rasferil
+Raspberryellaywn
 Rathrandir
 Raudhagen
 Ravangel
@@ -3312,6 +3326,7 @@ Tuingol
 Tuion
 Tullien
 Tullrian
+Tulmogla
 Tuon
 Tuoz
 Tuppo
