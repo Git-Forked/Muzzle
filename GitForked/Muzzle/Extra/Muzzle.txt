@@ -555,6 +555,7 @@ Capanivara
 Captainsparrow
 Captcookie
 Captjameshook
+Cara
 Carianor
 Carliesse
 Carnaval
@@ -698,6 +699,7 @@ Cuebert
 Cuflo
 Cuftlo
 Culborn
+Culerien
 Culiaran
 Culimil
 Cuorin
@@ -706,6 +708,7 @@ Cupbeorn
 Cuppacoffee
 Curaen
 Curarael
+Curelingol
 Curlywurly
 Curomarth
 Curseseeker
@@ -876,6 +879,7 @@ Draugi
 Drauglach
 Dravar
 Draveanor
+Draya
 Dredredredredredor
 Dresdens
 Drexicar
@@ -2092,6 +2096,7 @@ Madagast
 Madragon
 Maeldhor
 Maelforge
+Maellos
 Maerchellung
 Maerethor
 Maerwynn
@@ -2233,6 +2238,7 @@ Meggraen
 Mehrunissa
 Meisie
 Mel
+Melificent
 Melinessa
 Melithas
 Mellidhroth
@@ -3116,6 +3122,7 @@ TACO
 Tadooms
 Taenthann
 Tafrara
+Taidarim
 Tairii
 Takomah
 Talenah
@@ -3640,6 +3647,7 @@ Zygel
 Zyliac
 Zynn
 Zyrianne
+Zzemily
 Zzeothorn
 Zziggy
 Zzotrik
