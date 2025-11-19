@@ -691,6 +691,7 @@ Cristofforo
 Critager
 Crithion
 Crownless
+Cruegaru
 Crypter
 Crysnnia
 Cryspea
@@ -1172,6 +1173,7 @@ Festeon
 Festivius
 Fhorest
 Fhyrias
+Fiacloir
 Fidiler
 Fieri
 Fighty
@@ -1276,6 +1278,7 @@ Gaerwine
 Gagar
 Gaibur
 Gaijindor
+Gailthir
 Gairabor
 Gairbo
 Gaisras
@@ -1644,6 +1647,7 @@ Idraniel
 Iedhros
 Ienno
 Ieseult
+Ignoramous
 ignore
 Iguanabaldobeef
 Iic
@@ -2101,7 +2105,9 @@ Maelforge
 Maellos
 Maerchellung
 Maerethor
+Maerien
 Maerwynn
+Maethorgil
 Maethrandiel
 Maevea
 Maevollin
@@ -2299,6 +2305,7 @@ Mirindis
 Mirionnel
 Mistalosse
 Mithasthir
+Mithavor
 Mithotyn
 Mithreindeer
 Miyeon
@@ -2313,6 +2320,7 @@ Mooch
 Moochy
 Moondoor
 Moosenugget
+Morageth
 Moralin
 Morby
 Mordilaey
@@ -2359,6 +2367,7 @@ Myphanneweigh
 Myrddinus
 Myrwarda
 Mysterous
+Mysthi
 Mystiqal
 Mythek
 Mythrilion
@@ -2432,6 +2441,7 @@ Nimbo
 Nimdhiran
 Nimfindor
 Nimirraj
+Nimmiel
 Nimraenoriel
 Nin
 Ninathered
@@ -2690,6 +2700,7 @@ Rakshathul
 Ralros
 Rambler
 Ranabor
+Randarfin
 Randvaldr
 Ranken
 Raoding
@@ -2697,6 +2708,7 @@ Raptic
 Rapunchel
 Rara
 Rasbalion
+Rasburglar
 Rasferil
 Raspberryellaywn
 Rathrandir
@@ -3406,6 +3418,7 @@ Valdifar
 Valdmir
 Valdwulf
 Valerond
+Valiithor
 Valithia
 Vallenor
 Valodil
