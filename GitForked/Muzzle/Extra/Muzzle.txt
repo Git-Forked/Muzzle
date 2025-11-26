@@ -147,6 +147,7 @@ Angneluin
 Anibalsacristan
 Anklebyter
 Annabeth
+Annarielle
 Annemis
 Annihilation
 Anorgalen
@@ -446,6 +447,7 @@ Boral
 Borarin
 Borarir
 Bordale
+Bork
 Bornibrand
 Borolin
 Bossmoss
@@ -495,6 +497,7 @@ Brondowar
 Bronwenna
 Brordon
 Broromir
+Brossi
 Broyehill
 Brudd
 Bruenyn
@@ -705,10 +708,12 @@ Culborn
 Culerien
 Culiaran
 Culimil
+Cundo
 Cuorin
 Cup
 Cupbeorn
 Cuppacoffee
+Curadhan
 Curaen
 Curarael
 Curelingol
@@ -2312,6 +2317,7 @@ Mithotyn
 Mithreindeer
 Miyeon
 Mocuishle
+Mocwushla
 Mognet
 Mogstar
 Mohobbit
@@ -2529,6 +2535,7 @@ Onyxaite
 Oordin
 Oorvaril
 Ophit
+Ophy
 Oraenne
 Oragorn
 Orangeduke
