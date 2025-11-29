@@ -936,10 +936,12 @@ Dwell
 Dworlyn
 Dyin
 Dystolin
+Dyvan
 Dzungla
 Eadevewyn
 Eadignes
 Eadrithe
+Eadweth
 Eaedmund
 Eamyre
 Eanson
@@ -1383,6 +1385,7 @@ Glorfinwe
 Glorirx
 Glormurst
 Glorofin
+Glorthaniel
 Glorthendil
 Glowie
 Glumbtro
@@ -1469,6 +1472,7 @@ Gudhanvir
 Gudmundor
 Guendolyn
 Guenevere
+Gullivar
 Gundurwarth
 Gunhilda
 Gunneros
@@ -1524,6 +1528,7 @@ Halv
 Hamdring
 Hamh
 Hamloch
+Hamond
 Hamroc
 Hanarrad
 Hanaryn
@@ -1899,6 +1904,7 @@ Kissyfur
 Kithrii
 Kitrael
 Knatdren
+Knob
 Knowledgeispower
 Kobersz
 Kodfodder
@@ -2006,6 +2012,7 @@ Likkarl
 Lillaieth
 Lillas
 Lilliamae
+Lillica
 Lillida
 Lillira
 Lillothriel
@@ -2894,6 +2901,8 @@ Scathran
 Schezar
 Schittstorm
 Schwoo
+Scott
+Scottbear
 Scottbraw
 Scottem
 Scottshighelfchamp
@@ -3272,6 +3281,7 @@ Thruthla
 Thumpa
 Thunderbolts
 Thunderbyte
+Thunderwing
 Thyrantilde
 Tiberon
 Tidbits
@@ -3433,6 +3443,7 @@ Valithia
 Vallenor
 Valodil
 Valorgard
+Valshaeron
 Valstar
 Valthranduil
 Valzaan
@@ -3554,12 +3565,14 @@ Wildorf
 Willegar
 Willough
 Wilmoor
+Windi
 Windorsa
 Windybutt
 Wingy
 Wingyili
 Wingylas
 Winnethepooh
+Wisty
 Withiewindle
 Wolfhunters
 wow
@@ -3625,7 +3638,9 @@ Zairi
 Zalanara
 Zaleia
 Zalleb
+Zanadela
 Zandragal
+Zanker
 Zapping
 Zardozz
 Zariaha
