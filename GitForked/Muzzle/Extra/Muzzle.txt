@@ -23,6 +23,7 @@ Adomm
 Adondo
 Adorawillow
 Adredh
+Adrielas
 Adrildhel
 Adronas
 Aduilwyn
@@ -39,6 +40,7 @@ Aellor
 Aelyia
 Aenglas
 Aenorean
+Aephellir
 Aeradeb
 Aeralmarea
 Aerweyn
@@ -1976,6 +1978,7 @@ Larkenlore
 Larkspur
 Larnilwen
 Laroluin
+Laron
 Larthirwe
 Lasco
 Lathius
@@ -2283,6 +2286,7 @@ Merllen
 Merothin
 Merribear
 Mertensia
+Mervyn
 Mesco
 Mestongmekill
 Metalle
@@ -3627,6 +3631,7 @@ Yildizlar
 Yirthain
 Ynarriel
 Youngspaarow
+Youravgpug
 Yrgest
 Yrrigfrid
 Ysmoll
