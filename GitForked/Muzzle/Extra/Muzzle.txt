@@ -191,6 +191,7 @@ Archamir
 Arcinrien
 Ardandriel
 Ardiberen
+Ardrandir
 Arduthin
 Argall
 Argmond
@@ -272,6 +273,7 @@ Aylithe
 Aythalion
 Azanul
 Azdalen
+Azkazal
 Azruthor
 Azureflower
 Babrsonn
@@ -1030,6 +1032,7 @@ Elkwing
 Elladreia
 Ellanhard
 Ellanriel
+Elleophor
 Ellessiel
 Ellidas
 Ellieraen
@@ -1227,6 +1230,7 @@ Foggy
 Fogostosa
 Folaf
 Folcarde
+Folkeraldd
 Fonzzie
 Foolscap
 Fordiel
@@ -1876,6 +1880,7 @@ Khalidune
 Khalilah
 Khalilrandir
 Khazhadur
+Khelbonn
 Kheldori
 Khelstrom
 Khento
@@ -2394,6 +2399,7 @@ Myuliel
 Nacham
 Nadiae
 Nadira
+Nael
 Naelita
 Naethnyl
 Nafarrad
@@ -2673,6 +2679,7 @@ Prumbi
 Psolarea
 Psychopathy
 Psykotick
+Puddle
 Puddyfoot
 Pudgi
 Pudtz
@@ -3449,6 +3456,7 @@ Valodil
 Valorgard
 Valshaeron
 Valstar
+Valtarum
 Valthranduil
 Valzaan
 Vanaei
