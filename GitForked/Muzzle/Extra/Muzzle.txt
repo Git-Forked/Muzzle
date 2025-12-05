@@ -1334,6 +1334,7 @@ Gernobrandy
 Gerrie
 Gerthiel
 Gerxin
+Gharos
 Ghellar
 Ghostlovescore
 Ghoti
@@ -1515,6 +1516,7 @@ Haidel
 Haidwyn
 Haidyn
 Hailstonez
+Haitham
 Haivorn
 Halafindel
 Halbranthir
@@ -1589,6 +1591,8 @@ Hellgrimm
 Hellinore
 Helowgo
 Hendi
+Hensbane
+Herblos
 Herbotic
 Hermand
 Herullion
@@ -1816,6 +1820,7 @@ Kalasin
 Kalathiel
 Kalibrea
 Kalidah
+Kalidos
 Kalig
 Kalkinzin
 Kalliopia
@@ -2125,6 +2130,7 @@ Madragon
 Maeldhor
 Maelforge
 Maellos
+Maerchan
 Maerchellung
 Maerethor
 Maerien
@@ -2268,6 +2274,7 @@ Meggraen
 Mehrunissa
 Meisie
 Mel
+Melidora
 Melificent
 Melinessa
 Melithas
@@ -2656,6 +2663,7 @@ Podzila
 Podzzilla
 Poffer
 Pohnto
+Pointso
 Pointsq
 Polliannika
 Polycarp
@@ -3202,6 +3210,7 @@ Taumaril
 Taurtaren
 Taurusalin
 Taurusblack
+Tavarhin
 Tawan
 Tawarchadel
 Tawd
@@ -3443,6 +3452,7 @@ Valamira
 Valaredain
 Valaros
 Valdalote
+Valdemar
 Valderak
 Valdhame
 Valdho
@@ -3628,6 +3638,7 @@ Xoros
 Xtalker
 Xylopne
 Yaaka
+Yahayi
 Yaniell
 Yaruzuk
 Yasmeirra
