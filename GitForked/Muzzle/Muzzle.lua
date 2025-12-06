@@ -529,6 +529,7 @@ Muzzle = {
 	'Burgbald',
 	'Burgerbob',
 	'Busfareamir',
+	'Bustame',
 	'Bustenew',
 	'Busttwo',
 	'Butterbelly',
