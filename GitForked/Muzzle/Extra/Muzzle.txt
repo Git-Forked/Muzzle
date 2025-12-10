@@ -116,11 +116,13 @@ Alyxandriah
 Alzeria
 Amaleia
 Amaleri
+Amalricus
 Amandak
 Amarathine
 Amarchon
 Amared
 Amatarr
+Amayafaith
 Amazing
 Ambourn
 Ametheil
@@ -204,6 +206,7 @@ Aristophane
 Arjunelle
 Arkoudos
 Armorig
+Armst
 Arrieldel
 Arrivo
 Arrowe
@@ -249,6 +252,7 @@ Atriark
 Atropa
 Attyric
 Auchoo
+Audlaf
 Audulfa
 Auliviel
 Aumnydaria
@@ -678,6 +682,7 @@ Corvusmoon
 Corvuspiritus
 Corvusterrae
 Coventinah
+Cozzi
 Craadro
 Crabwarth
 Crassa
@@ -922,6 +927,7 @@ Durag
 Durahann
 Durinhide
 Durrfang
+Durwin
 Dustar
 Dutybound
 Dvoin
@@ -1126,6 +1132,7 @@ Everlin
 Evolkos
 Ewelena
 Exarrkunn
+Exodia
 Eyal
 Eyogentandre
 Ezykiel
@@ -1647,6 +1654,7 @@ Hullaras
 Humanchampion
 Humroc
 Hungluke
+Huntarddaz
 Hunteringngathering
 Hunterngather
 Huphir
@@ -2658,6 +2666,7 @@ pizza
 Pizza
 Plowman
 Plowpete
+Pocketmint
 Poctro
 Podz
 Podzila
@@ -3046,6 +3055,7 @@ Snappdragon
 Snarvi
 Sneekypeekus
 Sniffey
+Sniffmypie
 Snipor
 Snookers
 Snorgur
@@ -3065,6 +3075,7 @@ Spalirald
 spam
 Spamwise
 Spannis
+Sparklas
 Sparkslm
 Spensa
 Spiffyy
@@ -3101,6 +3112,7 @@ Stegos
 Stickcaster
 Stigred
 Stimi
+Stinkyfinger
 Stoneformbis
 Stormcastle
 Stormi
@@ -3576,6 +3588,7 @@ Welmund
 Wencliff
 Westmoon
 Weve
+Whereswinnie
 Whillow
 Whippet
 Whiteandnerdy
