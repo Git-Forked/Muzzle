@@ -102,6 +102,7 @@ Alkaos
 Allanya
 Allasandor
 Allieone
+Allran
 Aloriel
 Aloriendel
 Alovar
@@ -2409,6 +2410,7 @@ Myrwarda
 Mysterous
 Mysthi
 Mystiqal
+Mystra
 Mythek
 Mythrilion
 Myuliel
