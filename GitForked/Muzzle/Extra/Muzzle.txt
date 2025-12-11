@@ -79,6 +79,7 @@ Akhuz
 Akillezee
 Akillizee
 Akonivess
+Akri
 Alagosdil
 Alassin
 Alayta
@@ -95,6 +96,7 @@ Aleriadh
 Alfhelm
 Alfhildre
 Algim
+Alibadman
 Alinden
 Aliyn
 Aljeron
@@ -131,6 +133,7 @@ Amethysl
 Amhallion
 Amlindor
 Amlodh
+Ammowing
 Amote
 Amranos
 Amrasadan
@@ -1103,6 +1106,7 @@ Erinti
 Erriikk
 Ertorias
 Erufinwe
+Eruiondur
 Eryishot
 Eryndaer
 Erythorn
@@ -1524,6 +1528,7 @@ Hadwigis
 Haidel
 Haidwyn
 Haidyn
+Hailee
 Hailstonez
 Haitham
 Haivorn
@@ -2026,6 +2031,7 @@ Lendawen
 Lendless
 Lengethmorn
 Lesprout
+Lethonel
 Leviathorn
 LF
 Lia
@@ -2833,6 +2839,7 @@ Riparan
 Risiki
 Risiko
 Riverlos
+Rivermynt
 Rivier
 Roanna
 Robem
@@ -3125,6 +3132,7 @@ Stouthands
 Strawberry
 Strawberrykins
 Strawgully
+Stray
 Stresso
 Strfox
 Strideher
@@ -3669,6 +3677,7 @@ Ynarriel
 Yosemitesam
 Youngspaarow
 Youravgpug
+Youseft
 Yrgest
 Yrrigfrid
 Ysmoll
