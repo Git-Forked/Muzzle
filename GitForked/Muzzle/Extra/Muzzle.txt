@@ -111,6 +111,7 @@ Alovar
 Alphaldor
 Alrgoin
 Alroy
+Altsanon
 Alumroot
 Alvilde
 Alwaysfadingecho
@@ -151,6 +152,7 @@ Angardir
 Angborwolf
 Angdraug
 Angelcake
+Anglaith
 Angneluin
 Anibalsacristan
 Anklebyter
@@ -184,6 +186,7 @@ Aralen
 Aralosse
 Aramairas
 Aranamar
+Arandionas
 Aranfeleos
 Aranlen
 Aranmalor
@@ -244,6 +247,7 @@ Astarith
 Asterly
 Astoriawren
 Astrewyn
+Astro
 Astroboy
 Asturd
 Aswifeth
@@ -278,6 +282,7 @@ Axegrindr
 Ayarmeniel
 Aylisa
 Aylithe
+Ayria
 Aythalion
 Azanul
 Azdalen
@@ -317,6 +322,7 @@ Barad
 Baradh
 Baradir
 Baragonn
+Barahil
 Barakor
 Baralinthel
 Baramlas
@@ -586,6 +592,7 @@ Catchy
 Cathbhar
 Cathius
 Cathonriel
+Catlin
 Catlyn
 Catryona
 Cavedog
@@ -642,6 +649,7 @@ Chuckingson
 Chunindia
 Cieranwal
 Cildaran
+Cilion
 Cilwen
 Cima
 Cinamynt
@@ -681,6 +689,7 @@ Cornacre
 Cornchips
 Corrugated
 Corsairqueen
+Corulin
 Corvusignis
 Corvusmoon
 Corvuspiritus
@@ -719,6 +728,7 @@ Cuebert
 Cuflo
 Cuftlo
 Culborn
+Culdaevor
 Culerien
 Culiaran
 Culimil
@@ -732,12 +742,15 @@ Curaen
 Curarael
 Curelingol
 Curlywurly
+Curoma
 Curomarth
 Curseseeker
 Curtholde
 Curu
 Curudalion
+Curufindir
 Curufinwei
+Curuhathere
 Curuinthir
 Curumaril
 Curumith
@@ -748,6 +761,7 @@ Cutang
 Cutholm
 Cuvandir
 Cuz
+Cvibino
 Cwenmoda
 Cwilla
 Cwynith
@@ -1149,6 +1163,7 @@ Faeryfire
 Faethlengel
 Faetryx
 Faeverin
+Faevirglin
 Fairaday
 Fairewind
 Fairuz
@@ -1251,6 +1266,7 @@ Fordolk
 Foreignoakenshield
 Forganus
 Formatha
+Fornjot
 Forthrenand
 Forvreval
 Forwenuir
@@ -1360,6 +1376,7 @@ Gilbrandir
 Gilbrethil
 Gildalien
 Gildarion
+Gildhur
 Gileraeth
 Gilerial
 Gilerond
@@ -1383,6 +1400,7 @@ Gilthalrandir
 Gilthamir
 Gilurion
 Gilvorthos
+Gimiimoorbob
 Gimlael
 Gisbournne
 Gisela
@@ -1696,6 +1714,7 @@ Ijwyn
 Iknonothink
 Ildurion
 Ilirwar
+Illaith
 Illeran
 Illevar
 Illiahn
@@ -1724,6 +1743,7 @@ Indicah
 Indiela
 Indorfin
 Indragond
+Ingemar
 Ingilath
 Ingorif
 Inhirglin
@@ -1771,6 +1791,8 @@ Jackhoneysuckle
 Jackill
 Jackzz
 Jadzi
+Jaimiecha
+Jaiyne
 Jakwaggon
 Jalberto
 Jalormur
@@ -1826,6 +1848,7 @@ Justicia
 Kadala
 Kaephrandir
 Kaeracin
+Kahootz
 Kaird
 Kaitlinx
 Kaivo
@@ -1905,6 +1928,7 @@ Kheldori
 Khelstrom
 Khento
 Khororsky
+Khryanne
 Khurisia
 Khurm
 Khutaznat
@@ -2030,6 +2054,7 @@ Leirithe
 Lendawen
 Lendless
 Lengethmorn
+Lengost
 Lesprout
 Lethonel
 Leviathorn
@@ -2260,6 +2285,7 @@ Maynine
 Mayonnaise
 Mayori
 Mayorin
+Maypel
 Mayphire
 Mayracnid
 Mayrage
@@ -2354,6 +2380,7 @@ Mithasthir
 Mithavor
 Mithotyn
 Mithreindeer
+Mitsuki
 Miyeon
 Mocuishle
 Mocwushla
@@ -2466,6 +2493,7 @@ Neneva
 Nephril
 Neppie
 Nerariel
+Nerhesi
 Nerodia
 Nerreid
 Nervimar
@@ -2487,6 +2515,7 @@ Niendil
 Nightmare
 Nilthrandir
 Nimbo
+Nimcuru
 Nimdhiran
 Nimfindor
 Nimirraj
@@ -2901,6 +2930,7 @@ Saerami
 Saerith
 Saerothir
 Safeguard
+Sainta
 Sakti
 Salahaddin
 Salfige
@@ -3107,6 +3137,7 @@ Squirrelofdoom
 Squishyelfthing
 Srordat
 Sscoundrel
+Staffinfections
 Stafton
 Stannlas
 Starkrik
@@ -3156,6 +3187,7 @@ Svanlana
 Svanlaugthrith
 Svartalfhiem
 Svenagarth
+Sveta
 Svetlagund
 Swaim
 Swanmir
@@ -3163,6 +3195,7 @@ Swiftfalcon
 Swordbilliam
 Swyndel
 Sylestone
+Sylie
 Syllvaniel
 Sylmarwen
 Sylvardart
@@ -3257,6 +3290,7 @@ Teriayn
 Terminsel
 Terodal
 Tesseract
+Tesslynn
 Tessni
 Thak
 Thalgul
@@ -3558,6 +3592,7 @@ Vimilzagar
 Vincentor
 Vinhandel
 Vinnalor
+Vinoria
 Vionya
 Vipersback
 Viraninde
@@ -3740,6 +3775,7 @@ Zyliac
 Zynn
 Zyrianne
 Zzemily
+Zzeodhrim
 Zzeothorn
 Zziggy
 Zzotrik
