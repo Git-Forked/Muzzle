@@ -63,6 +63,7 @@ Aicasarto
 Aidintwo
 Aijaxx
 Aillaline
+Ainurlindale
 Ainwel
 Airavis
 Airbgone
@@ -2985,6 +2986,7 @@ Scrunkee
 Scudamor
 Scummybear
 Scurrvy
+Scyionic
 Seasaltie
 Seaso
 Seeww
@@ -3060,6 +3062,7 @@ Simonette
 Simpinaina
 Sinead
 Sinring
+Sinth
 Sirchampy
 Sirjustalot
 Sirspoony
@@ -3670,6 +3673,7 @@ wulf
 Wulf
 Wulfius
 Wulfmoon
+Wulfryc
 Wulfwend
 Wulvar
 Wuullff
