@@ -462,6 +462,7 @@ Boltlobber
 Bombastic
 Bonappetit
 Bonger
+Boofing
 Boral
 Borarin
 Borarir
@@ -642,6 +643,7 @@ Cheezeburger
 Chesnutpuck
 Chetna
 Chiamobus
+Chianita
 Chiksie
 Chiriel
 Chrisp
@@ -656,6 +658,7 @@ Cima
 Cinamynt
 Cinlind
 Cinnabarcinnabar
+Ciradrien
 Ciralia
 Cirelborn
 Cirhorn
@@ -867,6 +870,7 @@ Deruldor
 Deserose
 Deseth
 Dhargard
+Dharjeeling
 Dhearic
 Didalera
 Dietsprite
@@ -1350,6 +1354,7 @@ Gathrin
 Gattzu
 Gaulbo
 Gaulsten
+Gavryc
 Gdayymate
 Geezer
 Gehnanor
@@ -1972,6 +1977,8 @@ Kothog
 Kovaskahn
 Krayoneaterwe
 Kristtorn
+Kry
+Krybaby
 Krybeorn
 Krybraw
 Krygaur
@@ -1999,6 +2006,7 @@ Kylosaldmeri
 Kylrin
 Kyndray
 Kystrel
+Kytraan
 Labrien
 Lachallun
 Ladybeorn
@@ -2687,6 +2695,7 @@ Philothera
 Phlowr
 Photovolt
 Phrak
+Phreox
 Phrometheuz
 Phtrod
 Phuzzy
@@ -3645,6 +3654,7 @@ Wholf
 Wigmund
 Wiki
 Wilarose
+Wilbell
 Wildie
 Wildorf
 Willegar
@@ -3688,6 +3698,7 @@ Xappo
 Xaxarrien
 Xenaela
 Xennobia
+Xenthir
 Xethias
 Xevwyn
 Xial
