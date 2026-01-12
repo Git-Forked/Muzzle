@@ -37,6 +37,7 @@ Aelfbrand
 Aelfindirr
 Aelfwold
 Aellor
+Aelprunner
 Aelyia
 Aenglas
 Aenorean
@@ -89,6 +90,7 @@ Aldaras
 Aldig
 Aldrekan
 Aldsel
+Aldyr
 Alectrona
 Alectronia
 Aleena
@@ -122,6 +124,7 @@ Alzeria
 Amaleia
 Amaleri
 Amalricus
+Amaluna
 Amandak
 Amarathine
 Amarchon
@@ -227,6 +230,7 @@ Arthurschopenhauer
 Artuinna
 Artumes
 Artyzan
+Aruthangar
 Arvaleg
 Arvardan
 Arvithion
@@ -283,6 +287,7 @@ Axegrindr
 Ayarmeniel
 Aylisa
 Aylithe
+Aymea
 Ayria
 Aythalion
 Azanul
@@ -290,6 +295,7 @@ Azdalen
 Azkazal
 Azruthor
 Azureflower
+Azzwell
 Babrsonn
 Babyoilbottles
 Baccara
@@ -475,6 +481,7 @@ Bothundbur
 Botok
 Boudicar
 Bowedup
+Bowerick
 Bowien
 Bowkili
 Bradwin
@@ -596,6 +603,7 @@ Cathius
 Cathonriel
 Catlin
 Catlyn
+Catmynt
 Catryona
 Cavedog
 Cayleigh
@@ -788,6 +796,7 @@ Daffin
 Dagadaen
 Dagarvarth
 Dagdreth
+Daggni
 Daggonit
 Dagonei
 Dagothlos
@@ -821,6 +830,7 @@ Darlenn
 Darwarz
 Darxesvarkah
 Dasfeuer
+Dasquirrel
 Dathran
 Davebowie
 Davor
@@ -953,6 +963,7 @@ Durrfang
 Durwin
 Dustar
 Dutybound
+Duvodianne
 Dvoin
 Dvorako
 Dwarrofil
@@ -1092,6 +1103,7 @@ Emmerreth
 Emretnuh
 Emylraeb
 Enchanting
+Enegodir
 Enelo
 Enerfin
 Enhalgar
@@ -1099,6 +1111,7 @@ Enmerkar
 Enrages
 Enreekay
 Enrica
+Eobrand
 Eochain
 Eofgyth
 Eogorn
@@ -1149,6 +1162,7 @@ Ethreiwen
 Ethrellaf
 Ethruanwen
 Ethwynn
+Evering
 Everiol
 Everita
 Everkev
@@ -1186,6 +1200,7 @@ Fangollind
 Fanistoragetwo
 Fanrildwen
 Faoiltiarna
+Faolahd
 Faradayfox
 FaradayFox
 Faradolph
@@ -1676,6 +1691,7 @@ Hravnhildr
 Hrokrikald
 Hrosdur
 Hrothland
+Hrovald
 Hucklebarry
 Hucklepuck
 Hugeos
@@ -1840,6 +1856,7 @@ Jonbones
 Jonkomir
 Jonnybgoode
 Jonwhorfin
+Jorrus
 Joybuzzer
 Joycion
 Joyrien
@@ -1977,6 +1994,7 @@ Kothog
 Kovaskahn
 Krayoneaterwe
 Kristtorn
+Kromwell
 Kry
 Krybaby
 Krybeorn
@@ -2023,6 +2041,7 @@ Lagtastic
 Lailarose
 Lairelithonielle
 Laithriel
+Lajos
 Lammadraen
 Lanferil
 Langoliers
@@ -2097,6 +2116,8 @@ Linfador
 Linkinlog
 Linnon
 Linthanel
+Linthinviel
+Lintholiel
 Lionpoo
 Lisandir
 Lisseren
@@ -2134,6 +2155,7 @@ Lordunderhill
 Lorefreak
 Loremandy
 Lorielen
+Loriendesse
 Lorithemouse
 Lormurin
 Lorossi
@@ -2803,6 +2825,7 @@ Rapunchel
 Rara
 Rasbalion
 Rasburglar
+Rasdro
 Rasferil
 Raspberryellaywn
 Rathrandir
@@ -2897,6 +2920,7 @@ Rogercumstone
 Rohllo
 Rokcavhir
 Roknrol
+Rokram
 Rokurr
 Romawende
 Ronalo
@@ -3080,12 +3104,15 @@ Sitkah
 Sitkia
 Skadi
 Skalsmasher
+Skarter
 Skegthor
 Skerjarn
 Skerling
 Skiffs
 Skjolbeorn
+Skodli
 Skordulfson
+Skot
 Skuldjorna
 Skylene
 Skyraine
@@ -3103,6 +3130,7 @@ Smelfo
 Snakechampdustin
 Snakine
 Snappdragon
+Snarglefritz
 Snarvi
 Sneekypeekus
 Sniffey
@@ -3114,6 +3142,7 @@ Snorik
 Snotgoblin
 Snowflaker
 Snugglyfoot
+Snutlo
 Soladun
 Solveiga
 Sonechka
@@ -3189,6 +3218,7 @@ Sturmalin
 Sturmunddrang
 Styrimadr
 Sublemonal
+Summerlilly
 Summersweet
 Sunnydragon
 Surreal
@@ -3356,6 +3386,7 @@ Thorinbob
 Thorinmaplehammah
 Thormli
 Thornuidhil
+Thorobain
 Thorriguardian
 Thorvor
 Thraingil
@@ -3655,6 +3686,7 @@ Wigmund
 Wiki
 Wilarose
 Wilbell
+Wildafrid
 Wildie
 Wildorf
 Willegar
