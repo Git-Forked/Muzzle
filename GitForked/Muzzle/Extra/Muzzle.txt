@@ -77,6 +77,7 @@ Aistrid
 Ajalan
 Ajmehrai
 Akairus
+Akbeastmaster
 Akhuz
 Akillezee
 Akillizee
@@ -343,6 +344,7 @@ Baredhor
 Barffolio
 Barfight
 Bargrym
+Baridan
 Barradur
 Barramir
 Barsulrom
@@ -422,6 +424,7 @@ Beriathorn
 Berramage
 Berratul
 Berrazul
+Bertenshaw
 Beshra
 bez
 Bez
@@ -2038,6 +2041,7 @@ Lafawnduh
 Lafelia
 Laganomics
 Lagtastic
+Lahinia
 Lailarose
 Lairelithonielle
 Laithriel
@@ -2106,6 +2110,7 @@ Limelemon
 Linadoor
 Linchino
 Lindahad
+Lindere
 Linderion
 Lindhellith
 Lindhir
@@ -2113,6 +2118,7 @@ Lindisluna
 Lindoya
 Lindsay
 Linfador
+Linguardere
 Linkinlog
 Linnon
 Linthanel
@@ -2456,6 +2462,7 @@ Moxxley
 Moxxyma
 Muckwyn
 Mugwumper
+Muinadil
 Munches
 Mungi
 Munkiy
@@ -2631,6 +2638,7 @@ Omegaruler
 Omelia
 Onnelm
 Onokh
+Onthorvo
 Onuaku
 Onyxaite
 Oordin
@@ -2672,6 +2680,7 @@ Palabrana
 Paladion
 Palliate
 Pallida
+Pancho
 Pandabaer
 Pandaexpress
 Pantysniffer
@@ -2699,6 +2708,7 @@ Persig
 Petting
 Phaint
 Phalseblock
+Phalsetto
 Phearme
 Pheme
 Phergus
@@ -2745,11 +2755,13 @@ Pohnto
 Pointso
 Pointsq
 Polliannika
+Pollypockets
 Polycarp
 Polynya
 popcorn
 Posthumously
 Powerfists
+Powerthalion
 Poyzonoak
 Praelas
 Premini
@@ -2777,6 +2789,7 @@ Punchovilla
 Puppo
 Puremetal
 Purrplecat
+Qatt
 Qball
 Qertinya
 Qora
@@ -3158,6 +3171,7 @@ Spannis
 Sparklas
 Sparkslm
 Spensa
+Spiffy
 Spiffyy
 Spites
 Splatter
@@ -3200,6 +3214,7 @@ Stormi
 Stormibeorn
 Stormibow
 Stormikin
+Stormphoenix
 Stouthands
 Strawberry
 Strawberrykins
@@ -3222,6 +3237,7 @@ Summerlilly
 Summersweet
 Sunnydragon
 Surreal
+Sustivity
 Sustrai
 Svalthorn
 Svanfast
@@ -3456,6 +3472,7 @@ Torvalig
 Tosmod
 Totesmagoats
 Toystory
+Trail
 Trajjin
 Tran
 Trappyflaps
@@ -3527,6 +3544,7 @@ Ulvjager
 Umberhill
 Umbrien
 Umonry
+Unariel
 Unavolda
 Unbearables
 Unglarion
