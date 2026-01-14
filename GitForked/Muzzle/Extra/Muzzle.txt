@@ -51,6 +51,7 @@ Aethelrith
 Aetherealarms
 Aevangeline
 Aew
+Afire
 Afon
 Afrathelion
 Agerk
@@ -532,6 +533,7 @@ Broyehill
 Brudd
 Bruenyn
 bruh
+Brunna
 Brunnalf
 Brunnlager
 Bruzo
@@ -548,6 +550,7 @@ Bunnydemon
 Buoy
 Burgbald
 Burgerbob
+Burlcain
 Busfareamir
 Bustame
 Bustenew
@@ -629,6 +632,7 @@ Celestrae
 Celestriah
 Celigwen
 Celquay
+Celrindar
 Celuaglar
 Celviel
 Cemorva
@@ -1092,6 +1096,7 @@ Elqueso
 Elsamdor
 Elsavere
 Elthiram
+Elthirion
 Eltiner
 Eltypelt
 Elunis
@@ -1230,6 +1235,7 @@ Fennthicc
 Feragsuil
 Fergelcut
 Ferlina
+Fernandor
 Fernwise
 Ferrisrushb
 Ferynil
@@ -1787,6 +1793,7 @@ Ireirien
 Irisgoldfire
 Irohmako
 Irul
+Irull
 Isenshire
 Isildae
 Isindule
@@ -1880,6 +1887,7 @@ Kaitlinx
 Kaivo
 Kalarana
 Kalaril
+Kalasael
 Kalasin
 Kalathiel
 Kalibrea
@@ -1998,6 +2006,7 @@ Kovaskahn
 Krayoneaterwe
 Kristtorn
 Kromwell
+Krummi
 Kry
 Krybaby
 Krybeorn
@@ -2758,6 +2767,7 @@ Polliannika
 Pollypockets
 Polycarp
 Polynya
+Pontin
 popcorn
 Posthumously
 Powerfists
@@ -3107,8 +3117,10 @@ Silversong
 Simonette
 Simpinaina
 Sinead
+Sinlash
 Sinring
 Sinth
+Siobhan
 Sirchampy
 Sirjustalot
 Sirspoony
@@ -3295,6 +3307,7 @@ Tairii
 Takomah
 Talenah
 Talhawkins
+Talisin
 Talliel
 Talmund
 Talyanda
@@ -3550,6 +3563,7 @@ Unbearables
 Unglarion
 Urakad
 Urehn
+Ursaline
 Ursalynn
 Urundel
 Urvallin
@@ -3664,6 +3678,7 @@ Vizzini
 Vlori
 Vodkihad
 Voknur
+Vokolog
 Volbuc
 Vorandil
 Voruuk
