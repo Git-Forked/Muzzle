@@ -296,6 +296,7 @@ Azanul
 Azdalen
 Azkazal
 Azruthor
+Azshar
 Azureflower
 Azzwell
 Babrsonn
@@ -1215,6 +1216,7 @@ Faradolph
 Faramart
 Faranduil
 Farecbor
+Farlost
 Farralorm
 Fatbombur
 Fatcrap
@@ -1701,6 +1703,7 @@ Hrokrikald
 Hrosdur
 Hrothland
 Hrovald
+Huaniel
 Hucklebarry
 Hucklepuck
 Hugeos
@@ -1708,6 +1711,7 @@ Hugwenor
 Hullaras
 Humanchampion
 Humroc
+Hundi
 Hungluke
 Huntarddaz
 Hunteringngathering
@@ -2059,6 +2063,7 @@ Lammadraen
 Lanferil
 Langoliers
 Lanteldan
+Lantholfiel
 Laochson
 Larfast
 Larinlas
@@ -2442,6 +2447,7 @@ Moondoor
 Moosenugget
 Morageth
 Moralin
+Morawarth
 Morby
 Mordilaey
 Mordredh
@@ -2866,6 +2872,7 @@ Redmender
 Redneckman
 Redpath
 Redstonne
+Rehz
 Reinadis
 Reinarian
 Reinarieth
@@ -3472,6 +3479,7 @@ Tollenien
 Tolnik
 Toltho
 Tomowyn
+Tonias
 Tonymaloney
 Topoftheworld
 Toranduil
