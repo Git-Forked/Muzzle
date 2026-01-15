@@ -389,6 +389,7 @@ Bellerdan
 Bellewan
 Belligerence
 Bellothos
+Belnoro
 Benhur
 Benjaminbackshot
 Benson
@@ -568,6 +569,7 @@ Cabox
 Cacophonix
 Caelestiel
 Caelfind
+Caellum
 Caelynne
 Cairwen
 Caladess
@@ -1253,6 +1255,7 @@ Fillaset
 Filthy
 Fimarith
 Fimbalothir
+Findlespell
 Findolrond
 Findorion
 Fingarwe
@@ -1833,6 +1836,7 @@ Jakwaggon
 Jalberto
 Jalormur
 Jaqueshellaque
+Jarbewbalan
 Jarpbarth
 Jarund
 Jarusaran
@@ -2000,6 +2004,7 @@ Kodfodder
 Koedah
 Koldjinn
 Konaran
+Koonie
 Koopernicus
 Kordaitra
 Korethot
@@ -2030,6 +2035,7 @@ Kudle
 Kunderthunt
 Kunikh
 Kurinkor
+Kuvorn
 Kuwin
 Kuzd
 Kuzukic
@@ -3010,6 +3016,7 @@ Samwindchester
 Sandrine
 Sarahaphina
 Sarcastard
+Sardred
 Sariphena
 Sarorion
 Sarradoc
