@@ -311,6 +311,7 @@ Bacu
 Badari
 Badbrad
 Badgerr
+Badstew
 Baerdus
 Baerion
 Baffin
@@ -596,6 +597,7 @@ Captainsparrow
 Captcookie
 Captjameshook
 Cara
+Careena
 Carianor
 Carliesse
 Carnaval
@@ -1337,6 +1339,7 @@ Fulgram
 Fundir
 Furbaby
 Furcifer
+Furrbaby
 Fuzzywuzzey
 Fynch
 Fynnegan
@@ -1541,6 +1544,7 @@ Grungnyr
 Grunkleiroh
 Grymbald
 Grymstone
+Gudbrande
 Gudhanvir
 Gudmundor
 Guendolyn
@@ -2287,6 +2291,7 @@ Manwithswords
 Maoiliosa
 Maquista
 Maracaibo
+Marchesa
 Marcusrahl
 Mareborn
 Mareith
@@ -2745,6 +2750,7 @@ Phillippinness
 Philophone
 Philophulax
 Philothera
+Phinley
 Phlowr
 Photovolt
 Phrak
@@ -2978,10 +2984,12 @@ Rugad
 Ruinendil
 Rulalenska
 Rumelor
+Rumsloe
 Runeark
 Runkhulruk
 Rustymetal
 Ruthadan
+Ruthion
 Ryantyrtyrtyrtyr
 Ryeanne
 Rytharius
@@ -3142,6 +3150,9 @@ Siswaiaman
 Sitkah
 Sitkia
 Skadi
+Skal
+Skalbasher
+Skalgorad
 Skalsmasher
 Skarter
 Skegthor
