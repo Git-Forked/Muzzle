@@ -79,6 +79,7 @@ Ajalan
 Ajmehrai
 Akairus
 Akbeastmaster
+Akeither
 Akhuz
 Akillezee
 Akillizee
@@ -128,12 +129,14 @@ Amaleri
 Amalricus
 Amaluna
 Amandak
+Amant
 Amarathine
 Amarchon
 Amared
 Amatarr
 Amayafaith
 Amazing
+Ambinant
 Ambourn
 Ametheil
 Amethysl
@@ -250,6 +253,7 @@ Asorn
 Astabao
 Astaillyn
 Astanya
+Astariionn
 Astarith
 Asterly
 Astoriawren
@@ -616,6 +620,7 @@ Catlin
 Catlyn
 Catmynt
 Catryona
+Cattfish
 Cavedog
 Cayleigh
 Ceckshavr
@@ -625,6 +630,7 @@ Celaewen
 Celari
 Celeathe
 Celebecthel
+Celeberain
 Celeboar
 Celebwind
 Celedhrien
@@ -646,6 +652,7 @@ Cendrya
 Cenedrilra
 Centarum
 Cepicorpus
+Ceriana
 Cerlebion
 Certhessar
 Cesmogal
@@ -722,6 +729,7 @@ Coventinah
 Cozzi
 Craadro
 Crabwarth
+Crafstor
 Crassa
 Crazy
 Crazyhorrse
@@ -765,6 +773,7 @@ Curadhan
 Curaen
 Curarael
 Curelingol
+Curlew
 Curlywurly
 Curoma
 Curomarth
@@ -975,6 +984,7 @@ Durrfang
 Durwin
 Dustar
 Dutybound
+Dutyvortex
 Duvodianne
 Dvoin
 Dvorako
@@ -1027,6 +1037,7 @@ Edhelaren
 Edhelerdal
 Edhelethuil
 Edhelphiel
+Edithfaye
 Edomir
 Edrodruth
 Edwinadin
@@ -1051,11 +1062,13 @@ Einstonr
 Einvigi
 Eirornir
 Eirvif
+Eisheth
 Eividir
 Ekessa
 Ekibyo
 Eladuial
 Elairra
+Elana
 Elari
 Elcie
 Elcry
@@ -1077,6 +1090,7 @@ Elfarro
 Elfbane
 Eliani
 Eliberry
+Elidea
 Elimr
 Elishelm
 Elixtoria
@@ -1257,9 +1271,11 @@ Fillaset
 Filthy
 Fimarith
 Fimbalothir
+Findiros
 Findlespell
 Findolrond
 Findorion
+Findrial
 Fingarwe
 Finleigh
 Finnius
@@ -1395,6 +1411,7 @@ Gelemald
 Gelinwar
 Geliriel
 Gelnirvor
+Gemiinii
 Gentlemangimli
 Gereondir
 Gernobrandy
@@ -1523,6 +1540,7 @@ Grietje
 Griffey
 Grigmeister
 Grimara
+Grimbalder
 Grimgotts
 Grimhelde
 Grimhilt
@@ -1761,6 +1779,7 @@ Illeran
 Illevar
 Illiahn
 Illithianos
+Illun
 Illunathros
 Ilmalosse
 Iloreth
@@ -1863,10 +1882,12 @@ Jerdo
 Jessikah
 Jethropokes
 Jewlalt
+Jexadia
 Jezzo
 Jiimmyy
 Jillay
 Jimineecrackhedd
+Jinni
 Jinwoo
 Jivaro
 Jizzy
@@ -2192,6 +2213,7 @@ Lorossi
 Lorrandan
 Lorrek
 Lorrundor
+Losin
 Loss
 Losse
 Lossehin
@@ -2237,6 +2259,7 @@ Maerchellung
 Maerethor
 Maerien
 Maerwynn
+Maethodhal
 Maethorgil
 Maethrandiel
 Maevea
@@ -2438,6 +2461,7 @@ Mirillin
 Mirindis
 Mirionnel
 Mistalosse
+Mistyraines
 Mithasthir
 Mithavor
 Mithotyn
@@ -2474,6 +2498,7 @@ Moriquetta
 Morled
 Mormolac
 Mornare
+Morningstar
 Morodeth
 Morshbaeph
 Morthornas
@@ -2509,6 +2534,7 @@ Mysthi
 Mystiqal
 Mystra
 Mythek
+Mythrayn
 Mythrilion
 Myuliel
 Nacham
@@ -2676,6 +2702,7 @@ Oragorn
 Orangeduke
 Oraphor
 Orbajyn
+Orcus
 Ordinaryfool
 Ordsmidr
 Orendir
@@ -2693,6 +2720,7 @@ Ostarah
 Ostoril
 Otevir
 Othrallas
+Ottalaus
 Otterohm
 Overyourhead
 Ovnya
@@ -2735,6 +2763,7 @@ Petting
 Phaint
 Phalseblock
 Phalsetto
+Phased
 Phearme
 Pheme
 Phergus
@@ -2810,6 +2839,7 @@ Puddle
 Puddyfoot
 Pudgi
 Pudtz
+Pukk
 Punchatizemecap
 Punchester
 Punchii
@@ -2942,6 +2972,7 @@ Rinwulf
 Riparan
 Risiki
 Risiko
+Rivanthir
 Riverlos
 Rivermynt
 Rivier
@@ -2986,6 +3017,7 @@ Rulalenska
 Rumelor
 Rumsloe
 Runeark
+Runian
 Runkhulruk
 Rustymetal
 Ruthadan
@@ -3069,6 +3101,7 @@ Seasaltie
 Seaso
 Seeww
 Seger
+Sehad
 Seitse
 Selarglin
 Selbinhunter
@@ -3098,6 +3131,7 @@ Shadowrabbit
 Shadowtom
 Shaill
 Shatterbone
+Sheilagh
 Shelbe
 Shelbyy
 Shera
@@ -3153,6 +3187,7 @@ Skadi
 Skal
 Skalbasher
 Skalgorad
+Skalord
 Skalsmasher
 Skarter
 Skegthor
@@ -3475,6 +3510,7 @@ Tinowyn
 Tinuver
 Tiocfaidharla
 Tippo
+Tirielenkalina
 Tirindal
 Tirindion
 Tirongol
@@ -3667,6 +3703,7 @@ Velonia
 Venatrici
 Venfleur
 Vengarl
+Venthir
 Verdelite
 Veridus
 Verjibeorn
@@ -3880,9 +3917,11 @@ Zygel
 Zyliac
 Zynn
 Zyrianne
+Zz
 Zzemily
 Zzeodhrim
 Zzeothorn
 Zziggy
 Zzotrik
 Zztonewall
+Zztonyscholarsuplies
