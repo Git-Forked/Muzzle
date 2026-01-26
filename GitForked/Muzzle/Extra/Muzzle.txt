@@ -220,6 +220,7 @@ Ariezen
 Arigel
 Aristophane
 Arjunelle
+Arkhon
 Arkoudos
 Armorig
 Armst
@@ -322,6 +323,7 @@ Baffin
 Bagadonuts
 Baheeby
 Bahogbilat
+Baingoleth
 Baintauriel
 Balchona
 Balephorion
@@ -605,6 +607,7 @@ Careena
 Carianor
 Carliesse
 Carnaval
+Carrella
 Carreth
 Carrick
 Carthenion
@@ -883,6 +886,7 @@ Delthirion
 Delyna
 Delyssia
 Demiors
+Demoted
 Denethmir
 Denirior
 Denorid
@@ -1070,6 +1074,7 @@ Eladuial
 Elairra
 Elana
 Elari
+Elcal
 Elcie
 Elcry
 Eldaered
@@ -1446,6 +1451,7 @@ Gillinronder
 Gillinrondey
 Gillinrondy
 Gillonronder
+Gilloryn
 Gillthallion
 Gilmarlynn
 Gilmart
@@ -2063,6 +2069,7 @@ Kurinkor
 Kuvorn
 Kuwin
 Kuzd
+Kuzo
 Kuzukic
 Kwarei
 Kwozzy
@@ -2274,6 +2281,7 @@ Maillard
 Maiorianvs
 Mairilind
 Mairobhar
+Makcu
 Makraken
 Maladirs
 Malastel
@@ -2331,6 +2339,7 @@ Marladora
 Marlagarth
 Marlas
 Marmaree
+Marmi
 Martadan
 Martingale
 Marwhini
@@ -3764,6 +3773,7 @@ Wato
 Watoburg
 Watomage
 Watowiz
+Wavewranglerwinnie
 Waxxon
 Wederski
 Weepwillow
