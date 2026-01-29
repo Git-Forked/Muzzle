@@ -514,6 +514,7 @@ Bredhe
 Bregahil
 Bregaith
 Bregdan
+Brendon
 Brengun
 Briarlyn
 Briarthorn
@@ -644,6 +645,7 @@ Celendine
 Celestialheart
 Celestrae
 Celestriah
+Celian
 Celigwen
 Celquay
 Celrindar
@@ -690,6 +692,7 @@ Cinlind
 Cinnabarcinnabar
 Ciradrien
 Ciralia
+Ciramath
 Cirelborn
 Cirhorn
 Cironell
@@ -2888,6 +2891,7 @@ Raeylina
 Rafflesian
 Rafina
 Ragdolly
+Ragez
 Ragvirr
 Rainsigil
 Rakadov
@@ -3692,6 +3696,7 @@ Vantika
 Vanyadhiel
 Vanzenn
 Varamphor
+Varanicus
 Variable
 Variaga
 Varkanros
