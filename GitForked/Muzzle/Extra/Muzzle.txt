@@ -12,6 +12,7 @@ Adalad
 Adanadir
 Adanidir
 Adanuilas
+Adarinor
 Adenfin
 Adiden
 Adinonzl
@@ -56,6 +57,7 @@ Afon
 Afrathelion
 Agerk
 Aglabmenu
+Agul
 Ahrees
 Ahrn
 Ahstia
@@ -129,6 +131,7 @@ Amaleri
 Amalricus
 Amaluna
 Amandak
+Amanito
 Amant
 Amarathine
 Amarchon
@@ -251,6 +254,7 @@ Ashkel
 Ashluin
 Asina
 Asorn
+Asrael
 Astabao
 Astaillyn
 Astanya
@@ -280,6 +284,7 @@ Auraith
 Aurblodyn
 Aurelianna
 Aurethien
+Aurie
 Avarian
 Avarima
 Averella
@@ -528,6 +533,7 @@ Britthild
 Broadcaster
 Broagorn
 Brochete
+Brodvar
 Broggle
 Brograw
 Broimsosaucy
@@ -916,6 +922,7 @@ Digton
 Dildum
 Dilligad
 Dinalagosseth
+Dingleberries
 Dinglebery
 Dinnaedie
 Dirdacar
@@ -940,12 +947,15 @@ Dolinada
 Dolring
 Domdrunk
 Domfroth
+Doob
 Doobedat
 Doobmate
+Doobmeister
 Dookahn
 Dooms
 Doot
 Dooth
+Dorbog
 Dorfy
 Dorkrond
 Doro
@@ -1073,6 +1083,7 @@ Eisheth
 Eividir
 Ekessa
 Ekibyo
+Eladara
 Eladuial
 Elairra
 Elana
@@ -1337,6 +1348,7 @@ Freaya
 Freisa
 Frenalcara
 Frenchdoors
+Frerrin
 Freshmint
 Freyakkyn
 Freydn
@@ -1750,6 +1762,7 @@ Hungluke
 Huntarddaz
 Hunteringngathering
 Hunterngather
+Hunterseeker
 Huphir
 Hurting
 Husbando
@@ -2778,6 +2791,7 @@ Phalsetto
 Phased
 Phearme
 Pheme
+Phenella
 Phergus
 Phhilippines
 Philipines
@@ -3135,6 +3149,7 @@ Sevensails
 Sevoglas
 sex
 Sexyandiknowit
+Sgtviper
 Shabbadoo
 Shadori
 Shadowboltix
@@ -3203,6 +3218,7 @@ Skalgorad
 Skalord
 Skalsmasher
 Skarter
+Skattebo
 Skegthor
 Skerjarn
 Skerling
@@ -3408,6 +3424,7 @@ Tathorhen
 Tatines
 Taumaril
 Taurtaren
+Taurus
 Taurusalin
 Taurusblack
 Tavarhin
@@ -3555,6 +3572,7 @@ Torcal
 Torenmir
 Torja
 Tormur
+Torporral
 Torvalar
 Torvalig
 Tosmod
@@ -3638,6 +3656,7 @@ Unbearables
 Unglarion
 Urakad
 Urehn
+Urhmahgurd
 Ursaline
 Ursalynn
 Urundel
