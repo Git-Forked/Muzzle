@@ -28,6 +28,7 @@ Adrielas
 Adrildhel
 Adronas
 Aduilwyn
+Aeargost
 Aegaine
 Aeglaeca
 Aegornil
@@ -254,6 +255,7 @@ Ashkel
 Ashluin
 Asina
 Asorn
+Asphernel
 Asrael
 Astabao
 Astaillyn
@@ -269,6 +271,7 @@ Asturd
 Aswifeth
 Ataniatur
 Athanion
+Atheiniel
 Athelflad
 Atheradan
 Athyria
@@ -835,6 +838,7 @@ Dagonei
 Dagothlos
 Dagreth
 Daksy
+Dalarond
 Dalled
 Dallian
 Dalongar
@@ -973,6 +977,7 @@ Draya
 Dredredredredredor
 Dresdens
 Drexicar
+Driffo
 Drimarlad
 Drimros
 Drizdenn
@@ -1195,6 +1200,7 @@ Estelwynn
 Estemeire
 Estherial
 Esting
+Estrella
 Etheariall
 Ethelmath
 Etheranie
@@ -1575,6 +1581,7 @@ Grimrod
 Grippa
 Grithraw
 Grizzleburr
+Grogbeorn
 Gromnir
 Grondelf
 Grumbleguth
@@ -1816,6 +1823,7 @@ Imdooms
 Imdris
 Immacollata
 Imnotlifto
+Imonelda
 Improvisation
 Imraldir
 Imylina
@@ -2265,6 +2273,7 @@ Lyfeline
 Lynnelda
 Lyricborn
 Lyrielle
+Lysandoc
 Lyuda
 Macgimli
 Macie
@@ -2425,6 +2434,7 @@ Megamonch
 Meggraen
 Mehrunissa
 Meisie
+Mekinburgle
 Mel
 Melidora
 Melificent
@@ -2478,6 +2488,7 @@ Minthanor
 Minuet
 Minustri
 Mirabowda
+Miranthiel
 Mirdanneth
 Mirdirneth
 Mirelhach
@@ -2739,6 +2750,7 @@ Orndil
 Ornelluin
 Orney
 Ornki
+Oroastor
 Orthond
 Osklof
 Ostarah
@@ -3250,6 +3262,7 @@ Sneekypeekus
 Sniffey
 Sniffmypie
 Snipor
+Snobeorn
 Snookers
 Snorgur
 Snorik
@@ -3444,6 +3457,7 @@ Tegilborneth
 Telelryn
 Telgaril
 Telken
+Telporno
 Temiwyn
 Temmiwyn
 Tenpos
@@ -3462,6 +3476,7 @@ Thannurnion
 Thanohuor
 Thanos
 Tharagron
+Tharasena
 Tharelaith
 Tharglafang
 Tharglindir
@@ -3597,6 +3612,7 @@ Tresriel
 Treswyn
 Tresylia
 Trinsa
+Trisen
 Triswynn
 Tromdir
 Trulo
@@ -3619,6 +3635,7 @@ Tuppo
 Tur
 Turinthi
 Turjinbar
+Turzirik
 Tuxtormona
 Twelveteen
 Twitterpated
@@ -3722,6 +3739,7 @@ Varkanros
 Varl
 Vashmir
 Vashtiel
+Vastien
 Vathwen
 Vaticas
 Vatog
