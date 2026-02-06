@@ -68,6 +68,8 @@ Aicasarto
 Aidintwo
 Aijaxx
 Aillaline
+Ainince
+Ainred
 Ainurlindale
 Ainwel
 Airavis
@@ -297,6 +299,7 @@ Avistennt
 Avistent
 Avjori
 Avriela
+Awtoram
 Awtoswabbie
 Axegrindr
 Ayarmeniel
@@ -497,6 +500,7 @@ Bordale
 Bork
 Bornibrand
 Borolin
+Borondol
 Bossmoss
 Bothundbur
 Botok
@@ -557,6 +561,7 @@ Brunnalf
 Brunnlager
 Bruzo
 Bryetwulf
+Brygg
 Brynnwyn
 Brytgar
 Brythriel
@@ -592,6 +597,7 @@ Cairwen
 Caladess
 Calamegil
 Calanta
+Calasseme
 Calencam
 Calendulla
 Californiabestbear
@@ -1010,6 +1016,7 @@ Dutyvortex
 Duvodianne
 Dvoin
 Dvorako
+Dwarfbanner
 Dwarrofil
 Dwaz
 Dwazabella
@@ -1129,6 +1136,7 @@ Ellidas
 Ellieraen
 Ellisary
 Elmindredai
+Elnora
 Elomaril
 Elorandwe
 Eloreah
@@ -1242,6 +1250,7 @@ Faithfull
 Faithie
 Falarey
 Falarthuil
+Faldrea
 Falladhon
 Fallon
 Fallstaf
@@ -1396,6 +1405,7 @@ Gaeladir
 Gaelerian
 Gaelmegil
 Gaerieleth
+Gaerion
 Gaerwine
 Gagar
 Gaibur
@@ -1595,7 +1605,9 @@ Gudhanvir
 Gudmundor
 Guendolyn
 Guenevere
+GUERREROS
 Gullivar
+Gumelam
 Gundurwarth
 Gunhilda
 Gunneros
@@ -1886,6 +1898,7 @@ Jadzi
 Jaimiecha
 Jaiyne
 Jakwaggon
+Jalara
 Jalberto
 Jalormur
 Jaqueshellaque
@@ -1894,6 +1907,7 @@ Jarpbarth
 Jarund
 Jarusaran
 Jarzung
+Jaseena
 Jashobeamnzl
 Jasperen
 Jasperroot
@@ -1911,6 +1925,7 @@ Jeorric
 Jerdo
 Jessikah
 Jethropokes
+Jettandar
 Jewlalt
 Jexadia
 Jezzo
@@ -2054,6 +2069,7 @@ Kitrael
 Knatdren
 Knob
 Knowledgeispower
+Koase
 Kobersz
 Kodfodder
 Koedah
@@ -2270,6 +2286,7 @@ Luthiell
 Lutholea
 Lyekka
 Lyfeline
+Lyli
 Lynnelda
 Lyricborn
 Lyrielle
@@ -2480,6 +2497,7 @@ Milundriel
 Minaros
 Minestrone
 Minethos
+Mini
 Minlaith
 Minlee
 Minniscott
@@ -3200,6 +3218,7 @@ Sifraen
 Sighelm
 Sigininbar
 Sigmodi
+Signe
 Sigrid
 Sigskogi
 Sildag
@@ -3239,12 +3258,14 @@ Skjolbeorn
 Skodli
 Skordulfson
 Skot
+Skrimsli
 Skuldjorna
 Skylene
 Skyraine
 Slagg
 Slappybagz
 Slaya
+Sleidh
 Slicendicealex
 Slugbeard
 Sluttro
@@ -3432,6 +3453,7 @@ Tarovangiann
 Tartlet
 Tarvillin
 Tarvornion
+Tassarion
 Taterswithgravy
 Tathorhen
 Tatines
@@ -3502,6 +3524,7 @@ Theoguth
 Theonath
 Theonlygorthax
 Thickmember
+Thicro
 Thidfinn
 Thinachar
 Thistlebuckle
@@ -3642,6 +3665,7 @@ Twitterpated
 Tynhierl
 Typpo
 Tyrrunt
+Tyruka
 Tywaz
 Ualoria
 Uandan
