@@ -1130,6 +1130,7 @@ Elesposodeella
 Elessaras
 Elfarro
 Elfbane
+Elggarlumbottleguard
 Eliani
 Eliberry
 Elidea
@@ -2463,6 +2464,7 @@ Meato
 Medumam
 Meduzeld
 Meemsikins
+Megaera
 Megaevil
 Megamonch
 Meggraen
