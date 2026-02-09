@@ -22,6 +22,7 @@ Adleren
 Adobos
 Adomm
 Adondo
+Adooms
 Adorawillow
 Adredh
 Adrielas
@@ -34,6 +35,7 @@ Aeglaeca
 Aegornil
 Aegres
 Aehiras
+Aeldrie
 Aelenwen
 Aelfbrand
 Aelfindirr
@@ -106,6 +108,7 @@ Alengwen
 Aleriadh
 Alfhelm
 Alfhildre
+Alfrikr
 Algim
 Alibadman
 Alinden
@@ -144,6 +147,7 @@ Amayafaith
 Amazing
 Ambinant
 Ambourn
+Amdreth
 Ametheil
 Amethysl
 Amhallion
@@ -151,6 +155,7 @@ Amlindor
 Amlodh
 Ammowing
 Amote
+Amputated
 Amranos
 Amrasadan
 Amrindril
@@ -447,6 +452,7 @@ Berratul
 Berrazul
 Bertenshaw
 Beshra
+Bevremora
 bez
 Bez
 Bezer
@@ -518,6 +524,7 @@ Branderen
 Brandoch
 Branmcmuffin
 Brasscajones
+Braveharp
 Brawlbo
 Brawldog
 Brawlerpapa
@@ -671,6 +678,7 @@ Cempynn
 Cendrya
 Cenedrilra
 Centarum
+Ceolford
 Cepicorpus
 Ceriana
 Cerlebion
@@ -709,6 +717,7 @@ Ciradrien
 Ciralia
 Ciramath
 Cirelborn
+Cirfindil
 Cirhorn
 Cironell
 Cirudan
@@ -856,6 +865,7 @@ Danaerwyn
 Danaii
 Dandorn
 Danicah
+Danielle
 Dankegilde
 Dankiest
 Dannali
@@ -863,6 +873,7 @@ Dannigan
 Dantimily
 Daraethorn
 Darahir
+Daran
 Darcstah
 Darcstar
 Darduipher
@@ -1152,7 +1163,9 @@ Eltiner
 Eltypelt
 Elunis
 Elvalia
+Elvar
 Elvenraen
+Elwwingg
 Elwys
 Elyborn
 Elyviel
@@ -1520,6 +1533,7 @@ Glorthendil
 Glowie
 Glumbtro
 Glyngil
+Glythor
 Gnaramir
 Gnarlbo
 Gnarlrond
@@ -1720,6 +1734,7 @@ Hellgrimm
 Hellinore
 Helowgo
 Hendi
+Henduasaile
 Hensbane
 Herblos
 Herbotic
@@ -2187,6 +2202,7 @@ Lia
 Liannanor
 Ligmund
 Likkarl
+Lilendinglibrary
 Lillaieth
 Lillas
 Lilliamae
@@ -2354,6 +2370,7 @@ Malvark
 Malvegold
 Malythorr
 Mameren
+Manadhraen
 Manburgerhelper
 Mandocap
 Mandosarc
@@ -2532,6 +2549,7 @@ Moldrid
 Montfort
 Mooch
 Moochy
+Moondog
 Moondoor
 Moosenugget
 Morageth
@@ -2548,6 +2566,7 @@ Morgenlada
 Morgylwen
 Morgynne
 Moriaen
+Moriganne
 Moriquetta
 Morled
 Mormolac
@@ -2617,6 +2636,7 @@ Narnuidhan
 Narolador
 Narrwen
 Narsereg
+Narsiloth
 Narthulion
 Narwall
 Naslif
@@ -2899,7 +2919,9 @@ Pukk
 Punchatizemecap
 Punchester
 Punchii
+Punchinpetey
 Punchovilla
+Punchyface
 Puppo
 Puremetal
 Purrplecat
@@ -3173,6 +3195,7 @@ Serra
 Serrbeorn
 Serrune
 Servusiesu
+Setaranna
 Sethadamus
 Sethamond
 Sevensails
@@ -3376,6 +3399,7 @@ Sustivity
 Sustrai
 Svalthorn
 Svanfast
+Svani
 Svanlana
 Svanlaugthrith
 Svartalfhiem
@@ -3523,6 +3547,7 @@ Theoddryht
 Theoguth
 Theonath
 Theonlygorthax
+Thequiethobbit
 Thickmember
 Thicro
 Thidfinn
@@ -3598,6 +3623,7 @@ Toganthel
 Tokewise
 Tokuz
 Tollenien
+Tollina
 Tolnik
 Toltho
 Tomowyn
@@ -3761,6 +3787,7 @@ Variable
 Variaga
 Varkanros
 Varl
+Varun
 Vashmir
 Vashtiel
 Vastien
@@ -3867,6 +3894,7 @@ Wilmoor
 Windi
 Windorsa
 Windybutt
+Winfreda
 Wingy
 Wingyili
 Wingylas
@@ -3877,6 +3905,7 @@ Wolfhunters
 wow
 WoW
 WOW
+Woxofyr
 Woxxton
 Wraithfool
 Wraithshot
@@ -3918,6 +3947,7 @@ Xylopne
 Yaaka
 Yahayi
 Yaniell
+Yannig
 Yaruzuk
 Yasmeirra
 Yaulinde
@@ -3944,6 +3974,7 @@ Zalanara
 Zaleia
 Zalleb
 Zanadela
+Zanathan
 Zandragal
 Zanker
 Zapping
@@ -3959,6 +3990,7 @@ Zellcosmetic
 Zengarr
 Zenrage
 Zenrian
+Zenwen
 Zephyriel
 Zeraphir
 Zhadki
