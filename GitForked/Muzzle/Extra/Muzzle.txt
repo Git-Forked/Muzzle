@@ -487,6 +487,7 @@ Bliz
 Blodban
 Bloonboy
 Blyth
+Bobert
 Boddacia
 Bodilin
 Bodvet
@@ -596,6 +597,7 @@ Byronius
 Cabo
 Cabox
 Cacophonix
+Cadrias
 Caelestiel
 Caelfind
 Caellum
@@ -1269,6 +1271,7 @@ Falladhon
 Fallon
 Fallstaf
 Falmashae
+Falri
 Falthryn
 Fandrili
 Fangollind
@@ -1917,6 +1920,7 @@ Jakwaggon
 Jalara
 Jalberto
 Jalormur
+Jameka
 Jaqueshellaque
 Jarbewbalan
 Jarpbarth
@@ -1960,6 +1964,7 @@ Jonbones
 Jonkomir
 Jonnybgoode
 Jonwhorfin
+Joplaya
 Jorrus
 Joybuzzer
 Joycion
@@ -1975,6 +1980,7 @@ Justicia
 Kadala
 Kaephrandir
 Kaeracin
+Kahala
 Kahootz
 Kaird
 Kaitlinx
@@ -2366,6 +2372,7 @@ Malonga
 Malorwyn
 Malphar
 Malshaeledor
+Malshai
 Malsniper
 Malvark
 Malvegold
@@ -3049,6 +3056,7 @@ Rimverond
 Rinerod
 Ringdagar
 Ringdeldam
+Rinin
 Rinwulf
 Riparan
 Risiki
@@ -3109,6 +3117,7 @@ Rytharius
 Ryuknite
 Saarthronah
 Saashay
+Saba
 Sabennchamp
 Sabriell
 Sackpunch
@@ -3120,6 +3129,7 @@ Saenuidhil
 Saerami
 Saerith
 Saerothir
+Saerwyn
 Safeguard
 Sainta
 Sakti
@@ -3887,6 +3897,7 @@ Wigmund
 Wiki
 Wilarose
 Wilbell
+Wilbren
 Wildafrid
 Wildie
 Wildorf
