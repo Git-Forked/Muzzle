@@ -249,6 +249,7 @@ Arthurschopenhauer
 Artuinna
 Artumes
 Artyzan
+Aruthandor
 Aruthangar
 Arvaleg
 Arvardan
@@ -695,6 +696,7 @@ Certhessar
 Cesmogal
 Cfofled
 Chalric
+Chance
 Chantall
 Chantelle
 Chaosspark
@@ -855,6 +857,7 @@ Daerellorn
 Daeric
 Daethirel
 Daffin
+Daffodowndilly
 Dagadaen
 Dagarvarth
 Dagdreth
@@ -915,6 +918,7 @@ Deepfoot
 Deerpellet
 Deetanker
 Deffen
+Defral
 Degoldol
 Degwyn
 Dekthalion
@@ -985,6 +989,7 @@ Doobmate
 Doobmeister
 Dookahn
 Dooms
+Doomso
 Doot
 Dooth
 Dorbog
@@ -1297,6 +1302,7 @@ Faranduil
 Farecbor
 Farlost
 Farralorm
+Farwander
 Fatbombur
 Fatcrap
 Fathobbit
@@ -1903,6 +1909,7 @@ Isildae
 Isindule
 Isoldeh
 Isotropic
+Issunboshi
 Issybelle
 Isthrandir
 Istimor
@@ -2326,6 +2333,7 @@ Lyekka
 Lyfeline
 Lyli
 Lynnelda
+Lyrewolf
 Lyricborn
 Lyrielle
 Lysandoc
@@ -2569,6 +2577,7 @@ Mognet
 Mogstar
 Mohobbit
 Moiraine
+Moirayne
 Moldrid
 Montfort
 Mooch
@@ -2928,6 +2937,7 @@ Presmew
 Presmier
 Pressutheb
 Prilonda
+Prisma
 Prismi
 Pritcher
 Protecting
@@ -3006,6 +3016,7 @@ Rathrandir
 Raudhagen
 Ravangel
 Ravirja
+Ravvulf
 Razledazle
 Razodin
 Razoin
@@ -3128,6 +3139,7 @@ Runkhulruk
 Rustymetal
 Ruthadan
 Ruthion
+Ruvila
 Ryantyrtyrtyrtyr
 Ryeanne
 Rytharius
@@ -3135,6 +3147,7 @@ Ryuknite
 Saarthronah
 Saashay
 Saba
+Sabelynnee
 Sabennchamp
 Sabriell
 Sackpunch
@@ -3666,6 +3679,7 @@ Torcal
 Torenmir
 Torja
 Tormur
+Toronderp
 Torporral
 Torvalar
 Torvalig
@@ -3852,6 +3866,7 @@ Vidakin
 Vidnur
 Vidusith
 Vigmund
+Vikalina
 Vikingur
 Vildenfiel
 Vilette
@@ -3882,6 +3897,7 @@ Voruuk
 Vrasska
 Vruto
 Vuldynlar
+vvulf
 Vylkariya
 Vys
 Vysalina
