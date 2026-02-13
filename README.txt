@@ -19,24 +19,6 @@ New features:
 + An option for the filtering of trade channel within Configuration.lua and via toggle. <See Commands>
 
 
-Suggested Usage:
-
-Create a new chat tab for World chat.
-It's recommended to rename this tab to 'Unmuzzled' or just '.',
-and not pay any attention to this tab.
-Right-click this tab. On the menu choose 'Change Filters',
-and tick on 'World'.
-
-Create another new tab for Standard.
-It's recommended to rename this tab to 'Muzzled',
-to signify that this is the tab you will want to read the chat from.
-Right-click this tab. On the menu choose 'Change Filters',
-and tick on 'Standard'.
-Then left click the Chat Bubble icon to the bottom left of
-the chat. On the menu choose 'Output Channel'
-and tick on 'World'.
-
-
 Installation:
 
 Required Prerequisite: Turbine Utilities
@@ -64,6 +46,42 @@ Find 'Muzzle' in the list and left click it.
 Under 'About', change 'Automatically Load For' to 'All Characters'.
 
 
+Full Updates:
+
+Download the new version of the zip file and extract over the previous version.
+If you have made any customizations save a backup of them to incorporate into the new version.
+
+
+Intermediate Updates:
+
+When only the repackage version changes and not the program version you can update by replacing this one file:
+https://github.com/Git-Forked/Muzzle/blob/main/GitForked/Muzzle/Muzzle.lua
+If you have made any customizations save a backup of them to incorporate into the new version.
+
+
+Versions are as such:
+
+Major (X), Minor (Y), Patch (Z) - Repackage (abc) = vX.Y.Z-abc
+
+
+Suggested Usage:
+
+Create a new chat tab for World chat.
+It's recommended to rename this tab to 'Unmuzzled' or just '.',
+and not pay any attention to this tab.
+Right-click this tab. On the menu choose 'Change Filters',
+and tick on 'World'.
+
+Create another new tab for Standard.
+It's recommended to rename this tab to 'Muzzled',
+to signify that this is the tab you will want to read the chat from.
+Right-click this tab. On the menu choose 'Change Filters',
+and tick on 'Standard'.
+Then left click the Chat Bubble icon to the bottom left of
+the chat. On the menu choose 'Output Channel'
+and tick on 'World'.
+
+
 Commands:
 
 /Muzzle reload
@@ -86,6 +104,13 @@ Toggle to enable or disable filtering of the trade channel.
 
 /Muzzle ?
 Display the Muzzle Help Menu.
+
+
+Customizations:
+
+Edit the file called Muzzle.lua by hand, making sure to keep the formatting intact.
+Or an easier but Linux only solution is to edit the Extra/Muzzle.txt (which is just a text list of one keyword per line) and then run the Muzzle.sh BASH script to create the Muzzle.lua programmatically.
+If it stops working after you make an edit, then you messed up the formatting. Save a backup of the original and try again. Programming languages are big sticklers for proper formatting.
 
 
 Special Thanks:
