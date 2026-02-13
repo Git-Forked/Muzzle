@@ -419,6 +419,7 @@ Bellewan
 Belligerence
 Bellothos
 Belnoro
+Belthilion
 Benhur
 Benjaminbackshot
 Benson
@@ -1218,6 +1219,7 @@ Ephedria
 Epherandir
 Epicfortheages
 Equdren
+Eramor
 Erass
 Eredrimbel
 Erendriell
@@ -3028,6 +3030,7 @@ Redmender
 Redneckman
 Redpath
 Redstonne
+Redswith
 Rehz
 Reinadis
 Reinarian
@@ -3779,6 +3782,7 @@ Urzaminor
 Uskol
 Uthbehrt
 Utherra
+Uttmar
 Vahndahl
 Vahndetta
 Vahnilla
