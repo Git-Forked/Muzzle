@@ -107,6 +107,7 @@ Alectronia
 Aleena
 Alengwen
 Aleriadh
+Alexandrid
 Alfhelm
 Alfhildre
 Alfrikr
@@ -284,6 +285,7 @@ Athanion
 Atheiniel
 Athelflad
 Atheradan
+Athritix
 Athyria
 Atriark
 Atropa
@@ -402,6 +404,7 @@ Bearmann
 Bearpigs
 Beassie
 Beastrod
+Beekeeper
 Beetho
 Beetz
 Behelian
@@ -1037,6 +1040,7 @@ Durag
 Durahann
 Durinhide
 Durrfang
+Durthoron
 Durwin
 Dustar
 Dutybound
@@ -3574,6 +3578,7 @@ Tharglindir
 Tharlokk
 Tharos
 Tharthollost
+Thatcher
 Thauriul
 Theagorn
 Thebowmaster
