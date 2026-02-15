@@ -37,11 +37,13 @@ Aegres
 Aehiras
 Aeldrie
 Aelenwen
+Aeleron
 Aelfbrand
 Aelfindirr
 Aelfwold
 Aellor
 Aelprunner
+Aelrick
 Aelyia
 Aenglas
 Aenorean
@@ -795,6 +797,7 @@ Critager
 Crithion
 Crownless
 Cruegaru
+Cryostatic
 Crypter
 Crysnnia
 Cryspea
@@ -1069,6 +1072,7 @@ Dzungla
 Eadevewyn
 Eadignes
 Eadrithe
+Eadwaerd
 Eadweth
 Eaedmund
 Eamyre
@@ -2083,7 +2087,9 @@ Khalidune
 Khalilah
 Khalilrandir
 Khazhadur
+Khel
 Khelbonn
+Khelboro
 Kheldori
 Khelstrom
 Khento
@@ -2133,6 +2139,7 @@ Kothog
 Kovaskahn
 Krayoneaterwe
 Kristtorn
+Krombur
 Kromwell
 Krummi
 Kry
@@ -2326,6 +2333,7 @@ Lucusbane
 Lucybunny
 Lucycutie
 Ludalin
+Luladis
 Lumelgar
 Lunazlir
 Lunelleth
@@ -4045,6 +4053,7 @@ Zee
 Zeffan
 Zelain
 Zellcosmetic
+Zelvador
 Zengarr
 Zenrage
 Zenrian
