@@ -123,6 +123,7 @@ Alkaos
 Allanya
 Allasandor
 Allieone
+Allmypets
 Allran
 Aloriel
 Aloriendel
@@ -414,6 +415,7 @@ Beekeeper
 Beetho
 Beetz
 Behelian
+Beijabar
 Beirodren
 Belegnith
 Belegurion
@@ -554,6 +556,7 @@ Bregaith
 Bregdan
 Brendon
 Brengun
+Brethren
 Briarlyn
 Briarthorn
 Brickdong
@@ -869,6 +872,7 @@ Daelin
 Daenaswith
 Daerellorn
 Daeric
+Daeriir
 Daethirel
 Daffin
 Daffodowndilly
@@ -1677,6 +1681,7 @@ Guster
 Gusvirlond
 Gutgar
 Gwaelethiel
+Gwaeros
 Gwaethel
 Gwathildol
 Gwelia
@@ -1987,6 +1992,7 @@ Jellyjiggler
 Jennariel
 Jeorric
 Jerdo
+Jerigoat
 Jessikah
 Jethropokes
 Jettandar
@@ -3110,6 +3116,7 @@ Ridbeorn
 Ridderroy
 Rigeleth
 Rigourmortis
+Riinn
 Rikby
 Rildahil
 Rilgrim
@@ -3815,6 +3822,7 @@ Urzaminor
 Uskol
 Uthbehrt
 Utherra
+Uthiel
 Uttmar
 Vahndahl
 Vahndetta
