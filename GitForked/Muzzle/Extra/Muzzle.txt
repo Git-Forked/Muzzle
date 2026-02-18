@@ -12,6 +12,7 @@ Adalad
 Adanadir
 Adanidir
 Adanirion
+Adaniwen
 Adanuilas
 Adarinor
 Adenfin
@@ -43,6 +44,7 @@ Aelfbrand
 Aelfindirr
 Aelfwold
 Aellor
+Aelnyriel
 Aelprunner
 Aelrick
 Aelyia
@@ -101,6 +103,7 @@ Alassin
 Alayta
 Aldaldan
 Aldaras
+Aldekim
 Aldig
 Aldrekan
 Aldsel
@@ -483,6 +486,7 @@ Bierht
 Biffthunderfist
 Bigolmilk
 Bigpackage
+Bigpappa
 Billybobjunior
 Bilskirnir
 Birnfrith
@@ -1017,6 +1021,7 @@ Doro
 Doswer
 Doubledat
 Draelinn
+Dragonbourne
 Dragonmynuz
 Dramione
 Dranthor
@@ -1063,6 +1068,7 @@ Duvodianne
 Dvoin
 Dvorako
 Dwarfbanner
+Dwarfblade
 Dwarrofil
 Dwaz
 Dwazabella
@@ -1271,6 +1277,7 @@ Ethinjol
 Ethiwaen
 Ethlahael
 Ethoreal
+Ethrandwen
 Ethreiwen
 Ethrellaf
 Ethruanwen
@@ -2251,6 +2258,7 @@ Leahanna
 Leda
 Leddicus
 Leggothir
+Leglessmirkwood
 Legolambchops
 Leirithe
 Lendawen
@@ -2476,6 +2484,7 @@ Mauldawg
 Mauri
 Maurifist
 Maurihir
+Maurisang
 Mauritain
 Maurithorn
 Maurloth
@@ -2610,12 +2619,14 @@ Mitsuki
 Miyeon
 Mocuishle
 Mocwushla
+Mogar
 Mognet
 Mogstar
 Mohobbit
 Moiraine
 Moirayne
 Moldrid
+Monkhbat
 Montfort
 Mooch
 Moochy
@@ -2691,6 +2702,7 @@ Nahtazu
 Nakleyka
 Nalwynn
 Nan
+Nandiel
 Nandorfore
 Nanduinuir
 Naneldel
@@ -2742,6 +2754,7 @@ Nheggy
 Nhymrandir
 Niajax
 Niamhweth
+Niayah
 Niben
 Nichichi
 Nidland
@@ -3032,6 +3045,7 @@ Rafina
 Ragdolly
 Ragez
 Ragvirr
+Raidshadowedlegend
 Rainsigil
 Rakadov
 Rakshathul
@@ -3637,6 +3651,7 @@ Thickmember
 Thicro
 Thidfinn
 Thinachar
+Thissa
 Thistlebuckle
 Thistledoon
 Thnamllss
@@ -3654,6 +3669,7 @@ Thorinmaplehammah
 Thormli
 Thornuidhil
 Thorobain
+Thorollang
 Thorriguardian
 Thorvor
 Thraingil
