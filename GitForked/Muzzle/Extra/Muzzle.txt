@@ -475,6 +475,7 @@ Berrazul
 Bertenshaw
 Beshra
 Bevremora
+Bewenth
 bez
 Bez
 Bezer
@@ -637,6 +638,7 @@ Calencam
 Calendulla
 Californiabestbear
 Calililda
+Calionor
 Callethir
 Callevir
 Callirhoe
@@ -980,6 +982,7 @@ Digton
 Dildum
 Dilligad
 Dinalagosseth
+Diney
 Dingleberries
 Dinglebery
 Dinnaedie
@@ -1698,6 +1701,7 @@ Gwenilweth
 Gwentin
 Gwhenevyr
 Gwinchaldis
+Gwindhelgael
 Gwinne
 Gwynblaed
 Gyngilly
@@ -2031,6 +2035,7 @@ Judyblueeyes
 Juggernaughtie
 Juicejackal
 Juliachilds
+Junoh
 Jurelle
 Justahobbit
 Justicia
@@ -2712,6 +2717,7 @@ Naradis
 Naradoc
 Narangren
 Naranthor
+Narawyn
 Narinna
 Narion
 Narnuidhan
@@ -3492,6 +3498,7 @@ Sublemonal
 Summerlilly
 Summersweet
 Sunnydragon
+Surandiir
 Surreal
 Sustivity
 Sustrai
@@ -3734,6 +3741,7 @@ Tonymaloney
 Topoftheworld
 Toranduil
 Torarandir
+Torbor
 Torcal
 Torenmir
 Torja
@@ -4010,6 +4018,7 @@ Wingy
 Wingyili
 Wingylas
 Winnethepooh
+Wisemen
 Wisty
 Withiewindle
 Wolfhunters
