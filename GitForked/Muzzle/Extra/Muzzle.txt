@@ -1067,6 +1067,7 @@ Durwin
 Dustar
 Dutybound
 Dutyvortex
+Duvelon
 Duvodianne
 Dvoin
 Dvorako
@@ -1665,6 +1666,7 @@ Grizzleburr
 Grogbeorn
 Gromnir
 Grondelf
+Grouch
 Grumbleguth
 Grumpygill
 Grungnyr
@@ -1922,6 +1924,7 @@ Inconstant
 Indbil
 Indicah
 Indiela
+Indisposed
 Indorfin
 Indragond
 Ingemar
@@ -2678,6 +2681,7 @@ Mungi
 Munkiy
 Munkkee
 Musa
+Muscio
 Musicphile
 Mycouchpullsoutidont
 Mydric
@@ -3167,6 +3171,7 @@ Rockworthy
 Rodgertherabbit
 Rodrityz
 Rodvolic
+Rog
 Rogercumstone
 Rohllo
 Rokcavhir
