@@ -99,6 +99,7 @@ Akillezee
 Akillizee
 Akonivess
 Akri
+Alagosbereth
 Alagosdil
 Alassin
 Alayta
@@ -1382,6 +1383,7 @@ Fillaset
 Filthy
 Fimarith
 Fimbalothir
+Fincin
 Findiros
 Findlespell
 Findolrond
@@ -3703,6 +3705,7 @@ Thorriguardian
 Thorvor
 Thraingil
 Thrallmark
+Thrandyel
 Thrarr
 Thrashley
 Threespoons
@@ -3855,6 +3858,7 @@ Umonry
 Unariel
 Unavolda
 Unbearables
+Unella
 Unglarion
 Urakad
 Urehn
