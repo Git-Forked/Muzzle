@@ -61,6 +61,7 @@ Aethelrith
 Aetherealarms
 Aevangeline
 Aew
+Afairia
 Afire
 Afon
 Afrathelion
@@ -175,6 +176,7 @@ Amrindril
 Anairnui
 Anamdor
 Ancalaghon
+Anchutka
 Andborn
 Andraax
 Andraviel
@@ -372,8 +374,10 @@ Bandokrunch
 Bangleo
 Bantwen
 Baosli
+Bara
 Barad
 Baradh
+Baradin
 Baradir
 Baragonn
 Barahil
@@ -1211,6 +1215,7 @@ Elosyadar
 Elowambur
 Elowye
 Elqueso
+Elrriel
 Elsamdor
 Elsavere
 Elthiram
@@ -2362,6 +2367,7 @@ Lordfoursquare
 Lordunderhill
 Lorefreak
 Loremandy
+Lorendor
 Lorielen
 Loriendesse
 Lorithemouse
@@ -2407,6 +2413,7 @@ Lysandoc
 Lyuda
 Macgimli
 Macie
+Mackeli
 Mackievelli
 Macroom
 Mactholdui
@@ -2487,6 +2494,7 @@ Mareith
 Mareko
 Marewell
 Marfedelom
+Mariabell
 Mariath
 Maridal
 Marinip
@@ -2927,6 +2935,7 @@ Pandabaer
 Pandaexpress
 Pantysniffer
 Papidonk
+Paragonada
 Paravane
 Parvata
 Pasionaria
@@ -2999,6 +3008,7 @@ Poffer
 Pohnto
 Pointso
 Pointsq
+Poketh
 Polliannika
 Pollypockets
 Polycarp
@@ -3006,6 +3016,7 @@ Polynya
 Pontin
 popcorn
 Posthumously
+Potbelly
 Powerfists
 Powerthalion
 Poyzonoak
@@ -3303,6 +3314,7 @@ Scudamor
 Scummybear
 Scurrvy
 Scyionic
+Seano
 Seasaltie
 Seaso
 Seeww
@@ -3437,10 +3449,12 @@ Snobeorn
 Snookers
 Snorgur
 Snorik
+Snorlygor
 Snotgoblin
 Snowflaker
 Snugglyfoot
 Snutlo
+Sohaila
 Soladun
 Solveiga
 Sonechka
@@ -3770,6 +3784,7 @@ Torarandir
 Torbor
 Torcal
 Torenmir
+Torgollag
 Torja
 Tormur
 Toronderp
