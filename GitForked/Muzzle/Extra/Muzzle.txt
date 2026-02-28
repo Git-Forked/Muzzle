@@ -55,6 +55,7 @@ Aephellir
 Aeradeb
 Aeralmarea
 Aerweyn
+Aeswyn
 Aethardiel
 Aethelbald
 Aethelrith
@@ -259,6 +260,7 @@ Arrtcher
 Artanor
 Arthelios
 Arthelos
+Arthemiel
 Arthillen
 Artholas
 Arthurschopenhauer
@@ -423,6 +425,7 @@ Bearmann
 Bearpigs
 Beassie
 Beastrod
+Bedhuros
 Beekeeper
 Beetho
 Beetz
@@ -846,6 +849,7 @@ Cundo
 Cuorin
 Cup
 Cupbeorn
+Cuppa
 Cuppacoffee
 Cura
 Curadhan
