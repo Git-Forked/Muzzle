@@ -788,6 +788,7 @@ Clovur
 Cluaran
 Codyak
 Coer
+Coffeegamer
 Coldbearbeer
 Coljackoneill
 Collatina
@@ -1556,6 +1557,7 @@ Gilarabrywn
 Gilarial
 Gilbrandir
 Gilbrethil
+Gilchrist
 Gildalien
 Gildarion
 Gildhur
@@ -1925,6 +1927,7 @@ Illithianos
 Illun
 Illunathros
 Ilmalosse
+Ilmars
 Iloreth
 Ilthaniel
 Iltharas
@@ -3692,6 +3695,7 @@ TheNeverEndingStories
 Thenglinlow
 Thengo
 Theoddryht
+Theofleda
 Theoguth
 Theonath
 Theonlygorthax
@@ -3793,6 +3797,7 @@ Torja
 Tormur
 Toronderp
 Torporral
+Torreya
 Torvalar
 Torvalig
 Tosmod
