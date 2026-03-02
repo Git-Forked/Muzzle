@@ -121,6 +121,7 @@ Alexandrid
 Alfhelm
 Alfhildre
 Alfrikr
+Alfvarvva
 Algim
 Alibadman
 Alinden
@@ -1423,6 +1424,7 @@ Flammewyn
 Flapjack
 Flaski
 Flav
+Flavix
 Flaxie
 Flitfo
 Floddotter
@@ -2637,6 +2639,7 @@ Minlaith
 Minlee
 Minniscott
 Minsk
+Minstrelpains
 Minthanor
 Minuet
 Minustri
@@ -2850,6 +2853,7 @@ Nykerym
 Oakwood
 Oashia
 Oathbreaker
+Oathstone
 Obadeb
 Obius
 Odaghaim
@@ -3197,6 +3201,7 @@ Risiko
 Rivanthir
 Riverlos
 Rivermynt
+Rivian
 Rivier
 Roanna
 Robem
@@ -3648,6 +3653,7 @@ Tawtitaw
 Tazel
 Teallc
 Tebowing
+Teedeegrowl
 Teenytinytater
 Teethclawfur
 Teezle
@@ -4179,6 +4185,7 @@ zilla
 Zinaleo
 Zingiber
 Zinns
+Zinriel
 Zivvie
 Ziyi
 Zoana
