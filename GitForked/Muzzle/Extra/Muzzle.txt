@@ -1707,6 +1707,7 @@ Guendolyn
 Guenevere
 GUERREROS
 Gullivar
+Gully
 Gumelam
 Gundurwarth
 Gunhilda
@@ -1842,6 +1843,7 @@ Himmynuetron
 Hingana
 Hiperbole
 Hirarthlas
+Hirenthas
 Hiroladh
 Hirwenn
 Hishkibob
@@ -4137,6 +4139,7 @@ Yaruzuk
 Yasmeirra
 Yaulinde
 Yavienn
+Yavina
 Yavon
 Yawr
 Yeetme
