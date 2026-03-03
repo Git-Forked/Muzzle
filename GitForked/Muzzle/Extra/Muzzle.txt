@@ -1361,6 +1361,7 @@ Farwander
 Fatbombur
 Fatcrap
 Fathobbit
+Fatts
 Faugbess
 Fay
 Feahyandacappytwo
@@ -3703,6 +3704,7 @@ Thenever
 TheNeverEndingStories
 Thenglinlow
 Thengo
+Theoddic
 Theoddryht
 Theofleda
 Theoguth
@@ -4099,6 +4101,7 @@ Wulf
 Wulfius
 Wulfmoon
 Wulfryc
+Wulfryctoo
 Wulfwend
 Wulvar
 Wuullff
