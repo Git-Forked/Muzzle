@@ -437,6 +437,7 @@ Belegnith
 Belegurion
 Beleriandras
 Belhiwel
+Beliandra
 Bella
 Belladragon
 Belladria
@@ -3369,6 +3370,7 @@ Shadowrabbit
 Shadowtom
 Shaill
 Shatterbone
+Shaynai
 Sheilagh
 Shelbe
 Shelbyy
