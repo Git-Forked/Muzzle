@@ -231,11 +231,13 @@ Aranox
 Arantidir
 Arantima
 Arboted
+Arbrek
 Arby
 Archalion
 Archamir
 Arcinrien
 Ardandriel
+Arden
 Ardiberen
 Ardrandir
 Arduthin
@@ -292,6 +294,7 @@ Astanya
 Astariionn
 Astarith
 Asterly
+Astonfas
 Astoriawren
 Astrewyn
 Astro
@@ -3358,6 +3361,7 @@ Sethadamus
 Sethamond
 Sevensails
 Sevoglas
+Sevric
 sex
 Sexyandiknowit
 Sgtviper
@@ -3553,6 +3557,7 @@ Sturmalin
 Sturmunddrang
 Styrimadr
 Sublemonal
+Sugarsmonk
 Summerlilly
 Summersweet
 Sunnydragon
