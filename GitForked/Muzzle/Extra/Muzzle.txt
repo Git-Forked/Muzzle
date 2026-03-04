@@ -1048,6 +1048,7 @@ Doro
 Doswer
 Doubledat
 Draelinn
+Dragonaxus
 Dragonbourne
 Dragonmynuz
 Dramione
@@ -1156,6 +1157,7 @@ Eeomir
 Eetazz
 Eetzz
 Efbryt
+Effexor
 Eggalia
 Eggin
 Eggroal
@@ -3351,6 +3353,7 @@ Seoda
 Sepulchraive
 Seratild
 Seravorn
+Serciluin
 Sergios
 Serra
 Serrbeorn
@@ -4161,8 +4164,11 @@ Youravgpug
 Youseft
 Yrgest
 Yrrigfrid
+Yshida
+Yshiva
 Ysmoll
 Yulisese
+Yviel
 Zaeri
 Zaerrok
 Zaira
