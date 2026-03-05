@@ -47,6 +47,7 @@ Aelfwold
 Aellor
 Aelnyriel
 Aelprunner
+Aelras
 Aelrick
 Aelyia
 Aenglas
@@ -261,6 +262,7 @@ Arrivo
 Arrowe
 Arrtcher
 Artanor
+Artharin
 Arthelios
 Arthelos
 Arthemiel
@@ -1053,6 +1055,7 @@ Dragonbourne
 Dragonmynuz
 Dramione
 Dranthor
+Drasi
 Draugi
 Drauglach
 Dravar
@@ -4050,6 +4053,7 @@ Waatwan
 Wanderingeye
 Wanders
 Waolder
+Warm
 Warowulf
 Warrabbit
 Warrpathe
