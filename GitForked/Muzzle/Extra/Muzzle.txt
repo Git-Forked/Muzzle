@@ -1826,6 +1826,7 @@ Hefthyn
 Heftwirl
 Heimrih
 Helamabut
+Heleian
 Helgrenze
 Heliflower
 Hellgrimm
@@ -1986,6 +1987,7 @@ Irbeleth
 Ireirien
 Irisgoldfire
 Irohmako
+Iroraround
 Irul
 Irull
 Isenshire
@@ -2363,6 +2365,7 @@ Littlewhitedove
 Liuin
 Livotta
 Liyanna
+Llywellyn
 Loakkie
 Lofindreth
 Logansan
@@ -2460,6 +2463,7 @@ Maganwen
 Magdanel
 Magolas
 Magoneg
+Maguren
 Mailewen
 Maillard
 Maiorianvs
@@ -3794,6 +3798,7 @@ Tirthirin
 Tirwyn
 Tiryenion
 Titianna
+Tiwaz
 Tlana
 Tlar
 Tobidor
@@ -4018,6 +4023,7 @@ Vikalina
 Vikingur
 Vildenfiel
 Vilette
+Vilgaila
 Viljamir
 Villo
 Viloth
