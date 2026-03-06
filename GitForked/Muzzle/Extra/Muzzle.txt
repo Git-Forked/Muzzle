@@ -1199,6 +1199,7 @@ Eldrathain
 Eldreon
 Elelfrocken
 Elenas
+Elendhion
 Elentalir
 Elenwhyn
 Elesposodeella
@@ -1378,6 +1379,7 @@ Feahyandal
 Feahyandamariner
 Feahyndanor
 Fearimlorn
+Federer
 Feitanportor
 Felingir
 Felondion
@@ -1528,6 +1530,7 @@ Gallodhreth
 Gallstone
 Galmli
 Galmr
+Galunir
 Gamstarli
 Gandorael
 Gangcious
@@ -1641,6 +1644,8 @@ Golloram
 Golthrondrel
 Gondoladan
 Gondorzilla
+Gonz
+Gonzgurneyson
 Gonzo
 Goobersnot
 Goolius
