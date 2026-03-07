@@ -238,6 +238,7 @@ Archalion
 Archamir
 Arcinrien
 Ardandriel
+Ardannys
 Arden
 Ardiberen
 Ardrandir
@@ -3308,6 +3309,7 @@ Sampaguita
 Samwindchester
 Sandrine
 Sarahaphina
+Sarbec
 Sarcastard
 Sardred
 Sariphena
@@ -3350,6 +3352,7 @@ Scudamor
 Scummybear
 Scurrvy
 Scyionic
+Seamonkee
 Seano
 Seasaltie
 Seaso
