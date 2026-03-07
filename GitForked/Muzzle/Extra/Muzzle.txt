@@ -608,6 +608,7 @@ Brordon
 Broromir
 Brossi
 Broyehill
+Brozman
 Bruce
 Brudd
 Bruenyn
@@ -2322,6 +2323,7 @@ Lendawen
 Lendless
 Lengethmorn
 Lengost
+Leofrex
 Lesprout
 Lethonel
 Leviathorn
@@ -2545,6 +2547,7 @@ Mathanir
 Mathraandir
 Mauldawg
 Mauri
+Mauridain
 Maurifist
 Maurihir
 Maurimir
@@ -2676,6 +2679,7 @@ Mirindis
 Mirionnel
 Mistalosse
 Mistyraines
+Mithadan
 Mithasthir
 Mithavor
 Mithotyn
