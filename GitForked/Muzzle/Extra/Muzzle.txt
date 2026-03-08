@@ -675,6 +675,7 @@ Cannalilly
 Cannawhoopazz
 Cantheriel
 Capanivara
+Captainphoenix
 Captainsparrow
 Captcookie
 Captjameshook
@@ -1436,6 +1437,7 @@ Fistpower
 Flamelord
 Flammewyn
 Flapjack
+Flashborn
 Flaski
 Flav
 Flavix
@@ -1986,6 +1988,7 @@ Insane
 Install
 Inulluin
 Invincible
+Iondhilin
 Iorthomund
 Ioseph
 Iowedhir
@@ -2066,6 +2069,7 @@ Jezzo
 Jiimmyy
 Jillay
 Jimineecrackhedd
+Jimmymcgill
 Jinni
 Jinwoo
 Jivaro
@@ -2251,6 +2255,7 @@ Kuvorn
 Kuwin
 Kuzd
 Kuzkarvind
+Kuzlow
 Kuzo
 Kuzukic
 Kwarei
@@ -4186,11 +4191,13 @@ Youravgpug
 Youseft
 Yrgest
 Yrrigfrid
+Ysabet
 Yshida
 Yshiva
 Ysmoll
 Yulisese
 Yviel
+Zacc
 Zaeri
 Zaerrok
 Zaira
