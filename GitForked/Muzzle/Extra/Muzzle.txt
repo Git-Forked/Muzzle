@@ -803,6 +803,7 @@ Coffeegamer
 Coldbearbeer
 Coljackoneill
 Collatina
+Colmcilla
 Compassionate
 Connistua
 Cookinggirl
@@ -2357,6 +2358,7 @@ Lindere
 Linderion
 Lindhellith
 Lindhir
+Lindisfarne
 Lindisluna
 Lindoya
 Lindsay
@@ -2711,6 +2713,7 @@ Morageth
 Moralin
 Morawarth
 Morby
+Mordhyrgrim
 Mordilaey
 Mordredh
 Mordroroth
@@ -3669,6 +3672,7 @@ Tareldel
 Tarinor
 Tarisma
 Tarovangiann
+Tarrios
 Tartlet
 Tarvillin
 Tarvornion
@@ -3830,6 +3834,7 @@ Tokuz
 Tollenien
 Tollina
 Tolnik
+Tolthalion
 Toltho
 Tomowyn
 Tonias
