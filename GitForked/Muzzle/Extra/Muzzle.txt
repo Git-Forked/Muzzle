@@ -68,6 +68,7 @@ Afire
 Afon
 Afrathelion
 Agerk
+Agie
 Aglabmenu
 Agul
 Ahrees
@@ -325,6 +326,7 @@ Aurelianna
 Aurethien
 Aurie
 Autobotjoanneprime
+Avangrod
 Avarian
 Avarima
 Averella
@@ -607,6 +609,7 @@ Bronwenna
 Brordon
 Broromir
 Brossi
+Brotherbeornbill
 Broyehill
 Brozman
 Bruce
@@ -2156,6 +2159,7 @@ Keldros
 Kelela
 Kelembore
 Kellia
+Kelliewyn
 Kellinore
 Kelnen
 Kelpygrey
@@ -2319,6 +2323,7 @@ Lazyeyes
 Lazykeisy
 Lazywulf
 Leahanna
+Lebeard
 Leda
 Leddicus
 Leggothir
@@ -3505,6 +3510,7 @@ Snorgur
 Snorik
 Snorlygor
 Snotgoblin
+Snowcat
 Snowflaker
 Snugglyfoot
 Snutlo
@@ -4126,6 +4132,7 @@ Wingy
 Wingyili
 Wingylas
 Winnethepooh
+Winterdance
 Wisemen
 Wisty
 Withiewindle
