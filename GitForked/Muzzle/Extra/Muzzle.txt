@@ -510,6 +510,7 @@ Biffthunderfist
 Bigolmilk
 Bigpackage
 Bigpappa
+Bildr
 Billybobjunior
 Bilskirnir
 Birnfrith
@@ -3309,6 +3310,7 @@ Saelamlug
 Saelorean
 Saenuidhil
 Saerami
+Saerendhros
 Saerith
 Saerothir
 Saerwyn
@@ -3682,6 +3684,7 @@ Tarisma
 Tarovangiann
 Tarrios
 Tartlet
+Tarvalros
 Tarvillin
 Tarvornion
 Tassarion
@@ -3975,10 +3978,12 @@ Valdemar
 Valderak
 Valdhame
 Valdho
+Valdhzoom
 Valdifar
 Valdmir
 Valdwulf
 Valerond
+Valestra
 Valiithor
 Valithia
 Vallenor
