@@ -1760,6 +1760,7 @@ Gwhenevyr
 Gwinchaldis
 Gwindhelgael
 Gwinne
+Gwinthain
 Gwynblaed
 Gyngilly
 Gyrvor
@@ -3335,6 +3336,7 @@ Sarahaphina
 Sarbec
 Sarcastard
 Sardred
+Sarine
 Sariphena
 Sarorion
 Sarradoc
