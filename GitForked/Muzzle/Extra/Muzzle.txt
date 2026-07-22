@@ -318,6 +318,7 @@ Attyric
 Auchoo
 Audlaf
 Audulfa
+Augustmars
 Auliviel
 Aumnydaria
 Auraith
@@ -571,6 +572,7 @@ Brambleburr
 Brandanion
 Branderen
 Brandoch
+Brandroluin
 Branmcmuffin
 Brasscajones
 Braveharp
