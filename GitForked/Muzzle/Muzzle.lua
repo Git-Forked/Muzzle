@@ -1105,6 +1105,7 @@ Muzzle = {
 	'Duodo',
 	'Durag',
 	'Durahann',
+	'Durbeleg',
 	'Durinhide',
 	'Durrfang',
 	'Durthoron',
