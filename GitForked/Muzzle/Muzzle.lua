@@ -4121,6 +4121,7 @@ Muzzle = {
 	'Watowiz',
 	'Wavewranglerwinnie',
 	'Waxxon',
+	'Weaponboy',
 	'Wederski',
 	'Weepwillow',
 	'Wegwerfbar',
