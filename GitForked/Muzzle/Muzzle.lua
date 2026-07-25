@@ -9,6 +9,7 @@ Muzzle = {
 	'Aariaa',
 	'Aarrggo',
 	'Abagnale',
+	'Aberdeen',
 	'Abilard',
 	'Abramms',
 	'Absinthium',
