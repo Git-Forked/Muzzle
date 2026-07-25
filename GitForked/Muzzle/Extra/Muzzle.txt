@@ -227,6 +227,7 @@ Aralosse
 Aramairas
 Aranamar
 Arandionas
+Aranet
 Aranfeleos
 Aranlen
 Aranmalor
@@ -1749,6 +1750,7 @@ Gurvoward
 Guster
 Gusvirlond
 Gutgar
+Gwaedhiel
 Gwaelethiel
 Gwaeros
 Gwaethel
