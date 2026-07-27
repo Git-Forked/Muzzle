@@ -1113,6 +1113,7 @@ Duvelon
 Duvodianne
 Dvoin
 Dvorako
+Dwadlin
 Dwarfbanner
 Dwarfblade
 Dwarrofil
@@ -3063,6 +3064,7 @@ Pizza
 Plowman
 Plowpete
 Pocketmint
+Pocketpancakes
 Poctro
 Podz
 Podzila
@@ -3132,6 +3134,7 @@ Radablast
 Radagrim
 Radamdam
 Radegunde
+Radhrik
 Radnok
 Radobold
 Radohael
@@ -3919,6 +3922,7 @@ Turinthi
 Turjinbar
 Turzirik
 Tuxtormona
+Twain
 Twelveteen
 Twitterpated
 Tynhierl
