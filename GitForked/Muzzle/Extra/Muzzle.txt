@@ -632,6 +632,7 @@ Brytgar
 Brythriel
 Buckafuffalo
 Bucklewheelwheel
+Buckmar
 Buddbro
 Budhlz
 Bufarr
@@ -712,6 +713,7 @@ Cattfish
 Cavedog
 Cayleigh
 Ceckshavr
+Cedricunderburrow
 Ceirys
 Celaenas
 Celaewen
@@ -3728,6 +3730,7 @@ Telken
 Telporno
 Temiwyn
 Temmiwyn
+Tenebrae
 Tenpos
 Teriayn
 Terminsel
