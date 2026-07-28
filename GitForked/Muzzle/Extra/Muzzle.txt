@@ -1224,6 +1224,7 @@ Elesposodeella
 Elessaras
 Elfarro
 Elfbane
+Elfre
 Elggarlumbottleguard
 Eliani
 Eliberry
@@ -1265,6 +1266,7 @@ Elwwingg
 Elwys
 Elyborn
 Elyviel
+Elywen
 Emalein
 Emildan
 Emillina
@@ -1286,6 +1288,7 @@ Eochain
 Eofgyth
 Eogorn
 Eolan
+Eolianna
 Eoridh
 Eorl
 Eorlhunts
@@ -1551,6 +1554,7 @@ Gallstone
 Galmli
 Galmr
 Galunir
+Gampa
 Gamstarli
 Gandorael
 Gangcious
@@ -1771,6 +1775,7 @@ Gwinne
 Gwinthain
 Gwynblaed
 Gyngilly
+Gyrudal
 Gyrvor
 Habstrom
 Hackers
@@ -2843,6 +2848,7 @@ Nerhesi
 Nerodia
 Nerreid
 Nervimar
+Nerweniel
 Nethelion
 Neverfound
 Neverko
@@ -3311,6 +3317,7 @@ Ryantyrtyrtyrtyr
 Ryeanne
 Rytharius
 Ryuknite
+Saanah
 Saarthronah
 Saashay
 Saba
