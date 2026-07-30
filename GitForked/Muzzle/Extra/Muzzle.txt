@@ -121,6 +121,7 @@ Aleena
 Alengwen
 Aleriadh
 Alexandrid
+Alfadas
 Alfhelm
 Alfhildre
 Alfrikr
@@ -2965,6 +2966,7 @@ Oordin
 Oorvaril
 Ophit
 Ophy
+Oradus
 Oraenne
 Oragorn
 Orangeduke
@@ -3589,6 +3591,7 @@ Starsaber
 Steathstinger
 Steelkiss
 Steelphoenix
+Steffano
 Stegos
 Stickcaster
 Stigred
@@ -4050,6 +4053,7 @@ Vastien
 Vathwen
 Vaticas
 Vatog
+Veanne
 Vedder
 Vedok
 Veilo
