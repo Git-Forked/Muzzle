@@ -84,6 +84,7 @@ Aijaxx
 Aillaline
 Ainince
 Ainred
+Ainudil
 Ainurlindale
 Ainwel
 Airavis
@@ -1702,6 +1703,7 @@ Gramorin
 Granomir
 Grathdorr
 Graudin
+Grayman
 Greensleeves
 Grenados
 Grep
@@ -2010,6 +2012,7 @@ Inlerah
 Inphellos
 Insane
 Install
+Insynerate
 Inulluin
 Invincible
 Iondhilin
@@ -2290,6 +2293,7 @@ Kyannah
 Kylosaldmeri
 Kylrin
 Kyndray
+Kynsia
 Kyrrall
 Kystrel
 Kytraan
@@ -2832,6 +2836,7 @@ Nataliie
 Nathaniel
 Nattee
 Naurfilig
+Naviela
 Nefte
 Negativeglow
 Nekros
@@ -3446,6 +3451,7 @@ Sherieth
 Sherirune
 Shidosh
 Shielda
+Shieldslam
 Shieranor
 Shieras
 Shiroemd
@@ -3470,6 +3476,7 @@ Sigmodi
 Signe
 Sigrid
 Sigskogi
+Silcia
 Sildag
 Sillier
 Silnia
@@ -3623,6 +3630,7 @@ Sturmunddrang
 Styrimadr
 Sublemonal
 Sugarsmonk
+Sulvelion
 Summerlilly
 Summersweet
 Sunnydragon
@@ -3881,6 +3889,7 @@ Toranduil
 Torarandir
 Torbor
 Torcal
+Torenham
 Torenmir
 Torgollag
 Torja
@@ -3978,6 +3987,7 @@ Unglarion
 Urakad
 Urehn
 Urhmahgurd
+Urnarseldo
 Ursaline
 Ursalynn
 Urundel
@@ -3997,6 +4007,7 @@ Vahnya
 Vahnyadur
 Vaidaran
 Vailar
+Vairogil
 Valamira
 Valaredain
 Valaros
