@@ -256,6 +256,7 @@ Arheida
 Ariawulf
 Ariezen
 Arigel
+Arilindir
 Aristophane
 Arjunelle
 Arkhon
@@ -639,6 +640,7 @@ Buckmar
 Buddbro
 Budhlz
 Bufarr
+Buffalochip
 Bunnydemon
 Buoy
 Burgbald
@@ -739,6 +741,7 @@ Celian
 Celigwen
 Celquay
 Celrindar
+ Celthanwing
 Celuaglar
 Celviel
 Cemorva
@@ -925,6 +928,7 @@ Daeriir
 Daethirel
 Daffin
 Daffodowndilly
+Dafini
 Dagadaen
 Dagarvarth
 Dagdreth
@@ -1303,6 +1307,7 @@ Eowerd
 Ephedria
 Epherandir
 Epicfortheages
+Epiphylla
 Equdren
 Eramor
 Erass
@@ -2498,6 +2503,7 @@ Maerchellung
 Maerethor
 Maerien
 Maerwynn
+Maethdir
 Maethodhal
 Maethorgil
 Maethrandiel
@@ -2985,12 +2991,14 @@ Orenwen
 Organdin
 Orihs
 Orkbeard
+Ormlin
 Orndil
 Ornelluin
 Orney
 Ornki
 Oroastor
 Orthond
+Orthordis
 Osklof
 Oskyr
 Ostarah
@@ -3080,6 +3088,7 @@ pizza
 Pizza
 Plowman
 Plowpete
+Plummetus
 Pocketmint
 Pocketpancakes
 Poctro
@@ -3190,6 +3199,7 @@ Rasferil
 Raspberryellaywn
 Rathrandir
 Raudhagen
+Rausaen
 Ravangel
 Ravirja
 Ravvulf
@@ -3230,6 +3240,7 @@ Reylan
 Reyzark
 Rezmon
 Rhabdos
+Rhadryc
 Rhaegorn
 Rhambdon
 Rhea
@@ -3245,6 +3256,7 @@ Rhubraig
 Rhuwin
 Rhyader
 Rhyaena
+Rhyvinria
 Rhyya
 Riayl
 Riboka
@@ -3922,8 +3934,10 @@ Treswyn
 Tresylia
 Trinsa
 Trisen
+Triswynd
 Triswynn
 Tromdir
+Tromund
 Trulo
 Trushot
 Truthful
