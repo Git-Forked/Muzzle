@@ -944,6 +944,7 @@ Dallian
 Dalongar
 Damdidthathurt
 Damdifido
+Damdros
 Damidir
 Damieon
 Danaerwyn
@@ -2306,6 +2307,7 @@ Labrien
 Lachallun
 Ladybeorn
 Ladybuug
+Laediswasherum
 Laegonthir
 Laerdis
 Laeriel
@@ -2326,6 +2328,7 @@ Langoliers
 Lanteldan
 Lantholfiel
 Laochson
+Laquandria
 Larfast
 Larinlas
 Larken
@@ -3001,6 +3004,7 @@ Orthond
 Orthordis
 Osklof
 Oskyr
+Ostalphir
 Ostarah
 Ostoril
 Otevir
@@ -3296,6 +3300,7 @@ Rockmogstar
 Rockworthy
 Rodgertherabbit
 Rodrityz
+Roduilos
 Rodvolic
 Rog
 Rogercumstone
@@ -3918,6 +3923,7 @@ Trail
 Trajjin
 Tran
 Trappyflaps
+Travelagent
 Travisbickle
 Travitz
 Traynrekh
