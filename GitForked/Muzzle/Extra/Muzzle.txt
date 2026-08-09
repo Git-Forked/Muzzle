@@ -288,6 +288,7 @@ Arvold
 Arwenya
 Aryvandaar
 Asglorgor
+Asharon
 Ashcroft
 Ashenx
 Ashian
@@ -502,6 +503,7 @@ Berramage
 Berratul
 Berrazul
 Bertenshaw
+Berylus
 Beshra
 Bevremora
 Bewenth
@@ -571,6 +573,7 @@ Bowedup
 Bowerick
 Bowien
 Bowkili
+Boysenberry
 Bradwin
 Bragowulf
 Bragregbeth
@@ -625,6 +628,7 @@ Bruce
 Brudd
 Bruenyn
 bruh
+Bruinscat
 Brunna
 Brunnalf
 Brunnlager
@@ -1179,6 +1183,7 @@ Edhelphiel
 Edithfaye
 Edomir
 Edrodruth
+Edrothel
 Edwinadin
 Eebwick
 Eeomir
@@ -1186,6 +1191,7 @@ Eetazz
 Eetzz
 Efbryt
 Effexor
+Efillaith
 Eggalia
 Eggin
 Eggroal
@@ -1472,6 +1478,7 @@ Flaxie
 Flitfo
 Floddotter
 Floorr
+Florendir
 Florntnargg
 Flowergirl
 Fluffymcgee
@@ -1566,6 +1573,7 @@ Gampa
 Gamstarli
 Gandorael
 Gangcious
+Garan
 Garavhir
 Garlique
 Garneer
@@ -1664,6 +1672,7 @@ Glumbtro
 Glyngil
 Glythor
 Gnaramir
+Gnardor
 Gnarlbo
 Gnarlrond
 Gnarmli
@@ -1929,6 +1938,7 @@ Hrosdur
 Hrothland
 Hrovald
 Huaniel
+Hubro
 Hucklebarry
 Hucklepuck
 Hugeos
@@ -2100,11 +2110,13 @@ Jettandar
 Jewlalt
 Jexadia
 Jezzo
+Jhesamina
 Jiimmyy
 Jillay
 Jimineecrackhedd
 Jimmymcgill
 Jinni
+Jinwe
 Jinwoo
 Jivaro
 Jizzy
@@ -2126,6 +2138,7 @@ Judyblueeyes
 Juggernaughtie
 Juicejackal
 Juliachilds
+Juliena
 Junoh
 Jurelle
 Justahobbit
@@ -2847,6 +2860,7 @@ Nattee
 Naurfilig
 Naviela
 Nefte
+Neftimir
 Negativeglow
 Nekros
 Neldun
@@ -2929,6 +2943,7 @@ Oakwood
 Oashia
 Oathbreaker
 Oathstone
+Oba
 Obadeb
 Obius
 Odaghaim
@@ -3375,6 +3390,7 @@ Sammya
 Sampaguita
 Samwindchester
 Sandrine
+sandwich
 Sarahaphina
 Sarbec
 Sarcastard
@@ -3473,6 +3489,7 @@ Shieldslam
 Shieranor
 Shieras
 Shiroemd
+Shivii
 Shockakhan
 Shockzula
 Shoke
@@ -3528,6 +3545,7 @@ Skegthor
 Skerjarn
 Skerling
 Skiffs
+Skjaldrin
 Skjolbeorn
 Skodli
 Skordulfson
@@ -3963,6 +3981,7 @@ Tuon
 Tuoz
 Tuppo
 Tur
+Turadiel
 Turinthi
 Turjinbar
 Turzirik
@@ -4028,6 +4047,7 @@ Vahnya
 Vahnyadur
 Vaidaran
 Vailar
+Vailon
 Vairogil
 Valamira
 Valaredain
