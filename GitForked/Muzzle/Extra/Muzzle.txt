@@ -502,6 +502,7 @@ Beriathorn
 Berramage
 Berratul
 Berrazul
+Berska
 Bertenshaw
 Berylus
 Beshra
@@ -556,9 +557,11 @@ Bombastic
 Bonappetit
 Bonger
 Boofing
+Bootysweat
 Boral
 Borarin
 Borarir
+Borcharb
 Bordale
 Bork
 Bornibrand
@@ -573,6 +576,7 @@ Bowedup
 Bowerick
 Bowien
 Bowkili
+Boycott
 Boysenberry
 Bradwin
 Bragowulf
@@ -1079,6 +1083,7 @@ Doubledat
 Draelinn
 Dragonaxus
 Dragonbourne
+Dragondoodoo
 Dragonmynuz
 Dramione
 Dranthor
@@ -1106,6 +1111,7 @@ Dudeskee
 Dudesweet
 Duindalan
 Dulciana
+Dulcie
 Dulgun
 Dumbledorf
 Dumel
@@ -1328,6 +1334,7 @@ Erriikk
 Ertorias
 Erufinwe
 Eruiondur
+Eruliriel
 Eryishot
 Eryndaer
 Erythorn
@@ -1518,6 +1525,7 @@ Frie
 Friggnar
 Frilla
 Frobosher
+Frogeric
 Frogribbet
 Frolon
 Frostdeefa
@@ -1874,6 +1882,7 @@ Hedgewald
 Heelmi
 Hefthyn
 Heftwirl
+Hegnar
 Heimrih
 Helamabut
 Heleian
@@ -2080,6 +2089,7 @@ Jalara
 Jalberto
 Jalormur
 Jameka
+Jamsammich
 Jaqueshellaque
 Jarbewbalan
 Jarpbarth
@@ -2130,6 +2140,7 @@ Jonnybgoode
 Jonwhorfin
 Joplaya
 Jorrus
+Joshiedaelf
 Joybuzzer
 Joycion
 Joyrien
@@ -2456,6 +2467,7 @@ Lordevileyes
 Lordfourbears
 Lordfoursquare
 Lordunderhill
+Lorearound
 Lorefreak
 Loremandy
 Lorendor
@@ -2907,6 +2919,7 @@ Nin
 Ninathered
 Ninebones
 Nineteenohone
+Ninsuleth
 Ninverod
 Ninwenel
 Nisare
@@ -2986,6 +2999,7 @@ Olokun
 Omegaruler
 Omelia
 Ondmerk
+Onefitty
 Onnelm
 Onokh
 Onthorvo
@@ -3269,6 +3283,7 @@ Rhel
 Rheniogil
 Rhenostor
 Rhianan
+Rhodrid
 Rhomex
 Rhosiel
 Rhovwyn
@@ -3475,6 +3490,7 @@ Shadowi
 Shadowrabbit
 Shadowtom
 Shaill
+Shanarah
 Shatterbone
 Shaynai
 Sheilagh
@@ -3995,6 +4011,7 @@ Tyrrunt
 Tyruka
 Tywaz
 Ualoria
+Uanaric
 Uandan
 Uberfool
 Ugoun
@@ -4246,6 +4263,7 @@ Wulvar
 Wuullff
 Wylma
 Wynanor
+Wyndottier
 Wynohna
 Wysprwind
 Xailei
