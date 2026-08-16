@@ -207,6 +207,7 @@ Anothersong
 Antarus
 Antellion
 Antharen
+Anthem
 Anthemiel
 Antheron
 Anthorellian
@@ -259,6 +260,7 @@ Arigel
 Arilindir
 Aristophane
 Arjunelle
+Arkamai
 Arkhon
 Arkoudos
 Armorig
@@ -1284,6 +1286,7 @@ Elvenraen
 Elwwingg
 Elwys
 Elyborn
+Elynorien
 Elyviel
 Elywen
 Emalein
@@ -1550,6 +1553,7 @@ Fyrgrin
 Fyrno
 Fyyk
 Gabrilos
+Gaderath
 Gadhronuir
 Gaearil
 Gaeladir
@@ -2269,6 +2273,7 @@ Kirisania
 Kissyfur
 Kithrii
 Kitrael
+Kliya
 Knatdren
 Knob
 Knowledgeispower
@@ -2703,6 +2708,7 @@ Menindiel
 Menuriel
 Mereithien
 Mereliss
+Merethdil
 Merhedrith
 Merifred
 Merilelin
@@ -2723,6 +2729,7 @@ Miffed
 Miffin
 Migarael
 Migheedo
+Milforien
 Militant
 Milkyshot
 Millymollymay
@@ -2909,6 +2916,7 @@ Niendil
 Nightmare
 Nilthrandir
 Nimbo
+Nimcu
 Nimcuru
 Nimdhiran
 Nimfindor
@@ -2939,6 +2947,7 @@ Norfori
 Norilos
 Norlandoc
 Nornagest
+North
 Northarin
 Nosaphor
 Nosro
@@ -2948,6 +2957,7 @@ Nroin
 Nuckchorris
 Nudhun
 Nulelirie
+Nulianae
 Numion
 Nurahir
 Nurvollos
@@ -3491,6 +3501,7 @@ Shadowrabbit
 Shadowtom
 Shaill
 Shanarah
+Sharkscat
 Shatterbone
 Shaynai
 Sheilagh
@@ -3802,6 +3813,7 @@ Telken
 Telporno
 Temiwyn
 Temmiwyn
+Tenalach
 Tenebrae
 Tenpos
 Teriayn
@@ -3855,6 +3867,7 @@ Thinachar
 Thissa
 Thistlebuckle
 Thistledoon
+Thistlen
 Thnamllss
 Thobrin
 Thodvalgeir
@@ -3944,6 +3957,7 @@ Torcal
 Torenham
 Torenmir
 Torgollag
+Toringe
 Torja
 Tormur
 Toronderp
@@ -4074,6 +4088,7 @@ Valdemar
 Valderak
 Valdhame
 Valdho
+Valdhstorm
 Valdhzoom
 Valdifar
 Valdmir
@@ -4316,6 +4331,7 @@ Ysmoll
 Yulisese
 Yviel
 Zacc
+Zackenzie
 Zaeri
 Zaerrok
 Zaira
