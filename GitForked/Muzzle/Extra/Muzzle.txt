@@ -1757,6 +1757,7 @@ Grimradd
 Grimrod
 Grippa
 Grithraw
+Grizane
 Grizzleburr
 Grogbeorn
 Gromnir
@@ -2397,6 +2398,7 @@ Lendless
 Lengethmorn
 Lengost
 Leofrex
+Leotie
 Lesprout
 Lethonel
 Leviathorn
@@ -2619,6 +2621,7 @@ Marmi
 Martadan
 Martingale
 Marwhini
+Maryla
 Mathanir
 Mathraandir
 Mauldawg
@@ -3846,6 +3849,7 @@ Thechamp
 Thecrimsondirk
 Theedooms
 Thegrandnagus
+Thegrindisreal
 Thelaris
 Thelhild
 Theluilas
@@ -4256,6 +4260,8 @@ Winterdance
 Wisemen
 Wisty
 Withiewindle
+Woketrocc
+Woketrodd
 Wolfhunters
 wow
 WoW
@@ -4371,6 +4377,7 @@ Zinns
 Zinriel
 Zivvie
 Ziyi
+Zizida
 Zoana
 Zoemi
 Zoeythefirst
