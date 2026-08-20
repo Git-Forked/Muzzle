@@ -1614,6 +1614,7 @@ Gernobrandy
 Gerrie
 Gerthiel
 Gerxin
+Getoffmycloud
 Gharos
 Ghellar
 Ghostlovescore
@@ -1889,6 +1890,7 @@ Hefthyn
 Heftwirl
 Hegnar
 Heimrih
+Heist
 Helamabut
 Heleian
 Helgrenze
@@ -2042,6 +2044,7 @@ Inlerah
 Inphellos
 Insane
 Install
+Insyght
 Insynerate
 Inulluin
 Invincible
@@ -2795,6 +2798,7 @@ Moredeeb
 Moredhriel
 Morganah
 Morgenlada
+Morgwyn
 Morgylwen
 Morgynne
 Moriaen
@@ -2964,6 +2968,7 @@ Nulianae
 Numion
 Nurahir
 Nurvollos
+Nyghtshade
 Nykerym
 Oakwood
 Oashia
@@ -3089,6 +3094,7 @@ Penypuncher
 Peppapig
 Peridota
 Perinos
+Pernas
 Perric
 Persig
 Petting
