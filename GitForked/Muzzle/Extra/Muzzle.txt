@@ -1363,6 +1363,7 @@ Ethreiwen
 Ethrellaf
 Ethruanwen
 Ethwynn
+Eventine
 Evering
 Everiol
 Everita
@@ -1580,6 +1581,7 @@ Gallodhreth
 Gallstone
 Galmli
 Galmr
+Galti
 Galunir
 Gampa
 Gamstarli
@@ -4140,6 +4142,7 @@ Variable
 Variaga
 Varkanros
 Varl
+Varlam
 Varun
 Vashmir
 Vashtiel
