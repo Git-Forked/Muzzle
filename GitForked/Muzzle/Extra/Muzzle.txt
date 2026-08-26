@@ -263,6 +263,7 @@ Arjunelle
 Arkamai
 Arkhon
 Arkoudos
+Arladriel
 Armorig
 Armst
 Arnif
@@ -378,6 +379,7 @@ Badstew
 Baerdus
 Baerion
 Baffin
+Bag
 Bagadonuts
 Baheeby
 Bahogbilat
@@ -1540,6 +1542,7 @@ Frostodda
 Frothfrith
 Frothrond
 Fubs
+Fudou
 Fuldrith
 Fulgram
 Fundir
@@ -2423,6 +2426,7 @@ Lillira
 Lillothriel
 Lillun
 Lilpapared
+Lilslinky
 Lilyrose
 Limbgwen
 Limelemon
@@ -2539,6 +2543,7 @@ Madragon
 Maeldhor
 Maelforge
 Maellos
+Maengil
 Maerchan
 Maerchellung
 Maerethor
@@ -3366,6 +3371,7 @@ Romawende
 Ronalo
 Rooklar
 Roonilwazlib
+Roosta
 Rootor
 Rormurori
 Roseilid
@@ -3627,6 +3633,7 @@ Snutlo
 Sohaila
 Soladun
 Solveiga
+Sondra
 Sonechka
 Sookannadeek
 Sorahan
@@ -3670,6 +3677,7 @@ Starlirien
 Starmetal
 Starrili
 Starsaber
+Starsurestrike
 Steathstinger
 Steelkiss
 Steelphoenix
@@ -3877,6 +3885,7 @@ Thickmember
 Thicro
 Thidfinn
 Thinachar
+Thinthas
 Thissa
 Thistlebuckle
 Thistledoon
@@ -3980,6 +3989,7 @@ Torvalar
 Torvalig
 Tosmod
 Totesmagoats
+Toxin
 Toystory
 Trail
 Trajjin
@@ -4057,7 +4067,9 @@ Ullorviel
 Ulmadir
 Ulnirhael
 Ulrosst
+Ultanil
 Uluithiaid
+Ulverk
 Ulvghar
 Ulvjager
 Umberhill
@@ -4271,8 +4283,10 @@ Winterdance
 Wisemen
 Wisty
 Withiewindle
+Woke
 Woketrocc
 Woketrodd
+Woketropp
 Wolfhunters
 wow
 WoW
