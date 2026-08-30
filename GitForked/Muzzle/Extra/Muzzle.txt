@@ -446,6 +446,7 @@ Bearmann
 Bearpigs
 Beassie
 Beastrod
+Beauvine
 Bedhuros
 Beekeeper
 Beetho
@@ -681,6 +682,7 @@ Cairwen
 Cake
 Caladess
 Calamegil
+Calana
 Calanta
 Calasseme
 Calencam
@@ -972,6 +974,7 @@ Dantimily
 Daraethorn
 Darahir
 Daran
+Darcie
 Darcstah
 Darcstar
 Darduipher
@@ -1614,6 +1617,7 @@ Gelnirvor
 Gemiinii
 Gentlemangimli
 Geraalt
+Gerenolf
 Gereondir
 Gernobrandy
 Gerrie
@@ -1868,6 +1872,7 @@ Harbad
 Hardanna
 Hardfist
 Hardhead
+Hargrin
 Haripotter
 Harnesila
 Harrowthorn
@@ -2295,6 +2300,7 @@ Koldjinn
 Konaran
 Koonie
 Koopernicus
+Kopili
 Kordaitra
 Korethot
 Kornpop
@@ -2521,6 +2527,7 @@ Luntauil
 Lupilia
 Lustella
 Luthiell
+Luthienwen
 Lutholea
 Lyekka
 Lyfeline
@@ -2561,6 +2568,7 @@ Magdanel
 Magolas
 Magoneg
 Maguren
+Mahli
 Mailewen
 Maillard
 Maiorianvs
@@ -3167,6 +3175,7 @@ Polynya
 Pontin
 popcorn
 Posthumously
+Potaato
 Potbelly
 Powerfists
 Powerthalion
@@ -4051,6 +4060,7 @@ Ualoria
 Uanaric
 Uandan
 Uberfool
+Udhram
 Ugoun
 Uhaul
 Uirebil
@@ -4336,6 +4346,7 @@ Yaaka
 Yahayi
 Yaniell
 Yannig
+Yarrim
 Yaruzuk
 Yasmeirra
 Yaulinde
