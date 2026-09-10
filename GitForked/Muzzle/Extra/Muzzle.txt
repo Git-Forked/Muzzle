@@ -336,6 +336,7 @@ Aurblodyn
 Aurelianna
 Aurethien
 Aurie
+Ausuma
 Autobotjoanneprime
 Avangrod
 Avarian
@@ -654,6 +655,7 @@ Buddbro
 Budhlz
 Bufarr
 Buffalochip
+Bullscat
 Bunnydemon
 Buoy
 Burgbald
@@ -786,6 +788,7 @@ Chesnutpuck
 Chetna
 Chiamobus
 Chianita
+Chickenscat
 Chiksie
 Chipmink
 Chiriel
@@ -1483,6 +1486,7 @@ Firemyst
 Firestarter
 Fishildur
 Fistpower
+Fists
 Flamelord
 Flammewyn
 Flapjack
@@ -1964,6 +1968,7 @@ Hrosdur
 Hrothland
 Hrovald
 Huaniel
+Hubethelion
 Hubro
 Hucklebarry
 Hucklepuck
@@ -2107,6 +2112,7 @@ Jalara
 Jalberto
 Jalormur
 Jameka
+Jamroar
 Jamsammich
 Jaqueshellaque
 Jarbewbalan
@@ -2364,6 +2370,7 @@ Laganomics
 Lagtastic
 Lahinia
 Lailarose
+Laime
 Lairelithonielle
 Laithriel
 Lajos
@@ -3498,6 +3505,7 @@ Sehad
 Seitse
 Selarglin
 Selbinhunter
+Selendam
 Semsem
 Senirian
 Seoda
@@ -3692,6 +3700,7 @@ Steelkiss
 Steelphoenix
 Steffano
 Stegos
+Stewnatius
 Stickcaster
 Stigred
 Stimi
@@ -3998,6 +4007,7 @@ Torvalar
 Torvalig
 Tosmod
 Totesmagoats
+Tothego
 Toxin
 Toystory
 Trail
