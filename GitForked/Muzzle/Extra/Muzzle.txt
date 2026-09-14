@@ -172,6 +172,7 @@ Ametheil
 Amethiel
 Amethysl
 Amhallion
+Amizzandir
 Amlindor
 Amlodh
 Ammowing
@@ -794,6 +795,7 @@ Chipmink
 Chiriel
 Chrisp
 Chrysalis
+Chrysanthum
 Chuckingson
 Chunindia
 Cieranwal
@@ -1522,6 +1524,7 @@ Forwenuir
 Fraeyaa
 Fragarach
 Franois
+Freabolde
 Freaya
 Freisa
 Frenalcara
@@ -1932,6 +1935,7 @@ Hihiirokana
 Himmynuetron
 Hingana
 Hiperbole
+Hiphophighelf
 Hirarthlas
 Hirenthas
 Hiroladh
@@ -2446,6 +2450,7 @@ Limelemon
 Linadoor
 Linchino
 Lindahad
+Lindeon
 Lindere
 Linderion
 Lindhellith
@@ -2709,6 +2714,7 @@ Mcgavan
 Mcthuselah
 Meagyth
 Meato
+Medigol
 Medumam
 Meduzeld
 Meemsikins
@@ -2927,6 +2933,7 @@ Nerodia
 Nerreid
 Nervimar
 Nerweniel
+Nethael
 Nethelion
 Neverfound
 Neverko
