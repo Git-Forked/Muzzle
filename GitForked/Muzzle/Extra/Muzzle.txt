@@ -804,6 +804,7 @@ Cilion
 Cilwen
 Cima
 Cinamynt
+Cindars
 Cinlind
 Cinnabarcinnabar
 Cipher
@@ -1471,6 +1472,7 @@ Findolrond
 Findorion
 Findrial
 Fingarwe
+Finitir
 Finleigh
 Finnius
 Finnorval
@@ -1489,6 +1491,7 @@ Firestarter
 Fishildur
 Fistpower
 Fists
+Flamejillyana
 Flamelord
 Flammewyn
 Flapjack
@@ -4015,6 +4018,7 @@ Torporral
 Torreya
 Torvalar
 Torvalig
+Torvanion
 Tosmod
 Totesmagoats
 Tothego
