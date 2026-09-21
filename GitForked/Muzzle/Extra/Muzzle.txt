@@ -756,6 +756,7 @@ Celestrae
 Celestriah
 Celian
 Celigwen
+Cellrindir
 Celquay
 Celrindar
  Celthanwing
@@ -2354,6 +2355,7 @@ Kuzukic
 Kwarei
 Kwozzy
 Kyannah
+Kyfer
 Kylosaldmeri
 Kylrin
 Kyndray
@@ -3119,6 +3121,7 @@ Peachfuzy
 Peanutbuttercup
 Pebbles
 Peezywick
+Pegolais
 Peligo
 Peltaur
 Peluso
@@ -4057,6 +4060,7 @@ Tsketh
 Tsugilist
 Tswana
 Tubbious
+Tufar
 Tuilindas
 Tuingol
 Tuion
@@ -4068,13 +4072,17 @@ Tuoz
 Tuppo
 Tur
 Turadiel
+Turanir
+Turinan
 Turinthi
 Turjinbar
+Tursco
 Turzirik
 Tuxtormona
 Twain
 Twelveteen
 Twitterpated
+Tyco
 Tynhierl
 Typpo
 Tyrrunt
