@@ -3075,6 +3075,7 @@ Ordsmidr
 Orendir
 Orenwen
 Organdin
+Originalviper
 Orihs
 Orkbeard
 Ormlin
@@ -4249,6 +4250,7 @@ Vinhandel
 Vinnalor
 Vinoria
 Vionya
+viper
 Vipersback
 Viraninde
 Viryalote
