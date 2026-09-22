@@ -498,6 +498,7 @@ Beornyson
 Bequia
 Berachah
 Beradthir
+Berandir
 Beraniel
 Beravelda
 Berduinel
@@ -928,6 +929,7 @@ Cutholm
 Cuvandir
 Cuz
 Cvibino
+Cwenera
 Cwenmoda
 Cwilla
 Cwynith
@@ -1053,6 +1055,7 @@ Digton
 Dildum
 Dilligad
 Dinalagosseth
+Dinegel
 Diney
 Dingleberries
 Dinglebery
@@ -2113,6 +2116,7 @@ Jackhoneysuckle
 Jackill
 Jackzz
 Jadzi
+Jailianna
 Jaimiecha
 Jaiyne
 Jakwaggon
@@ -2546,6 +2550,7 @@ Lupilia
 Lustella
 Luthiell
 Luthienwen
+Luthilien
 Lutholea
 Lyekka
 Lyfeline
@@ -2716,6 +2721,7 @@ Mayura
 Mayushi
 Mayzap
 Mcbill
+Mcdennis
 Mcgavan
 Mcthuselah
 Meagyth
@@ -4418,6 +4424,7 @@ Zalleb
 Zanadela
 Zanathan
 Zandragal
+Zandraghal
 Zanker
 Zapping
 Zaqs
