@@ -1604,6 +1604,7 @@ Galmli
 Galmr
 Galti
 Galunir
+Galvrindal
 Gampa
 Gamstarli
 Gandorael
@@ -2232,6 +2233,7 @@ Kartuk
 Karwise
 Karyn
 Kashbold
+Kasya
 Katamari
 Katananeko
 Katarinah
@@ -2562,6 +2564,7 @@ Lyrewolf
 Lyricborn
 Lyrielle
 Lysandoc
+Lysannis
 Lyuda
 Macgimli
 Macie
@@ -4014,6 +4017,7 @@ Toltho
 Tomowyn
 Tonias
 Tonymaloney
+Topan
 Topoftheworld
 Toranduil
 Torarandir
@@ -4034,6 +4038,7 @@ Torvanion
 Tosmod
 Totesmagoats
 Tothego
+Toviman
 Toxin
 Toystory
 Trail
