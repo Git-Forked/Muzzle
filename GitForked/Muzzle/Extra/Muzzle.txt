@@ -776,6 +776,7 @@ Cerlebion
 Certhessar
 Cesmogal
 Cfofled
+Chadric
 Chalric
 Chance
 Chancev
@@ -3421,6 +3422,7 @@ Roseilid
 Roslindia
 Rosmona
 Rozalynn
+Rozarron
 Rrandgrid
 Rubysilver
 Rucket
