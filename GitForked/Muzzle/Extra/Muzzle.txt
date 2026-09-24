@@ -690,6 +690,7 @@ Calamegil
 Calana
 Calanta
 Calasseme
+Calenas
 Calencam
 Calendulla
 Californiabestbear
@@ -828,6 +829,7 @@ Claudein
 Clawrond
 Claytonius
 Clemie
+Clever
 Cloud
 Cloudbeorn
 Cloudfarm
@@ -2180,6 +2182,7 @@ Jonnybgoode
 Jonwhorfin
 Joplaya
 Jorrus
+Josephe
 Joshiedaelf
 Joybuzzer
 Joycion
@@ -3115,6 +3118,7 @@ Oya
 Ozimandius
 Padmi
 Pahx
+Paisios
 Palabrana
 Paladion
 Palliate
@@ -3990,9 +3994,11 @@ Tinburgler
 Tindraviel
 Tinkerbaer
 Tinowyn
+Tinsnips
 Tinuver
 Tiocfaidharla
 Tippo
+Tipsycat
 Tirielenkalina
 Tirindal
 Tirindion
