@@ -4169,6 +4169,7 @@ Muzzle = {
 	'Urnarseldo',
 	'Ursaline',
 	'Ursalynn',
+	'Ursinus',
 	'Urundel',
 	'Urvallin',
 	'Urwendur',
