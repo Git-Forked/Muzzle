@@ -71,6 +71,7 @@ Afrathelion
 Agerk
 Agie
 Aglabmenu
+Agnatha
 Agul
 Ahrees
 Ahrn
@@ -108,6 +109,7 @@ Akri
 Alagosbereth
 Alagosdil
 Alassin
+Alaydia
 Alayta
 Aldaldan
 Aldaras
@@ -525,6 +527,7 @@ Bhaderik
 Bhalxerog
 Bidgald
 Bierht
+Bifbi
 Biffthunderfist
 Bigolmilk
 Bigpackage
@@ -821,6 +824,7 @@ Cirelborn
 Cirfindil
 Cirhorn
 Cironell
+Cirthran
 Cirudan
 Cjin
 Clamnog
@@ -1695,6 +1699,7 @@ Glenarth
 Glewellin
 Glicious
 Glissanda
+Glizzmorali
 Globalist
 Globuk
 Glodd
@@ -1893,6 +1898,7 @@ Hardanna
 Hardfist
 Hardhead
 Hargrin
+Hariley
 Haripotter
 Harnesila
 Harrowthorn
@@ -2442,6 +2448,7 @@ Lengethmorn
 Lengost
 Leofrex
 Leotie
+Leotwyna
 Lesprout
 Lethonel
 Leviathorn
@@ -2628,6 +2635,7 @@ Mallowmist
 Malmag
 Malnek
 Malnoril
+Malodor
 Malogag
 Malonga
 Malorwyn
@@ -3309,6 +3317,7 @@ Rathrandir
 Raudhagen
 Rausaen
 Ravangel
+Ravenfrost
 Ravirja
 Ravvulf
 Razledazle
@@ -3970,6 +3979,7 @@ Thrashley
 Threespoons
 Threllion
 Throldire
+Throrvar
 Throttalin
 Thrumzin
 Thruthla
@@ -4028,6 +4038,7 @@ Tomowyn
 Tonias
 Tonymaloney
 Topan
+Topazfey
 Topoftheworld
 Toranduil
 Torarandir
@@ -4341,6 +4352,7 @@ Wilmoor
 Windi
 Windorsa
 Windybutt
+Winewolf
 Winfreda
 Wingy
 Wingyili
@@ -4460,6 +4472,7 @@ Zenrage
 Zenrian
 Zenwen
 Zephyriel
+Zephyrys
 Zeraphir
 Zhadki
 Zifnyy
