@@ -293,6 +293,7 @@ Arvardan
 Arvithion
 Arvold
 Arwenya
+Aryasstark
 Aryvandaar
 Asglorgor
 Asharon
@@ -390,6 +391,7 @@ Baheeby
 Bahogbilat
 Baingoleth
 Baintauriel
+Baka
 Baladir
 Balchona
 Baldamur
@@ -681,6 +683,7 @@ Byronius
 Cabo
 Cabox
 Cacophonix
+Caddgal
 Cadrias
 Caelestiel
 Caelfind
@@ -1527,6 +1530,7 @@ Folcarde
 Folkeraldd
 Fonzzie
 Foolscap
+Foox
 Fordiel
 Fordolk
 Foreignoakenshield
@@ -1582,6 +1586,7 @@ Fyrgrin
 Fyrno
 Fyyk
 Gabrilos
+Gadbrand
 Gaderath
 Gadhronuir
 Gaearil
@@ -3857,6 +3862,7 @@ Tarbel
 Tardadhan
 Tardion
 Tareldel
+Tarfilesse
 Tarinor
 Tarisma
 Tarovangiann
@@ -3957,6 +3963,7 @@ Thnamllss
 Thobrin
 Thodvalgeir
 Thondale
+Thorbold
 Thorbosi
 Thorbryth
 Thordania
