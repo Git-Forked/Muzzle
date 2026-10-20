@@ -207,6 +207,7 @@ Annarielle
 Annemis
 Annihilation
 Anorgalen
+Anotherdooms
 Anothersong
 Antarus
 Antellion
@@ -339,6 +340,7 @@ Aumnydaria
 Auraith
 Aurblodyn
 Aurelianna
+Aureliel
 Aurethien
 Aurie
 Ausuma
@@ -1453,6 +1455,7 @@ Feahyandamariner
 Feahyndanor
 Fearimlorn
 Federer
+Feiniel
 Feitanportor
 Felingir
 Felondion
@@ -2306,6 +2309,7 @@ Khwalilahbear
 Kibilturg
 Kilemkwiker
 Killemdafoe
+Killuwu
 Kilrathalon
 Kiltkenny
 Kinchat
@@ -2903,6 +2907,7 @@ Myphanneweigh
 Myrddinus
 Myrwarda
 Mysterous
+Mysthalion
 Mysthi
 Mystiqal
 Mystra
@@ -3520,6 +3525,7 @@ Savageopress
 Savourytoughskin
 Savvory
 Saxmunn
+Saxon
 Scalanis
 Scarletti
 Scathran
@@ -3876,6 +3882,7 @@ Taterswithgravy
 Tathorhen
 Tatines
 Taumaril
+Taurfuin
 Taurtaren
 Taurus
 Taurusalin
@@ -4145,6 +4152,7 @@ Ulerandor
 Ulerond
 Ulfarion
 Ulfheid
+Ulfmar
 Ulfryn
 Ulfthryth
 Ullorviel
@@ -4427,6 +4435,7 @@ Yarrim
 Yaruzuk
 Yasmeirra
 Yaulinde
+Yavannariel
 Yavienn
 Yavina
 Yavon
