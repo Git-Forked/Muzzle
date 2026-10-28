@@ -1189,6 +1189,7 @@ Eadrithe
 Eadwaerd
 Eadweth
 Eaedmund
+Ealaer
 Eamyre
 Eanson
 Earencano
@@ -1260,6 +1261,7 @@ Eldaered
 Eldauriel
 Elderia
 Eldhirian
+Eldmelion
 Eldolthryth
 Eldradan
 Eldrathain
@@ -1658,6 +1660,7 @@ Getoffmycloud
 Gharos
 Ghellar
 Ghostlovescore
+Ghosts
 Ghoti
 Gigahertz
 Giilinlerond
@@ -2293,6 +2296,7 @@ Khaledor
 Khalidune
 Khalilah
 Khalilrandir
+Kharrus
 Khazhadur
 Khel
 Khelbonn
@@ -2322,6 +2326,7 @@ Kirea
 Kirenegan
 Kirianor
 Kirieth
+Kirighwen
 Kirine
 Kirinwyn
 Kirisania
@@ -3502,6 +3507,7 @@ Sampaguita
 Samwindchester
 Sandrine
 sandwich
+Saponatheim
 Sarahaphina
 Sarbec
 Sarcastard
@@ -3719,6 +3725,7 @@ Spannis
 Sparklas
 Sparkslm
 Spensa
+Spettro
 Spiffy
 Spiffyy
 Spites
@@ -3969,6 +3976,7 @@ Thistlen
 Thnamllss
 Thobrin
 Thodvalgeir
+Thollrandir
 Thondale
 Thorbold
 Thorbosi
