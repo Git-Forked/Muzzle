@@ -368,6 +368,7 @@ Ayria
 Aythalion
 Azanul
 Azdalen
+Azghal
 Azkazal
 Azruthor
 Azshar
@@ -1077,6 +1078,7 @@ Diney
 Dingleberries
 Dinglebery
 Dinnaedie
+Dintar
 Dirdacar
 Dirduirun
 Direclaw
@@ -1632,6 +1634,7 @@ Gandorael
 Gangcious
 Garan
 Garavhir
+Garidel
 Garlique
 Garneer
 Garnet
@@ -2221,6 +2224,7 @@ Jurelle
 Justahobbit
 Justicia
 Kadala
+Kadyn
 Kaephrandir
 Kaeracin
 Kahala
@@ -3748,6 +3752,7 @@ Spoonathor
 Sporkington
 Sposco
 Sprunga
+Spudmuffin
 Spyd
 Spydarin
 Spyden
@@ -4146,6 +4151,7 @@ Turanir
 Turinan
 Turinthi
 Turjinbar
+Turril
 Tursco
 Turzirik
 Tuxtormona
