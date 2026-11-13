@@ -369,6 +369,7 @@ Aythalion
 Azanul
 Azdalen
 Azghal
+Azina
 Azkazal
 Azruthor
 Azshar
@@ -588,6 +589,7 @@ Borolin
 Borondol
 Bosmer
 Bossmoss
+Bothketbog
 Bothundbur
 Botok
 Boudicar
@@ -617,6 +619,7 @@ Bregahil
 Bregaith
 Bregalome
 Bregdan
+Bregwulf
 Brendon
 Brengun
 Brethren
@@ -2024,6 +2027,7 @@ Humroc
 Hundi
 Hungluke
 Huntarddaz
+Huntemall
 Hunteringngathering
 Hunterngather
 Hunterseeker
@@ -2975,6 +2979,7 @@ Naviela
 Nefte
 Neftimir
 Negativeglow
+Nekronius
 Nekros
 Neldun
 Nellathrond
@@ -3806,6 +3811,7 @@ Strippahman
 Strothalion
 Stuart
 Studbeefpile
+Stummpy
 Stumpyrella
 Sturmalin
 Sturmunddrang
