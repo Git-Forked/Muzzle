@@ -11,6 +11,7 @@ Aclandia
 Acornish
 Adaiel
 Adalad
+Adaloth
 Adanadir
 Adanidir
 Adanirion
@@ -627,6 +628,7 @@ Briarlyn
 Briarthorn
 Brickdong
 Bridgitt
+Bridgton
 Briggela
 Brightmetal
 Brionna
@@ -1062,6 +1064,7 @@ Derehate
 Derelviel
 Dernuireg
 derp
+Derpaimenu
 Derreneth
 Derryk
 Deruldor
@@ -1330,6 +1333,7 @@ Elynorien
 Elyviel
 Elywen
 Emalein
+Embior
 Emildan
 Emillina
 Emmerreth
@@ -2875,6 +2879,7 @@ Mooch
 Moochy
 Moondog
 Moondoor
+Moonmajic
 Moosenugget
 Morageth
 Moralin
