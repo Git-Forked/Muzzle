@@ -1297,6 +1297,7 @@ Elimr
 Elishelm
 Elixtoria
 Elkana
+Elkanaah
 Elkwing
 Elladreia
 Ellanhard
@@ -2211,6 +2212,7 @@ Joelynne
 John
 Johnnytookamongo
 Jolam
+Jolena
 Jonbones
 Jonkomir
 Jonnybgoode
