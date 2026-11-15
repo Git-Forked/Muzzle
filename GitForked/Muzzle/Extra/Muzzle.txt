@@ -76,6 +76,7 @@ Agnatha
 Agul
 Ahrees
 Ahrn
+Ahryat
 Ahstia
 Aiariel
 Aicamasse
@@ -1500,6 +1501,7 @@ Fillaset
 Filthy
 Fimarith
 Fimbalothir
+Finarphin
 Fincin
 Findiros
 Findlespell
@@ -1540,6 +1542,7 @@ Floddotter
 Floorr
 Florendir
 Florntnargg
+Floti
 Flowergirl
 Fluffymcgee
 Flumpert
@@ -1663,6 +1666,7 @@ Gelemald
 Gelinwar
 Geliriel
 Gelnirvor
+Gem
 Gemiinii
 Gentlemangimli
 Geraalt
@@ -1947,6 +1951,7 @@ Hazeltwig
 Hazzahs
 Healrod
 Heartened
+Hearthstone
 Heddy
 Hedgewald
 Heelmi
@@ -2991,6 +2996,7 @@ Nekros
 Neldun
 Nellathrond
 Nellerael
+Nellian
 Nelsonord
 Nenaured
 Nenaurod
@@ -2998,6 +3004,7 @@ Neneva
 Nephril
 Neppie
 Nerariel
+Nerchamhir
 Nerhesi
 Nerodia
 Nerreid
@@ -3035,6 +3042,7 @@ Ninathered
 Ninebones
 Nineteenohone
 Ninsuleth
+Ninsulnil
 Ninverod
 Ninwenel
 Nisare
@@ -3534,6 +3542,7 @@ Samlin
 Sammya
 Sampaguita
 Samwindchester
+Sandalf
 Sandrine
 sandwich
 Saponatheim
@@ -4020,6 +4029,7 @@ Thorhilwar
 Thorinbob
 Thorinmaplehammah
 Thormli
+Thornarth
 Thornuidhil
 Thorobain
 Thorollang
@@ -4507,6 +4517,7 @@ Zaerrok
 Zaira
 Zairi
 Zalanara
+Zaldryt
 Zaleia
 Zalerian
 Zalleb
