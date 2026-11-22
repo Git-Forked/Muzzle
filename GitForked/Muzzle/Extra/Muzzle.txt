@@ -136,6 +136,7 @@ Alfvarvva
 Algim
 Alibadman
 Alinden
+Alithanar
 Aliyn
 Aljeron
 Alkaos
@@ -252,6 +253,7 @@ Arby
 Archalion
 Archamir
 Arcinrien
+Arctia
 Ardandriel
 Ardannys
 Arden
@@ -359,6 +361,7 @@ Avistennt
 Avistent
 Avjori
 Avriela
+Awtomatic
 Awtoram
 Awtoswabbie
 Axegrindr
@@ -373,6 +376,7 @@ Azdalen
 Azghal
 Azina
 Azkazal
+Azmaluhng
 Azruthor
 Azshar
 Azureflower
@@ -700,6 +704,7 @@ Caelestiel
 Caelfind
 Caellum
 Caelynne
+Caerdynn
 Cairwen
 Cake
 Caladess
@@ -844,6 +849,7 @@ Cirudan
 Cjin
 Clamnog
 Clanguddin
+Claratyne
 Claudein
 Clawrond
 Claytonius
@@ -1071,6 +1077,7 @@ Derryk
 Deruldor
 Deserose
 Deseth
+Devy
 Dhargard
 Dharjeeling
 Dhearic
@@ -1461,6 +1468,7 @@ Farecbor
 Farlost
 Farralorm
 Farwander
+Fastun
 Fatbombur
 Fatcrap
 Fathobbit
@@ -1475,8 +1483,10 @@ Fearimlorn
 Federer
 Feiniel
 Feitanportor
+Feleor
 Felingir
 Felondion
+Felriel
 Felrin
 Fengurth
 Fennthicc
@@ -1524,6 +1534,7 @@ Fionwyth
 Firalthil
 Fireass
 Firemyst
+Firenphor
 Firestarter
 Fishildur
 Fistpower
@@ -1629,6 +1640,7 @@ Gaisras
 Gakomir
 Galabrandt
 Galanthril
+Galemthor
 Galfandor
 Gallatian
 Galleott
@@ -1774,6 +1786,7 @@ Gordarond
 Gorefinger
 Gorimli
 Gormormur
+Gorthradhroth
 Gorvecil
 Gosvallen
 Gotfrid
@@ -2111,6 +2124,7 @@ Indragond
 Ingemar
 Ingilath
 Ingorif
+Ingwaz
 Inhirglin
 Inittowinit
 Inlerah
@@ -2350,6 +2364,7 @@ Kinkarrath
 Kiputtyto
 Kirea
 Kirenegan
+Kiri
 Kirianor
 Kirieth
 Kirighwen
@@ -2627,6 +2642,7 @@ Mactholdui
 Macyeth
 Madagast
 Madragon
+Maedhross
 Maeldhor
 Maelforge
 Maellos
@@ -2646,6 +2662,7 @@ Maevollin
 Maevynn
 Maganwen
 Magdanel
+Maglorin
 Magolas
 Magoneg
 Maguren
@@ -2787,6 +2804,7 @@ Meagyth
 Meato
 Medigol
 Medumam
+Meduwine
 Meduzeld
 Meemsikins
 Megaera
@@ -3187,6 +3205,7 @@ Pantysniffer
 Papidonk
 Paragonada
 Paravane
+Parthus
 Parvata
 Pasionaria
 Patmustard:
@@ -3271,6 +3290,7 @@ Pollypockets
 Polycarp
 Polynya
 Pontin
+Popard
 popcorn
 Posthumously
 Potaato
@@ -3316,6 +3336,7 @@ Qora
 Qreytos
 Qualmrandir
 Quaziloco
+Quethury
 Quibe
 Quillexy
 Quinmin
@@ -3823,6 +3844,7 @@ Stresso
 Strfox
 Strideher
 Strikeshadow
+Stringer
 Strippahman
 Strothalion
 Stuart
@@ -4145,6 +4167,7 @@ Tresatine
 Tresriel
 Treswyn
 Tresylia
+Trielreth
 Trinsa
 Trisen
 Triswynd
