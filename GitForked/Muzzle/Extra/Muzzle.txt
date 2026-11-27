@@ -2142,6 +2142,7 @@ Iowedhir
 Ioz
 Irbeleth
 Ireirien
+Iriana
 Irisgoldfire
 Irohmako
 Iroraround
@@ -4041,6 +4042,7 @@ Thobrin
 Thodvalgeir
 Thollrandir
 Thondale
+Thondallon
 Thorbold
 Thorbosi
 Thorbryth
